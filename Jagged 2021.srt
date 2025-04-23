@@ -1,0 +1,8255 @@
+1
+00:00:02,000 --> 00:00:07,000
+Downloaded from
+YTS.MX
+
+2
+00:00:08,000 --> 00:00:13,000
+Official YIFY movies site:
+YTS.MX
+
+3
+00:00:13,263 --> 00:00:15,557
+<font size="41">{\an1}♪ (THEME MUSIC PLAYS) ♪</font>
+
+4
+00:00:27,444 --> 00:00:30,822
+<font size="41">{\an1}Alanis Morissette was one
+of the biggest musical stars</font>
+
+5
+00:00:30,905 --> 00:00:32,365
+<font size="41">{\an1}of her generation.</font>
+
+6
+00:00:32,448 --> 00:00:34,909
+<font size="41">{\an1}Making this movie gave me a look</font>
+
+7
+00:00:34,993 --> 00:00:37,328
+<font size="41">{\an1}at these personal moments
+behind the scenes,</font>
+
+8
+00:00:37,412 --> 00:00:40,123
+<font size="41">{\an1}getting to see what she was
+up against at the time.</font>
+
+9
+00:00:40,206 --> 00:00:42,459
+<font size="41">{\an1}And there was still so much
+that I didn't know about her.</font>
+
+10
+00:00:46,379 --> 00:00:49,549
+<font size="41">{\an1}♪ (MUSIC FADES) ♪</font>
+
+11
+00:00:53,720 --> 00:00:58,767
+<font size="41">{\an1}(CROWD CHANTS)</font>
+
+12
+00:01:31,090 --> 00:01:34,594
+<font size="41">{\an1}♪ Is all I want to say to you ♪</font>
+
+13
+00:01:42,852 --> 00:01:44,062
+<font size="41">{\an1}We ready?</font>
+
+14
+00:01:44,854 --> 00:01:46,189
+<font size="41">{\an1}Let's get together.</font>
+
+15
+00:01:47,482 --> 00:01:48,566
+<font size="41">{\an1}God, time's flying,</font>
+
+16
+00:01:48,650 --> 00:01:52,362
+<font size="41">{\an1}so let's just seize as many
+of the moments as we can</font>
+
+17
+00:01:52,445 --> 00:01:54,989
+<font size="41">{\an1}and enjoy the shows
+for what they are,</font>
+
+18
+00:01:55,073 --> 00:01:57,741
+<font size="41">{\an1}enjoy the cover team tonight,
+the vibe...</font>
+
+19
+00:01:57,826 --> 00:01:59,369
+<font size="41">{\an1}So have a good show, sweets.</font>
+
+20
+00:02:01,162 --> 00:02:02,288
+<font size="41">{\an1}Cheers.</font>
+
+21
+00:02:05,917 --> 00:02:07,836
+<font size="41">{\an1}Tank, don't fuck up.</font>
+
+22
+00:02:09,628 --> 00:02:11,714
+<font size="41">{\an1}Oh, you're asking
+for karma right there.</font>
+
+23
+00:02:12,882 --> 00:02:14,509
+<font size="41">{\an1}I'm gonna be watching.</font>
+
+24
+00:02:14,592 --> 00:02:16,553
+<font size="41">{\an1}Jay, don't blow that last note.</font>
+
+25
+00:02:18,054 --> 00:02:23,101
+<font size="41">{\an1}(CROWD CHEERS)</font>
+
+26
+00:02:49,377 --> 00:02:54,507
+<font size="41">{\an1}-♪ (ROCK MUSIC PLAYS) ♪
+-(CROWD CHEERS)</font>
+
+27
+00:03:39,719 --> 00:03:42,722
+<font size="41">{\an1}(CROWD CHEERS)</font>
+
+28
+00:03:45,975 --> 00:03:48,686
+<font size="41">{\an1}♪ ("ALL I REALLY WANT"
+BY ALANIS MORISSETTE PLAYS) ♪</font>
+
+29
+00:04:05,036 --> 00:04:07,455
+<font size="41">{\an1}♪ Do I stress you out? ♪</font>
+
+30
+00:04:07,538 --> 00:04:10,041
+<font size="41">{\an1}♪ My sweater is on backwards
+And inside out ♪</font>
+
+31
+00:04:10,124 --> 00:04:14,045
+<font size="41">{\an1}♪ And you say
+How appropriate ♪</font>
+
+32
+00:04:15,588 --> 00:04:17,966
+<font size="41">{\an1}♪ I don't want to dissect
+Everything today ♪</font>
+
+33
+00:04:18,048 --> 00:04:20,301
+<font size="41">{\an1}♪ I don't mean to pick you
+Apart you see ♪</font>
+
+34
+00:04:20,385 --> 00:04:24,472
+<font size="41">{\an1}♪ But I can't help it... ♪</font>
+
+35
+00:04:26,265 --> 00:04:28,142
+<font size="41">{\an1}GUY OSEARY: The album opens
+with the question,</font>
+
+36
+00:04:28,226 --> 00:04:29,519
+<font size="41">{\an1}"Do I stress you out?"</font>
+
+37
+00:04:30,520 --> 00:04:32,271
+<font size="41">{\an1}And then spends
+the rest of its time</font>
+
+38
+00:04:32,355 --> 00:04:34,023
+<font size="41">{\an1}trying to live up
+to that question.</font>
+
+39
+00:04:36,109 --> 00:04:38,319
+<font size="41">{\an1}♪ And it would knock me
+To the floor ♪</font>
+
+40
+00:04:38,403 --> 00:04:40,780
+<font size="41">{\an1}♪ If I wasn't there already ♪</font>
+
+41
+00:04:40,863 --> 00:04:44,033
+<font size="41">{\an1}♪ If only I could hunt
+The hunter ♪</font>
+
+42
+00:04:46,202 --> 00:04:49,247
+<font size="41">{\an1}TAYLOR: At the time, almost
+one out of every ten people</font>
+
+43
+00:04:49,330 --> 00:04:51,416
+<font size="41">{\an1}in America had the album.</font>
+
+44
+00:04:51,499 --> 00:04:54,585
+<font size="41">{\an1}Wherever you went, everyone
+knew Jagged Little Pill.</font>
+
+45
+00:04:55,628 --> 00:04:58,589
+<font size="41">{\an1}LORRAINE ALI: It's so rare
+for an artist</font>
+
+46
+00:04:58,673 --> 00:05:00,216
+<font size="41">{\an1}who's totally unknown</font>
+
+47
+00:05:00,299 --> 00:05:02,385
+<font size="41">{\an1}to come out with a debut album,</font>
+
+48
+00:05:02,468 --> 00:05:04,887
+<font size="41">{\an1}have one hit after another</font>
+
+49
+00:05:04,971 --> 00:05:07,640
+<font size="41">{\an1}to the point
+where they're not only, like,</font>
+
+50
+00:05:07,724 --> 00:05:08,933
+<font size="41">{\an1}a national phenomenon,</font>
+
+51
+00:05:09,017 --> 00:05:11,394
+<font size="41">{\an1}they're, like,
+a world-wide phenomenon.</font>
+
+52
+00:05:11,477 --> 00:05:16,024
+<font size="41">{\an1}♪ A way to get my hands untied ♪</font>
+
+53
+00:05:16,107 --> 00:05:17,358
+<font size="41">{\an1}♪ And all I really want... ♪</font>
+
+54
+00:05:17,442 --> 00:05:21,863
+<font size="41">{\an1}LISA WORDEN: Her brutal honesty
+is what empowered women.</font>
+
+55
+00:05:21,946 --> 00:05:25,783
+<font size="41">{\an1}It just gave you a chance
+to let out your own feelings.</font>
+
+56
+00:05:26,576 --> 00:05:28,995
+<font size="41">{\an1}It's like, "I've got a voice.</font>
+
+57
+00:05:29,078 --> 00:05:30,288
+<font size="41">{\an1}I'm 19 years old,</font>
+
+58
+00:05:30,371 --> 00:05:33,499
+<font size="41">{\an1}and I'm gonna fucking well
+tell you how I feel about that."</font>
+
+59
+00:05:38,671 --> 00:05:41,257
+<font size="41">{\an1}A lot of people would say,
+"Wow, you're so brave.</font>
+
+60
+00:05:41,340 --> 00:05:44,302
+<font size="41">{\an1}"You're so empowered.
+You're so strong," you know?</font>
+
+61
+00:05:44,385 --> 00:05:46,304
+<font size="41">{\an1}And I'm like, "Sometimes."</font>
+
+62
+00:05:47,972 --> 00:05:49,265
+<font size="41">{\an1}I can't write all these songs</font>
+
+63
+00:05:49,348 --> 00:05:51,225
+<font size="41">{\an1}without obviously having
+been disempowered.</font>
+
+64
+00:05:51,308 --> 00:05:53,728
+<font size="41">{\an1}I mean, half these songs
+are about attempting</font>
+
+65
+00:05:53,811 --> 00:05:55,063
+<font size="41">{\an1}to become empowered.</font>
+
+66
+00:06:27,887 --> 00:06:30,098
+<font size="41">{\an1}Alanis interview, take one.</font>
+
+67
+00:06:30,723 --> 00:06:31,849
+<font size="41">{\an1}A mark.</font>
+
+68
+00:06:35,061 --> 00:06:37,355
+<font size="41">{\an1}-ALISON KLAYMAN: So Canada, eh?
+-(LAUGHS)</font>
+
+69
+00:06:37,438 --> 00:06:38,981
+<font size="41">{\an1}ALISON: Tell us about where
+you grew up.</font>
+
+70
+00:06:39,065 --> 00:06:42,235
+<font size="41">{\an1}Ottawa is a sweet
+hometown of mine.</font>
+
+71
+00:06:42,318 --> 00:06:43,569
+<font size="41">{\an1}Capital of Canada.</font>
+
+72
+00:06:45,196 --> 00:06:46,906
+<font size="41">{\an1}Every woman from Ottawa
+that I know</font>
+
+73
+00:06:46,989 --> 00:06:50,784
+<font size="41">{\an1}is hyper-capable and competent,
+outspoken,</font>
+
+74
+00:06:50,868 --> 00:06:54,622
+<font size="41">{\an1}slightly androgynous, and fun,
+and knows how to party.</font>
+
+75
+00:07:01,003 --> 00:07:04,799
+<font size="41">{\an1}I lived in Ottawa for the first
+three years of my life...</font>
+
+76
+00:07:06,717 --> 00:07:09,929
+<font size="41">{\an1}and then we moved to Germany
+for a few years.</font>
+
+77
+00:07:10,012 --> 00:07:14,350
+<font size="41">{\an1}But I consider myself to have
+grown up in Ottawa, primarily,</font>
+
+78
+00:07:14,433 --> 00:07:17,645
+<font size="41">{\an1}and then influenced
+by the three-some-odd years</font>
+
+79
+00:07:17,728 --> 00:07:18,980
+<font size="41">{\an1}that we were in Europe.</font>
+
+80
+00:07:20,022 --> 00:07:21,858
+<font size="41">{\an1}And my parents
+were both teachers.</font>
+
+81
+00:07:23,734 --> 00:07:25,820
+<font size="41">{\an1}I have an older brother
+named Chad</font>
+
+82
+00:07:25,903 --> 00:07:27,738
+<font size="41">{\an1}and a twin brother named Wade.</font>
+
+83
+00:07:29,073 --> 00:07:31,325
+<font size="41">{\an1}My cousins used to say
+that they were coming over</font>
+
+84
+00:07:31,409 --> 00:07:32,659
+<font size="41">{\an1}to see the three boys.</font>
+
+85
+00:07:33,244 --> 00:07:35,163
+<font size="41">{\an1}"Come on, boys."</font>
+
+86
+00:07:35,246 --> 00:07:37,707
+<font size="41">{\an1}And I'd be like, "Okay,
+I guess that includes me."</font>
+
+87
+00:07:39,709 --> 00:07:41,586
+<font size="41">{\an1}I was eight and nine,</font>
+
+88
+00:07:41,669 --> 00:07:44,797
+<font size="41">{\an1}and I used to just sing songs
+into a cassette tape.</font>
+
+89
+00:07:44,881 --> 00:07:49,260
+<font size="41">{\an1}I wanted to be a dancer, actor,
+teacher, writer, nurse.</font>
+
+90
+00:07:49,343 --> 00:07:50,511
+<font size="41">{\an1}Archetypes.</font>
+
+91
+00:07:51,929 --> 00:07:55,892
+<font size="41">{\an1}Meet the parents. It's us!
+(CHUCKLES)</font>
+
+92
+00:07:55,975 --> 00:07:58,603
+<font size="41">{\an1}-Dysfunctional.
+-(CHUCKLES)</font>
+
+93
+00:07:59,812 --> 00:08:01,564
+<font size="41">{\an1}My mom is just breathtaking.</font>
+
+94
+00:08:02,857 --> 00:08:04,358
+<font size="41">{\an1}Anytime I feel beautiful,</font>
+
+95
+00:08:04,442 --> 00:08:06,611
+<font size="41">{\an1}I feel as though
+I look like her.</font>
+
+96
+00:08:06,694 --> 00:08:08,696
+<font size="41">{\an1}And when I don't
+feel so beautiful,</font>
+
+97
+00:08:08,779 --> 00:08:10,990
+<font size="41">{\an1}I don't look like her at all.</font>
+
+98
+00:08:11,073 --> 00:08:14,410
+<font size="41">{\an1}My dad always wanted to be
+in the entertainment industry.</font>
+
+99
+00:08:14,493 --> 00:08:17,371
+<font size="41">{\an1}He loves music.
+He loves film.</font>
+
+100
+00:08:17,455 --> 00:08:19,707
+<font size="41">{\an1}My dad definitely
+had his eye out all the time.</font>
+
+101
+00:08:19,790 --> 00:08:21,334
+<font size="41">{\an1}He was pretty excited
+to share anything</font>
+
+102
+00:08:21,417 --> 00:08:23,211
+<font size="41">{\an1}that would open those
+doors for me.</font>
+
+103
+00:08:28,174 --> 00:08:30,092
+<font size="41">{\an1}Touch my brother, would ya?</font>
+
+104
+00:08:30,176 --> 00:08:32,803
+<font size="41">{\an1}-Hey, Stephanie?
+-Yes, Alanis?</font>
+
+105
+00:08:32,886 --> 00:08:36,140
+<font size="41">{\an1}ALANIS: I auditioned for
+You Can't Do That on Television.</font>
+
+106
+00:08:36,224 --> 00:08:38,601
+<font size="41">{\an1}It was a big cattle call.</font>
+
+107
+00:08:38,683 --> 00:08:42,020
+<font size="41">{\an1}It's a kids' show
+that also winks to the parents.</font>
+
+108
+00:08:42,104 --> 00:08:44,148
+<font size="41">{\an1}Alanis, you must
+have a good idea.</font>
+
+109
+00:08:44,232 --> 00:08:45,483
+<font size="41">{\an1}I don't know.</font>
+
+110
+00:08:48,986 --> 00:08:50,947
+<font size="41">{\an1}If you say "I don't know,"
+you get slimed.</font>
+
+111
+00:08:51,030 --> 00:08:53,824
+<font size="41">{\an1}Alasdair, you did that
+on purpose.</font>
+
+112
+00:08:53,908 --> 00:08:55,326
+<font size="41">{\an1}Now I will hate you.</font>
+
+113
+00:08:55,409 --> 00:08:56,911
+<font size="41">{\an1}It was too much
+like a full-time job,</font>
+
+114
+00:08:56,994 --> 00:09:00,039
+<font size="41">{\an1}I mean, we were on a TV show.
+So it was like, okay,</font>
+
+115
+00:09:00,122 --> 00:09:02,375
+<font size="41">{\an1}you're ten or you're 11
+or you're 12,</font>
+
+116
+00:09:03,125 --> 00:09:04,627
+<font size="41">{\an1}and here are your hours.</font>
+
+117
+00:09:07,546 --> 00:09:09,966
+<font size="41">{\an1}I loved singing in church.</font>
+
+118
+00:09:10,049 --> 00:09:11,425
+<font size="41">{\an1}Basically a room every Sunday</font>
+
+119
+00:09:11,509 --> 00:09:13,261
+<font size="41">{\an1}where we're all singing
+at the top of our lungs,</font>
+
+120
+00:09:13,344 --> 00:09:17,473
+<font size="41">{\an1}these songs of rapture
+and gratitude and exaltation.</font>
+
+121
+00:09:17,557 --> 00:09:18,808
+<font size="41">{\an1}Yes!</font>
+
+122
+00:09:18,891 --> 00:09:20,017
+<font size="41">{\an1}I was singing,</font>
+
+123
+00:09:20,101 --> 00:09:22,144
+<font size="41">{\an1}and a woman tapped me
+on the shoulder really quietly,</font>
+
+124
+00:09:22,228 --> 00:09:24,814
+<font size="41">{\an1}and she said,
+"You have a beautiful voice."</font>
+
+125
+00:09:26,274 --> 00:09:30,111
+<font size="41">{\an1}And I remember thinking,
+"I do? Thanks!"</font>
+
+126
+00:09:30,194 --> 00:09:32,280
+<font size="41">{\an1}And I just remember sitting
+for the rest of Mass</font>
+
+127
+00:09:32,363 --> 00:09:33,781
+<font size="41">{\an1}just being, like... (GASPS)</font>
+
+128
+00:09:33,864 --> 00:09:36,450
+<font size="41">{\an1}RADIO HOST: My guest tonight
+is Alanis Morissette.</font>
+
+129
+00:09:36,534 --> 00:09:38,119
+<font size="41">{\an1}And I welcome you in, Alanis,</font>
+
+130
+00:09:38,202 --> 00:09:39,912
+<font size="41">{\an1}because I think
+you are the youngest guest</font>
+
+131
+00:09:39,996 --> 00:09:41,872
+<font size="41">{\an1}who I've ever had
+on this program.</font>
+
+132
+00:09:41,956 --> 00:09:43,290
+<font size="41">{\an1}(ALANIS CHUCKLES)</font>
+
+133
+00:09:43,374 --> 00:09:45,835
+<font size="41">{\an1}RADIO HOST: Twelve years old,
+and you actually sing and write</font>
+
+134
+00:09:45,918 --> 00:09:47,712
+<font size="41">{\an1}-your own music, right?
+-ALANIS: Yes, I do.</font>
+
+135
+00:09:47,795 --> 00:09:50,840
+<font size="41">{\an1}When I was ten, I just thought,
+"Hey, why don't I write a song?"</font>
+
+136
+00:09:50,923 --> 00:09:52,008
+<font size="41">{\an1}And I did.</font>
+
+137
+00:09:52,091 --> 00:09:56,095
+<font size="41">{\an1}♪ (UPBEAT MUSIC PLAYING) ♪</font>
+
+138
+00:09:58,222 --> 00:10:01,309
+<font size="41">{\an1}♪ What did you think
+I'd be doing now? ♪</font>
+
+139
+00:10:01,392 --> 00:10:04,478
+<font size="41">{\an1}♪ While you left me
+I was thinking aloud ♪</font>
+
+140
+00:10:04,562 --> 00:10:07,648
+<font size="41">{\an1}♪ Will there be no end
+To my sorrow? ♪</font>
+
+141
+00:10:07,732 --> 00:10:10,985
+<font size="41">{\an1}♪ Will I make it
+Through tomorrow? ♪</font>
+
+142
+00:10:11,068 --> 00:10:13,529
+<font size="41">{\an1}SHOW HOST: Ladies and gentlemen,
+the 1987 CJOH</font>
+
+143
+00:10:13,612 --> 00:10:16,157
+<font size="41">{\an1}Youth Talent Search '87
+grand prize winner</font>
+
+144
+00:10:16,240 --> 00:10:18,451
+<font size="41">{\an1}is Alanis Morissette!</font>
+
+145
+00:10:20,161 --> 00:10:23,706
+<font size="41">{\an1}This was when all the vision
+for what was possible</font>
+
+146
+00:10:23,789 --> 00:10:26,667
+<font size="41">{\an1}for the rest of my life, like,
+started getting flashes</font>
+
+147
+00:10:26,751 --> 00:10:29,253
+<font size="41">{\an1}of photos of me
+traveling and touring,</font>
+
+148
+00:10:29,337 --> 00:10:31,505
+<font size="41">{\an1}and it all started
+to feel possible.</font>
+
+149
+00:10:31,589 --> 00:10:34,258
+<font size="41">{\an1}♪ Fate, fate, fate
+Stay with me ♪</font>
+
+150
+00:10:34,342 --> 00:10:36,677
+<font size="41">{\an1}I'd get on airplanes
+when I was ten,</font>
+
+151
+00:10:36,761 --> 00:10:38,554
+<font size="41">{\an1}and my mom would tap
+the gentleman's shoulder</font>
+
+152
+00:10:38,637 --> 00:10:40,348
+<font size="41">{\an1}and say,
+"Could you just kind of</font>
+
+153
+00:10:40,431 --> 00:10:42,767
+<font size="41">{\an1}keep an eye
+on my daughter on this flight?"</font>
+
+154
+00:10:42,850 --> 00:10:46,228
+<font size="41">{\an1}So I'd fly to Toronto
+and do photoshoots</font>
+
+155
+00:10:46,312 --> 00:10:48,522
+<font size="41">{\an1}and music sessions
+and interviews.</font>
+
+156
+00:10:50,358 --> 00:10:52,360
+<font size="41">{\an1}It was just a different era.</font>
+
+157
+00:10:52,443 --> 00:10:55,780
+<font size="41">{\an1}We're really enjoying kind of
+the ride, if you wish, along.</font>
+
+158
+00:10:55,863 --> 00:10:58,532
+<font size="41">{\an1}And our basic purpose
+is to try to make sure</font>
+
+159
+00:10:58,616 --> 00:11:02,203
+<font size="41">{\an1}that the right people
+are surrounding Alanis.</font>
+
+160
+00:11:02,286 --> 00:11:05,247
+<font size="41">{\an1}ALANIS: My dad met Leslie Howe
+at a restaurant.</font>
+
+161
+00:11:05,331 --> 00:11:09,168
+<font size="41">{\an1}He was pretty much the only
+person in Canada who made music,</font>
+
+162
+00:11:09,251 --> 00:11:12,046
+<font size="41">{\an1}whom we knew of,
+who lived in Ottawa.</font>
+
+163
+00:11:12,129 --> 00:11:14,590
+<font size="41">{\an1}So the thought
+on my dad's part was,</font>
+
+164
+00:11:14,673 --> 00:11:17,176
+<font size="41">{\an1}"Well, this would be the perfect
+person to speak with."</font>
+
+165
+00:11:17,259 --> 00:11:19,011
+<font size="41">{\an1}LESLIE HOWE: They came over
+one day with some tapes</font>
+
+166
+00:11:19,095 --> 00:11:21,931
+<font size="41">{\an1}and approached me
+on seeing if I would</font>
+
+167
+00:11:22,014 --> 00:11:23,224
+<font size="41">{\an1}be interested in producing her.</font>
+
+168
+00:11:23,307 --> 00:11:26,143
+<font size="41">{\an1}And they dropped off a tape,
+and I said I'd listen to it.</font>
+
+169
+00:11:26,227 --> 00:11:29,230
+<font size="41">{\an1}I thought, you know, it's pretty
+damn good for somebody her age.</font>
+
+170
+00:11:29,313 --> 00:11:31,941
+<font size="41">{\an1}I'm working with Leslie Howe
+right now from One to One.</font>
+
+171
+00:11:32,024 --> 00:11:33,401
+<font size="41">{\an1}He's producing my album.</font>
+
+172
+00:11:33,484 --> 00:11:35,569
+<font size="41">{\an1}INTERVIEWER: And all of that
+having just turned 15.</font>
+
+173
+00:11:35,653 --> 00:11:37,196
+<font size="41">{\an1}-Yeah.
+-(INTERVIEWER LAUGHS)</font>
+
+174
+00:11:37,279 --> 00:11:39,990
+<font size="41">{\an1}ALANIS: Working with Leslie,
+just singing and singing
+and singing</font>
+
+175
+00:11:40,074 --> 00:11:43,494
+<font size="41">{\an1}and just cut my teeth
+on vocal aerobics, basically.</font>
+
+176
+00:11:43,577 --> 00:11:46,455
+<font size="41">{\an1}His style of production
+was much more... (IMITATES WHIP)</font>
+
+177
+00:11:47,790 --> 00:11:49,417
+<font size="41">{\an1}Forty-two tracks of harmonies.</font>
+
+178
+00:11:49,500 --> 00:11:52,420
+<font size="41">{\an1}Sing it again, sing it again,
+sing it again, sing it again.</font>
+
+179
+00:11:52,503 --> 00:11:55,756
+<font size="41">{\an1}So there was some element later
+where I compensatorily was like,</font>
+
+180
+00:11:55,840 --> 00:12:00,261
+<font size="41">{\an1}"I'm not doing fucking 50 takes.
+I'm doing one... or two."</font>
+
+181
+00:12:01,387 --> 00:12:02,888
+<font size="41">{\an1}That's when I started
+writing songs</font>
+
+182
+00:12:02,972 --> 00:12:05,599
+<font size="41">{\an1}for what became
+my self-titled record</font>
+
+183
+00:12:05,683 --> 00:12:09,437
+<font size="41">{\an1}with the song "Too Hot" on it,
+that I released when I was 16.</font>
+
+184
+00:12:09,520 --> 00:12:10,896
+<font size="41">{\an1}♪ ("TOO HOT"
+BY ALANIS MORISSETTE PLAYS) ♪</font>
+
+185
+00:12:10,980 --> 00:12:13,441
+<font size="41">{\an1}♪ Always too hot
+Never too cold ♪</font>
+
+186
+00:12:13,524 --> 00:12:16,110
+<font size="41">{\an1}♪ You make your best shot
+Too hot to hold... ♪</font>
+
+187
+00:12:16,193 --> 00:12:18,237
+<font size="41">{\an1}ALANIS:
+We did a video for "Too Hot".</font>
+
+188
+00:12:18,320 --> 00:12:21,574
+<font size="41">{\an1}It was one of the most
+fun parts of life.</font>
+
+189
+00:12:21,657 --> 00:12:25,035
+<font size="41">{\an1}♪ Hey, boy
+You wanted all or nothin'... ♪</font>
+
+190
+00:12:25,119 --> 00:12:27,872
+<font size="41">{\an1}There was an element
+of lack of hyper-protection,</font>
+
+191
+00:12:27,955 --> 00:12:29,206
+<font size="41">{\an1}no question.</font>
+
+192
+00:12:29,290 --> 00:12:32,334
+<font size="41">{\an1}I mean, I was shooting
+music videos in Paris.</font>
+
+193
+00:12:35,087 --> 00:12:36,505
+<font size="41">{\an1}I put a bathing suit
+on at one point</font>
+
+194
+00:12:36,589 --> 00:12:38,424
+<font size="41">{\an1}and jumped into the fountain.</font>
+
+195
+00:12:38,507 --> 00:12:41,010
+<font size="41">{\an1}Just as the police were coming
+to boot us out, we... (WHOOSHES)</font>
+
+196
+00:12:41,093 --> 00:12:42,094
+<font size="41">{\an1}We bolted.</font>
+
+197
+00:12:42,178 --> 00:12:44,138
+<font size="41">{\an1}LESLIE: And I guess
+she's just got this...</font>
+
+198
+00:12:44,221 --> 00:12:45,347
+<font size="41">{\an1}charisma that people like.</font>
+
+199
+00:12:45,431 --> 00:12:47,850
+<font size="41">{\an1}And they want to hear her,
+and they want to see her.</font>
+
+200
+00:12:47,933 --> 00:12:49,894
+<font size="41">{\an1}Alanis' summer has been spent</font>
+
+201
+00:12:49,977 --> 00:12:52,271
+<font size="41">{\an1}traveling with me
+across the country.</font>
+
+202
+00:12:52,354 --> 00:12:54,774
+<font size="41">{\an1}I'm going to Florida
+for Christmas.</font>
+
+203
+00:12:55,232 --> 00:12:57,026
+<font size="41">{\an1}(BOTH CHUCKLE)</font>
+
+204
+00:12:57,109 --> 00:13:00,738
+<font size="41">{\an1}On one level, I just thought,
+"This is dream-come-true stuff.</font>
+
+205
+00:13:00,821 --> 00:13:02,656
+<font size="41">{\an1}"This is, like,
+catalyst beginning</font>
+
+206
+00:13:02,740 --> 00:13:04,783
+<font size="41">{\an1}of a life of my dreams,"
+you know?</font>
+
+207
+00:13:04,867 --> 00:13:06,452
+<font size="41">{\an1}And then on another hand,
+it was like,</font>
+
+208
+00:13:06,535 --> 00:13:09,914
+<font size="41">{\an1}"Where is my protection?
+Where is everybody?"</font>
+
+209
+00:13:09,997 --> 00:13:13,626
+<font size="41">{\an1}I lived to dance, so we'd go to
+these huge, huge clubs in Paris</font>
+
+210
+00:13:13,709 --> 00:13:15,127
+<font size="41">{\an1}and dance.</font>
+
+211
+00:13:15,211 --> 00:13:19,089
+<font size="41">{\an1}You know, hit on a bunch
+of times by people way too old.</font>
+
+212
+00:13:19,173 --> 00:13:21,675
+<font size="41">{\an1}Guys asking me to give them
+blowjobs in the bathroom.</font>
+
+213
+00:13:21,759 --> 00:13:22,885
+<font size="41">{\an1}And I'm just like...</font>
+
+214
+00:13:28,474 --> 00:13:30,976
+<font size="41">{\an1}Everyone was just so excited</font>
+
+215
+00:13:31,060 --> 00:13:32,895
+<font size="41">{\an1}about what was going on
+with music</font>
+
+216
+00:13:32,978 --> 00:13:36,649
+<font size="41">{\an1}and with the taking-off
+of my career, I think,</font>
+
+217
+00:13:36,732 --> 00:13:38,734
+<font size="41">{\an1}that it became really enticing.</font>
+
+218
+00:13:38,817 --> 00:13:40,736
+<font size="41">{\an1}ANNOUNCER: A gold record!</font>
+
+219
+00:13:40,819 --> 00:13:44,740
+<font size="41">{\an1}Representing sales
+of over 50,000 copies</font>
+
+220
+00:13:44,823 --> 00:13:47,743
+<font size="41">{\an1}of her MCA debut album, Alanis.</font>
+
+221
+00:13:52,665 --> 00:13:54,667
+<font size="41">{\an1}I remember when I was, like,
+15 or 16,</font>
+
+222
+00:13:54,750 --> 00:13:58,003
+<font size="41">{\an1}I started gaining weight because
+I was going through puberty.</font>
+
+223
+00:13:58,087 --> 00:14:02,132
+<font size="41">{\an1}And I was called in to
+the studio to "redo my vocals",</font>
+
+224
+00:14:02,216 --> 00:14:03,759
+<font size="41">{\an1}and when I got there...</font>
+
+225
+00:14:04,802 --> 00:14:06,178
+<font size="41">{\an1}the producer said...</font>
+
+226
+00:14:08,222 --> 00:14:09,515
+<font size="41">{\an1}"We're not doing vocals.</font>
+
+227
+00:14:09,598 --> 00:14:11,392
+<font size="41">{\an1}We're here to talk
+about your weight."</font>
+
+228
+00:14:19,483 --> 00:14:21,819
+<font size="41">{\an1}Whenever I would go
+to a video shoot,</font>
+
+229
+00:14:21,902 --> 00:14:24,738
+<font size="41">{\an1}I remember sneaking
+Velveeta slice-- cheese slices</font>
+
+230
+00:14:24,822 --> 00:14:27,575
+<font size="41">{\an1}from the fridge
+at 3:00 in the morning.</font>
+
+231
+00:14:27,658 --> 00:14:30,578
+<font size="41">{\an1}And then the next morning
+would come, and...</font>
+
+232
+00:14:30,661 --> 00:14:32,705
+<font size="41">{\an1}he would walk in and count them</font>
+
+233
+00:14:32,788 --> 00:14:37,334
+<font size="41">{\an1}and say, "Did you eat two slices
+of cheese during the night?"</font>
+
+234
+00:14:37,418 --> 00:14:40,254
+<font size="41">{\an1}We'd go out to eat, he'd have
+a whole-size large pizza,</font>
+
+235
+00:14:40,337 --> 00:14:42,798
+<font size="41">{\an1}and I was allowed to buy
+a black coffee,</font>
+
+236
+00:14:42,881 --> 00:14:44,258
+<font size="41">{\an1}but I couldn't put milk in it.</font>
+
+237
+00:14:46,510 --> 00:14:48,262
+<font size="41">{\an1}So, yeah, that kick-started</font>
+
+238
+00:14:48,345 --> 00:14:50,764
+<font size="41">{\an1}a massive eating disorder
+journey for me.</font>
+
+239
+00:14:54,226 --> 00:14:57,730
+<font size="41">{\an1}I've been in active recovery
+for this eating disorder</font>
+
+240
+00:14:57,813 --> 00:14:58,981
+<font size="41">{\an1}my whole life.</font>
+
+241
+00:15:04,320 --> 00:15:07,823
+<font size="41">{\an1}My two best friends were
+Steph Gibson and Cynthia Smith.</font>
+
+242
+00:15:07,906 --> 00:15:10,868
+<font size="41">{\an1}Cynthia's a good singer too.
+She's underestimating herself.</font>
+
+243
+00:15:10,951 --> 00:15:12,578
+<font size="41">{\an1}-(ALL GIGGLE)
+-Nah.</font>
+
+244
+00:15:12,661 --> 00:15:14,955
+<font size="41">{\an1}-STEPH GIBSON: Sure. (LAUGHS)
+-Steph's coming on the road
+with me for sure.</font>
+
+245
+00:15:15,039 --> 00:15:16,248
+<font size="41">{\an1}Yeah, right.</font>
+
+246
+00:15:17,958 --> 00:15:19,877
+<font size="41">{\an1}STEPH: I don't know
+that she opened up</font>
+
+247
+00:15:19,960 --> 00:15:25,507
+<font size="41">{\an1}even to us 100 percent with what
+she was going through in life.</font>
+
+248
+00:15:25,591 --> 00:15:29,178
+<font size="41">{\an1}She probably struggled a lot,
+but, you know,</font>
+
+249
+00:15:29,261 --> 00:15:30,554
+<font size="41">{\an1}not a lot of people knew.</font>
+
+250
+00:15:31,889 --> 00:15:34,725
+<font size="41">{\an1}And Steph was the one
+that basically</font>
+
+251
+00:15:34,808 --> 00:15:38,062
+<font size="41">{\an1}caught me sticking my finger
+down my throat.</font>
+
+252
+00:15:38,145 --> 00:15:40,147
+<font size="41">{\an1}I just wrapped
+my arms around her</font>
+
+253
+00:15:40,230 --> 00:15:42,691
+<font size="41">{\an1}and gave her a big hug,
+and, you know,</font>
+
+254
+00:15:42,775 --> 00:15:46,278
+<font size="41">{\an1}I think she knew at that point
+that I was there for her,</font>
+
+255
+00:15:46,362 --> 00:15:49,823
+<font size="41">{\an1}and I would help
+in any way I could.</font>
+
+256
+00:15:49,907 --> 00:15:52,660
+<font size="41">{\an1}It was the first time that
+anyone said a word about it.</font>
+
+257
+00:15:54,411 --> 00:15:57,122
+<font size="41">{\an1}I'll be grateful to her
+forever for that,</font>
+
+258
+00:15:57,206 --> 00:15:58,582
+<font size="41">{\an1}because there was no shame.</font>
+
+259
+00:15:58,665 --> 00:16:00,626
+<font size="41">{\an1}It wasn't like, "What are
+you doing?"</font>
+
+260
+00:16:00,709 --> 00:16:03,545
+<font size="41">{\an1}It was like, "Should we
+talk about this?"</font>
+
+261
+00:16:03,629 --> 00:16:04,755
+<font size="41">{\an1}So sweet.</font>
+
+262
+00:16:06,298 --> 00:16:09,093
+<font size="41">{\an1}I could see why somebody would
+pick you out from the crowd.</font>
+
+263
+00:16:09,176 --> 00:16:11,887
+<font size="41">{\an1}-The camera does like you.
+-Well, thanks.</font>
+
+264
+00:16:11,970 --> 00:16:15,641
+<font size="41">{\an1}♪ Why is true love
+Just so hard to find? ♪</font>
+
+265
+00:16:15,724 --> 00:16:17,726
+<font size="41">{\an1}ALANIS:
+Something about me being 15,</font>
+
+266
+00:16:17,810 --> 00:16:20,104
+<font size="41">{\an1}that's when I really
+started to be hit on.</font>
+
+267
+00:16:21,730 --> 00:16:23,315
+<font size="41">{\an1}Twelve, they were
+a little scared.</font>
+
+268
+00:16:23,399 --> 00:16:25,150
+<font size="41">{\an1}Thirteen, they were
+a little scared,</font>
+
+269
+00:16:25,234 --> 00:16:26,860
+<font size="41">{\an1}but they'd still, you know...</font>
+
+270
+00:16:26,944 --> 00:16:29,613
+<font size="41">{\an1}Fourteen, less scary,
+but still scary.</font>
+
+271
+00:16:29,697 --> 00:16:31,365
+<font size="41">{\an1}Fifteen, all bets were off.</font>
+
+272
+00:16:31,448 --> 00:16:34,576
+<font size="41">{\an1}Somehow that seemed
+like a safer number for people.</font>
+
+273
+00:16:36,954 --> 00:16:39,164
+<font size="41">{\an1}I was a young girl in a studio</font>
+
+274
+00:16:39,248 --> 00:16:41,792
+<font size="41">{\an1}from 3:30 or 4:00 p.m. every day</font>
+
+275
+00:16:41,875 --> 00:16:43,627
+<font size="41">{\an1}till 3:00 in the morning.</font>
+
+276
+00:16:43,711 --> 00:16:46,755
+<font size="41">{\an1}You know,
+you don't leave her alone.</font>
+
+277
+00:16:47,881 --> 00:16:49,383
+<font size="41">{\an1}I just thought it was...</font>
+
+278
+00:16:50,592 --> 00:16:54,304
+<font size="41">{\an1}my fault, because almost
+every single person</font>
+
+279
+00:16:54,388 --> 00:16:57,141
+<font size="41">{\an1}that I would work with,</font>
+
+280
+00:16:57,224 --> 00:16:58,851
+<font size="41">{\an1}there would be some
+turning point</font>
+
+281
+00:16:58,934 --> 00:17:01,103
+<font size="41">{\an1}where the camera would
+go Dutch angle.</font>
+
+282
+00:17:01,186 --> 00:17:03,105
+<font size="41">{\an1}And I would just wait for it.
+I was like,</font>
+
+283
+00:17:03,188 --> 00:17:05,941
+<font size="41">{\an1}"Okay, this won't happen in
+the first week for this one,</font>
+
+284
+00:17:06,023 --> 00:17:08,694
+<font size="41">{\an1}but it'll happen," you know?
+And then sure enough, it would,</font>
+
+285
+00:17:08,777 --> 00:17:11,238
+<font size="41">{\an1}and it would either
+end the relationship,</font>
+
+286
+00:17:11,320 --> 00:17:13,240
+<font size="41">{\an1}or then there would be
+just some big secret</font>
+
+287
+00:17:13,323 --> 00:17:15,242
+<font size="41">{\an1}that we'd keep forever.</font>
+
+288
+00:17:15,325 --> 00:17:17,869
+<font size="41">{\an1}♪ ("REAL WORLD"
+BY ALANIS MORISSETTE PLAYS) ♪</font>
+
+289
+00:17:17,953 --> 00:17:19,788
+<font size="41">{\an1}♪ It's not a game ♪</font>
+
+290
+00:17:19,872 --> 00:17:23,333
+<font size="41">{\an1}ALANIS: We went to shoot a video
+for a song called "Real World".</font>
+
+291
+00:17:24,877 --> 00:17:26,377
+<font size="41">{\an1}The snake video. (CHUCKLES)</font>
+
+292
+00:17:27,628 --> 00:17:31,467
+<font size="41">{\an1}MCA Records did not know
+what category I would fit in</font>
+
+293
+00:17:31,550 --> 00:17:35,929
+<font size="41">{\an1}as I was evolving
+from performer, pop princess.</font>
+
+294
+00:17:36,013 --> 00:17:37,890
+<font size="41">{\an1}You know,
+they could handle that.</font>
+
+295
+00:17:39,391 --> 00:17:42,144
+<font size="41">{\an1}I was really starting
+to write my own material,</font>
+
+296
+00:17:42,227 --> 00:17:44,188
+<font size="41">{\an1}and it was just going
+in way too different</font>
+
+297
+00:17:44,271 --> 00:17:45,606
+<font size="41">{\an1}of a direction for them.</font>
+
+298
+00:17:45,689 --> 00:17:47,733
+<font size="41">{\an1}And a couple
+of the head people there,</font>
+
+299
+00:17:47,816 --> 00:17:49,026
+<font size="41">{\an1}I remember they pulled me aside,</font>
+
+300
+00:17:49,109 --> 00:17:52,279
+<font size="41">{\an1}and they said, "What are you
+doing with these new songs?</font>
+
+301
+00:17:52,362 --> 00:17:55,073
+<font size="41">{\an1}You should just keep doing
+what you've been doing,</font>
+
+302
+00:17:55,157 --> 00:17:56,283
+<font size="41">{\an1}what people know you as</font>
+
+303
+00:17:56,366 --> 00:17:58,869
+<font size="41">{\an1}and what Uncle John Alexander
+wants you to do."</font>
+
+304
+00:18:03,707 --> 00:18:06,710
+<font size="41">{\an1}I was in my apartment
+in Toronto...</font>
+
+305
+00:18:06,794 --> 00:18:10,464
+<font size="41">{\an1}and I got a phone call.
+"MCA's dropping you."</font>
+
+306
+00:18:12,466 --> 00:18:14,009
+<font size="41">{\an1}It was really terrifying
+and painful</font>
+
+307
+00:18:14,092 --> 00:18:16,053
+<font size="41">{\an1}because I was standing up
+to all these people</font>
+
+308
+00:18:16,136 --> 00:18:19,598
+<font size="41">{\an1}who had a very clear way
+of doing it the way they wanted.</font>
+
+309
+00:18:20,599 --> 00:18:22,267
+<font size="41">{\an1}You know,
+I had that people-please-y,</font>
+
+310
+00:18:22,351 --> 00:18:23,477
+<font size="41">{\an1}smiling-all-the-time thing,</font>
+
+311
+00:18:23,560 --> 00:18:25,562
+<font size="41">{\an1}but underneath it was
+this churning</font>
+
+312
+00:18:25,646 --> 00:18:28,273
+<font size="41">{\an1}of how out-of-integrity
+so much felt.</font>
+
+313
+00:18:34,321 --> 00:18:37,115
+<font size="41">{\an1}This is a song called
+"Right Through You".</font>
+
+314
+00:18:37,199 --> 00:18:42,454
+<font size="41">{\an1}♪ ("RIGHT THROUGH YOU"
+BY ALANIS MORISSETTE PLAYS) ♪</font>
+
+315
+00:18:44,873 --> 00:18:46,458
+<font size="41">{\an1}♪ Wait a minute, man ♪</font>
+
+316
+00:18:47,459 --> 00:18:50,504
+<font size="41">{\an1}♪ You mispronounced my name ♪</font>
+
+317
+00:18:50,587 --> 00:18:53,715
+<font size="41">{\an1}♪ You didn't wait for
+All the information ♪</font>
+
+318
+00:18:53,799 --> 00:18:56,635
+<font size="41">{\an1}♪ Before you turned me away ♪</font>
+
+319
+00:18:56,718 --> 00:18:58,762
+<font size="41">{\an1}♪ Wait a minute, sir ♪</font>
+
+320
+00:18:59,805 --> 00:19:02,599
+<font size="41">{\an1}♪ You kind of hurt my feelings ♪</font>
+
+321
+00:19:02,683 --> 00:19:05,602
+<font size="41">{\an1}♪ You see me as a sweet
+Back-loaded puppet ♪</font>
+
+322
+00:19:05,686 --> 00:19:08,480
+<font size="41">{\an1}♪ And you've got
+Meal-ticket taste ♪</font>
+
+323
+00:19:08,564 --> 00:19:12,943
+<font size="41">{\an1}♪ I see right through you ♪</font>
+
+324
+00:19:14,611 --> 00:19:20,200
+<font size="41">{\an1}♪ I know right through you ♪</font>
+
+325
+00:19:20,284 --> 00:19:24,621
+<font size="41">{\an1}♪ I feel right through you ♪</font>
+
+326
+00:19:26,748 --> 00:19:31,336
+<font size="41">{\an1}♪ I walk right through you ♪</font>
+
+327
+00:19:31,420 --> 00:19:33,505
+<font size="41">{\an1}♪ (VOCALIZING) ♪</font>
+
+328
+00:19:44,850 --> 00:19:47,769
+<font size="41">{\an1}♪ You took me for a joke, yeah ♪</font>
+
+329
+00:19:47,853 --> 00:19:49,897
+<font size="41">{\an1}♪ You took me for a child ♪</font>
+
+330
+00:19:50,981 --> 00:19:53,942
+<font size="41">{\an1}♪ You took a long hard look
+At my ass ♪</font>
+
+331
+00:19:54,026 --> 00:19:56,737
+<font size="41">{\an1}♪ And then played golf
+For a while ♪</font>
+
+332
+00:19:56,820 --> 00:19:58,572
+<font size="41">{\an1}♪ Your shake is like a fish ♪</font>
+
+333
+00:19:59,740 --> 00:20:02,409
+<font size="41">{\an1}♪ You pat me on the head ♪</font>
+
+334
+00:20:02,492 --> 00:20:05,746
+<font size="41">{\an1}♪ You took me out
+To wine, dine, 69 me ♪</font>
+
+335
+00:20:05,829 --> 00:20:08,749
+<font size="41">{\an1}♪ But didn't hear
+A damn word I said ♪</font>
+
+336
+00:20:08,832 --> 00:20:12,461
+<font size="41">{\an1}♪ I see right through you ♪</font>
+
+337
+00:20:12,544 --> 00:20:14,463
+<font size="41">{\an1}ALANIS: The early part
+of my songwriting,</font>
+
+338
+00:20:14,546 --> 00:20:17,341
+<font size="41">{\an1}I was working with people
+who said I couldn't write.</font>
+
+339
+00:20:19,343 --> 00:20:23,597
+<font size="41">{\an1}One of the liberating factors
+to being dropped by MCA Records</font>
+
+340
+00:20:23,680 --> 00:20:25,557
+<font size="41">{\an1}was that I promised myself</font>
+
+341
+00:20:25,641 --> 00:20:28,018
+<font size="41">{\an1}that I would not stop
+until I was in a room</font>
+
+342
+00:20:28,101 --> 00:20:29,978
+<font size="41">{\an1}with someone who saw me
+as a writer,</font>
+
+343
+00:20:30,062 --> 00:20:32,606
+<font size="41">{\an1}saw me as a human being
+expressing herself.</font>
+
+344
+00:20:32,689 --> 00:20:33,815
+<font size="41">{\an1}♪ You ♪</font>
+
+345
+00:20:33,899 --> 00:20:37,027
+<font size="41">{\an1}-♪ (SONG CONCLUDES) ♪
+-(APPLAUSE)</font>
+
+346
+00:20:46,578 --> 00:20:48,163
+<font size="41">{\an1}ALANIS:
+Ooh, that smells like travel.</font>
+
+347
+00:20:48,246 --> 00:20:51,375
+<font size="41">{\an1}-EJ DEVONKAITIS:
+I knew it wasn't just luggage.
+-(ALANIS LAUGHS)</font>
+
+348
+00:20:51,458 --> 00:20:53,919
+<font size="41">{\an1}-There are some boxes mixed in.
+-(GASPS) How exciting.</font>
+
+349
+00:20:56,964 --> 00:20:59,675
+<font size="41">{\an1}This is my record
+from when I was, um...</font>
+
+350
+00:20:59,758 --> 00:21:01,176
+<font size="41">{\an1}ten and 11.</font>
+
+351
+00:21:02,427 --> 00:21:05,430
+<font size="41">{\an1}That's how I wrote it.
+On that thing.</font>
+
+352
+00:21:05,514 --> 00:21:07,140
+<font size="41">{\an1}It's a Fostex 4-track,</font>
+
+353
+00:21:07,224 --> 00:21:09,059
+<font size="41">{\an1}and you literally record it
+on a cassette tape</font>
+
+354
+00:21:09,142 --> 00:21:12,187
+<font size="41">{\an1}that would go backwards
+and forwards,
+like a reel-to-reel.</font>
+
+355
+00:21:12,896 --> 00:21:14,106
+<font size="41">{\an1}(LAUGHS)</font>
+
+356
+00:21:14,189 --> 00:21:16,441
+<font size="41">{\an1}It's the only thing I could...
+(CHUCKLES)</font>
+
+357
+00:21:16,525 --> 00:21:19,152
+<font size="41">{\an1}It was simple enough
+for me to engineer.</font>
+
+358
+00:21:27,244 --> 00:21:28,662
+<font size="41">{\an1}It's such a fucking good movie.</font>
+
+359
+00:21:28,745 --> 00:21:31,164
+<font size="41">{\an1}When I read the script,
+I was like, "Are you joking?</font>
+
+360
+00:21:31,248 --> 00:21:32,582
+<font size="41">{\an1}This is the greatest script."</font>
+
+361
+00:21:32,666 --> 00:21:36,211
+<font size="41">{\an1}Post-Catholic stress disorder
+was very validated.</font>
+
+362
+00:21:41,925 --> 00:21:44,678
+<font size="41">{\an1}When I first moved
+to Los Angeles.</font>
+
+363
+00:21:44,761 --> 00:21:47,347
+<font size="41">{\an1}Oh, this is just before
+the mayhem.</font>
+
+364
+00:21:50,809 --> 00:21:51,935
+<font size="41">{\an1}Aw.</font>
+
+365
+00:21:54,688 --> 00:21:58,025
+<font size="41">{\an1}Letters to and from
+all my ex-boyfriends.</font>
+
+366
+00:22:00,902 --> 00:22:03,780
+<font size="41">{\an1}(CHUCKLES) "Dear Alanis..."</font>
+
+367
+00:22:03,864 --> 00:22:07,826
+<font size="41">{\an1}Ooh! I need to sage myself
+tonight. (LAUGHS)</font>
+
+368
+00:22:08,368 --> 00:22:09,786
+<font size="41">{\an1}Okay, let's see.</font>
+
+369
+00:22:09,870 --> 00:22:12,789
+<font size="41">{\an1}Oh yeah, this is all writing
+Jagged Little Pill.</font>
+
+370
+00:22:15,083 --> 00:22:17,669
+<font size="41">{\an1}I mean, there's gonna be
+some gems in here.</font>
+
+371
+00:22:18,837 --> 00:22:21,298
+<font size="41">{\an1}This is the first version
+of "Ironic" right here.</font>
+
+372
+00:22:23,508 --> 00:22:25,635
+<font size="41">{\an1}And the first version
+of "Perfect".</font>
+
+373
+00:22:25,719 --> 00:22:28,972
+<font size="41">{\an1}I mean, it's basically what's on
+the record, is the truth.</font>
+
+374
+00:22:29,056 --> 00:22:32,350
+<font size="41">{\an1}May 27, 1994.</font>
+
+375
+00:22:37,481 --> 00:22:39,066
+<font size="41">{\an1}I was dying to go to Los Angeles</font>
+
+376
+00:22:39,149 --> 00:22:42,110
+<font size="41">{\an1}because I felt as though I could
+start with a clean slate.</font>
+
+377
+00:22:42,194 --> 00:22:45,238
+<font size="41">{\an1}People wouldn't have
+any preconceived notions of,</font>
+
+378
+00:22:45,322 --> 00:22:47,282
+<font size="41">{\an1}"Oh, you can't be anything other
+than who you were</font>
+
+379
+00:22:47,365 --> 00:22:49,367
+<font size="41">{\an1}when you were 15.
+What are you, crazy?"</font>
+
+380
+00:22:56,708 --> 00:22:59,586
+<font size="41">{\an1}I think the cultural difference
+between Canada and America</font>
+
+381
+00:22:59,669 --> 00:23:02,380
+<font size="41">{\an1}was severely underestimated.</font>
+
+382
+00:23:02,464 --> 00:23:06,009
+<font size="41">{\an1}The old saying, "LA can make you
+or break you" is very true.</font>
+
+383
+00:23:06,093 --> 00:23:08,553
+<font size="41">{\an1}I think that I've learned a lot
+from that city.</font>
+
+384
+00:23:08,637 --> 00:23:09,763
+<font size="41">{\an1}I've learned how
+to be assertive,</font>
+
+385
+00:23:09,846 --> 00:23:11,765
+<font size="41">{\an1}I've learned to stand up
+for what I believe in.</font>
+
+386
+00:23:11,848 --> 00:23:13,475
+<font size="41">{\an1}I've learned to walk away
+from environments</font>
+
+387
+00:23:13,558 --> 00:23:15,852
+<font size="41">{\an1}that are just not happening.</font>
+
+388
+00:23:15,936 --> 00:23:17,354
+<font size="41">{\an1}I used to spend time
+with anyone,</font>
+
+389
+00:23:17,437 --> 00:23:19,564
+<font size="41">{\an1}regardless of how
+I felt with them.</font>
+
+390
+00:23:19,648 --> 00:23:21,525
+<font size="41">{\an1}And... I don't know.</font>
+
+391
+00:23:21,608 --> 00:23:23,985
+<font size="41">{\an1}It's helped me to be able
+to spend time with people</font>
+
+392
+00:23:24,069 --> 00:23:26,738
+<font size="41">{\an1}that it's a mutually gratifying
+kind of relationship.</font>
+
+393
+00:23:30,909 --> 00:23:32,744
+<font size="41">{\an1}I co-wrote with...</font>
+
+394
+00:23:32,828 --> 00:23:38,250
+<font size="41">{\an1}maybe four people in LA.
+And then I met Glen.</font>
+
+395
+00:23:38,333 --> 00:23:41,878
+<font size="41">{\an1}When I met Alanis,
+and she was 19 years old...</font>
+
+396
+00:23:41,962 --> 00:23:44,214
+<font size="41">{\an1}not knowing exactly
+what she wanted to do,</font>
+
+397
+00:23:44,297 --> 00:23:47,050
+<font size="41">{\an1}but she knew damn well
+what she did not want to do.</font>
+
+398
+00:23:47,134 --> 00:23:49,970
+<font size="41">{\an1}And she didn't want
+to be stuck into a machine...</font>
+
+399
+00:23:51,263 --> 00:23:53,181
+<font size="41">{\an1}Big hair and dance moves.</font>
+
+400
+00:23:53,265 --> 00:23:55,767
+<font size="41">{\an1}She was looking for somebody
+to be an artist with.</font>
+
+401
+00:23:55,851 --> 00:23:58,353
+<font size="41">{\an1}We talked very briefly, and then
+went straight to the studio</font>
+
+402
+00:23:58,436 --> 00:24:00,772
+<font size="41">{\an1}and wrote "The Bottom Line".</font>
+
+403
+00:24:00,856 --> 00:24:05,318
+<font size="41">{\an1}(LAUGHING)
+It's verse and chorus.</font>
+
+404
+00:24:05,402 --> 00:24:08,780
+<font size="41">{\an1}♪ ("THE BOTTOM LINE"
+BY ALANIS MORISSETTE PLAYS) ♪</font>
+
+405
+00:24:11,116 --> 00:24:17,622
+<font size="41">{\an1}♪ If somebody asked you
+To surrender ♪</font>
+
+406
+00:24:17,706 --> 00:24:24,004
+<font size="41">{\an1}♪ And that was the only way
+To win ♪</font>
+
+407
+00:24:24,087 --> 00:24:30,635
+<font size="41">{\an1}♪ If somebody offered you
+The freedom to ♪</font>
+
+408
+00:24:31,469 --> 00:24:36,933
+<font size="41">{\an1}♪ Open your mind again ♪</font>
+
+409
+00:24:37,017 --> 00:24:43,190
+<font size="41">{\an1}♪ Would you take that flight?
+Would you walk right in? ♪</font>
+
+410
+00:24:43,273 --> 00:24:49,613
+<font size="41">{\an1}♪ So meet me down
+At the bottom line ♪</font>
+
+411
+00:24:49,696 --> 00:24:55,202
+<font size="41">{\an1}♪ And open my heart
+With your hands ♪</font>
+
+412
+00:24:55,285 --> 00:24:58,371
+<font size="41">{\an1}♪ And we'll hear the sound ♪</font>
+
+413
+00:24:58,455 --> 00:25:02,250
+<font size="41">{\an1}-♪ Of pretenses falling ♪
+-♪ Of pretenses falling ♪</font>
+
+414
+00:25:02,334 --> 00:25:05,086
+<font size="41">{\an1}Oh, what a line.
+Oh shit.</font>
+
+415
+00:25:05,170 --> 00:25:07,047
+<font size="41">{\an1}I want to work with you.
+(LAUGHS)</font>
+
+416
+00:25:09,007 --> 00:25:11,885
+<font size="41">{\an1}♪ Down at the bottom... ♪</font>
+
+417
+00:25:11,968 --> 00:25:13,845
+<font size="41">{\an1}GLEN: The way she was able
+to turn phrases just, like,</font>
+
+418
+00:25:13,929 --> 00:25:16,890
+<font size="41">{\an1}right out of her psyche.
+She's just a gifted writer.</font>
+
+419
+00:25:18,141 --> 00:25:21,394
+<font size="41">{\an1}ALANIS: His begged question was,
+"Who are you?</font>
+
+420
+00:25:21,478 --> 00:25:22,687
+<font size="41">{\an1}What do you want
+to write about?</font>
+
+421
+00:25:22,771 --> 00:25:27,025
+<font size="41">{\an1}What's going on for you?"
+And what a lovely prompt.</font>
+
+422
+00:25:27,108 --> 00:25:29,236
+<font size="41">{\an1}No one's ever
+asked me that ever.</font>
+
+423
+00:25:29,319 --> 00:25:32,405
+<font size="41">{\an1}GLEN: I didn't have a budget,
+so I just recorded it myself.</font>
+
+424
+00:25:32,489 --> 00:25:34,157
+<font size="41">{\an1}We did the demo
+right on the spot.</font>
+
+425
+00:25:34,241 --> 00:25:36,826
+<font size="41">{\an1}She went in and sang it.
+That was our first day.</font>
+
+426
+00:25:42,499 --> 00:25:46,211
+<font size="41">{\an1}Between February of 1994
+and February of 1995,</font>
+
+427
+00:25:46,294 --> 00:25:48,964
+<font size="41">{\an1}twenty separate occasions,
+that's it.</font>
+
+428
+00:25:49,047 --> 00:25:51,466
+<font size="41">{\an1}Twenty sessions, twenty songs.</font>
+
+429
+00:25:51,549 --> 00:25:54,886
+<font size="41">{\an1}-ALANIS: (LAUGHS) Ready?
+-GLEN: "You Learn".</font>
+
+430
+00:25:54,970 --> 00:25:56,888
+<font size="41">{\an1}Yeah, let's do it.</font>
+
+431
+00:26:00,600 --> 00:26:04,229
+<font size="41">{\an1}In every way, it was like
+a secret, handmade project</font>
+
+432
+00:26:04,312 --> 00:26:07,065
+<font size="41">{\an1}that we just kind of
+amused ourselves with.</font>
+
+433
+00:26:09,192 --> 00:26:10,443
+<font size="41">{\an1}I'm just sitting down,</font>
+
+434
+00:26:10,527 --> 00:26:13,321
+<font size="41">{\an1}dialing up a beat,
+playing something on guitar.</font>
+
+435
+00:26:13,405 --> 00:26:14,781
+<font size="41">{\an1}She starts singing.</font>
+
+436
+00:26:14,864 --> 00:26:16,783
+<font size="41">{\an1}Eight hours later,
+I would have the music right,</font>
+
+437
+00:26:16,866 --> 00:26:18,618
+<font size="41">{\an1}she would have the lyrics right.</font>
+
+438
+00:26:18,702 --> 00:26:20,120
+<font size="41">{\an1}She'd be ready to sing it.</font>
+
+439
+00:26:21,705 --> 00:26:23,498
+<font size="41">{\an1}That was the track.</font>
+
+440
+00:26:26,209 --> 00:26:27,836
+<font size="41">{\an1}ALANIS: Sometimes the song
+would start</font>
+
+441
+00:26:27,919 --> 00:26:29,045
+<font size="41">{\an1}before we were even ready.</font>
+
+442
+00:26:29,129 --> 00:26:32,007
+<font size="41">{\an1}Like, he'd hit a chord,
+and I'd be like... (STUTTERS)</font>
+
+443
+00:26:32,090 --> 00:26:33,466
+<font size="41">{\an1}You know?</font>
+
+444
+00:26:33,550 --> 00:26:35,176
+<font size="41">{\an1}And then I'd start recording.</font>
+
+445
+00:26:35,260 --> 00:26:38,305
+<font size="41">{\an1}♪ It feels so good ♪</font>
+
+446
+00:26:38,388 --> 00:26:40,974
+<font size="41">{\an1}Once a song is written,</font>
+
+447
+00:26:41,057 --> 00:26:44,352
+<font size="41">{\an1}I think I maybe changed lyrics
+after the fact</font>
+
+448
+00:26:44,436 --> 00:26:45,854
+<font size="41">{\an1}maybe twice in my whole career.</font>
+
+449
+00:26:45,937 --> 00:26:48,565
+<font size="41">{\an1}So they're pretty locked in
+once it's written.</font>
+
+450
+00:26:48,648 --> 00:26:51,192
+<font size="41">{\an1}♪ You love, you learn ♪</font>
+
+451
+00:26:51,276 --> 00:26:52,360
+<font size="41">{\an1}When I would drive home,</font>
+
+452
+00:26:52,444 --> 00:26:53,987
+<font size="41">{\an1}I would listen to the song
+we worked on that day,</font>
+
+453
+00:26:54,070 --> 00:26:55,363
+<font size="41">{\an1}and I wouldn't remember
+having written it.</font>
+
+454
+00:26:55,447 --> 00:26:56,740
+<font size="41">{\an1}So it was almost like
+it would be</font>
+
+455
+00:26:56,823 --> 00:26:59,534
+<font size="41">{\an1}wiped out of my memory
+the second it was finished.</font>
+
+456
+00:26:59,617 --> 00:27:00,827
+<font size="41">{\an1}And I loved that process,</font>
+
+457
+00:27:00,910 --> 00:27:03,204
+<font size="41">{\an1}because I could actually
+listen to these songs</font>
+
+458
+00:27:03,288 --> 00:27:06,875
+<font size="41">{\an1}with objectivity at the time.
+Like, almost directly after.</font>
+
+459
+00:27:11,671 --> 00:27:13,465
+<font size="41">{\an1}Without even knowing
+I was doing it,</font>
+
+460
+00:27:13,548 --> 00:27:16,885
+<font size="41">{\an1}I was carving out my voice.</font>
+
+461
+00:27:16,968 --> 00:27:19,888
+<font size="41">{\an1}I love going inside,
+so that's not dangerous to me.</font>
+
+462
+00:27:19,971 --> 00:27:23,183
+<font size="41">{\an1}I'm not terrified of going in.
+In fact, the scarier it is,</font>
+
+463
+00:27:23,266 --> 00:27:25,268
+<font size="41">{\an1}the more I know that
+I've hit pay dirt.</font>
+
+464
+00:27:29,773 --> 00:27:31,358
+<font size="41">{\an1}GLEN: We couldn't get signed.</font>
+
+465
+00:27:31,441 --> 00:27:34,778
+<font size="41">{\an1}Every major record company,
+and all the secondary ones,</font>
+
+466
+00:27:34,861 --> 00:27:37,113
+<font size="41">{\an1}everybody rejected us.</font>
+
+467
+00:27:37,197 --> 00:27:38,698
+<font size="41">{\an1}In November, we wrote,
+"You Oughta Know",</font>
+
+468
+00:27:38,782 --> 00:27:40,950
+<font size="41">{\an1}"Head Over Feet",
+"Hand in My Pocket".</font>
+
+469
+00:27:41,034 --> 00:27:42,702
+<font size="41">{\an1}We were on this,
+like, major roll.</font>
+
+470
+00:27:42,786 --> 00:27:45,830
+<font size="41">{\an1}Everybody was kind of like,
+"Yeah, it's, like...
+(MIMICKING)</font>
+
+471
+00:27:45,914 --> 00:27:47,957
+<font size="41">{\an1}I don't know. What's her look?"</font>
+
+472
+00:27:50,627 --> 00:27:53,088
+<font size="41">{\an1}ALANIS:
+After multiple rejections,</font>
+
+473
+00:27:53,171 --> 00:27:55,799
+<font size="41">{\an1}I just said, "Hey, could we...</font>
+
+474
+00:27:55,882 --> 00:27:58,551
+<font size="41">{\an1}Can you just leave us alone?
+And we're just gonna write."</font>
+
+475
+00:28:00,470 --> 00:28:02,722
+<font size="41">{\an1}GLEN: When she went back
+to Canada for Christmas,</font>
+
+476
+00:28:02,806 --> 00:28:05,600
+<font size="41">{\an1}I didn't think I would actually
+ever see her again.</font>
+
+477
+00:28:05,683 --> 00:28:09,270
+<font size="41">{\an1}Somehow, they arranged
+one more trip back for her.</font>
+
+478
+00:28:09,354 --> 00:28:13,483
+<font size="41">{\an1}♪ ("ALL I REALLY WANT"
+BY ALANIS MORISSETTE PLAYS) ♪</font>
+
+479
+00:28:17,862 --> 00:28:21,908
+<font size="41">{\an1}GLEN: When she came back
+from Canada, she was pale...</font>
+
+480
+00:28:21,991 --> 00:28:24,994
+<font size="41">{\an1}rail-thin, and she walked
+in my studio,</font>
+
+481
+00:28:25,078 --> 00:28:27,080
+<font size="41">{\an1}and she had her sweater on
+backwards...</font>
+
+482
+00:28:27,163 --> 00:28:28,498
+<font size="41">{\an1}and inside out.</font>
+
+483
+00:28:29,290 --> 00:28:31,793
+<font size="41">{\an1}♪ Do I stress you out? ♪</font>
+
+484
+00:28:31,876 --> 00:28:34,879
+<font size="41">{\an1}♪ My sweater is on backwards
+And inside out ♪</font>
+
+485
+00:28:34,963 --> 00:28:38,550
+<font size="41">{\an1}♪ And you say
+How appropriate ♪</font>
+
+486
+00:28:40,093 --> 00:28:43,471
+<font size="41">{\an1}Oh shit, she's still on it.
+Even though she's suffering,</font>
+
+487
+00:28:43,555 --> 00:28:45,723
+<font size="41">{\an1}like, she's still got
+this thing, you know?</font>
+
+488
+00:28:45,807 --> 00:28:47,308
+<font size="41">{\an1}♪ And all I really want ♪</font>
+
+489
+00:28:48,017 --> 00:28:49,686
+<font size="41">{\an1}♪ Is some patience ♪</font>
+
+490
+00:28:51,062 --> 00:28:53,898
+<font size="41">{\an1}♪ A way to calm
+The angry voice ♪</font>
+
+491
+00:28:55,692 --> 00:28:57,360
+<font size="41">{\an1}♪ And all I really want ♪</font>
+
+492
+00:28:58,319 --> 00:28:59,946
+<font size="41">{\an1}♪ Is deliverance ♪</font>
+
+493
+00:29:00,947 --> 00:29:04,617
+<font size="41">{\an1}♪ (VOCALIZING) ♪</font>
+
+494
+00:29:05,994 --> 00:29:07,620
+<font size="41">{\an1}I remember when I first
+played the record</font>
+
+495
+00:29:07,704 --> 00:29:08,663
+<font size="41">{\an1}and it was done to some people,</font>
+
+496
+00:29:08,746 --> 00:29:11,291
+<font size="41">{\an1}they were like,
+"This record is too--</font>
+
+497
+00:29:11,374 --> 00:29:13,793
+<font size="41">{\an1}It's too in-your-face.
+It's too urgent.</font>
+
+498
+00:29:13,877 --> 00:29:15,837
+<font size="41">{\an1}It's too emotional," you know?</font>
+
+499
+00:29:15,920 --> 00:29:19,132
+<font size="41">{\an1}And I'm just like,
+"Well, I am that right now.</font>
+
+500
+00:29:19,215 --> 00:29:20,800
+<font size="41">{\an1}And when I'm 34, I won't be,</font>
+
+501
+00:29:20,884 --> 00:29:22,677
+<font size="41">{\an1}and you won't get
+a record like that."</font>
+
+502
+00:29:32,770 --> 00:29:34,522
+<font size="41">{\an1}GUY OSEARY:
+Hi, can I order some sushi?</font>
+
+503
+00:29:35,648 --> 00:29:39,277
+<font size="41">{\an1}I started at Maverick
+at the age of 18.</font>
+
+504
+00:29:39,360 --> 00:29:43,156
+<font size="41">{\an1}I didn't really know much
+about the music business.</font>
+
+505
+00:29:43,239 --> 00:29:45,783
+<font size="41">{\an1}Okay, hold on.
+I'll call right back.</font>
+
+506
+00:29:47,660 --> 00:29:48,912
+<font size="41">{\an1}Okay, stop filming.</font>
+
+507
+00:29:48,995 --> 00:29:51,206
+<font size="41">{\an1}-I got some serious news.
+-(ALANIS LAUGHING)</font>
+
+508
+00:29:51,289 --> 00:29:53,416
+<font size="41">{\an1}-What?
+-I can't tell you on film.</font>
+
+509
+00:29:53,500 --> 00:29:54,667
+<font size="41">{\an1}I didn't even know
+what I was doing.</font>
+
+510
+00:29:54,751 --> 00:29:57,795
+<font size="41">{\an1}I had a briefcase
+that said "Wise Guy Records".</font>
+
+511
+00:29:57,879 --> 00:29:59,214
+<font size="41">{\an1}I didn't even know
+what that meant.</font>
+
+512
+00:29:59,297 --> 00:30:00,882
+<font size="41">{\an1}I just thought, "Wise guy..."</font>
+
+513
+00:30:00,965 --> 00:30:04,552
+<font size="41">{\an1}My job was to find talent
+and then develop it.</font>
+
+514
+00:30:04,636 --> 00:30:08,389
+<font size="41">{\an1}And then help that talent, um,
+reach an audience.</font>
+
+515
+00:30:09,307 --> 00:30:11,684
+<font size="41">{\an1}We get a call from the lawyers,</font>
+
+516
+00:30:11,768 --> 00:30:15,605
+<font size="41">{\an1}and they said, "We have a young
+executive at Maverick,</font>
+
+517
+00:30:15,688 --> 00:30:19,317
+<font size="41">{\an1}Madonna's label. Just go play
+this shit for them."</font>
+
+518
+00:30:19,400 --> 00:30:21,444
+<font size="41">{\an1}And I said, "We can't come."</font>
+
+519
+00:30:21,528 --> 00:30:26,115
+<font size="41">{\an1}"We're writing a song right now,
+and I am not presentable."</font>
+
+520
+00:30:26,199 --> 00:30:28,952
+<font size="41">{\an1}And he said,
+"No, you got to go."</font>
+
+521
+00:30:30,411 --> 00:30:31,913
+<font size="41">{\an1}I think she was in workouts.</font>
+
+522
+00:30:31,996 --> 00:30:34,207
+<font size="41">{\an1}I just picked up the acoustic
+guitar, threw it in the car,</font>
+
+523
+00:30:34,290 --> 00:30:36,459
+<font size="41">{\an1}and we drove over
+to Maverick Records.</font>
+
+524
+00:30:36,543 --> 00:30:42,715
+<font size="41">{\an1}I go up to grab Alanis,
+and she was there with Glen.</font>
+
+525
+00:30:42,799 --> 00:30:45,927
+<font size="41">{\an1}I'm like, "Oh, okay, that's--"
+I thought they were a band.</font>
+
+526
+00:30:46,010 --> 00:30:48,096
+<font size="41">{\an1}It looked very, like,
+could be hippie-ish.</font>
+
+527
+00:30:48,179 --> 00:30:49,847
+<font size="41">{\an1}I'm not even sure
+what's going on here.</font>
+
+528
+00:30:49,931 --> 00:30:52,183
+<font size="41">{\an1}Like-- But, okay.</font>
+
+529
+00:30:52,267 --> 00:30:54,936
+<font size="41">{\an1}And then we just walked into
+Guy's office right at the end.</font>
+
+530
+00:30:55,019 --> 00:30:58,064
+<font size="41">{\an1}He's like a guy that
+I went to high school with.</font>
+
+531
+00:30:58,147 --> 00:31:00,400
+<font size="41">{\an1}But, you know, he went to
+Beverly High School,</font>
+
+532
+00:31:00,483 --> 00:31:02,068
+<font size="41">{\an1}so he's got a little
+more experience.</font>
+
+533
+00:31:02,151 --> 00:31:03,611
+<font size="41">{\an1}He's hanging out with Madonna.</font>
+
+534
+00:31:04,988 --> 00:31:08,032
+<font size="41">{\an1}They put in a cassette tape.</font>
+
+535
+00:31:08,116 --> 00:31:10,660
+<font size="41">{\an1}♪ ("PERFECT"
+BY ALANIS MORISSETTE PLAYS) ♪</font>
+
+536
+00:31:10,743 --> 00:31:13,204
+<font size="41">{\an1}First song I heard
+was "Perfect".</font>
+
+537
+00:31:13,955 --> 00:31:16,291
+<font size="41">{\an1}♪ Sometimes ♪</font>
+
+538
+00:31:17,834 --> 00:31:21,629
+<font size="41">{\an1}♪ Is never quite enough ♪</font>
+
+539
+00:31:24,424 --> 00:31:26,426
+<font size="41">{\an1}♪ If you're flawless ♪</font>
+
+540
+00:31:29,554 --> 00:31:34,100
+<font size="41">{\an1}♪ Then you'll win my love ♪</font>
+
+541
+00:31:36,561 --> 00:31:40,273
+<font size="41">{\an1}♪ Don't forget to win
+First place ♪</font>
+
+542
+00:31:41,858 --> 00:31:43,526
+<font size="41">{\an1}♪ Don't forget to keep... ♪</font>
+
+543
+00:31:43,610 --> 00:31:46,404
+<font size="41">{\an1}GUY: Within 30 seconds,
+everything changed.</font>
+
+544
+00:31:47,155 --> 00:31:49,991
+<font size="41">{\an1}I was already floored.</font>
+
+545
+00:31:50,074 --> 00:31:51,784
+<font size="41">{\an1}I had not heard
+anything like it.</font>
+
+546
+00:31:55,163 --> 00:31:57,165
+<font size="41">{\an1}♪ Try a little harder... ♪</font>
+
+547
+00:31:57,248 --> 00:32:05,006
+<font size="41">{\an1}GUY: The simplicity of the way
+she was able to narrate...</font>
+
+548
+00:32:05,089 --> 00:32:09,677
+<font size="41">{\an1}yet how complex it was
+at the same time.</font>
+
+549
+00:32:13,389 --> 00:32:16,017
+<font size="41">{\an1}♪ How long ♪</font>
+
+550
+00:32:17,435 --> 00:32:20,647
+<font size="41">{\an1}♪ Before you screw it up? ♪</font>
+
+551
+00:32:22,315 --> 00:32:23,900
+<font size="41">{\an1}Wow, we started with...</font>
+
+552
+00:32:23,983 --> 00:32:25,985
+<font size="41">{\an1}♪ Sometimes ♪</font>
+
+553
+00:32:26,069 --> 00:32:29,322
+<font size="41">{\an1}And then we get into...
+♪ Before you screw it up ♪</font>
+
+554
+00:32:29,405 --> 00:32:30,907
+<font size="41">{\an1}And you're like,
+"Wait, what?"</font>
+
+555
+00:32:31,741 --> 00:32:34,035
+<font size="41">{\an1}She goes a little edgy there.</font>
+
+556
+00:32:34,118 --> 00:32:37,497
+<font size="41">{\an1}♪ (VOCALIZING) ♪</font>
+
+557
+00:32:37,580 --> 00:32:39,082
+<font size="41">{\an1}And then comes back down again.</font>
+
+558
+00:32:40,083 --> 00:32:43,252
+<font size="41">{\an1}♪ That wasn't fast enough ♪</font>
+
+559
+00:32:43,336 --> 00:32:46,589
+<font size="41">{\an1}ALANIS: The song "Perfect"
+is the plight
+of the overachiever.</font>
+
+560
+00:32:46,673 --> 00:32:51,052
+<font size="41">{\an1}Having to be perfect according
+to some odd, random standard</font>
+
+561
+00:32:51,135 --> 00:32:53,012
+<font size="41">{\an1}and that you're innately bad.</font>
+
+562
+00:32:54,514 --> 00:32:55,973
+<font size="41">{\an1}I had to comment on it.</font>
+
+563
+00:32:58,351 --> 00:32:59,852
+<font size="41">{\an1}GUY: I said, "I'm in."</font>
+
+564
+00:32:59,936 --> 00:33:02,397
+<font size="41">{\an1}I didn't have to hear any more.
+"I love it. I'm all-in."</font>
+
+565
+00:33:03,147 --> 00:33:06,234
+<font size="41">{\an1}♪ If you're perfect ♪</font>
+
+566
+00:33:08,778 --> 00:33:11,239
+<font size="41">{\an1}I knew it was Madonna's
+boutique label,</font>
+
+567
+00:33:11,322 --> 00:33:12,365
+<font size="41">{\an1}so I was just, you know,</font>
+
+568
+00:33:12,448 --> 00:33:13,700
+<font size="41">{\an1}"How's this place
+gonna be decorated?"</font>
+
+569
+00:33:13,783 --> 00:33:15,702
+<font size="41">{\an1}And, you know, it was super hip.</font>
+
+570
+00:33:15,785 --> 00:33:17,453
+<font size="41">{\an1}Although I do remember her
+coming in at one point</font>
+
+571
+00:33:17,537 --> 00:33:19,038
+<font size="41">{\an1}and turning the light on.</font>
+
+572
+00:33:19,122 --> 00:33:20,707
+<font size="41">{\an1}And the whole thing fell,
+and she's like,</font>
+
+573
+00:33:20,790 --> 00:33:23,418
+<font size="41">{\an1}"Fucking cheap place." (LAUGHS)</font>
+
+574
+00:33:23,501 --> 00:33:25,294
+<font size="41">{\an1}And I had been held up
+at gunpoint</font>
+
+575
+00:33:25,378 --> 00:33:27,463
+<font size="41">{\an1}just before this meeting
+with her.</font>
+
+576
+00:33:29,132 --> 00:33:31,259
+<font size="41">{\an1}And when I walked in, you know,
+they were kind of whispery,</font>
+
+577
+00:33:31,342 --> 00:33:33,094
+<font size="41">{\an1}like, "Hey, she just got held up
+at gunpoint.</font>
+
+578
+00:33:33,177 --> 00:33:34,887
+<font size="41">{\an1}She's a little PTSD, you know?"</font>
+
+579
+00:33:34,971 --> 00:33:36,723
+<font size="41">{\an1}And she was like,
+"I want to-- (SCOFFS)</font>
+
+580
+00:33:36,806 --> 00:33:38,433
+<font size="41">{\an1}"I want to get held up
+at gunpoint.</font>
+
+581
+00:33:38,516 --> 00:33:40,143
+<font size="41">{\an1}That's just such a cool story.</font>
+
+582
+00:33:40,226 --> 00:33:42,228
+<font size="41">{\an1}I want to be held up
+at gunpoint."</font>
+
+583
+00:33:45,356 --> 00:33:47,066
+<font size="41">{\an1}GUY: And I remember sending
+a fax going,</font>
+
+584
+00:33:47,150 --> 00:33:49,277
+<font size="41">{\an1}"Please, let's get this done."</font>
+
+585
+00:33:49,360 --> 00:33:51,946
+<font size="41">{\an1}This is--
+I was so excited about it.</font>
+
+586
+00:33:53,823 --> 00:33:56,576
+<font size="41">{\an1}I couldn't wait to have
+people hear it.</font>
+
+587
+00:33:59,328 --> 00:34:00,830
+<font size="41">{\an1}LISA: In the '90s,</font>
+
+588
+00:34:00,913 --> 00:34:04,375
+<font size="41">{\an1}the way most listeners
+found their new music</font>
+
+589
+00:34:04,459 --> 00:34:07,587
+<font size="41">{\an1}and their new favorite bands
+was the radio.</font>
+
+590
+00:34:10,630 --> 00:34:12,467
+<font size="41">{\an1}For an artist to get their music
+on KROQ,</font>
+
+591
+00:34:12,550 --> 00:34:15,386
+<font size="41">{\an1}it didn't just mean they could
+get heard in Los Angeles.</font>
+
+592
+00:34:15,469 --> 00:34:18,598
+<font size="41">{\an1}They knew it could mean,
+"Oh, wow. If I get on there,</font>
+
+593
+00:34:18,681 --> 00:34:20,850
+<font size="41">{\an1}I might be able to get on
+all these other radio stations</font>
+
+594
+00:34:20,933 --> 00:34:23,518
+<font size="41">{\an1}in the United States, possibly
+stations outside of the US."</font>
+
+595
+00:34:28,024 --> 00:34:30,443
+<font size="41">{\an1}Guy Oseary called and said,</font>
+
+596
+00:34:30,525 --> 00:34:32,904
+<font size="41">{\an1}"We have got to play you
+this new artist.</font>
+
+597
+00:34:32,987 --> 00:34:34,739
+<font size="41">{\an1}She's incredible. We want
+to play the music."</font>
+
+598
+00:34:34,822 --> 00:34:37,283
+<font size="41">{\an1}And we're like, "Okay.
+Yeah, sure, come on in."</font>
+
+599
+00:34:41,454 --> 00:34:43,331
+<font size="41">{\an1}We always listen to music
+at a ten.</font>
+
+600
+00:34:43,414 --> 00:34:44,498
+<font size="41">{\an1}It was on full blast.</font>
+
+601
+00:34:44,581 --> 00:34:47,126
+<font size="41">{\an1}And they played us
+"You Oughta Know".</font>
+
+602
+00:34:47,210 --> 00:34:49,504
+<font size="41">{\an1}♪ ("YOU OUGHTA KNOW"
+BY ALANIS MORISSETTE PLAYS) ♪</font>
+
+603
+00:34:49,587 --> 00:34:52,005
+<font size="41">{\an1}♪ I want you to know ♪</font>
+
+604
+00:34:52,089 --> 00:34:55,927
+<font size="41">{\an1}♪ That I'm happy for you ♪</font>
+
+605
+00:34:56,803 --> 00:35:00,181
+<font size="41">{\an1}♪ I wish nothing but ♪</font>
+
+606
+00:35:01,015 --> 00:35:03,893
+<font size="41">{\an1}♪ The best for you both ♪</font>
+
+607
+00:35:05,103 --> 00:35:07,355
+<font size="41">{\an1}♪ An older version of me ♪</font>
+
+608
+00:35:07,438 --> 00:35:09,315
+<font size="41">{\an1}♪ Is she perverted like me? ♪</font>
+
+609
+00:35:09,398 --> 00:35:14,153
+<font size="41">{\an1}♪ Would she go down on you
+In a theater? ♪</font>
+
+610
+00:35:14,237 --> 00:35:16,405
+<font size="41">{\an1}♪ Does she speak eloquently? ♪</font>
+
+611
+00:35:16,489 --> 00:35:18,407
+<font size="41">{\an1}♪ And would she have
+Your baby? ♪</font>
+
+612
+00:35:18,491 --> 00:35:23,621
+<font size="41">{\an1}♪ I'm sure she'd make a really
+Excellent mother ♪</font>
+
+613
+00:35:23,704 --> 00:35:25,706
+<font size="41">{\an1}♪ 'Cause the love that you gave
+that we made ♪</font>
+
+614
+00:35:25,790 --> 00:35:27,333
+<font size="41">{\an1}♪ Wasn't able
+To make it enough ♪</font>
+
+615
+00:35:27,416 --> 00:35:29,836
+<font size="41">{\an1}♪ For you to be open wide ♪</font>
+
+616
+00:35:30,837 --> 00:35:32,797
+<font size="41">{\an1}♪ No ♪</font>
+
+617
+00:35:32,880 --> 00:35:35,424
+<font size="41">{\an1}♪ And every time you speak
+Her name ♪</font>
+
+618
+00:35:35,508 --> 00:35:38,886
+<font size="41">{\an1}♪ Does she know how you told me
+You'd hold me until you died? ♪</font>
+
+619
+00:35:38,970 --> 00:35:41,806
+<font size="41">{\an1}♪ Till you died
+But you're still alive ♪</font>
+
+620
+00:35:41,889 --> 00:35:43,391
+<font size="41">{\an1}♪ And I'm here ♪</font>
+
+621
+00:35:44,350 --> 00:35:45,935
+<font size="41">{\an1}♪ To remind you ♪</font>
+
+622
+00:35:46,018 --> 00:35:50,690
+<font size="41">{\an1}♪ Of the mess you left
+When you went away ♪</font>
+
+623
+00:35:50,773 --> 00:35:53,150
+<font size="41">{\an1}♪ It's not fair ♪</font>
+
+624
+00:35:53,234 --> 00:35:55,278
+<font size="41">{\an1}♪ To deny me ♪</font>
+
+625
+00:35:55,361 --> 00:35:59,365
+<font size="41">{\an1}♪ Of the cross I bear
+That you gave to me ♪</font>
+
+626
+00:35:59,448 --> 00:36:02,743
+<font size="41">{\an1}♪ You, you, you oughta know ♪</font>
+
+627
+00:36:03,452 --> 00:36:04,871
+<font size="41">{\an1}LISA: The room is, like,</font>
+
+628
+00:36:04,954 --> 00:36:09,083
+<font size="41">{\an1}eyes popping out of our heads,
+going, "Holy crap.</font>
+
+629
+00:36:09,166 --> 00:36:11,586
+<font size="41">{\an1}We got to hear that
+on the radio."</font>
+
+630
+00:36:11,669 --> 00:36:13,921
+<font size="41">{\an1}We walked the CD down the hall,</font>
+
+631
+00:36:14,005 --> 00:36:16,215
+<font size="41">{\an1}basically interrupted
+the whole hour,</font>
+
+632
+00:36:16,299 --> 00:36:17,383
+<font size="41">{\an1}handed it to the DJ and said,</font>
+
+633
+00:36:17,466 --> 00:36:19,468
+<font size="41">{\an1}"Brand-new artist,
+her name is Alanis,</font>
+
+634
+00:36:19,552 --> 00:36:20,720
+<font size="41">{\an1}you're gonna play this
+right now."</font>
+
+635
+00:36:20,803 --> 00:36:24,932
+<font size="41">{\an1}♪ Did you forget about me
+Mr. Duplicity? ♪</font>
+
+636
+00:36:25,016 --> 00:36:28,853
+<font size="41">{\an1}♪ I hate to bug you
+In the middle of dinner ♪</font>
+
+637
+00:36:29,687 --> 00:36:31,898
+<font size="41">{\an1}♪ It was a slap in the face ♪</font>
+
+638
+00:36:31,981 --> 00:36:34,025
+<font size="41">{\an1}♪ How quickly I was replaced ♪</font>
+
+639
+00:36:34,108 --> 00:36:38,779
+<font size="41">{\an1}♪ And are you thinking of me
+When you fuck her? ♪</font>
+
+640
+00:36:38,863 --> 00:36:42,241
+<font size="41">{\an1}LISA: And the phone lines
+blazed.</font>
+
+641
+00:36:42,325 --> 00:36:44,285
+<font size="41">{\an1}"Who is that? Who is that?
+What song is that?</font>
+
+642
+00:36:44,368 --> 00:36:46,871
+<font size="41">{\an1}"Who was that?" I mean,
+just boom, boom, boom,</font>
+
+643
+00:36:46,954 --> 00:36:48,331
+<font size="41">{\an1}wanting to know what
+they had just heard.</font>
+
+644
+00:36:48,414 --> 00:36:50,499
+<font size="41">{\an1}♪ And every time you speak
+Her name ♪</font>
+
+645
+00:36:50,583 --> 00:36:53,961
+<font size="41">{\an1}♪ Does she know how you told me
+You'd hold me until you died? ♪</font>
+
+646
+00:36:54,045 --> 00:36:57,006
+<font size="41">{\an1}♪ Till you died
+But you're still alive ♪</font>
+
+647
+00:36:57,089 --> 00:36:58,174
+<font size="41">{\an1}♪ And I'm here ♪</font>
+
+648
+00:36:58,257 --> 00:37:00,426
+<font size="41">{\an1}It was immediately our
+number-one requested record</font>
+
+649
+00:37:00,509 --> 00:37:02,511
+<font size="41">{\an1}for many weeks.</font>
+
+650
+00:37:02,595 --> 00:37:03,804
+<font size="41">{\an1}HOWARD STERN: "You Oughta Know",</font>
+
+651
+00:37:03,888 --> 00:37:06,807
+<font size="41">{\an1}this is the song
+that really broke on KROQ radio.</font>
+
+652
+00:37:06,891 --> 00:37:09,894
+<font size="41">{\an1}-And suddenly, overnight...
+-ROBIN QUIVERS: Life changes.</font>
+
+653
+00:37:09,977 --> 00:37:11,938
+<font size="41">{\an1}HOWARD: ...people are singing
+this song with you,</font>
+
+654
+00:37:12,021 --> 00:37:14,982
+<font size="41">{\an1}and your audiences are around
+the block waiting for you.</font>
+
+655
+00:37:15,066 --> 00:37:19,153
+<font size="41">{\an1}♪ You, you, you oughta know ♪</font>
+
+656
+00:37:19,236 --> 00:37:20,488
+<font size="41">{\an1}STEVE BALTIN: You're not
+gonna write</font>
+
+657
+00:37:20,571 --> 00:37:23,074
+<font size="41">{\an1}a better "fuck off" song
+than "You Oughta Know".</font>
+
+658
+00:37:23,157 --> 00:37:24,325
+<font size="41">{\an1}Who hasn't been dumped?</font>
+
+659
+00:37:24,408 --> 00:37:27,662
+<font size="41">{\an1}Who hasn't wanted to tell
+an ex-lover to fuck off?</font>
+
+660
+00:37:27,745 --> 00:37:30,539
+<font size="41">{\an1}And who hasn't wanted to do it
+in that way,</font>
+
+661
+00:37:30,623 --> 00:37:33,417
+<font size="41">{\an1}so openly and so angrily?</font>
+
+662
+00:37:33,501 --> 00:37:35,378
+<font size="41">{\an1}It's like when you dream
+of walking up</font>
+
+663
+00:37:35,461 --> 00:37:37,296
+<font size="41">{\an1}and throwing the drink
+in someone's face,</font>
+
+664
+00:37:37,380 --> 00:37:39,173
+<font size="41">{\an1}or just smacking them, whatever.</font>
+
+665
+00:37:39,257 --> 00:37:40,424
+<font size="41">{\an1}She did it in song.</font>
+
+666
+00:37:41,884 --> 00:37:44,804
+<font size="41">{\an1}JOHANNA STEIN: We're all used
+to the stereotype of the girl</font>
+
+667
+00:37:44,887 --> 00:37:48,015
+<font size="41">{\an1}who gets broken up with
+and calls her friends crying.</font>
+
+668
+00:37:48,099 --> 00:37:50,393
+<font size="41">{\an1}And she sits on the couch,
+and she eats ice cream.</font>
+
+669
+00:37:51,268 --> 00:37:52,603
+<font size="41">{\an1}She wasn't that.</font>
+
+670
+00:37:53,646 --> 00:37:54,814
+<font size="41">{\an1}KEVIN SMITH: Back in the '90s,</font>
+
+671
+00:37:54,897 --> 00:37:56,524
+<font size="41">{\an1}I cannot tell you
+how many people were like,</font>
+
+672
+00:37:56,607 --> 00:37:58,985
+<font size="41">{\an1}"I identify with that song,
+'You Oughta Know'."</font>
+
+673
+00:37:59,068 --> 00:38:01,445
+<font size="41">{\an1}And I'm like, "Who did you
+blow in a movie theater?"</font>
+
+674
+00:38:02,863 --> 00:38:05,866
+<font size="41">{\an1}HANIF ABDURRAQIB: When that song
+came out, I was, like, 12 or 13.</font>
+
+675
+00:38:06,450 --> 00:38:08,369
+<font size="41">{\an1}I... (CHUCKLES)</font>
+
+676
+00:38:08,452 --> 00:38:10,997
+<font size="41">{\an1}I don't know what going down
+on someone in a theater is,</font>
+
+677
+00:38:11,080 --> 00:38:13,499
+<font size="41">{\an1}you know? But I also knew
+that it was something--</font>
+
+678
+00:38:13,582 --> 00:38:15,751
+<font size="41">{\an1}Like, my not knowing
+made me feel like,</font>
+
+679
+00:38:15,835 --> 00:38:17,336
+<font size="41">{\an1}"Okay, this is dangerous
+or different</font>
+
+680
+00:38:17,420 --> 00:38:20,715
+<font size="41">{\an1}or something far outside
+my understanding."</font>
+
+681
+00:38:21,966 --> 00:38:23,426
+<font size="41">{\an1}LORRAINE: Alanis comes along</font>
+
+682
+00:38:23,509 --> 00:38:26,846
+<font size="41">{\an1}and sings about going down
+on someone in a theater,</font>
+
+683
+00:38:26,929 --> 00:38:30,057
+<font size="41">{\an1}and it's like,
+"Oh, wow, that's crazy."</font>
+
+684
+00:38:30,141 --> 00:38:32,727
+<font size="41">{\an1}You know, "This is really
+sexually explicit."</font>
+
+685
+00:38:32,810 --> 00:38:35,688
+<font size="41">{\an1}Really? 'Cause that's not
+what I'm picking up from it.</font>
+
+686
+00:38:35,771 --> 00:38:37,982
+<font size="41">{\an1}Yeah, that's in there,
+but that's not...</font>
+
+687
+00:38:38,065 --> 00:38:39,859
+<font size="41">{\an1}you know, what's speaking
+to me about it.</font>
+
+688
+00:38:39,942 --> 00:38:41,402
+<font size="41">{\an1}And how about the individual</font>
+
+689
+00:38:41,485 --> 00:38:42,862
+<font size="41">{\an1}that "You Oughta Know"
+is all about?</font>
+
+690
+00:38:42,945 --> 00:38:45,197
+<font size="41">{\an1}Is there a feeling that
+this is almost your revenge,</font>
+
+691
+00:38:45,281 --> 00:38:47,158
+<font size="41">{\an1}-the success of your single?
+-You know what?</font>
+
+692
+00:38:47,241 --> 00:38:48,951
+<font size="41">{\an1}The ironic thing is
+I don't even think</font>
+
+693
+00:38:49,035 --> 00:38:50,411
+<font size="41">{\an1}he knows that the song
+is about him.</font>
+
+694
+00:38:50,494 --> 00:38:52,496
+<font size="41">{\an1}-Maybe it's better he doesn't.
+-You know what? I think it is.</font>
+
+695
+00:38:52,580 --> 00:38:55,624
+<font size="41">{\an1}'Cause the last thing I want
+to do is to be that vindictive.</font>
+
+696
+00:38:55,708 --> 00:38:58,252
+<font size="41">{\an1}I don't think that I will be
+hurt in the way that I was hurt</font>
+
+697
+00:38:58,335 --> 00:39:00,588
+<font size="41">{\an1}by the person that I wrote
+"You Oughta Know" about</font>
+
+698
+00:39:00,671 --> 00:39:02,006
+<font size="41">{\an1}ever again, no.</font>
+
+699
+00:39:02,089 --> 00:39:03,549
+<font size="41">{\an1}This person,
+I don't even really know</font>
+
+700
+00:39:03,632 --> 00:39:04,633
+<font size="41">{\an1}whether he knows it's about him.</font>
+
+701
+00:39:04,717 --> 00:39:07,136
+<font size="41">{\an1}And I didn't write it to get
+back at him.</font>
+
+702
+00:39:07,219 --> 00:39:08,596
+<font size="41">{\an1}If I had, I think that
+I'd be plastering</font>
+
+703
+00:39:08,679 --> 00:39:11,515
+<font size="41">{\an1}his picture everywhere and
+telling everyone his name.</font>
+
+704
+00:39:11,599 --> 00:39:14,226
+<font size="41">{\an1}But I just really wrote it
+for the sake of my own release.</font>
+
+705
+00:39:14,310 --> 00:39:17,438
+<font size="41">{\an1}Well, clearly, somebody
+upset this girl.</font>
+
+706
+00:39:17,521 --> 00:39:18,439
+<font size="41">{\an1}Who is it?</font>
+
+707
+00:39:18,522 --> 00:39:21,400
+<font size="41">{\an1}And, you know, for years,
+no confirmation.</font>
+
+708
+00:39:21,484 --> 00:39:23,652
+<font size="41">{\an1}She's classy. She didn't
+talk about it and shit.</font>
+
+709
+00:39:23,736 --> 00:39:25,071
+<font size="41">{\an1}Everyone thinks it's...</font>
+
+710
+00:39:25,821 --> 00:39:27,656
+<font size="41">{\an1}the guy from some TV show.</font>
+
+711
+00:39:27,740 --> 00:39:29,408
+<font size="41">{\an1}(CHUCKLES)</font>
+
+712
+00:39:29,492 --> 00:39:30,868
+<font size="41">{\an1}It's funny, though,
+because I was dating</font>
+
+713
+00:39:30,951 --> 00:39:32,912
+<font size="41">{\an1}so many more people
+than just him.</font>
+
+714
+00:39:32,995 --> 00:39:34,914
+<font size="41">{\an1}But because of
+"You Oughta Know",</font>
+
+715
+00:39:34,997 --> 00:39:36,791
+<font size="41">{\an1}and people saying it was
+about Dave Coulier,</font>
+
+716
+00:39:36,874 --> 00:39:39,877
+<font size="41">{\an1}all this attention was like,
+"She dated one person."</font>
+
+717
+00:39:39,960 --> 00:39:42,797
+<font size="41">{\an1}Who's the person?
+Who gives a fuck?</font>
+
+718
+00:39:42,880 --> 00:39:44,215
+<font size="41">{\an1}It's the experience.</font>
+
+719
+00:39:44,298 --> 00:39:46,384
+<font size="41">{\an1}All I know is I wouldn't want to
+be him, you know what I mean?</font>
+
+720
+00:39:46,467 --> 00:39:49,178
+<font size="41">{\an1}Like, (LAUGHS)
+I don't care who he is.</font>
+
+721
+00:39:49,261 --> 00:39:51,430
+<font size="41">{\an1}But I hope whoever he is,</font>
+
+722
+00:39:51,514 --> 00:39:53,390
+<font size="41">{\an1}he went to therapy.</font>
+
+723
+00:39:53,474 --> 00:39:54,767
+<font size="41">{\an1}ALANIS: There's been about
+eight people</font>
+
+724
+00:39:54,850 --> 00:39:56,435
+<font size="41">{\an1}who've claimed the song has
+been about them.</font>
+
+725
+00:39:56,519 --> 00:39:58,479
+<font size="41">{\an1}So I'm always just like,
+"Who said?"</font>
+
+726
+00:39:58,562 --> 00:40:01,273
+<font size="41">{\an1}You know, "Who said?"
+(LAUGHS)</font>
+
+727
+00:40:01,357 --> 00:40:03,943
+<font size="41">{\an1}Interesting that you think
+that song is about you. Huh?</font>
+
+728
+00:40:04,026 --> 00:40:07,738
+<font size="41">{\an1}♪ Nails down someone else's back
+I hope you feel it ♪</font>
+
+729
+00:40:07,822 --> 00:40:09,782
+<font size="41">{\an1}♪ Well, can you feel it? ♪</font>
+
+730
+00:40:10,533 --> 00:40:11,700
+<font size="41">{\an1}♪ Well, I'm here... ♪</font>
+
+731
+00:40:11,784 --> 00:40:13,452
+<font size="41">{\an1}SHIRLEY MANSON: She'd come in
+at the right time</font>
+
+732
+00:40:13,536 --> 00:40:14,620
+<font size="41">{\an1}with the right attitude.</font>
+
+733
+00:40:14,703 --> 00:40:17,373
+<font size="41">{\an1}And it was very different
+to what women were doing</font>
+
+734
+00:40:17,456 --> 00:40:19,875
+<font size="41">{\an1}at that time.
+She really stood out.</font>
+
+735
+00:40:19,959 --> 00:40:22,086
+<font size="41">{\an1}♪ It's not fair... ♪</font>
+
+736
+00:40:22,169 --> 00:40:24,004
+<font size="41">{\an1}GUY: It was one of those
+kind of songs</font>
+
+737
+00:40:24,088 --> 00:40:25,131
+<font size="41">{\an1}where you just pull over the car</font>
+
+738
+00:40:25,214 --> 00:40:26,340
+<font size="41">{\an1}and you remember, like,
+"Wait, what is that?"</font>
+
+739
+00:40:26,423 --> 00:40:29,593
+<font size="41">{\an1}It doesn't sound
+like anything else out there.</font>
+
+740
+00:40:29,677 --> 00:40:32,471
+<font size="41">{\an1}During that time,
+it was regarded as a no-no</font>
+
+741
+00:40:32,555 --> 00:40:34,682
+<font size="41">{\an1}to play female artists
+back to back.</font>
+
+742
+00:40:34,765 --> 00:40:38,352
+<font size="41">{\an1}I was not allowed to play
+No Doubt into Alanis.</font>
+
+743
+00:40:38,435 --> 00:40:41,313
+<font size="41">{\an1}It was just the way things were.</font>
+
+744
+00:40:41,397 --> 00:40:44,400
+<font size="41">{\an1}STEVE: Was there room
+for Alanis in rock? No.</font>
+
+745
+00:40:44,483 --> 00:40:47,111
+<font size="41">{\an1}But it was simply, "You try
+and ignore the song."</font>
+
+746
+00:40:47,194 --> 00:40:48,988
+<font size="41">{\an1}"You see what's gonna happen."</font>
+
+747
+00:40:49,071 --> 00:40:52,575
+<font size="41">{\an1}♪ You, you, you oughta know ♪</font>
+
+748
+00:40:56,912 --> 00:40:58,497
+<font size="41">{\an1}(INDISTINCT CHATTER)</font>
+
+749
+00:40:58,581 --> 00:41:00,291
+<font size="41">{\an1}(CAMERA SHUTTER CLICKING)</font>
+
+750
+00:41:01,750 --> 00:41:05,504
+<font size="41">{\an1}GUY: It happened very quickly.</font>
+
+751
+00:41:05,588 --> 00:41:08,174
+<font size="41">{\an1}As soon as that song
+hit the radio,</font>
+
+752
+00:41:08,716 --> 00:41:10,009
+<font size="41">{\an1}it just picked up.</font>
+
+753
+00:41:11,343 --> 00:41:12,887
+<font size="41">{\an1}JOCELYN RHEAUME:
+Who was this person?</font>
+
+754
+00:41:12,970 --> 00:41:14,013
+<font size="41">{\an1}And there was all the mystery,</font>
+
+755
+00:41:14,096 --> 00:41:16,140
+<font size="41">{\an1}because her first video,
+her hair was in her face</font>
+
+756
+00:41:16,223 --> 00:41:19,268
+<font size="41">{\an1}and she was in the desert and
+screaming, "You oughta know!"</font>
+
+757
+00:41:21,353 --> 00:41:24,481
+<font size="41">{\an1}STEVE: I was sent an advance
+of Jagged Little Pill.</font>
+
+758
+00:41:24,565 --> 00:41:25,900
+<font size="41">{\an1}There were no photos
+that came with it,</font>
+
+759
+00:41:25,983 --> 00:41:28,444
+<font size="41">{\an1}or all the photos,
+her hair was blurring her face.</font>
+
+760
+00:41:29,945 --> 00:41:32,072
+<font size="41">{\an1}ALANIS: My hair would cover me.</font>
+
+761
+00:41:32,156 --> 00:41:34,408
+<font size="41">{\an1}It's very convenient
+having all that hair.</font>
+
+762
+00:41:35,576 --> 00:41:36,869
+<font size="41">{\an1}MICHELE LAURITA:
+In the beginning,</font>
+
+763
+00:41:36,952 --> 00:41:38,704
+<font size="41">{\an1}there was definitely a style.</font>
+
+764
+00:41:38,787 --> 00:41:40,623
+<font size="41">{\an1}She kind of showed up like,</font>
+
+765
+00:41:40,706 --> 00:41:42,791
+<font size="41">{\an1}"This just came out
+of my hamper."</font>
+
+766
+00:41:42,875 --> 00:41:45,628
+<font size="41">{\an1}We did a full cover
+of Rolling Stone photoshoot</font>
+
+767
+00:41:45,711 --> 00:41:47,963
+<font size="41">{\an1}that had to be scrapped
+because I couldn't speak up</font>
+
+768
+00:41:48,047 --> 00:41:51,425
+<font size="41">{\an1}about the fact that the clothes
+that I was put in by the stylist</font>
+
+769
+00:41:51,509 --> 00:41:53,719
+<font size="41">{\an1}were not me! (LAUGHS)</font>
+
+770
+00:41:53,802 --> 00:41:55,721
+<font size="41">{\an1}You know, and then we reshot
+the whole thing</font>
+
+771
+00:41:55,804 --> 00:41:57,723
+<font size="41">{\an1}with me wearing what I was
+comfortable in,</font>
+
+772
+00:41:57,806 --> 00:41:58,933
+<font size="41">{\an1}and then it was great.</font>
+
+773
+00:42:00,518 --> 00:42:02,186
+<font size="41">{\an1}MICHELE: It definitely came up.</font>
+
+774
+00:42:02,269 --> 00:42:04,647
+<font size="41">{\an1}"Do we want to make Alanis
+more beautiful?"</font>
+
+775
+00:42:04,730 --> 00:42:06,732
+<font size="41">{\an1}"Do we want to make Alanis
+more grungey?"</font>
+
+776
+00:42:06,815 --> 00:42:09,401
+<font size="41">{\an1}"What's acceptable right now?"</font>
+
+777
+00:42:09,485 --> 00:42:11,779
+<font size="41">{\an1}♪ (ROCK MUSIC PLAYS) ♪</font>
+
+778
+00:42:13,572 --> 00:42:15,908
+<font size="41">{\an1}SHIRLEY: For the first time
+in the history of music,</font>
+
+779
+00:42:15,991 --> 00:42:18,786
+<font size="41">{\an1}there was a moment
+where alternative artists</font>
+
+780
+00:42:18,869 --> 00:42:23,165
+<font size="41">{\an1}ruled the airwaves, ruled media,
+ruled TV.</font>
+
+781
+00:42:26,043 --> 00:42:29,296
+<font size="41">{\an1}It was the thing that everybody
+was buzzing on.</font>
+
+782
+00:42:30,714 --> 00:42:34,927
+<font size="41">{\an1}Alt music was your ticket
+to the fair.</font>
+
+783
+00:42:36,387 --> 00:42:38,180
+<font size="41">{\an1}SCOTT WELCH: Whoa, one moment.</font>
+
+784
+00:42:39,890 --> 00:42:41,642
+<font size="41">{\an1}GLEN: Scott Welch, the manager,</font>
+
+785
+00:42:41,725 --> 00:42:45,688
+<font size="41">{\an1}was really intent on it being
+a rock band.</font>
+
+786
+00:42:45,771 --> 00:42:48,941
+<font size="41">{\an1}ALANIS: When it came time
+to go on tour, we auditioned.</font>
+
+787
+00:42:49,024 --> 00:42:51,777
+<font size="41">{\an1}We auditioned tons of people.</font>
+
+788
+00:42:51,860 --> 00:42:54,780
+<font size="41">{\an1}Alanis put the band together
+from tryouts.</font>
+
+789
+00:42:54,863 --> 00:42:57,116
+<font size="41">{\an1}And we'd play.
+And I could play really loud,</font>
+
+790
+00:42:57,199 --> 00:42:58,576
+<font size="41">{\an1}and she didn't give a shit,
+so...</font>
+
+791
+00:42:59,910 --> 00:43:01,870
+<font size="41">{\an1}TAYLOR HAWKINS: I couldn't
+remember her fucking name.</font>
+
+792
+00:43:01,954 --> 00:43:03,706
+<font size="41">{\an1}"Atlantis." I just--</font>
+
+793
+00:43:03,789 --> 00:43:06,500
+<font size="41">{\an1}"Alanis. I've never even heard
+that word. That's not--"</font>
+
+794
+00:43:06,583 --> 00:43:08,669
+<font size="41">{\an1}"I don't know anyone else
+named Alanis,"</font>
+
+795
+00:43:08,752 --> 00:43:11,005
+<font size="41">{\an1}so I couldn't remember the name.</font>
+
+796
+00:43:11,088 --> 00:43:13,590
+<font size="41">{\an1}In the mail, I get a cassette
+of the three songs</font>
+
+797
+00:43:13,674 --> 00:43:14,925
+<font size="41">{\an1}you need to know.</font>
+
+798
+00:43:15,009 --> 00:43:17,094
+<font size="41">{\an1}The first song is
+"You Oughta Know".</font>
+
+799
+00:43:17,177 --> 00:43:18,679
+<font size="41">{\an1}And that's all you
+needed to hear.</font>
+
+800
+00:43:18,762 --> 00:43:20,180
+<font size="41">{\an1}That's gonna be fucking huge.</font>
+
+801
+00:43:20,264 --> 00:43:23,058
+<font size="41">{\an1}-So, Nick, where are you from?
+-I'm very English.</font>
+
+802
+00:43:23,142 --> 00:43:24,268
+<font size="41">{\an1}(LAUGHS)</font>
+
+803
+00:43:24,351 --> 00:43:26,312
+<font size="41">{\an1}TAYLOR: Nick Lashley
+was the guitar player,</font>
+
+804
+00:43:26,395 --> 00:43:27,563
+<font size="41">{\an1}an English cat.</font>
+
+805
+00:43:29,898 --> 00:43:32,735
+<font size="41">{\an1}And he can do
+all the cool noise effects,</font>
+
+806
+00:43:32,818 --> 00:43:36,405
+<font size="41">{\an1}and he's really
+a great lead guitar player.</font>
+
+807
+00:43:36,488 --> 00:43:39,325
+<font size="41">{\an1}So, Jesse, where are you from,
+dude? (LAUGHS)</font>
+
+808
+00:43:39,408 --> 00:43:41,535
+<font size="41">{\an1}-From Austin, Texas.
+-Yeah?</font>
+
+809
+00:43:41,618 --> 00:43:43,329
+<font size="41">{\an1}TAYLOR: The guitar player,
+Jesse,</font>
+
+810
+00:43:43,412 --> 00:43:46,248
+<font size="41">{\an1}played with the Chili Peppers
+very briefly.</font>
+
+811
+00:43:46,332 --> 00:43:48,792
+<font size="41">{\an1}GLEN: Jesse Tobias
+and Nick Lashley</font>
+
+812
+00:43:48,876 --> 00:43:50,169
+<font size="41">{\an1}had a wonderful kind
+of interplay</font>
+
+813
+00:43:50,252 --> 00:43:51,962
+<font size="41">{\an1}where they were able
+to cover all the parts</font>
+
+814
+00:43:52,046 --> 00:43:53,172
+<font size="41">{\an1}that we had on the record</font>
+
+815
+00:43:53,255 --> 00:43:56,050
+<font size="41">{\an1}and add a huge amount
+of power to it.</font>
+
+816
+00:43:56,133 --> 00:43:58,135
+<font size="41">{\an1}Chris, do you like to practice?</font>
+
+817
+00:43:58,218 --> 00:43:59,845
+<font size="41">{\an1}-Ah!
+-(LAUGHTER)</font>
+
+818
+00:43:59,928 --> 00:44:02,014
+<font size="41">{\an1}I hate practicing.</font>
+
+819
+00:44:02,097 --> 00:44:05,100
+<font size="41">{\an1}TAYLOR: The bass player,
+Chris Chaney, was an accident.</font>
+
+820
+00:44:05,184 --> 00:44:07,227
+<font size="41">{\an1}She called the wrong
+person back.</font>
+
+821
+00:44:07,311 --> 00:44:08,854
+<font size="41">{\an1}And we tried him out,
+and she's like...</font>
+
+822
+00:44:08,937 --> 00:44:10,814
+<font size="41">{\an1}"I didn't mean to call
+this guy."</font>
+
+823
+00:44:10,898 --> 00:44:12,775
+<font size="41">{\an1}"I didn't mean to call
+this guy."</font>
+
+824
+00:44:13,734 --> 00:44:14,818
+<font size="41">{\an1}I swear.</font>
+
+825
+00:44:14,902 --> 00:44:16,445
+<font size="41">{\an1}-You ready?
+-CHRIS CHANEY: I just was me.</font>
+
+826
+00:44:16,528 --> 00:44:18,614
+<font size="41">{\an1}I just showed up
+in what I was wearing.</font>
+
+827
+00:44:18,697 --> 00:44:21,575
+<font size="41">{\an1}No fashion sense.
+No true "style," right?</font>
+
+828
+00:44:22,618 --> 00:44:24,661
+<font size="41">{\an1}I felt a little intimidated.</font>
+
+829
+00:44:24,745 --> 00:44:26,872
+<font size="41">{\an1}'Cause he was a jazz guy,
+so he's like,</font>
+
+830
+00:44:26,955 --> 00:44:28,165
+<font size="41">{\an1}"I don't know."</font>
+
+831
+00:44:28,248 --> 00:44:31,043
+<font size="41">{\an1}He didn't even understand
+if it was good music, really.</font>
+
+832
+00:44:31,126 --> 00:44:32,294
+<font size="41">{\an1}And I was like, "Well, you know,</font>
+
+833
+00:44:32,378 --> 00:44:33,754
+<font size="41">{\an1}you've missed
+the last five years,</font>
+
+834
+00:44:33,837 --> 00:44:37,257
+<font size="41">{\an1}so here's fucking Soundgarden,
+and here's Jane's Addiction."</font>
+
+835
+00:44:37,341 --> 00:44:40,344
+<font size="41">{\an1}Learn it, live it, love it.</font>
+
+836
+00:44:40,427 --> 00:44:41,470
+<font size="41">{\an1}And he gets it now.</font>
+
+837
+00:44:41,553 --> 00:44:43,347
+<font size="41">{\an1}He's in Jane's Addiction now,
+which is...</font>
+
+838
+00:44:44,181 --> 00:44:46,058
+<font size="41">{\an1}"ironic." (CHUCKLES)</font>
+
+839
+00:44:46,934 --> 00:44:49,937
+<font size="41">{\an1}ALISON:</font>
+
+840
+00:44:53,190 --> 00:44:55,526
+<font size="41">{\an1}In the '90s? I mean, yes.</font>
+
+841
+00:44:56,402 --> 00:44:58,237
+<font size="41">{\an1}But, no.</font>
+
+842
+00:44:58,320 --> 00:45:01,740
+<font size="41">{\an1}You know, I'd had my challenges
+with women...</font>
+
+843
+00:45:01,824 --> 00:45:05,744
+<font size="41">{\an1}you know, women who wanted
+to be in my seat or...</font>
+
+844
+00:45:05,828 --> 00:45:07,996
+<font size="41">{\an1}You know, there was always
+such a scarcity mindset,</font>
+
+845
+00:45:08,080 --> 00:45:09,665
+<font size="41">{\an1}like there was only
+room for one.</font>
+
+846
+00:45:09,748 --> 00:45:13,877
+<font size="41">{\an1}You know, for me, hanging out
+with the guys was just easier.</font>
+
+847
+00:45:13,961 --> 00:45:17,089
+<font size="41">{\an1}Once we all knew none of us
+were gonna be romantic,</font>
+
+848
+00:45:17,172 --> 00:45:19,466
+<font size="41">{\an1}it was like, "Oh, cool, let's
+just make some shows."</font>
+
+849
+00:45:24,638 --> 00:45:26,640
+<font size="41">{\an1}TAYLOR: And the first show
+that we did,</font>
+
+850
+00:45:26,723 --> 00:45:30,102
+<font size="41">{\an1}we did a showcase
+for sort of friends and family.</font>
+
+851
+00:45:30,185 --> 00:45:32,104
+<font size="41">{\an1}Literally,
+it was our girlfriends</font>
+
+852
+00:45:32,187 --> 00:45:34,106
+<font size="41">{\an1}and people from
+the record company...</font>
+
+853
+00:45:34,731 --> 00:45:35,941
+<font size="41">{\an1}Madonna's over there.</font>
+
+854
+00:45:36,024 --> 00:45:37,401
+<font size="41">{\an1}-Where?
+-Right there.</font>
+
+855
+00:45:39,194 --> 00:45:40,821
+<font size="41">{\an1}TAYLOR: ...and Madonna.</font>
+
+856
+00:45:40,904 --> 00:45:42,865
+<font size="41">{\an1}It was like, "Fuck,
+Madonna's right there."</font>
+
+857
+00:45:42,948 --> 00:45:44,491
+<font size="41">{\an1}EXECUTIVE: For the last
+few months,</font>
+
+858
+00:45:44,575 --> 00:45:46,034
+<font size="41">{\an1}since we signed Alanis,</font>
+
+859
+00:45:46,118 --> 00:45:48,912
+<font size="41">{\an1}everybody's been saying to me,
+"What's she look like?"</font>
+
+860
+00:45:48,996 --> 00:45:50,289
+<font size="41">{\an1}You know, "What does she do?"</font>
+
+861
+00:45:50,372 --> 00:45:52,124
+<font size="41">{\an1}Anyway, I just want
+to introduce someone</font>
+
+862
+00:45:52,207 --> 00:45:54,501
+<font size="41">{\an1}who we're real crazy about,
+Alanis Morissette.</font>
+
+863
+00:45:55,752 --> 00:45:58,964
+<font size="41">{\an1}(CHEERS AND APPLAUSE)</font>
+
+864
+00:45:59,047 --> 00:46:02,134
+<font size="41">{\an1}LISA: Maverick did a showcase
+with her.</font>
+
+865
+00:46:02,217 --> 00:46:04,928
+<font size="41">{\an1}It was the first time
+we saw her live.</font>
+
+866
+00:46:05,012 --> 00:46:07,306
+<font size="41">{\an1}She was amazing.
+She was absolutely amazing.</font>
+
+867
+00:46:08,098 --> 00:46:11,685
+<font size="41">{\an1}♪ And I'm here to remind you ♪</font>
+
+868
+00:46:11,768 --> 00:46:16,148
+<font size="41">{\an1}♪ Of the mess you left
+when you went away ♪</font>
+
+869
+00:46:16,231 --> 00:46:18,233
+<font size="41">{\an1}♪ It's not fair ♪</font>
+
+870
+00:46:18,317 --> 00:46:20,611
+<font size="41">{\an1}♪ To deny me ♪</font>
+
+871
+00:46:20,694 --> 00:46:24,364
+<font size="41">{\an1}♪ Of the cross I bear
+that you gave to me ♪</font>
+
+872
+00:46:24,448 --> 00:46:27,826
+<font size="41">{\an1}♪ You, you, you oughta know ♪</font>
+
+873
+00:46:28,577 --> 00:46:33,582
+<font size="41">{\an1}(CROWD CHEERS)</font>
+
+874
+00:46:38,295 --> 00:46:41,465
+<font size="41">{\an1}(CROWD CHEERS)</font>
+
+875
+00:46:41,548 --> 00:46:44,218
+<font size="41">{\an1}♪ ("WAKE UP"
+BY ALANIS MORISSETTE PLAYS) ♪</font>
+
+876
+00:46:53,227 --> 00:46:55,062
+<font size="41">{\an1}♪ You like snow ♪</font>
+
+877
+00:46:55,145 --> 00:46:58,148
+<font size="41">{\an1}♪ But only if it's warm ♪</font>
+
+878
+00:46:58,232 --> 00:47:00,943
+<font size="41">{\an1}GLEN: The next night, she played
+at a place called Dragonfly.</font>
+
+879
+00:47:03,946 --> 00:47:05,280
+<font size="41">{\an1}We got to this little club,</font>
+
+880
+00:47:05,364 --> 00:47:08,200
+<font size="41">{\an1}and there were people lined up
+around the block.</font>
+
+881
+00:47:09,701 --> 00:47:13,372
+<font size="41">{\an1}It was like in one day,
+you couldn't get in the room.</font>
+
+882
+00:47:13,455 --> 00:47:16,959
+<font size="41">{\an1}♪ There's no sentimental value
+to the rose ♪</font>
+
+883
+00:47:17,042 --> 00:47:19,169
+<font size="41">{\an1}TAYLOR: The single had been out
+for a week by then,</font>
+
+884
+00:47:19,253 --> 00:47:22,089
+<font size="41">{\an1}and there was literally 5,000
+people trying to get in.</font>
+
+885
+00:47:22,172 --> 00:47:26,635
+<font size="41">{\an1}♪ 'Cause it's easy not to ♪</font>
+
+886
+00:47:26,718 --> 00:47:29,179
+<font size="41">{\an1}♪ So much easier ♪</font>
+
+887
+00:47:29,263 --> 00:47:32,182
+<font size="41">{\an1}STEVE: This was the show
+that everyone had to be at.</font>
+
+888
+00:47:33,308 --> 00:47:35,602
+<font size="41">{\an1}This was before she was massive,</font>
+
+889
+00:47:35,686 --> 00:47:37,771
+<font size="41">{\an1}but everyone knew
+she was gonna be massive.</font>
+
+890
+00:47:38,564 --> 00:47:43,569
+<font size="41">{\an1}♪ (VOCALIZING) ♪</font>
+
+891
+00:47:58,667 --> 00:48:00,460
+<font size="41">{\an1}So, yeah, I was just 21.</font>
+
+892
+00:48:00,544 --> 00:48:02,170
+<font size="41">{\an1}-Yeah.
+-ALANIS: Cheers, Glen.</font>
+
+893
+00:48:02,254 --> 00:48:04,131
+<font size="41">{\an1}-Cheers, queers, stairs, and--
+-ALANIS: Cheers, queers.</font>
+
+894
+00:48:04,214 --> 00:48:05,465
+<font size="41">{\an1}-Cheers, Nicky.
+-NICKY: Cheers.</font>
+
+895
+00:48:05,549 --> 00:48:07,634
+<font size="41">{\an1}ALANIS:
+Whoo-hoo! Party on, Garth.</font>
+
+896
+00:48:07,718 --> 00:48:08,802
+<font size="41">{\an1}(LAUGHTER)</font>
+
+897
+00:48:08,885 --> 00:48:10,637
+<font size="41">{\an1}He went like this...</font>
+
+898
+00:48:10,721 --> 00:48:13,640
+<font size="41">{\an1}That's a big dick. This guy's
+got the fuckin' rock...</font>
+
+899
+00:48:13,724 --> 00:48:16,059
+<font size="41">{\an1}(INDISTINCT CHATTER
+AND LAUGHTER)</font>
+
+900
+00:48:18,562 --> 00:48:19,688
+<font size="41">{\an1}It's me.</font>
+
+901
+00:48:19,771 --> 00:48:22,107
+<font size="41">{\an1}-Say hello.
+-Hello.</font>
+
+902
+00:48:22,190 --> 00:48:24,067
+<font size="41">{\an1}ALANIS: I remember Scott Welch
+pulled me aside</font>
+
+903
+00:48:24,151 --> 00:48:27,738
+<font size="41">{\an1}just after the auditions when
+we hired our bandmates.</font>
+
+904
+00:48:29,156 --> 00:48:31,658
+<font size="41">{\an1}He just kind of yanked me in,
+and he goes,</font>
+
+905
+00:48:31,742 --> 00:48:34,161
+<font size="41">{\an1}"You got to start being
+a boss, Alanis."</font>
+
+906
+00:48:34,244 --> 00:48:37,497
+<font size="41">{\an1}And I said, "I'm 20.
+I don't know how to be a boss."</font>
+
+907
+00:48:37,581 --> 00:48:40,292
+<font size="41">{\an1}He's like, "Well, you better
+figure it out fast."</font>
+
+908
+00:48:42,461 --> 00:48:44,171
+<font size="41">{\an1}This is Alanis' room.</font>
+
+909
+00:48:45,172 --> 00:48:46,965
+<font size="41">{\an1}And it's a fucking mess.</font>
+
+910
+00:48:48,258 --> 00:48:50,302
+<font size="41">{\an1}She's got no clue.
+Where are we going tomorrow?</font>
+
+911
+00:48:50,385 --> 00:48:52,095
+<font size="41">{\an1}-Where are we going tomorrow?
+-We're here tomorrow.</font>
+
+912
+00:48:52,179 --> 00:48:53,305
+<font size="41">{\an1}-We're staying here tomorrow.
+-Yes.</font>
+
+913
+00:48:53,388 --> 00:48:55,432
+<font size="41">{\an1}Okay, but we have no clue
+where we're going.</font>
+
+914
+00:48:55,515 --> 00:48:56,850
+<font size="41">{\an1}TAYLOR: We did a van tour.</font>
+
+915
+00:48:56,933 --> 00:48:59,686
+<font size="41">{\an1}The first two to three months
+was in a van.</font>
+
+916
+00:49:00,771 --> 00:49:02,022
+<font size="41">{\an1}No messing around for John John.</font>
+
+917
+00:49:02,105 --> 00:49:03,315
+<font size="41">{\an1}This is a private moment.</font>
+
+918
+00:49:04,274 --> 00:49:07,486
+<font size="41">{\an1}White tablecloths
+and silver linens,</font>
+
+919
+00:49:07,569 --> 00:49:08,779
+<font size="41">{\an1}that's all he uses.</font>
+
+920
+00:49:14,743 --> 00:49:16,995
+<font size="41">{\an1}What the hell is going on here?</font>
+
+921
+00:49:17,079 --> 00:49:19,331
+<font size="41">{\an1}TAYLOR: And we fucking literally
+went from the West Coast</font>
+
+922
+00:49:19,414 --> 00:49:20,457
+<font size="41">{\an1}all the way to New York.</font>
+
+923
+00:49:20,540 --> 00:49:22,292
+<font size="41">{\an1}At least get monitors together
+to start with.</font>
+
+924
+00:49:22,376 --> 00:49:23,752
+<font size="41">{\an1}-You want me up?
+-Yeah.</font>
+
+925
+00:49:23,835 --> 00:49:24,878
+<font size="41">{\an1}Okay.</font>
+
+926
+00:49:25,837 --> 00:49:28,465
+<font size="41">{\an1}At least get some
+stage line together</font>
+
+927
+00:49:28,548 --> 00:49:30,759
+<font size="41">{\an1}-and monitor level together.
+-Okay.</font>
+
+928
+00:49:31,635 --> 00:49:33,053
+<font size="41">{\an1}It's my perspective.</font>
+
+929
+00:49:34,471 --> 00:49:36,515
+<font size="41">{\an1}And it just fucking
+went nuclear, man.</font>
+
+930
+00:49:36,598 --> 00:49:39,059
+<font size="41">{\an1}It was, like, it went
+fucking nuclear.</font>
+
+931
+00:49:39,142 --> 00:49:42,229
+<font size="41">{\an1}(CROWD CHEERS)</font>
+
+932
+00:49:42,312 --> 00:49:43,480
+<font size="41">{\an1}Thank you.</font>
+
+933
+00:49:43,563 --> 00:49:47,526
+<font size="41">{\an1}♪ ("HAND IN MY POCKET"
+BY ALANIS MORISSETTE PLAYS) ♪</font>
+
+934
+00:49:47,609 --> 00:49:50,445
+<font size="41">{\an1}This song's called
+"Hand in My Pocket".</font>
+
+935
+00:50:16,179 --> 00:50:18,598
+<font size="41">{\an1}♪ I'm broke but I'm happy ♪</font>
+
+936
+00:50:18,682 --> 00:50:21,268
+<font size="41">{\an1}♪ I'm poor but I'm kind ♪</font>
+
+937
+00:50:21,351 --> 00:50:24,563
+<font size="41">{\an1}♪ I'm short but I'm healthy ♪</font>
+
+938
+00:50:24,646 --> 00:50:26,231
+<font size="41">{\an1}♪ Yeah ♪</font>
+
+939
+00:50:27,357 --> 00:50:30,235
+<font size="41">{\an1}♪ I'm high but I'm grounded ♪</font>
+
+940
+00:50:30,318 --> 00:50:32,988
+<font size="41">{\an1}♪ I'm sane but I'm overwhelmed ♪</font>
+
+941
+00:50:33,071 --> 00:50:37,617
+<font size="41">{\an1}♪ I'm lost but I'm hopeful,
+baby ♪</font>
+
+942
+00:50:37,701 --> 00:50:40,912
+<font size="41">{\an1}♪ And what it all
+comes down to ♪</font>
+
+943
+00:50:43,123 --> 00:50:47,711
+<font size="41">{\an1}♪ Is that everything's gonna be
+fine, fine, fine ♪</font>
+
+944
+00:50:50,005 --> 00:50:53,300
+<font size="41">{\an1}♪ 'Cause I've got one hand
+in my pocket ♪</font>
+
+945
+00:50:53,383 --> 00:50:57,596
+<font size="41">{\an1}♪ And the other one is giving
+a high-five ♪</font>
+
+946
+00:51:00,557 --> 00:51:04,603
+<font size="41">{\an1}♪ Well, I feel drunk
+but I'm sober ♪</font>
+
+947
+00:51:04,686 --> 00:51:06,104
+<font size="41">{\an1}I have the towel.</font>
+
+948
+00:51:06,188 --> 00:51:08,315
+<font size="41">{\an1}I have the towel she sweated on!</font>
+
+949
+00:51:08,398 --> 00:51:09,941
+<font size="41">{\an1}REPORTER: What did you think
+of Alanis' show?</font>
+
+950
+00:51:10,025 --> 00:51:12,944
+<font size="41">{\an1}-I thought it was pretty wicked,
+-She's the best.</font>
+
+951
+00:51:13,028 --> 00:51:14,821
+<font size="41">{\an1}I thought it was great.
+I thought Alanis was great.</font>
+
+952
+00:51:14,905 --> 00:51:15,947
+<font size="41">{\an1}It was awesome.</font>
+
+953
+00:51:16,031 --> 00:51:18,158
+<font size="41">{\an1}Her show was, like, wicked.
+It was really good.</font>
+
+954
+00:51:19,618 --> 00:51:25,081
+<font size="41">{\an1}♪ I'm wrong, and I'm sorry,
+baby ♪</font>
+
+955
+00:51:25,165 --> 00:51:27,292
+<font size="41">{\an1}HANIF: "Hand in My Pocket"
+was the jam.</font>
+
+956
+00:51:27,375 --> 00:51:29,628
+<font size="41">{\an1}It's mulling over
+all these contradictions,</font>
+
+957
+00:51:29,711 --> 00:51:32,005
+<font size="41">{\an1}and it's not exactly seeking
+an answer,</font>
+
+958
+00:51:32,088 --> 00:51:34,758
+<font size="41">{\an1}as much it is seeking
+an affirmation</font>
+
+959
+00:51:34,841 --> 00:51:36,510
+<font size="41">{\an1}that the contradictions
+are okay to live with.</font>
+
+960
+00:51:36,593 --> 00:51:40,013
+<font size="41">{\an1}♪ 'Cause I've got one hand
+in my pocket ♪</font>
+
+961
+00:51:40,096 --> 00:51:43,475
+<font size="41">{\an1}♪ And the other one is flicking
+a cigarette ♪</font>
+
+962
+00:51:46,353 --> 00:51:48,855
+<font size="41">{\an1}SHIRLEY: Women historically
+have always just been allowed</font>
+
+963
+00:51:48,939 --> 00:51:53,568
+<font size="41">{\an1}to have one approach,
+one face, one message.</font>
+
+964
+00:51:54,861 --> 00:51:57,239
+<font size="41">{\an1}And here was this artist saying,</font>
+
+965
+00:51:57,322 --> 00:51:59,241
+<font size="41">{\an1}"Well, I'm this, but I'm
+also that."</font>
+
+966
+00:51:59,324 --> 00:52:02,994
+<font size="41">{\an1}♪ 'Cause I've got one hand
+in my pocket ♪</font>
+
+967
+00:52:03,078 --> 00:52:06,414
+<font size="41">{\an1}♪ And the other one is giving
+a peace sign ♪</font>
+
+968
+00:52:12,128 --> 00:52:13,755
+<font size="41">{\an1}♪ I'm free, but I'm focused... ♪</font>
+
+969
+00:52:13,839 --> 00:52:16,258
+<font size="41">{\an1}STEVE MARGO: Alanis Morissette
+was one of those people</font>
+
+970
+00:52:16,341 --> 00:52:19,094
+<font size="41">{\an1}that came along
+that I thought, "This girl</font>
+
+971
+00:52:19,177 --> 00:52:20,971
+<font size="41">{\an1}could do incredibly
+well internationally."</font>
+
+972
+00:52:23,181 --> 00:52:24,850
+<font size="41">{\an1}They did launch her, obviously,
+in America</font>
+
+973
+00:52:24,933 --> 00:52:28,395
+<font size="41">{\an1}with "You Oughta Know".
+But the real hit,</font>
+
+974
+00:52:28,478 --> 00:52:30,730
+<font size="41">{\an1}the record that kind of
+blew it all up,</font>
+
+975
+00:52:30,814 --> 00:52:32,232
+<font size="41">{\an1}was "Hand in My Pocket".</font>
+
+976
+00:52:32,315 --> 00:52:33,900
+<font size="41">{\an1}♪ Baby ♪</font>
+
+977
+00:52:33,984 --> 00:52:37,195
+<font size="41">{\an1}♪ And what it all
+comes down to ♪</font>
+
+978
+00:52:39,406 --> 00:52:43,451
+<font size="41">{\an1}♪ Is that everything's gonna be
+fine, fine, fine ♪</font>
+
+979
+00:52:46,037 --> 00:52:49,040
+<font size="41">{\an1}♪ 'Cause I've got one hand
+in my pocket ♪</font>
+
+980
+00:52:49,124 --> 00:52:56,423
+<font size="41">{\an1}♪ And the other one is
+playing the piano ♪</font>
+
+981
+00:52:56,506 --> 00:53:00,427
+<font size="41">{\an1}♪ And what it all comes down to
+my dear friend ♪</font>
+
+982
+00:53:00,510 --> 00:53:01,595
+<font size="41">{\an1}♪ Yeah, yeah ♪</font>
+
+983
+00:53:01,678 --> 00:53:03,555
+<font size="41">{\an1}♪ Is that everything is just ♪</font>
+
+984
+00:53:03,638 --> 00:53:07,726
+<font size="41">{\an1}♪ Fine, fine, fine ♪</font>
+
+985
+00:53:07,809 --> 00:53:10,937
+<font size="41">{\an1}♪ 'Cause I've got one hand
+in my pocket ♪</font>
+
+986
+00:53:11,021 --> 00:53:15,108
+<font size="41">{\an1}♪ And the other one
+is hailing a taxi cab ♪</font>
+
+987
+00:53:15,191 --> 00:53:17,360
+<font size="41">{\an1}CHRIS: We played
+The Prince's Trust.</font>
+
+988
+00:53:17,444 --> 00:53:20,488
+<font size="41">{\an1}That show was the biggest show
+we did on the entire tour.</font>
+
+989
+00:53:21,823 --> 00:53:24,576
+<font size="41">{\an1}Bob Dylan was on that,
+Eric Clapton.</font>
+
+990
+00:53:24,659 --> 00:53:26,119
+<font size="41">{\an1}And then Alanis Morissette.</font>
+
+991
+00:53:27,662 --> 00:53:30,123
+<font size="41">{\an1}ALANIS: All I know is I couldn't
+hear anything.</font>
+
+992
+00:53:30,206 --> 00:53:32,417
+<font size="41">{\an1}I literally could not
+hear me sing</font>
+
+993
+00:53:32,500 --> 00:53:34,878
+<font size="41">{\an1}because everyone was
+singing so loudly.</font>
+
+994
+00:53:42,802 --> 00:53:47,849
+<font size="41">{\an1}(CROWD CHEERS)</font>
+
+995
+00:53:50,143 --> 00:53:52,395
+<font size="41">{\an1}Thank you very much.</font>
+
+996
+00:53:52,479 --> 00:53:56,900
+<font size="41">{\an1}LISA: You can go from being
+unknown to known by everybody.</font>
+
+997
+00:53:56,983 --> 00:53:58,902
+<font size="41">{\an1}It was that one word.
+It was "Alanis".</font>
+
+998
+00:53:58,985 --> 00:54:01,947
+<font size="41">{\an1}And you knew exactly
+who you're talking about.</font>
+
+999
+00:54:02,030 --> 00:54:04,532
+<font size="41">{\an1}Radio made superstars back then.</font>
+
+1000
+00:54:04,616 --> 00:54:06,952
+<font size="41">{\an1}And then you got the MTV
+component</font>
+
+1001
+00:54:07,035 --> 00:54:08,912
+<font size="41">{\an1}and it's mega-stardom.</font>
+
+1002
+00:54:08,995 --> 00:54:10,413
+<font size="41">{\an1}ALANIS: When "You Oughta Know"
+came out,</font>
+
+1003
+00:54:10,497 --> 00:54:12,958
+<font size="41">{\an1}because it was blurry, I wasn't
+being recognized on the street.</font>
+
+1004
+00:54:13,041 --> 00:54:14,751
+<font size="41">{\an1}So I could still
+walk everywhere.</font>
+
+1005
+00:54:14,834 --> 00:54:18,046
+<font size="41">{\an1}Once "Hand in My Pocket" came
+out, that was super clear.</font>
+
+1006
+00:54:18,129 --> 00:54:20,340
+<font size="41">{\an1}And I remember walking
+down a street in New York,</font>
+
+1007
+00:54:20,423 --> 00:54:22,425
+<font size="41">{\an1}and all of a sudden,
+people were...</font>
+
+1008
+00:54:23,051 --> 00:54:24,219
+<font size="41">{\an1}running up to me.</font>
+
+1009
+00:54:26,763 --> 00:54:31,851
+<font size="41">{\an1}KEVIN: Music videos in the '90s
+were at their absolute apex.</font>
+
+1010
+00:54:31,935 --> 00:54:33,353
+<font size="41">{\an1}ANNOUNCER: MTV.</font>
+
+1011
+00:54:33,436 --> 00:54:36,815
+<font size="41">{\an1}KEVIN: MTV was the path by which</font>
+
+1012
+00:54:36,898 --> 00:54:39,651
+<font size="41">{\an1}any mainstream artist
+had to travel.</font>
+
+1013
+00:54:39,734 --> 00:54:41,987
+<font size="41">{\an1}LORRAINE: There was so much
+happening.</font>
+
+1014
+00:54:42,070 --> 00:54:44,489
+<font size="41">{\an1}It was really an exciting
+time in music.</font>
+
+1015
+00:54:44,572 --> 00:54:49,160
+<font size="41">{\an1}That just speaks to how much
+Alanis was up against</font>
+
+1016
+00:54:49,244 --> 00:54:51,162
+<font size="41">{\an1}when Jagged Little Pill
+dropped.</font>
+
+1017
+00:54:51,246 --> 00:54:53,915
+<font size="41">{\an1}You know, for it to dominate
+the way it did,</font>
+
+1018
+00:54:53,999 --> 00:54:57,210
+<font size="41">{\an1}when you look at what else was
+out there, that is really...</font>
+
+1019
+00:54:58,253 --> 00:54:59,212
+<font size="41">{\an1}phenomenal.</font>
+
+1020
+00:54:59,295 --> 00:55:00,588
+<font size="41">{\an1}♪ ("YOU LEARN"
+BY ALANIS MORISSETTE PLAYS) ♪</font>
+
+1021
+00:55:00,672 --> 00:55:04,134
+<font size="41">{\an1}♪ I recommend getting your
+heart trampled on ♪</font>
+
+1022
+00:55:04,217 --> 00:55:05,677
+<font size="41">{\an1}♪ To anyone ♪</font>
+
+1023
+00:55:06,803 --> 00:55:08,138
+<font size="41">{\an1}♪ Yeah ♪</font>
+
+1024
+00:55:08,221 --> 00:55:10,557
+<font size="41">{\an1}♪ Oh, yeah ♪</font>
+
+1025
+00:55:10,640 --> 00:55:14,394
+<font size="41">{\an1}♪ I recommend walking around ♪</font>
+
+1026
+00:55:14,477 --> 00:55:18,606
+<font size="41">{\an1}♪ Naked in your living room ♪</font>
+
+1027
+00:55:19,482 --> 00:55:21,943
+<font size="41">{\an1}♪ Yeah ♪</font>
+
+1028
+00:55:22,027 --> 00:55:25,363
+<font size="41">{\an1}♪ Swallow it down ♪</font>
+
+1029
+00:55:25,447 --> 00:55:26,698
+<font size="41">{\an1}♪ What a jagged little pill... ♪</font>
+
+1030
+00:55:26,781 --> 00:55:29,075
+<font size="41">{\an1}ALANIS: We've been to many
+different countries.</font>
+
+1031
+00:55:29,159 --> 00:55:31,244
+<font size="41">{\an1}-Where are we?
+-Sydney, Australia.</font>
+
+1032
+00:55:31,327 --> 00:55:33,538
+<font size="41">{\an1}We've been to Australia,
+all over North America,</font>
+
+1033
+00:55:33,621 --> 00:55:37,375
+<font size="41">{\an1}all over Europe,
+Southeast Asia, Japan...</font>
+
+1034
+00:55:37,459 --> 00:55:39,419
+<font size="41">{\an1}Mount Fuji.</font>
+
+1035
+00:55:39,502 --> 00:55:42,213
+<font size="41">{\an1}I love being on a tour bus
+at 3:00 in the morning,</font>
+
+1036
+00:55:42,297 --> 00:55:44,299
+<font size="41">{\an1}going through the mountains
+in Europe.</font>
+
+1037
+00:55:45,383 --> 00:55:46,926
+<font size="41">{\an1}You know, there's so
+many moments</font>
+
+1038
+00:55:47,010 --> 00:55:50,138
+<font size="41">{\an1}where we'd look at each other,
+bandmates, and just be like...</font>
+
+1039
+00:55:50,221 --> 00:55:52,140
+<font size="41">{\an1}"Oh, my God!"</font>
+
+1040
+00:55:52,974 --> 00:55:54,350
+<font size="41">{\an1}♪ You scream ♪</font>
+
+1041
+00:55:54,434 --> 00:56:00,065
+<font size="41">{\an1}♪ You learn ♪</font>
+
+1042
+00:56:00,148 --> 00:56:04,402
+<font size="41">{\an1}♪ I recommend biting off
+more than you can chew ♪</font>
+
+1043
+00:56:04,486 --> 00:56:05,737
+<font size="41">{\an1}Stop it, man.</font>
+
+1044
+00:56:10,366 --> 00:56:12,077
+<font size="41">{\an1}DAVID LETTERMAN: Our next guest
+is one of the year's</font>
+
+1045
+00:56:12,160 --> 00:56:14,079
+<font size="41">{\an1}most provocative
+and talked-about singers.</font>
+
+1046
+00:56:14,162 --> 00:56:16,498
+<font size="41">{\an1}Her CD is called
+Jagged Little Pill.</font>
+
+1047
+00:56:16,581 --> 00:56:18,416
+<font size="41">{\an1}Please welcome
+Alanis Morissette.</font>
+
+1048
+00:56:18,500 --> 00:56:20,085
+<font size="41">{\an1}The best new artist,
+Alanis Morissette.</font>
+
+1049
+00:56:20,168 --> 00:56:22,587
+<font size="41">{\an1}-Alanis Morissette.
+-Alanis Morissette.</font>
+
+1050
+00:56:22,670 --> 00:56:23,880
+<font size="41">{\an1}(SPEAKING JAPANESE)</font>
+
+1051
+00:56:23,963 --> 00:56:30,720
+<font size="41">{\an1}-(SPEAKING FRENCH)
+-(SPEAKING FRENCH)</font>
+
+1052
+00:56:30,804 --> 00:56:34,140
+<font size="41">{\an1}Hi, I'm David Bowie,
+but this is Alanis Morissette.</font>
+
+1053
+00:56:34,224 --> 00:56:37,060
+<font size="41">{\an1}And the album of the year
+is Jagged Little Pill.</font>
+
+1054
+00:56:37,143 --> 00:56:40,355
+<font size="41">{\an1}And the winner is Jagged
+Little Pill, Alanis Morissette.</font>
+
+1055
+00:56:40,438 --> 00:56:41,314
+<font size="41">{\an1}Alanis Morissette.</font>
+
+1056
+00:56:41,397 --> 00:56:43,566
+<font size="41">{\an1}-Alanis Morissette.
+-Thank you.</font>
+
+1057
+00:56:43,650 --> 00:56:44,818
+<font size="41">{\an1}SHIRLEY: It was so huge.</font>
+
+1058
+00:56:44,901 --> 00:56:48,321
+<font size="41">{\an1}The biggest debut album
+of any female artist ever.</font>
+
+1059
+00:56:48,404 --> 00:56:51,324
+<font size="41">{\an1}LORRAINE: Jagged Little Pill was
+the second-best selling album</font>
+
+1060
+00:56:51,407 --> 00:56:53,618
+<font size="41">{\an1}in the '90s and sold</font>
+
+1061
+00:56:53,701 --> 00:56:56,788
+<font size="41">{\an1}33 million worldwide
+up until now.</font>
+
+1062
+00:56:56,871 --> 00:57:00,083
+<font size="41">{\an1}♪ You learn ♪</font>
+
+1063
+00:57:07,799 --> 00:57:10,343
+<font size="41">{\an1}LORRAINE: The industry
+discovers, "Wait a minute."</font>
+
+1064
+00:57:10,426 --> 00:57:11,970
+<font size="41">{\an1}"This is actually lucrative."</font>
+
+1065
+00:57:13,221 --> 00:57:14,764
+<font size="41">{\an1}"Look, there's
+a whole demographic</font>
+
+1066
+00:57:14,848 --> 00:57:16,391
+<font size="41">{\an1}that we haven't tapped."</font>
+
+1067
+00:57:16,474 --> 00:57:18,810
+<font size="41">{\an1}"You know, women who
+actually, like,</font>
+
+1068
+00:57:18,893 --> 00:57:21,980
+<font size="41">{\an1}want to hear from themselves."
+(CHUCKLES)</font>
+
+1069
+00:57:22,939 --> 00:57:25,066
+<font size="41">{\an1}"So let's do that.
+Let's push that."</font>
+
+1070
+00:57:26,359 --> 00:57:29,028
+<font size="41">{\an1}LISA: Lilith Fair became
+a thing,</font>
+
+1071
+00:57:29,112 --> 00:57:34,284
+<font size="41">{\an1}and I think Alanis played a huge
+part in opening that door.</font>
+
+1072
+00:57:35,535 --> 00:57:37,537
+<font size="41">{\an1}SHIRLEY: There was a lot
+of women at that time,</font>
+
+1073
+00:57:37,620 --> 00:57:39,831
+<font size="41">{\an1}whether it was Fiona Apple,
+whether it was Missy Elliot,</font>
+
+1074
+00:57:39,914 --> 00:57:41,457
+<font size="41">{\an1}whether it was Courtney Love.</font>
+
+1075
+00:57:41,541 --> 00:57:43,459
+<font size="41">{\an1}There were so many of us,</font>
+
+1076
+00:57:44,460 --> 00:57:46,880
+<font size="41">{\an1}but Alanis proved to the world</font>
+
+1077
+00:57:46,963 --> 00:57:50,884
+<font size="41">{\an1}and to the music business
+that all of us were viable.</font>
+
+1078
+00:57:50,967 --> 00:57:56,014
+<font size="41">{\an1}(CROWD CHEERS)</font>
+
+1079
+00:58:04,063 --> 00:58:05,607
+<font size="41">{\an1}ALANIS: So much energy.</font>
+
+1080
+00:58:07,317 --> 00:58:09,777
+<font size="41">{\an1}It's like, the whole room is
+like... (IMITATES CROWD ROAR)</font>
+
+1081
+00:58:09,861 --> 00:58:11,905
+<font size="41">{\an1}And I'm like...
+(IMITATES CROWD ROAR)</font>
+
+1082
+00:58:15,783 --> 00:58:20,246
+<font size="41">{\an1}It's like the perfect, perfect
+poetic tantrum.</font>
+
+1083
+00:58:32,217 --> 00:58:33,593
+<font size="41">{\an1}TAYLOR: We would do
+all the songs</font>
+
+1084
+00:58:33,676 --> 00:58:35,094
+<font size="41">{\an1}from the record, no question.</font>
+
+1085
+00:58:36,554 --> 00:58:39,766
+<font size="41">{\an1}We had all these segues
+to just fill space.</font>
+
+1086
+00:58:42,101 --> 00:58:45,188
+<font size="41">{\an1}We would do "We Will Rock You"
+by Queen.</font>
+
+1087
+00:58:45,271 --> 00:58:47,649
+<font size="41">{\an1}♪ Buddy, you're a boy
+Make a big noise ♪</font>
+
+1088
+00:58:47,732 --> 00:58:51,277
+<font size="41">{\an1}♪ Playing in the street
+Gonna be a big man someday ♪</font>
+
+1089
+00:58:51,361 --> 00:58:55,240
+<font size="41">{\an1}♪ You got mud on your face
+You big disgrace ♪</font>
+
+1090
+00:58:55,323 --> 00:58:58,493
+<font size="41">{\an1}♪ Kicking your can
+All over the place ♪</font>
+
+1091
+00:58:58,576 --> 00:58:59,494
+<font size="41">{\an1}Sing it!</font>
+
+1092
+00:58:59,577 --> 00:59:03,373
+<font size="41">{\an1}♪ We will, we will
+rock you ♪</font>
+
+1093
+00:59:03,456 --> 00:59:05,667
+<font size="41">{\an1}One more time!
+Come on, sing it!</font>
+
+1094
+00:59:05,750 --> 00:59:10,046
+<font size="41">{\an1}♪ We will, we will
+rock you ♪</font>
+
+1095
+00:59:10,129 --> 00:59:11,798
+<font size="41">{\an1}TAYLOR: We would do
+an ABBA song.</font>
+
+1096
+00:59:11,881 --> 00:59:13,967
+<font size="41">{\an1}♪ If you change your mind ♪</font>
+
+1097
+00:59:14,050 --> 00:59:16,469
+<font size="41">{\an1}♪ I'm the first in line ♪</font>
+
+1098
+00:59:16,552 --> 00:59:18,805
+<font size="41">{\an1}♪ Honey, I'm still free ♪</font>
+
+1099
+00:59:18,888 --> 00:59:21,808
+<font size="41">{\an1}♪ Take a chance on me ♪</font>
+
+1100
+00:59:21,891 --> 00:59:23,643
+<font size="41">{\an1}TAYLOR: Or a Radiohead song.</font>
+
+1101
+00:59:23,726 --> 00:59:25,937
+<font size="41">{\an1}♪ In the fake plastic earth ♪</font>
+
+1102
+00:59:26,020 --> 00:59:28,731
+<font size="41">{\an1}♪ That she bought from
+a rubber man ♪</font>
+
+1103
+00:59:28,815 --> 00:59:31,359
+<font size="41">{\an1}♪ To get rid of itself ♪</font>
+
+1104
+00:59:32,318 --> 00:59:34,070
+<font size="41">{\an1}♪ It wears her out ♪</font>
+
+1105
+00:59:34,779 --> 00:59:39,826
+<font size="41">{\an1}♪ It wears her out ♪</font>
+
+1106
+00:59:46,416 --> 00:59:50,044
+<font size="41">{\an1}GUY: She was in a position now
+where it's like,</font>
+
+1107
+00:59:50,128 --> 00:59:52,380
+<font size="41">{\an1}"Who do you want to open
+for you?"</font>
+
+1108
+00:59:52,463 --> 00:59:54,924
+<font size="41">{\an1}ALANIS: Radiohead opened up
+for us on tour.</font>
+
+1109
+00:59:55,008 --> 00:59:56,801
+<font size="41">{\an1}♪ But I'm a creep ♪</font>
+
+1110
+00:59:58,136 --> 01:00:00,179
+<font size="41">{\an1}ALANIS: I like to think
+and tell myself</font>
+
+1111
+01:00:00,263 --> 01:00:04,142
+<font size="41">{\an1}that I basically influenced
+them heavily.</font>
+
+1112
+01:00:05,977 --> 01:00:08,688
+<font size="41">{\an1}TAYLOR: We would do our
+sound check and then watch them.</font>
+
+1113
+01:00:08,771 --> 01:00:11,482
+<font size="41">{\an1}Radiohead would take two hours
+to sound check.</font>
+
+1114
+01:00:11,566 --> 01:00:13,985
+<font size="41">{\an1}They were writing OK Computer.</font>
+
+1115
+01:00:16,195 --> 01:00:17,488
+<font size="41">{\an1}I got along with the band
+really good.</font>
+
+1116
+01:00:17,572 --> 01:00:20,992
+<font size="41">{\an1}I got along with Thom good too.
+"Thom." I call him "Thom."</font>
+
+1117
+01:00:21,075 --> 01:00:23,202
+<font size="41">{\an1}Taylor was more hanging out
+with them.</font>
+
+1118
+01:00:23,286 --> 01:00:24,704
+<font size="41">{\an1}I tried at first.</font>
+
+1119
+01:00:24,787 --> 01:00:26,831
+<font size="41">{\an1}Like, "I could be your friend,
+and I'll come to your--"</font>
+
+1120
+01:00:26,914 --> 01:00:28,458
+<font size="41">{\an1}"No, okay, bye."</font>
+
+1121
+01:00:28,541 --> 01:00:32,545
+<font size="41">{\an1}You know, the fucking aloofness
+killed me dead.</font>
+
+1122
+01:00:32,628 --> 01:00:34,630
+<font size="41">{\an1}Fuck, Hollywood is ennui.</font>
+
+1123
+01:00:35,465 --> 01:00:37,884
+<font size="41">{\an1}I was dying from the aloofness.</font>
+
+1124
+01:00:37,967 --> 01:00:39,385
+<font size="41">{\an1}We were playing with Neil Young
+in Europe,</font>
+
+1125
+01:00:39,469 --> 01:00:40,887
+<font size="41">{\an1}a whole bunch of dates,
+so I'm listening</font>
+
+1126
+01:00:40,970 --> 01:00:43,306
+<font size="41">{\an1}to all his catalogue right now.</font>
+
+1127
+01:00:43,389 --> 01:00:44,891
+<font size="41">{\an1}Everyone loves Neil Young.</font>
+
+1128
+01:00:46,059 --> 01:00:47,685
+<font size="41">{\an1}It's good to play with him,
+yeah.</font>
+
+1129
+01:00:47,769 --> 01:00:50,730
+<font size="41">{\an1}He's Canadian,
+and he's a great artist.</font>
+
+1130
+01:00:50,813 --> 01:00:53,941
+<font size="41">{\an1}And he's got a lot
+of sort of musical history,</font>
+
+1131
+01:00:54,025 --> 01:00:55,777
+<font size="41">{\an1}and he's very sage.</font>
+
+1132
+01:00:55,860 --> 01:00:58,696
+<font size="41">{\an1}So it'll be good to be around
+that kind of a vibe for a while.</font>
+
+1133
+01:01:01,282 --> 01:01:04,369
+<font size="41">{\an1}There were so many people
+that came to her show.</font>
+
+1134
+01:01:04,452 --> 01:01:08,706
+<font size="41">{\an1}Beck rode with us on the bus,
+Dave Grohl rode with us.</font>
+
+1135
+01:01:08,790 --> 01:01:09,791
+<font size="41">{\an1}TAYLOR: We were with</font>
+
+1136
+01:01:09,874 --> 01:01:11,376
+<font size="41">{\an1}the Foo Fighters
+a lot of the time.</font>
+
+1137
+01:01:11,459 --> 01:01:13,252
+<font size="41">{\an1}And the Foo Fighters rock.</font>
+
+1138
+01:01:13,336 --> 01:01:15,171
+<font size="41">{\an1}Dave would leave notes sometimes</font>
+
+1139
+01:01:15,254 --> 01:01:16,923
+<font size="41">{\an1}'cause they knew we'd
+be playing the club</font>
+
+1140
+01:01:17,006 --> 01:01:18,216
+<font size="41">{\an1}a week later or something.</font>
+
+1141
+01:01:20,510 --> 01:01:22,178
+<font size="41">{\an1}♪ Ob-la-di, ob-la-da ♪</font>
+
+1142
+01:01:22,261 --> 01:01:23,971
+<font size="41">{\an1}♪ Life goes on, wah ♪</font>
+
+1143
+01:01:24,055 --> 01:01:26,516
+<font size="41">{\an1}♪ La, la, how the life goes on ♪</font>
+
+1144
+01:01:26,599 --> 01:01:28,226
+<font size="41">{\an1}♪ Ob-la-di, ob-la-da ♪</font>
+
+1145
+01:01:28,309 --> 01:01:29,977
+<font size="41">{\an1}♪ Life goes on, wah ♪</font>
+
+1146
+01:01:30,061 --> 01:01:32,563
+<font size="41">{\an1}♪ La, la, how the life goes on ♪</font>
+
+1147
+01:01:32,647 --> 01:01:34,232
+<font size="41">{\an1}♪ Ob-la-di, ob-la-da ♪</font>
+
+1148
+01:01:34,315 --> 01:01:36,067
+<font size="41">{\an1}♪ Life goes on, wah ♪</font>
+
+1149
+01:01:36,150 --> 01:01:38,653
+<font size="41">{\an1}♪ La, la, how the life goes on ♪</font>
+
+1150
+01:01:38,736 --> 01:01:40,279
+<font size="41">{\an1}♪ Ob-la-di, ob-la-da ♪</font>
+
+1151
+01:01:40,363 --> 01:01:41,948
+<font size="41">{\an1}♪ Life goes on, wah ♪</font>
+
+1152
+01:01:42,031 --> 01:01:44,450
+<font size="41">{\an1}♪ La, la, how the life goes on ♪</font>
+
+1153
+01:01:51,207 --> 01:01:52,708
+<font size="41">{\an1}Whoo!</font>
+
+1154
+01:01:52,792 --> 01:01:54,460
+<font size="41">{\an1}Thank you, God bless you.</font>
+
+1155
+01:01:54,544 --> 01:01:59,590
+<font size="41">{\an1}(CROWD CHEERS)</font>
+
+1156
+01:02:02,677 --> 01:02:05,513
+<font size="41">{\an1}-ALANIS: Where? Did we miss it?
+-BAND MEMBER: Come back around.</font>
+
+1157
+01:02:07,723 --> 01:02:09,976
+<font size="41">{\an1}TAYLOR: I remember
+being protective of her.</font>
+
+1158
+01:02:10,059 --> 01:02:11,144
+<font size="41">{\an1}I remember playing clubs</font>
+
+1159
+01:02:11,227 --> 01:02:13,187
+<font size="41">{\an1}and guys trying to sneak
+backstage and stuff,</font>
+
+1160
+01:02:13,271 --> 01:02:14,439
+<font size="41">{\an1}just a little bit.</font>
+
+1161
+01:02:14,522 --> 01:02:16,983
+<font size="41">{\an1}But I just remember us being,
+like, protective of her.</font>
+
+1162
+01:02:17,066 --> 01:02:20,278
+<font size="41">{\an1}And her being sort of
+protective of us</font>
+
+1163
+01:02:20,361 --> 01:02:22,655
+<font size="41">{\an1}and also being like, you know,</font>
+
+1164
+01:02:22,738 --> 01:02:24,407
+<font size="41">{\an1}"You guys being good boys
+out here?"</font>
+
+1165
+01:02:24,490 --> 01:02:27,076
+<font size="41">{\an1}Which, of course,
+we were fucking not at all.</font>
+
+1166
+01:02:27,160 --> 01:02:31,372
+<font size="41">{\an1}I mean, the most debaucherous
+tour I've ever done in my life</font>
+
+1167
+01:02:31,456 --> 01:02:32,748
+<font size="41">{\an1}was with Alanis Morissette.</font>
+
+1168
+01:02:33,833 --> 01:02:34,792
+<font size="41">{\an1}BAND MEMBER: Aloha.</font>
+
+1169
+01:02:34,876 --> 01:02:36,210
+<font size="41">{\an1}CHRIS: We were just partying.</font>
+
+1170
+01:02:36,294 --> 01:02:37,837
+<font size="41">{\an1}Like, that's what
+our heroes did.</font>
+
+1171
+01:02:38,629 --> 01:02:40,047
+<font size="41">{\an1}I remember Slash saying,</font>
+
+1172
+01:02:40,131 --> 01:02:43,217
+<font size="41">{\an1}"God, I remember hearing about
+how you guys were on that tour."</font>
+
+1173
+01:02:43,301 --> 01:02:46,053
+<font size="41">{\an1}"I mean, I heard you guys were
+partying harder than we were."</font>
+
+1174
+01:02:47,472 --> 01:02:50,683
+<font size="41">{\an1}These, like, 24,
+25-year-old guys.</font>
+
+1175
+01:02:50,766 --> 01:02:52,477
+<font size="41">{\an1}We have, like, hormones on fire.</font>
+
+1176
+01:02:52,560 --> 01:02:53,853
+<font size="41">{\an1}Now we're rock stars playing</font>
+
+1177
+01:02:53,936 --> 01:02:55,771
+<font size="41">{\an1}with the biggest pop star
+on the planet.</font>
+
+1178
+01:02:59,817 --> 01:03:00,985
+<font size="41">{\an1}CHRIS: Chicago!</font>
+
+1179
+01:03:03,571 --> 01:03:04,822
+<font size="41">{\an1}Hey, Taylor!</font>
+
+1180
+01:03:05,990 --> 01:03:07,283
+<font size="41">{\an1}''Hey, there's the man.</font>
+
+1181
+01:03:07,366 --> 01:03:09,911
+<font size="41">{\an1}-I started this. I started--
+-Good job.</font>
+
+1182
+01:03:09,994 --> 01:03:12,038
+<font size="41">{\an1}-That's her pen.
+-He's so hot, isn't he?</font>
+
+1183
+01:03:12,121 --> 01:03:13,122
+<font size="41">{\an1}-Yeah!
+-Yeah.</font>
+
+1184
+01:03:13,206 --> 01:03:14,749
+<font size="41">{\an1}TAYLOR: As Alanis is rising,</font>
+
+1185
+01:03:14,832 --> 01:03:17,585
+<font size="41">{\an1}strong woman,
+standing up for, you know...</font>
+
+1186
+01:03:18,753 --> 01:03:21,214
+<font size="41">{\an1}just, like, feminism,
+you know, essentially.</font>
+
+1187
+01:03:21,297 --> 01:03:22,340
+<font size="41">{\an1}And...</font>
+
+1188
+01:03:23,799 --> 01:03:26,969
+<font size="41">{\an1}And we were all just,
+the whole band was just...</font>
+
+1189
+01:03:27,053 --> 01:03:30,598
+<font size="41">{\an1}trying to fuck as many chicks
+as we possibly could</font>
+
+1190
+01:03:30,681 --> 01:03:31,724
+<font size="41">{\an1}the whole time.</font>
+
+1191
+01:03:31,807 --> 01:03:33,059
+<font size="41">{\an1}Here we have Jesse Tobias</font>
+
+1192
+01:03:33,142 --> 01:03:34,435
+<font size="41">{\an1}getting in on
+the autograph scam.</font>
+
+1193
+01:03:34,519 --> 01:03:37,021
+<font size="41">{\an1}Got a lot of young ladies
+that want to meet him.</font>
+
+1194
+01:03:37,104 --> 01:03:40,191
+<font size="41">{\an1}Can we be your groupies and tag
+along on the road with you?</font>
+
+1195
+01:03:40,274 --> 01:03:41,359
+<font size="41">{\an1}ALANIS: These young women</font>
+
+1196
+01:03:41,442 --> 01:03:43,402
+<font size="41">{\an1}are coming just to hear
+what I have to say,</font>
+
+1197
+01:03:43,486 --> 01:03:46,072
+<font size="41">{\an1}and then you're manipulating
+the groupie conversation?</font>
+
+1198
+01:03:46,155 --> 01:03:48,032
+<font size="41">{\an1}Even the word "groupie",
+I'm like, "No."</font>
+
+1199
+01:03:48,115 --> 01:03:51,160
+<font size="41">{\an1}You mean a human fucking being
+coming to a show.</font>
+
+1200
+01:03:51,244 --> 01:03:54,121
+<font size="41">{\an1}Agenda-d or not.
+Doesn't fucking matter.</font>
+
+1201
+01:03:55,331 --> 01:03:57,875
+<font size="41">{\an1}We had a stack of
+after-show passes.</font>
+
+1202
+01:03:59,293 --> 01:04:01,045
+<font size="41">{\an1}I can't believe I'm gonna
+tell you this.</font>
+
+1203
+01:04:01,128 --> 01:04:03,714
+<font size="41">{\an1}We literally had a room</font>
+
+1204
+01:04:03,798 --> 01:04:05,383
+<font size="41">{\an1}on the other side of the arena,</font>
+
+1205
+01:04:05,466 --> 01:04:07,885
+<font size="41">{\an1}and our guitar tech would
+give out passes.</font>
+
+1206
+01:04:07,969 --> 01:04:10,846
+<font size="41">{\an1}To bring women backstage
+who just are dying.</font>
+
+1207
+01:04:10,930 --> 01:04:13,683
+<font size="41">{\an1}They want to meet Alanis.
+Maybe they want to meet us,</font>
+
+1208
+01:04:13,766 --> 01:04:16,102
+<font size="41">{\an1}but we know they want
+to meet Alanis.</font>
+
+1209
+01:04:16,185 --> 01:04:20,439
+<font size="41">{\an1}The hypocrisy of what her music
+and message was,</font>
+
+1210
+01:04:20,523 --> 01:04:23,526
+<font size="41">{\an1}then here you have us,
+like, scoundrels.</font>
+
+1211
+01:04:23,609 --> 01:04:24,902
+<font size="41">{\an1}You know, trying to get laid.</font>
+
+1212
+01:04:24,986 --> 01:04:26,612
+<font size="41">{\an1}You know what?
+Taylor's out there stealing all</font>
+
+1213
+01:04:26,696 --> 01:04:27,655
+<font size="41">{\an1}the young girls, Alanis.</font>
+
+1214
+01:04:27,738 --> 01:04:29,073
+<font size="41">{\an1}-He's right there, hon.
+-He's in here.</font>
+
+1215
+01:04:29,156 --> 01:04:30,408
+<font size="41">{\an1}You fucking liar!</font>
+
+1216
+01:04:30,491 --> 01:04:32,118
+<font size="41">{\an1}What are you talking about,
+you turkey?</font>
+
+1217
+01:04:34,495 --> 01:04:35,746
+<font size="41">{\an1}And then Alanis found out
+about that,</font>
+
+1218
+01:04:35,830 --> 01:04:37,790
+<font size="41">{\an1}and she got so fucking
+pissed at us.</font>
+
+1219
+01:04:39,333 --> 01:04:41,919
+<font size="41">{\an1}It did feel disrespectful to me.</font>
+
+1220
+01:04:42,003 --> 01:04:44,589
+<font size="41">{\an1}Some of the behavior
+just didn't match</font>
+
+1221
+01:04:44,672 --> 01:04:47,758
+<font size="41">{\an1}my mission or my value system
+at all.</font>
+
+1222
+01:04:47,842 --> 01:04:51,637
+<font size="41">{\an1}But I'd only grown up
+around men.</font>
+
+1223
+01:04:51,721 --> 01:04:53,306
+<font size="41">{\an1}So I just thought, "Okay, well,</font>
+
+1224
+01:04:53,389 --> 01:04:55,182
+<font size="41">{\an1}you gonna replace them
+with five other men</font>
+
+1225
+01:04:55,266 --> 01:04:58,060
+<font size="41">{\an1}that are gonna do the exact same
+thing and won't sound as great?"</font>
+
+1226
+01:04:58,144 --> 01:04:59,937
+<font size="41">{\an1}(LAUGHS)</font>
+
+1227
+01:05:02,982 --> 01:05:05,443
+<font size="41">{\an1}All those years of sitting in my
+bedroom practicing my guitar,</font>
+
+1228
+01:05:05,526 --> 01:05:07,445
+<font size="41">{\an1}how did they get me
+to right now?</font>
+
+1229
+01:05:09,322 --> 01:05:11,032
+<font size="41">{\an1}ALANIS: What can I ask you?</font>
+
+1230
+01:05:11,115 --> 01:05:16,579
+<font size="41">{\an1}What's it like being a male
+playing in a band with a woman?</font>
+
+1231
+01:05:17,330 --> 01:05:18,247
+<font size="41">{\an1}NICK: I think, in a sense,</font>
+
+1232
+01:05:18,331 --> 01:05:20,291
+<font size="41">{\an1}lead singers are
+their own breed.</font>
+
+1233
+01:05:20,374 --> 01:05:21,417
+<font size="41">{\an1}ALANIS: A dime a dozen? (LAUGHS)</font>
+
+1234
+01:05:21,500 --> 01:05:22,668
+<font size="41">{\an1}NICK: No, they're
+their own breed,</font>
+
+1235
+01:05:22,752 --> 01:05:24,128
+<font size="41">{\an1}whether you're male or female.</font>
+
+1236
+01:05:24,211 --> 01:05:27,089
+<font size="41">{\an1}You guys, this looks so amazing.
+I'm dying.</font>
+
+1237
+01:05:28,507 --> 01:05:30,509
+<font size="41">{\an1}SHIRLEY: When you are
+the only woman</font>
+
+1238
+01:05:30,593 --> 01:05:33,596
+<font size="41">{\an1}in a male-dominated environment,</font>
+
+1239
+01:05:33,679 --> 01:05:37,558
+<font size="41">{\an1}no matter what the relationship
+is with your peers</font>
+
+1240
+01:05:37,642 --> 01:05:39,185
+<font size="41">{\an1}or your employees,</font>
+
+1241
+01:05:39,268 --> 01:05:42,146
+<font size="41">{\an1}it's still, I think, very
+complicated and complex.</font>
+
+1242
+01:05:42,229 --> 01:05:44,649
+<font size="41">{\an1}Men have not been raised
+to believe</font>
+
+1243
+01:05:44,732 --> 01:05:45,983
+<font size="41">{\an1}that women should have</font>
+
+1244
+01:05:46,067 --> 01:05:49,070
+<font size="41">{\an1}as much social and economic
+power as they do.</font>
+
+1245
+01:05:50,237 --> 01:05:53,491
+<font size="41">{\an1}I didn't pay attention to
+who her band was. But...</font>
+
+1246
+01:05:55,117 --> 01:05:58,162
+<font size="41">{\an1}were we supposed to?
+(CHUCKLES)</font>
+
+1247
+01:05:58,245 --> 01:06:00,164
+<font size="41">{\an1}-ALANIS: Michelle. There she is.
+-Hi.</font>
+
+1248
+01:06:00,247 --> 01:06:02,375
+<font size="41">{\an1}-ALANIS: Hi, cutie.
+-Hi.</font>
+
+1249
+01:06:02,458 --> 01:06:04,251
+<font size="41">{\an1}MICHELE: The fact
+that the band wasn't</font>
+
+1250
+01:06:04,335 --> 01:06:06,837
+<font size="41">{\an1}"Alanis Morissette
+and the Heartbreakers",</font>
+
+1251
+01:06:07,672 --> 01:06:09,548
+<font size="41">{\an1}the fact that they weren't</font>
+
+1252
+01:06:09,632 --> 01:06:13,177
+<font size="41">{\an1}headlining with their names
+and Alanis,</font>
+
+1253
+01:06:13,260 --> 01:06:15,680
+<font size="41">{\an1}it might have been
+hard for them.</font>
+
+1254
+01:06:18,224 --> 01:06:21,060
+<font size="41">{\an1}It was what it was.
+I mean, it's my record.</font>
+
+1255
+01:06:21,143 --> 01:06:22,144
+<font size="41">{\an1}This is Jagged Little Pill.</font>
+
+1256
+01:06:22,228 --> 01:06:25,064
+<font size="41">{\an1}And you're all knocking it
+out of the park</font>
+
+1257
+01:06:25,147 --> 01:06:28,901
+<font size="41">{\an1}and taking it to a whole
+other level.</font>
+
+1258
+01:06:28,984 --> 01:06:33,656
+<font size="41">{\an1}But there was no way around
+the fact that it was me.</font>
+
+1259
+01:06:35,282 --> 01:06:36,534
+<font size="41">{\an1}You auditioned for--</font>
+
+1260
+01:06:36,617 --> 01:06:40,788
+<font size="41">{\an1}You auditioned to be
+in the band for a solo artist.</font>
+
+1261
+01:06:40,871 --> 01:06:42,915
+<font size="41">{\an1}So, if that's not what
+you're okay with...</font>
+
+1262
+01:06:44,208 --> 01:06:45,459
+<font size="41">{\an1}you don't have to be here.</font>
+
+1263
+01:06:45,543 --> 01:06:48,546
+<font size="41">{\an1}♪ ("YOU OUGHTA KNOW" BY SCALA
+& KOLACNY BROTHERS PLAYS) ♪</font>
+
+1264
+01:06:48,629 --> 01:06:51,841
+<font size="41">{\an1}♪ I want you to know ♪</font>
+
+1265
+01:06:51,924 --> 01:06:55,428
+<font size="41">{\an1}♪ That I'm happy for you ♪</font>
+
+1266
+01:06:56,470 --> 01:06:59,890
+<font size="41">{\an1}♪ I wish nothing but ♪</font>
+
+1267
+01:06:59,974 --> 01:07:03,185
+<font size="41">{\an1}♪ The best for you both ♪</font>
+
+1268
+01:07:03,269 --> 01:07:07,148
+<font size="41">{\an1}♪ An older version of me
+Is she perverted like me? ♪</font>
+
+1269
+01:07:07,231 --> 01:07:10,943
+<font size="41">{\an1}♪ Will she go down on you
+in a theatre? ♪</font>
+
+1270
+01:07:11,026 --> 01:07:13,154
+<font size="41">{\an1}♪ Does she speak eloquently? ♪</font>
+
+1271
+01:07:13,237 --> 01:07:15,114
+<font size="41">{\an1}♪ And would she have your baby ♪</font>
+
+1272
+01:07:15,197 --> 01:07:19,118
+<font size="41">{\an1}♪ I'm sure she'd make
+a really excellent mother ♪</font>
+
+1273
+01:07:19,201 --> 01:07:21,036
+<font size="41">{\an1}♪ 'Cause the love that you gave
+that we made ♪</font>
+
+1274
+01:07:21,120 --> 01:07:24,832
+<font size="41">{\an1}♪ Wasn't able to make it enough
+for you to be open wide ♪</font>
+
+1275
+01:07:25,750 --> 01:07:27,585
+<font size="41">{\an1}♪ No ♪</font>
+
+1276
+01:07:27,668 --> 01:07:29,295
+<font size="41">{\an1}♪ And every time
+you speak her name ♪</font>
+
+1277
+01:07:29,378 --> 01:07:32,465
+<font size="41">{\an1}♪ Does she know how you told me
+you'd hold me until you died ♪</font>
+
+1278
+01:07:32,548 --> 01:07:34,967
+<font size="41">{\an1}♪ Till you died
+But you're still alive ♪</font>
+
+1279
+01:07:35,050 --> 01:07:38,804
+<font size="41">{\an1}♪ But I'm here to remind you ♪</font>
+
+1280
+01:07:38,888 --> 01:07:40,806
+<font size="41">{\an1}♪ Of the mess you left... ♪</font>
+
+1281
+01:07:40,890 --> 01:07:44,018
+<font size="41">{\an1}LISA: As soon as Alanis'
+started becoming a thing,</font>
+
+1282
+01:07:44,101 --> 01:07:46,812
+<font size="41">{\an1}of course came the idea
+that she was Svengali'd</font>
+
+1283
+01:07:46,896 --> 01:07:49,148
+<font size="41">{\an1}because she wrote the record
+with Glen Ballard.</font>
+
+1284
+01:07:49,231 --> 01:07:52,693
+<font size="41">{\an1}Therefore, clearly, it's good,
+so it had to come from a man.</font>
+
+1285
+01:07:54,737 --> 01:07:57,782
+<font size="41">{\an1}SHIRLEY: It's still an instinct
+to diminish any woman</font>
+
+1286
+01:07:57,865 --> 01:08:01,202
+<font size="41">{\an1}who isn't willing to participate</font>
+
+1287
+01:08:01,285 --> 01:08:05,414
+<font size="41">{\an1}in the little box that has been
+carved out for her in society.</font>
+
+1288
+01:08:05,498 --> 01:08:08,042
+<font size="41">{\an1}HANIF: All the
+Jagged Little Pill
+reviews that I read</font>
+
+1289
+01:08:08,125 --> 01:08:09,251
+<font size="41">{\an1}were written by men</font>
+
+1290
+01:08:09,335 --> 01:08:13,839
+<font size="41">{\an1}who could not move
+beyond this binary of,</font>
+
+1291
+01:08:13,923 --> 01:08:16,675
+<font size="41">{\an1}"Well, she's angrier
+than we'd like her to be."</font>
+
+1292
+01:08:16,759 --> 01:08:19,512
+<font size="41">{\an1}ALANIS: When I write really
+angry songs about someone,</font>
+
+1293
+01:08:19,594 --> 01:08:21,721
+<font size="41">{\an1}I'm not writing
+to get back at that person,</font>
+
+1294
+01:08:21,806 --> 01:08:23,349
+<font size="41">{\an1}I'm writing because
+it's the only environment</font>
+
+1295
+01:08:23,432 --> 01:08:26,393
+<font size="41">{\an1}where I can get angry and not
+have it be destructive.</font>
+
+1296
+01:08:26,477 --> 01:08:31,232
+<font size="41">{\an1}It's just an expression,
+unjudged, uncensored.</font>
+
+1297
+01:08:31,315 --> 01:08:34,193
+<font size="41">{\an1}It's a very pure, sacred place
+to me.</font>
+
+1298
+01:08:35,443 --> 01:08:38,863
+<font size="41">{\an1}JOHANNA: "You Oughta Know"
+created this perception</font>
+
+1299
+01:08:38,948 --> 01:08:43,702
+<font size="41">{\an1}that Alanis was this
+rageful, vengeful,</font>
+
+1300
+01:08:43,786 --> 01:08:45,996
+<font size="41">{\an1}angry young woman.</font>
+
+1301
+01:08:46,080 --> 01:08:47,997
+<font size="41">{\an1}HANIF: And of course,
+that's gendered, right?</font>
+
+1302
+01:08:48,082 --> 01:08:50,209
+<font size="41">{\an1}Of course, so much of it was,
+at its core,</font>
+
+1303
+01:08:50,291 --> 01:08:52,920
+<font size="41">{\an1}"Well, why is this woman
+so angry?"</font>
+
+1304
+01:08:53,003 --> 01:08:55,548
+<font size="41">{\an1}Even in the reviews that praised
+Jagged Little Pill,</font>
+
+1305
+01:08:55,630 --> 01:08:57,383
+<font size="41">{\an1}there are people who were
+just, like, "Well, gosh,</font>
+
+1306
+01:08:57,466 --> 01:08:58,925
+<font size="41">{\an1}she's just so angry."</font>
+
+1307
+01:09:00,094 --> 01:09:02,304
+<font size="41">{\an1}They were bearing witness
+to someone who was</font>
+
+1308
+01:09:02,388 --> 01:09:04,849
+<font size="41">{\an1}an immensely gifted writer.</font>
+
+1309
+01:09:04,932 --> 01:09:07,268
+<font size="41">{\an1}It was easier to kind of, like,
+backhandedly compliment</font>
+
+1310
+01:09:07,351 --> 01:09:10,353
+<font size="41">{\an1}the writing while couching
+it in, "But she's so angry."</font>
+
+1311
+01:09:12,439 --> 01:09:15,943
+<font size="41">{\an1}ALANIS: Empowerment
+as a young woman in the '90s</font>
+
+1312
+01:09:16,026 --> 01:09:18,487
+<font size="41">{\an1}was exciting for a lot
+of people.</font>
+
+1313
+01:09:18,571 --> 01:09:23,367
+<font size="41">{\an1}But it was also not good news
+for the patriarchy.</font>
+
+1314
+01:09:23,450 --> 01:09:27,705
+<font size="41">{\an1}All of a sudden, I started
+naming it or singing about it.</font>
+
+1315
+01:09:27,788 --> 01:09:29,915
+<font size="41">{\an1}That was not welcome.</font>
+
+1316
+01:09:29,999 --> 01:09:33,210
+<font size="41">{\an1}If you spoke up, you were just
+immediately shut down...</font>
+
+1317
+01:09:34,460 --> 01:09:35,587
+<font size="41">{\an1}and shamed.</font>
+
+1318
+01:09:35,671 --> 01:09:36,797
+<font size="41">{\an1}♪ That you gave to me ♪</font>
+
+1319
+01:09:36,880 --> 01:09:39,842
+<font size="41">{\an1}♪ You, you, you oughta know ♪</font>
+
+1320
+01:09:43,219 --> 01:09:46,348
+<font size="41">{\an1}The point in my writing
+these songs...</font>
+
+1321
+01:09:46,432 --> 01:09:47,933
+<font size="41">{\an1}I was not writing to punish.</font>
+
+1322
+01:09:48,017 --> 01:09:50,644
+<font size="41">{\an1}I was writing to express
+and get it out of my body</font>
+
+1323
+01:09:50,728 --> 01:09:52,646
+<font size="41">{\an1}because I didn't want
+to get sick.</font>
+
+1324
+01:09:54,523 --> 01:09:57,067
+<font size="41">{\an1}When I was younger, I spent
+a lot of time with adults.</font>
+
+1325
+01:09:57,151 --> 01:10:00,487
+<font size="41">{\an1}And I immersed myself in
+an industry that, you know,</font>
+
+1326
+01:10:00,571 --> 01:10:02,781
+<font size="41">{\an1}forces you to have an
+accelerated growth.</font>
+
+1327
+01:10:02,865 --> 01:10:04,950
+<font size="41">{\an1}So you have to grow up
+in order to control</font>
+
+1328
+01:10:05,034 --> 01:10:06,410
+<font size="41">{\an1}what's happening to you,
+I suppose.</font>
+
+1329
+01:10:06,493 --> 01:10:08,704
+<font size="41">{\an1}Yeah, self-protection,
+self-preservation.</font>
+
+1330
+01:10:09,914 --> 01:10:11,373
+<font size="41">{\an1}I mean, I had no idea what
+the concept</font>
+
+1331
+01:10:11,457 --> 01:10:13,291
+<font size="41">{\an1}of "professional boundary"
+meant.</font>
+
+1332
+01:10:13,375 --> 01:10:15,127
+<font size="41">{\an1}But it was me getting
+a sense of...</font>
+
+1333
+01:10:16,962 --> 01:10:18,964
+<font size="41">{\an1}boundaries, or lack thereof.</font>
+
+1334
+01:10:19,048 --> 01:10:20,633
+<font size="41">{\an1}INTERVIEWER: Have you had
+some bad loves?</font>
+
+1335
+01:10:20,716 --> 01:10:21,800
+<font size="41">{\an1}Yes, definitely.</font>
+
+1336
+01:10:21,884 --> 01:10:24,011
+<font size="41">{\an1}I've had a lot of sort of
+negative relationships,</font>
+
+1337
+01:10:24,094 --> 01:10:25,888
+<font size="41">{\an1}definitely. Um...</font>
+
+1338
+01:10:25,971 --> 01:10:29,141
+<font size="41">{\an1}partly-- you know, partly my
+responsibility, really.</font>
+
+1339
+01:10:29,224 --> 01:10:32,269
+<font size="41">{\an1}I take-- You know,
+I take responsibility for those.</font>
+
+1340
+01:10:32,353 --> 01:10:34,188
+<font size="41">{\an1}No, no, no, you don't have
+to blame yourself.</font>
+
+1341
+01:10:34,271 --> 01:10:37,273
+<font size="41">{\an1}I'm not blaming myself.
+I'm taking part responsibility.</font>
+
+1342
+01:10:40,861 --> 01:10:43,447
+<font size="41">{\an1}Me not telling specific
+information about</font>
+
+1343
+01:10:43,530 --> 01:10:45,282
+<font size="41">{\an1}my experience as a teenager</font>
+
+1344
+01:10:45,366 --> 01:10:50,371
+<font size="41">{\an1}was almost solely around
+wanting to protect.</font>
+
+1345
+01:10:51,538 --> 01:10:54,166
+<font size="41">{\an1}Protect my parents, protect...</font>
+
+1346
+01:10:54,250 --> 01:10:58,045
+<font size="41">{\an1}my brothers,
+protect future partners,</font>
+
+1347
+01:10:58,128 --> 01:11:00,880
+<font size="41">{\an1}protect myself,
+protect my physical safety.</font>
+
+1348
+01:11:02,549 --> 01:11:03,550
+<font size="41">{\an1}Yeah.</font>
+
+1349
+01:11:05,344 --> 01:11:06,344
+<font size="41">{\an1}I'm gonna need some help,</font>
+
+1350
+01:11:06,428 --> 01:11:08,055
+<font size="41">{\an1}'cause I never talk
+about this shit.</font>
+
+1351
+01:11:09,682 --> 01:11:10,975
+<font size="41">{\an1}There was a lot of shame</font>
+
+1352
+01:11:11,058 --> 01:11:15,103
+<font size="41">{\an1}around having any kind of
+victimization of any kind.</font>
+
+1353
+01:11:15,187 --> 01:11:17,523
+<font size="41">{\an1}And it took me years in therapy
+to even admit</font>
+
+1354
+01:11:17,606 --> 01:11:19,984
+<font size="41">{\an1}that there had been any kind
+of victimization on my part.</font>
+
+1355
+01:11:20,067 --> 01:11:21,860
+<font size="41">{\an1}I would always say, you know,</font>
+
+1356
+01:11:21,943 --> 01:11:23,320
+<font size="41">{\an1}"I was consenting."
+You know?</font>
+
+1357
+01:11:23,404 --> 01:11:26,156
+<font size="41">{\an1}And then I'd be reminded, like,
+"Hey, you were 15."</font>
+
+1358
+01:11:26,240 --> 01:11:27,825
+<font size="41">{\an1}"You're not consenting at 15."</font>
+
+1359
+01:11:27,907 --> 01:11:30,160
+<font size="41">{\an1}Now I'm like, "Oh yeah,
+they're all pedophiles."</font>
+
+1360
+01:11:30,244 --> 01:11:31,704
+<font size="41">{\an1}"It's all statutory rape."</font>
+
+1361
+01:11:35,499 --> 01:11:38,377
+<font size="41">{\an1}I did tell a few people
+and they--</font>
+
+1362
+01:11:38,460 --> 01:11:41,964
+<font size="41">{\an1}You know, it kind of fell
+on deaf ears a little bit.</font>
+
+1363
+01:11:42,047 --> 01:11:46,135
+<font size="41">{\an1}It would usually be a "stand up,
+walk out of the room" moment.</font>
+
+1364
+01:11:46,218 --> 01:11:49,221
+<font size="41">{\an1}So a lot of people say, "Why did
+that woman wait 30 years?"</font>
+
+1365
+01:11:49,304 --> 01:11:51,639
+<font size="41">{\an1}I'm like, "Fuck off, they didn't
+wait 30 years."</font>
+
+1366
+01:11:51,724 --> 01:11:54,393
+<font size="41">{\an1}"No one was listening, or their
+livelihood was threatened,</font>
+
+1367
+01:11:54,476 --> 01:11:56,895
+<font size="41">{\an1}or their family was threatened."</font>
+
+1368
+01:11:56,978 --> 01:11:59,982
+<font size="41">{\an1}So, yeah, the whole
+"why do women wait" thing,</font>
+
+1369
+01:12:00,065 --> 01:12:01,900
+<font size="41">{\an1}women don't wait.</font>
+
+1370
+01:12:01,984 --> 01:12:03,318
+<font size="41">{\an1}A culture doesn't listen.</font>
+
+1371
+01:12:03,943 --> 01:12:06,071
+<font size="41">{\an1}(PROJECTOR WHIRRING)</font>
+
+1372
+01:12:26,341 --> 01:12:28,761
+<font size="41">{\an1}HANIF: Whenever people talk
+about the album,</font>
+
+1373
+01:12:28,844 --> 01:12:32,973
+<font size="41">{\an1}they are often quick to talk
+about the anger in it,</font>
+
+1374
+01:12:33,057 --> 01:12:37,978
+<font size="41">{\an1}but not about the release or
+the joy or the pleasure in it.</font>
+
+1375
+01:12:38,062 --> 01:12:41,857
+<font size="41">{\an1}Because Jagged Little Pill
+is also a humorous album.</font>
+
+1376
+01:12:41,940 --> 01:12:45,110
+<font size="41">{\an1}And it's also playful,
+and it's also layered.</font>
+
+1377
+01:12:45,193 --> 01:12:48,489
+<font size="41">{\an1}It's also heartbreaking,
+but promising.</font>
+
+1378
+01:12:49,823 --> 01:12:52,659
+<font size="41">{\an1}None of the rest of that album
+is that angry.</font>
+
+1379
+01:12:54,327 --> 01:12:56,580
+<font size="41">{\an1}ALANIS: What about songs like
+"Head Over Feet"?</font>
+
+1380
+01:12:56,663 --> 01:12:58,957
+<font size="41">{\an1}What about songs like
+"You Learn"?</font>
+
+1381
+01:12:59,041 --> 01:13:00,959
+<font size="41">{\an1}KEVIN: I mean, come on,
+you throw</font>
+
+1382
+01:13:01,043 --> 01:13:02,294
+<font size="41">{\an1}a fucking rock at that album,</font>
+
+1383
+01:13:02,377 --> 01:13:05,755
+<font size="41">{\an1}you hit a song that somebody
+sang, anthem-like,</font>
+
+1384
+01:13:05,839 --> 01:13:07,508
+<font size="41">{\an1}over and over and over again.</font>
+
+1385
+01:13:09,300 --> 01:13:12,262
+<font size="41">{\an1}GLEN: There's only one song that
+I wanted on the record</font>
+
+1386
+01:13:12,346 --> 01:13:14,181
+<font size="41">{\an1}that nobody really wanted
+on the record.</font>
+
+1387
+01:13:14,264 --> 01:13:15,974
+<font size="41">{\an1}It was called "Ironic".</font>
+
+1388
+01:13:16,058 --> 01:13:20,938
+<font size="41">{\an1}♪ ("IRONIC"
+BY ALANIS MORISSETTE PLAYS) ♪</font>
+
+1389
+01:13:21,021 --> 01:13:24,358
+<font size="41">{\an1}I begged. And we put it
+way down the list.</font>
+
+1390
+01:13:27,486 --> 01:13:29,737
+<font size="41">{\an1}♪ An old man ♪</font>
+
+1391
+01:13:30,614 --> 01:13:32,449
+<font size="41">{\an1}♪ Turned 98 ♪</font>
+
+1392
+01:13:33,157 --> 01:13:36,411
+<font size="41">{\an1}♪ He won the lottery ♪</font>
+
+1393
+01:13:36,495 --> 01:13:38,831
+<font size="41">{\an1}♪ And died the next day ♪</font>
+
+1394
+01:13:39,998 --> 01:13:42,459
+<font size="41">{\an1}The idea of something that's
+almost perfect</font>
+
+1395
+01:13:42,543 --> 01:13:43,877
+<font size="41">{\an1}and then something ruins it.</font>
+
+1396
+01:13:45,754 --> 01:13:48,674
+<font size="41">{\an1}♪ It's a death row pardon ♪</font>
+
+1397
+01:13:48,757 --> 01:13:51,468
+<font size="41">{\an1}♪ Two minutes too late ♪</font>
+
+1398
+01:13:51,552 --> 01:13:53,594
+<font size="41">{\an1}♪ Isn't it ironic? ♪</font>
+
+1399
+01:13:54,513 --> 01:13:56,473
+<font size="41">{\an1}♪ Don't you think? ♪</font>
+
+1400
+01:13:56,557 --> 01:13:59,559
+<font size="41">{\an1}For her to write, "It's like
+rain on your wedding day..."</font>
+
+1401
+01:14:00,309 --> 01:14:01,395
+<font size="41">{\an1}It's like...</font>
+
+1402
+01:14:02,228 --> 01:14:03,063
+<font size="41">{\an1}What a hook.</font>
+
+1403
+01:14:03,147 --> 01:14:05,816
+<font size="41">{\an1}I'm sorry, she just
+fucking nailed it.</font>
+
+1404
+01:14:05,898 --> 01:14:09,570
+<font size="41">{\an1}♪ It's like rain ♪</font>
+
+1405
+01:14:09,653 --> 01:14:11,612
+<font size="41">{\an1}♪ On your wedding day ♪</font>
+
+1406
+01:14:11,697 --> 01:14:15,159
+<font size="41">{\an1}♪ It's a free ride ♪</font>
+
+1407
+01:14:15,242 --> 01:14:17,327
+<font size="41">{\an1}♪ When you've already paid ♪</font>
+
+1408
+01:14:17,411 --> 01:14:20,831
+<font size="41">{\an1}♪ It's the good advice ♪</font>
+
+1409
+01:14:20,914 --> 01:14:23,333
+<font size="41">{\an1}♪ That you just didn't take ♪</font>
+
+1410
+01:14:23,416 --> 01:14:26,378
+<font size="41">{\an1}♪ And who would've thought? ♪</font>
+
+1411
+01:14:26,460 --> 01:14:29,339
+<font size="41">{\an1}♪ It figures ♪</font>
+
+1412
+01:14:29,423 --> 01:14:34,344
+<font size="41">{\an1}♪ Mr. Play-It-Safe
+was afraid to fly ♪</font>
+
+1413
+01:14:34,428 --> 01:14:40,475
+<font size="41">{\an1}♪ He packed his suitcase
+and kissed his kids goodbye ♪</font>
+
+1414
+01:14:40,559 --> 01:14:47,023
+<font size="41">{\an1}♪ He waited his whole damn life
+to take that flight ♪</font>
+
+1415
+01:14:47,107 --> 01:14:51,153
+<font size="41">{\an1}HANIF: She almost writes
+with communal gathering in mind.</font>
+
+1416
+01:14:52,654 --> 01:14:55,449
+<font size="41">{\an1}Alanis is one of those artists
+who has mastered</font>
+
+1417
+01:14:55,532 --> 01:14:58,160
+<font size="41">{\an1}the shout-along crescendo.</font>
+
+1418
+01:14:58,243 --> 01:15:03,874
+<font size="41">{\an1}♪ It's like rain
+on your wedding day ♪</font>
+
+1419
+01:15:03,957 --> 01:15:09,838
+<font size="41">{\an1}♪ It's a free ride
+when you've already paid ♪</font>
+
+1420
+01:15:09,922 --> 01:15:16,261
+<font size="41">{\an1}♪ It's the good advice
+that you just didn't take ♪</font>
+
+1421
+01:15:16,344 --> 01:15:23,434
+<font size="41">{\an1}♪ And who would have thought?
+It figures ♪</font>
+
+1422
+01:15:25,353 --> 01:15:29,566
+<font size="41">{\an1}(CROWD CHEERS)</font>
+
+1423
+01:15:29,650 --> 01:15:32,818
+<font size="41">{\an1}A-one, and a-two,
+and a-one, two, three.</font>
+
+1424
+01:15:32,903 --> 01:15:37,324
+<font size="41">{\an1}♪ Well, life has a funny way
+of sneaking up on you ♪</font>
+
+1425
+01:15:37,407 --> 01:15:40,285
+<font size="41">{\an1}♪ When you think
+everything's okay ♪</font>
+
+1426
+01:15:40,369 --> 01:15:44,748
+<font size="41">{\an1}♪ And everything's going right ♪</font>
+
+1427
+01:15:46,166 --> 01:15:47,291
+<font size="41">{\an1}♪ And yeah, well ♪</font>
+
+1428
+01:15:47,376 --> 01:15:50,712
+<font size="41">{\an1}♪ Life has a funnier way
+of helping you out ♪</font>
+
+1429
+01:15:50,796 --> 01:15:53,882
+<font size="41">{\an1}♪ When you think
+everything's gone very wrong ♪</font>
+
+1430
+01:15:53,966 --> 01:15:57,594
+<font size="41">{\an1}♪ And everything blows up
+in your face ♪</font>
+
+1431
+01:16:00,806 --> 01:16:03,308
+<font size="41">{\an1}KEVIN: It's a female artist
+singing about</font>
+
+1432
+01:16:03,392 --> 01:16:05,394
+<font size="41">{\an1}a female life and identity</font>
+
+1433
+01:16:05,477 --> 01:16:07,521
+<font size="41">{\an1}that transcended gender,</font>
+
+1434
+01:16:07,603 --> 01:16:09,898
+<font size="41">{\an1}where dudes could be like,
+"I feel the same way."</font>
+
+1435
+01:16:11,692 --> 01:16:14,778
+<font size="41">{\an1}HANIF: She's also great
+with imagery.</font>
+
+1436
+01:16:14,861 --> 01:16:19,616
+<font size="41">{\an1}While people were arguing over
+the linguistic use of irony,</font>
+
+1437
+01:16:19,700 --> 01:16:23,120
+<font size="41">{\an1}I think they missed out
+on the imagery.</font>
+
+1438
+01:16:23,202 --> 01:16:25,455
+<font size="41">{\an1}♪ It's like 10,000 spoons ♪</font>
+
+1439
+01:16:25,539 --> 01:16:28,291
+<font size="41">{\an1}♪ When all you need is a knife ♪</font>
+
+1440
+01:16:28,375 --> 01:16:30,794
+<font size="41">{\an1}GLEN: Ten thousand spoons
+when all you need is a knife.</font>
+
+1441
+01:16:30,877 --> 01:16:33,922
+<font size="41">{\an1}Who comes up with that shit?
+Alanis, you know?</font>
+
+1442
+01:16:35,424 --> 01:16:37,217
+<font size="41">{\an1}♪ Isn't it ironic? ♪</font>
+
+1443
+01:16:37,300 --> 01:16:39,094
+<font size="41">{\an1}HANIF: When you talk about rain
+on your wedding day,</font>
+
+1444
+01:16:39,177 --> 01:16:41,972
+<font size="41">{\an1}I can see and feel
+the disappointment</font>
+
+1445
+01:16:42,055 --> 01:16:43,139
+<font size="41">{\an1}that comes with that.</font>
+
+1446
+01:16:43,223 --> 01:16:45,642
+<font size="41">{\an1}I didn't know what that was
+when I was 13, 14.</font>
+
+1447
+01:16:45,726 --> 01:16:49,103
+<font size="41">{\an1}♪ It's like rain ♪</font>
+
+1448
+01:16:49,187 --> 01:16:51,982
+<font size="41">{\an1}♪ On your wedding day ♪</font>
+
+1449
+01:16:52,065 --> 01:16:54,818
+<font size="41">{\an1}♪ It's a free ride ♪</font>
+
+1450
+01:16:54,901 --> 01:16:57,237
+<font size="41">{\an1}♪ When you've already paid ♪</font>
+
+1451
+01:16:57,321 --> 01:17:00,490
+<font size="41">{\an1}♪ It's the good advice ♪</font>
+
+1452
+01:17:00,574 --> 01:17:03,535
+<font size="41">{\an1}♪ That you just didn't take ♪</font>
+
+1453
+01:17:03,618 --> 01:17:06,371
+<font size="41">{\an1}♪ And who would have thought? ♪</font>
+
+1454
+01:17:06,455 --> 01:17:10,834
+<font size="41">{\an1}♪ It figures ♪</font>
+
+1455
+01:17:12,127 --> 01:17:13,378
+<font size="41">{\an1}♪ (VOCALIZING) ♪</font>
+
+1456
+01:17:14,630 --> 01:17:15,880
+<font size="41">{\an1}♪ Yeah, yeah, well ♪</font>
+
+1457
+01:17:15,964 --> 01:17:19,800
+<font size="41">{\an1}♪ Life has a funny way
+of sneaking up on you ♪</font>
+
+1458
+01:17:19,885 --> 01:17:26,892
+<font size="41">{\an1}♪ (VOCALIZING) ♪</font>
+
+1459
+01:17:34,523 --> 01:17:38,236
+<font size="41">{\an1}(CROWD CHEERS)</font>
+
+1460
+01:17:55,879 --> 01:17:57,380
+<font size="41">{\an1}DRIVER: Hey, do you want me
+to go straight</font>
+
+1461
+01:17:57,464 --> 01:17:59,216
+<font size="41">{\an1}-and we'll come back around?
+-Want to get down?</font>
+
+1462
+01:18:01,718 --> 01:18:03,011
+<font size="41">{\an1}Here you go.</font>
+
+1463
+01:18:03,428 --> 01:18:04,554
+<font size="41">{\an1}God.</font>
+
+1464
+01:18:09,934 --> 01:18:12,062
+<font size="41">{\an1}ALANIS: I couldn't leave
+my hotel room.</font>
+
+1465
+01:18:13,397 --> 01:18:16,023
+<font size="41">{\an1}We'd land somewhere, and there'd
+be 10,000, 20,000 people.</font>
+
+1466
+01:18:16,108 --> 01:18:19,611
+<font size="41">{\an1}And I'd walk through, and people
+would snip pieces of my hair</font>
+
+1467
+01:18:19,693 --> 01:18:20,904
+<font size="41">{\an1}or just punch me.</font>
+
+1468
+01:18:22,656 --> 01:18:25,075
+<font size="41">{\an1}That's where I was like,
+"This can't be personal."</font>
+
+1469
+01:18:25,157 --> 01:18:27,244
+<font size="41">{\an1}"This isn't personal."</font>
+
+1470
+01:18:27,327 --> 01:18:30,330
+<font size="41">{\an1}"This is just... a thing...</font>
+
+1471
+01:18:31,623 --> 01:18:33,959
+<font size="41">{\an1}that has almost nothing
+to do with me."</font>
+
+1472
+01:18:36,503 --> 01:18:39,923
+<font size="41">{\an1}Being in the public eye is not
+a normal social construct.</font>
+
+1473
+01:18:41,591 --> 01:18:43,802
+<font size="41">{\an1}I used to will myself to go
+back to sleep,</font>
+
+1474
+01:18:43,885 --> 01:18:46,847
+<font size="41">{\an1}because my waking life
+felt like such a dream.</font>
+
+1475
+01:18:46,930 --> 01:18:49,891
+<font size="41">{\an1}And when I would sleep,
+it felt like a normal life.</font>
+
+1476
+01:18:49,975 --> 01:18:51,518
+<font size="41">{\an1}♪ And all I really want ♪</font>
+
+1477
+01:18:52,602 --> 01:18:54,228
+<font size="41">{\an1}♪ Is some comfort ♪</font>
+
+1478
+01:18:55,730 --> 01:18:59,109
+<font size="41">{\an1}♪ A way to get my hands untied ♪</font>
+
+1479
+01:19:00,818 --> 01:19:02,320
+<font size="41">{\an1}♪ And all I really want ♪</font>
+
+1480
+01:19:03,237 --> 01:19:05,031
+<font size="41">{\an1}♪ Is some justice ♪</font>
+
+1481
+01:19:05,657 --> 01:19:10,412
+<font size="41">{\an1}♪ (VOCALIZING) ♪</font>
+
+1482
+01:19:12,706 --> 01:19:19,504
+<font size="41">{\an1}♪ All I really want ♪</font>
+
+1483
+01:19:21,590 --> 01:19:26,219
+<font size="41">{\an1}(SPEAKING IN FOREIGN LANGUAGE)</font>
+
+1484
+01:19:26,303 --> 01:19:28,388
+<font size="41">{\an1}(CROWD CHEERS)</font>
+
+1485
+01:19:30,307 --> 01:19:31,683
+<font size="41">{\an1}ALANIS: You're in a lot
+of positions</font>
+
+1486
+01:19:31,766 --> 01:19:33,809
+<font size="41">{\an1}where you want
+to connect with people.</font>
+
+1487
+01:19:33,894 --> 01:19:35,520
+<font size="41">{\an1}There was less of a sense
+of community</font>
+
+1488
+01:19:35,603 --> 01:19:36,897
+<font size="41">{\an1}than I thought there would be.</font>
+
+1489
+01:19:36,980 --> 01:19:40,108
+<font size="41">{\an1}And there's a lot of illusion
+within all of what I do.</font>
+
+1490
+01:19:40,192 --> 01:19:43,195
+<font size="41">{\an1}There's a lot of mystery
+surrounding it.</font>
+
+1491
+01:19:43,278 --> 01:19:45,655
+<font size="41">{\an1}And when you really get inside
+of it and you realize</font>
+
+1492
+01:19:45,739 --> 01:19:48,492
+<font size="41">{\an1}that success as such may not
+give you what it has</font>
+
+1493
+01:19:48,575 --> 01:19:50,243
+<font size="41">{\an1}promised it would give you,</font>
+
+1494
+01:19:50,327 --> 01:19:52,537
+<font size="41">{\an1}it can be very disheartening
+but equally exciting</font>
+
+1495
+01:19:52,621 --> 01:19:54,831
+<font size="41">{\an1}because it allows you
+to question everything.</font>
+
+1496
+01:19:55,832 --> 01:19:58,376
+<font size="41">{\an1}So how are you?
+How was this tour for you?</font>
+
+1497
+01:19:58,460 --> 01:20:02,339
+<font size="41">{\an1}The most intense thing
+probably in my entire life.</font>
+
+1498
+01:20:02,422 --> 01:20:03,380
+<font size="41">{\an1}Really?</font>
+
+1499
+01:20:03,465 --> 01:20:05,175
+<font size="41">{\an1}TAYLOR: We toured hard.</font>
+
+1500
+01:20:05,258 --> 01:20:09,346
+<font size="41">{\an1}Eighteen months
+of hard-core touring.</font>
+
+1501
+01:20:09,429 --> 01:20:12,349
+<font size="41">{\an1}I mean, it was literally 18
+months of just fucking,</font>
+
+1502
+01:20:12,432 --> 01:20:13,767
+<font size="41">{\an1}"Where are we?"</font>
+
+1503
+01:20:13,850 --> 01:20:16,269
+<font size="41">{\an1}"Here's your hotel key."
+(SCOFFS)</font>
+
+1504
+01:20:18,271 --> 01:20:20,148
+<font size="41">{\an1}ALANIS: My work addiction
+wasn't really addressed.</font>
+
+1505
+01:20:20,232 --> 01:20:22,359
+<font size="41">{\an1}I didn't even know there
+was such thing.</font>
+
+1506
+01:20:22,442 --> 01:20:24,611
+<font size="41">{\an1}If we say we work
+till 5:00 in the morning,</font>
+
+1507
+01:20:24,693 --> 01:20:26,029
+<font size="41">{\an1}someone would go,
+"Oh, that's great."</font>
+
+1508
+01:20:26,112 --> 01:20:27,364
+<font size="41">{\an1}"You must have gotten so
+much done," you know?</font>
+
+1509
+01:20:27,447 --> 01:20:30,032
+<font size="41">{\an1}But if I said I did heroin
+till 5:00 in the morning,</font>
+
+1510
+01:20:30,116 --> 01:20:32,369
+<font size="41">{\an1}people would be concerned,
+understandably.</font>
+
+1511
+01:20:34,162 --> 01:20:38,458
+<font size="41">{\an1}TAYLOR: Life changing, good
+or bad, is still traumatic.</font>
+
+1512
+01:20:39,501 --> 01:20:44,047
+<font size="41">{\an1}And all of our lives changed
+on that tour.</font>
+
+1513
+01:20:46,675 --> 01:20:48,844
+<font size="41">{\an1}CHRIS: Thank God our last show's
+in Hawaii.</font>
+
+1514
+01:20:48,927 --> 01:20:51,596
+<font size="41">{\an1}What a beautiful place
+to finish it out.</font>
+
+1515
+01:20:51,680 --> 01:20:53,932
+<font size="41">{\an1}ALANIS: Yeah, in Hawaii,
+I just thought, "Oh my God...</font>
+
+1516
+01:20:55,016 --> 01:20:57,018
+<font size="41">{\an1}this is over for now," you know?</font>
+
+1517
+01:20:58,019 --> 01:21:00,230
+<font size="41">{\an1}And I hadn't lived anywhere.</font>
+
+1518
+01:21:00,313 --> 01:21:02,273
+<font size="41">{\an1}I didn't have a home
+for the whole tour.</font>
+
+1519
+01:21:02,357 --> 01:21:05,986
+<font size="41">{\an1}And, you know, friendship-wise,
+it was a very tenuous time</font>
+
+1520
+01:21:06,068 --> 01:21:09,489
+<font size="41">{\an1}in terms of, who do I trust?
+Who's a real friend?</font>
+
+1521
+01:21:09,573 --> 01:21:11,407
+<font size="41">{\an1}Who's here for opportunistic
+reasons?</font>
+
+1522
+01:21:11,491 --> 01:21:13,827
+<font size="41">{\an1}Who's here for exploitation
+reasons?</font>
+
+1523
+01:21:13,910 --> 01:21:16,454
+<font size="41">{\an1}Who's here because they
+actually love me?</font>
+
+1524
+01:21:17,664 --> 01:21:18,707
+<font size="41">{\an1}You know?</font>
+
+1525
+01:21:18,790 --> 01:21:23,335
+<font size="41">{\an1}♪ (ROCK MUSIC PLAYS) ♪</font>
+
+1526
+01:21:31,261 --> 01:21:34,598
+<font size="41">{\an1}(CROWD CHEERS)</font>
+
+1527
+01:21:55,911 --> 01:21:58,455
+<font size="41">{\an1}(CROWD CHEERS)</font>
+
+1528
+01:21:58,538 --> 01:22:00,332
+<font size="41">{\an1}Thank you very much, everyone.</font>
+
+1529
+01:22:00,415 --> 01:22:02,291
+<font size="41">{\an1}Thank you so much,
+it's been great.</font>
+
+1530
+01:22:03,209 --> 01:22:04,335
+<font size="41">{\an1}Bye.</font>
+
+1531
+01:22:09,424 --> 01:22:11,635
+<font size="41">{\an1}TAYLOR: We finished
+that last show in Hawaii.</font>
+
+1532
+01:22:12,969 --> 01:22:14,679
+<font size="41">{\an1}Yeah, I wasn't sure what was
+gonna happen.</font>
+
+1533
+01:22:18,642 --> 01:22:20,977
+<font size="41">{\an1}ALANIS: What are you gonna do
+when you're done for a while?</font>
+
+1534
+01:22:22,437 --> 01:22:24,773
+<font size="41">{\an1}TAYLOR: (SHARP EXHALE)
+God, I don't know.</font>
+
+1535
+01:22:24,856 --> 01:22:26,775
+<font size="41">{\an1}-Go crazy for a little while.
+-ALANIS: Yeah?</font>
+
+1536
+01:22:26,858 --> 01:22:29,903
+<font size="41">{\an1}You know, just play drums, surf.</font>
+
+1537
+01:22:29,986 --> 01:22:30,987
+<font size="41">{\an1}Surf?</font>
+
+1538
+01:22:31,071 --> 01:22:32,489
+<font size="41">{\an1}TAYLOR: And that's when I heard
+on the radio</font>
+
+1539
+01:22:32,572 --> 01:22:34,491
+<font size="41">{\an1}that Foo Fighters
+were looking for a drummer.</font>
+
+1540
+01:22:34,574 --> 01:22:38,286
+<font size="41">{\an1}And I knew I'd better
+figure out my next move.</font>
+
+1541
+01:22:39,245 --> 01:22:41,081
+<font size="41">{\an1}(BOTH CHUCKLE)</font>
+
+1542
+01:22:41,164 --> 01:22:42,832
+<font size="41">{\an1}-Okay, we won't use that.
+-Okay.</font>
+
+1543
+01:22:42,916 --> 01:22:45,085
+<font size="41">{\an1}TAYLOR: I went on to join
+the Foo Fighters.</font>
+
+1544
+01:22:46,335 --> 01:22:51,341
+<font size="41">{\an1}I remember calling her,
+and she cried. And I felt...</font>
+
+1545
+01:22:53,093 --> 01:22:55,261
+<font size="41">{\an1}Like I was leaving her,
+you know?</font>
+
+1546
+01:22:56,179 --> 01:22:58,431
+<font size="41">{\an1}But I also knew she didn't
+need me.</font>
+
+1547
+01:23:00,058 --> 01:23:02,727
+<font size="41">{\an1}It was definitely kind of
+a "breaking up of a family"</font>
+
+1548
+01:23:02,811 --> 01:23:05,730
+<font size="41">{\an1}sort of thing.
+After 18 months of that,</font>
+
+1549
+01:23:05,814 --> 01:23:08,858
+<font size="41">{\an1}I think that was hurtful to her.</font>
+
+1550
+01:23:08,942 --> 01:23:11,277
+<font size="41">{\an1}And I think she felt
+a little bit like I,</font>
+
+1551
+01:23:11,361 --> 01:23:12,404
+<font size="41">{\an1}you know, betrayed her.</font>
+
+1552
+01:23:12,487 --> 01:23:14,072
+<font size="41">{\an1}Okay, Taylor.</font>
+
+1553
+01:23:14,155 --> 01:23:17,157
+<font size="41">{\an1}-Simple messages. Little things.
+-All right.</font>
+
+1554
+01:23:17,242 --> 01:23:19,869
+<font size="41">{\an1}I was full devastated.</font>
+
+1555
+01:23:19,952 --> 01:23:22,038
+<font size="41">{\an1}You know, you spend time
+with these people,</font>
+
+1556
+01:23:22,121 --> 01:23:25,166
+<font size="41">{\an1}and you witness each other
+in these contexts</font>
+
+1557
+01:23:25,250 --> 01:23:26,710
+<font size="41">{\an1}that are really unusual,</font>
+
+1558
+01:23:26,793 --> 01:23:30,004
+<font size="41">{\an1}and then you go your
+separate ways.</font>
+
+1559
+01:23:30,088 --> 01:23:31,339
+<font size="41">{\an1}And it's almost like...</font>
+
+1560
+01:23:32,340 --> 01:23:36,219
+<font size="41">{\an1}their view of what had happened</font>
+
+1561
+01:23:36,678 --> 01:23:38,930
+<font size="41">{\an1}goes with them.</font>
+
+1562
+01:23:39,013 --> 01:23:42,934
+<font size="41">{\an1}And so it's almost like certain
+chapters and eras disappear</font>
+
+1563
+01:23:43,018 --> 01:23:44,936
+<font size="41">{\an1}when the witnesses disappear.</font>
+
+1564
+01:23:45,019 --> 01:23:50,233
+<font size="41">{\an1}♪ ("MARY JANE"
+BY ALANIS MORISSETTE PLAYS) ♪</font>
+
+1565
+01:23:51,526 --> 01:23:54,737
+<font size="41">{\an1}♪ What's the matter Mary Jane? ♪</font>
+
+1566
+01:23:54,821 --> 01:23:58,532
+<font size="41">{\an1}♪ Had a hard day? ♪</font>
+
+1567
+01:23:58,616 --> 01:24:04,371
+<font size="41">{\an1}♪ As you place the don't disturb
+sign on the door ♪</font>
+
+1568
+01:24:06,875 --> 01:24:10,503
+<font size="41">{\an1}♪ You lost your place
+in line again ♪</font>
+
+1569
+01:24:10,587 --> 01:24:14,799
+<font size="41">{\an1}♪ What a pity ♪</font>
+
+1570
+01:24:14,883 --> 01:24:19,971
+<font size="41">{\an1}♪ You never seem to want
+to dance anymore ♪</font>
+
+1571
+01:24:22,348 --> 01:24:29,189
+<font size="41">{\an1}♪ It's a long way down ♪</font>
+
+1572
+01:24:30,356 --> 01:24:37,405
+<font size="41">{\an1}♪ On this rollercoaster ♪</font>
+
+1573
+01:24:38,948 --> 01:24:43,036
+<font size="41">{\an1}♪ The last chance ♪</font>
+
+1574
+01:24:43,119 --> 01:24:46,831
+<font size="41">{\an1}♪ Streetcar ♪</font>
+
+1575
+01:24:46,915 --> 01:24:49,166
+<font size="41">{\an1}♪ Went off the track ♪</font>
+
+1576
+01:24:50,627 --> 01:24:52,378
+<font size="41">{\an1}♪ And you're on it ♪</font>
+
+1577
+01:24:56,257 --> 01:24:59,928
+<font size="41">{\an1}This is the most peaceful I've
+ever been in my whole life.</font>
+
+1578
+01:25:00,011 --> 01:25:04,224
+<font size="41">{\an1}With what this last year
+and a half has given me,</font>
+
+1579
+01:25:04,307 --> 01:25:06,643
+<font size="41">{\an1}you'd think that I wouldn't be
+peaceful right now.</font>
+
+1580
+01:25:06,726 --> 01:25:09,687
+<font size="41">{\an1}But I think it's forced me to go</font>
+
+1581
+01:25:09,771 --> 01:25:12,357
+<font size="41">{\an1}either to a peaceful place
+or a crazy place.</font>
+
+1582
+01:25:13,483 --> 01:25:18,487
+<font size="41">{\an1}♪ (VOCALIZING) ♪</font>
+
+1583
+01:25:27,914 --> 01:25:34,921
+<font size="41">{\an1}♪ You're the sweet crusader ♪</font>
+
+1584
+01:25:35,964 --> 01:25:42,512
+<font size="41">{\an1}♪ And you're on your way ♪</font>
+
+1585
+01:25:44,597 --> 01:25:49,227
+<font size="41">{\an1}♪ You're last great ♪</font>
+
+1586
+01:25:49,309 --> 01:25:53,064
+<font size="41">{\an1}♪ Innocent ♪</font>
+
+1587
+01:25:53,147 --> 01:25:58,903
+<font size="41">{\an1}♪ And that's why I love you ♪</font>
+
+1588
+01:26:03,867 --> 01:26:08,871
+<font size="41">{\an1}(CROWD CHEERS)</font>
+
+1589
+01:26:14,710 --> 01:26:19,257
+<font size="41">{\an1}I'm really happy right now,
+happy for my own reasons.</font>
+
+1590
+01:26:19,340 --> 01:26:21,968
+<font size="41">{\an1}Not happy because
+I've sold millions of records,</font>
+
+1591
+01:26:22,050 --> 01:26:23,803
+<font size="41">{\an1}not happy because--</font>
+
+1592
+01:26:23,887 --> 01:26:26,806
+<font size="41">{\an1}Not happy because I am
+playing stadiums,</font>
+
+1593
+01:26:26,889 --> 01:26:29,559
+<font size="41">{\an1}not happy because I'm touring
+the world necessarily,</font>
+
+1594
+01:26:29,642 --> 01:26:33,271
+<font size="41">{\an1}not happy because I'm "winning
+awards", quote, unquote.</font>
+
+1595
+01:26:33,353 --> 01:26:35,523
+<font size="41">{\an1}But I'm happy because I've
+finally reached a place</font>
+
+1596
+01:26:35,607 --> 01:26:36,983
+<font size="41">{\an1}where I can create what I want</font>
+
+1597
+01:26:37,066 --> 01:26:39,861
+<font size="41">{\an1}and where I don't have to worry
+about putting food on my plate.</font>
+
+1598
+01:26:42,362 --> 01:26:47,827
+<font size="41">{\an1}LORRAINE: For an artist
+who comes into it as themselves,</font>
+
+1599
+01:26:47,911 --> 01:26:50,371
+<font size="41">{\an1}with messy hair,</font>
+
+1600
+01:26:50,455 --> 01:26:51,748
+<font size="41">{\an1}with the clothes from
+their closet</font>
+
+1601
+01:26:51,831 --> 01:26:54,918
+<font size="41">{\an1}rather than what the record
+company dressed them in,</font>
+
+1602
+01:26:55,001 --> 01:27:00,632
+<font size="41">{\an1}somebody whose image
+wasn't concocted and fabricated,</font>
+
+1603
+01:27:00,715 --> 01:27:04,636
+<font size="41">{\an1}it's pretty phenomenal that she
+broke through as big as she did</font>
+
+1604
+01:27:04,719 --> 01:27:07,472
+<font size="41">{\an1}and has had the longevity
+that she has had,</font>
+
+1605
+01:27:07,555 --> 01:27:09,307
+<font size="41">{\an1}because none of that
+should have ever happened</font>
+
+1606
+01:27:09,389 --> 01:27:12,936
+<font size="41">{\an1}if you went along with
+what the rules are</font>
+
+1607
+01:27:13,019 --> 01:27:14,938
+<font size="41">{\an1}in rock and pop fame.</font>
+
+1608
+01:27:15,021 --> 01:27:17,106
+<font size="41">{\an1}But nobody told her that,
+apparently.</font>
+
+1609
+01:27:18,441 --> 01:27:20,610
+<font size="41">{\an1}Alanis opened a bunch
+of different doors</font>
+
+1610
+01:27:20,693 --> 01:27:22,654
+<font size="41">{\an1}for artists that came after her.</font>
+
+1611
+01:27:24,322 --> 01:27:29,202
+<font size="41">{\an1}She inspired a generation</font>
+
+1612
+01:27:29,285 --> 01:27:33,706
+<font size="41">{\an1}of confessional female
+singer-songwriters.</font>
+
+1613
+01:27:33,790 --> 01:27:35,791
+<font size="41">{\an1}♪ And I'm here ♪</font>
+
+1614
+01:27:35,875 --> 01:27:38,962
+<font size="41">{\an1}♪ To remind you ♪</font>
+
+1615
+01:27:39,045 --> 01:27:42,590
+<font size="41">{\an1}SHIRLEY: Only in hindsight
+am I aware of what Alanis did</font>
+
+1616
+01:27:42,674 --> 01:27:45,343
+<font size="41">{\an1}for every woman that's
+come up behind her.</font>
+
+1617
+01:27:45,425 --> 01:27:47,594
+<font size="41">{\an1}♪ To deny me ♪</font>
+
+1618
+01:27:47,679 --> 01:27:50,181
+<font size="41">{\an1}♪ Of the cross you bear ♪</font>
+
+1619
+01:27:50,264 --> 01:27:53,893
+<font size="41">{\an1}SHIRLEY: When you're battering
+down 30 million doors,</font>
+
+1620
+01:27:53,977 --> 01:27:57,814
+<font size="41">{\an1}that's helping everyone.
+That's helping every woman</font>
+
+1621
+01:27:57,897 --> 01:28:03,111
+<font size="41">{\an1}have just that little more
+chance of being successful.</font>
+
+1622
+01:28:05,530 --> 01:28:07,407
+<font size="41">{\an1}LORRAINE: After
+Jagged Little Pill,</font>
+
+1623
+01:28:07,490 --> 01:28:10,785
+<font size="41">{\an1}her two next albums debuted
+at number one on Billboard.</font>
+
+1624
+01:28:12,412 --> 01:28:14,956
+<font size="41">{\an1}And even as music is changing,</font>
+
+1625
+01:28:15,039 --> 01:28:16,874
+<font size="41">{\an1}even as, you know, the names
+of the artists</font>
+
+1626
+01:28:16,958 --> 01:28:19,210
+<font size="41">{\an1}at the top of those charts
+are changing,</font>
+
+1627
+01:28:19,293 --> 01:28:22,547
+<font size="41">{\an1}she's dropping in at the top.</font>
+
+1628
+01:28:22,630 --> 01:28:26,884
+<font size="41">{\an1}From Jagged Little Pill
+all the way up to Broadway,</font>
+
+1629
+01:28:26,968 --> 01:28:30,096
+<font size="41">{\an1}what is the core thing
+that pulled her through</font>
+
+1630
+01:28:30,179 --> 01:28:31,806
+<font size="41">{\an1}and kept her sane</font>
+
+1631
+01:28:31,889 --> 01:28:33,391
+<font size="41">{\an1}and made it so she
+didn't implode</font>
+
+1632
+01:28:33,474 --> 01:28:35,559
+<font size="41">{\an1}like a billion other artists
+was the music.</font>
+
+1633
+01:28:37,395 --> 01:28:39,981
+<font size="41">{\an1}JOHANNA: To get shot out of
+a fame rocket,</font>
+
+1634
+01:28:40,064 --> 01:28:43,568
+<font size="41">{\an1}it's a very isolating
+experience.</font>
+
+1635
+01:28:43,651 --> 01:28:47,487
+<font size="41">{\an1}I'm so thankful that
+she survived it...</font>
+
+1636
+01:28:48,740 --> 01:28:50,157
+<font size="41">{\an1}that she is surviving it,</font>
+
+1637
+01:28:50,241 --> 01:28:52,869
+<font size="41">{\an1}because, you know,
+it's a one-way street.</font>
+
+1638
+01:28:52,952 --> 01:28:56,205
+<font size="41">{\an1}And that she just has done it
+with such grace</font>
+
+1639
+01:28:56,289 --> 01:28:58,666
+<font size="41">{\an1}and constant self-preservation.</font>
+
+1640
+01:29:00,585 --> 01:29:01,960
+<font size="41">{\an1}I take it really seriously.</font>
+
+1641
+01:29:02,045 --> 01:29:06,883
+<font size="41">{\an1}I take my healing and recovery
+work really, really seriously.</font>
+
+1642
+01:29:06,966 --> 01:29:10,928
+<font size="41">{\an1}And I've done a lot of therapy,
+copious amounts of therapy.</font>
+
+1643
+01:29:12,055 --> 01:29:13,889
+<font size="41">{\an1}I feel very open.</font>
+
+1644
+01:29:13,973 --> 01:29:17,101
+<font size="41">{\an1}I feel like the future
+is limitless.</font>
+
+1645
+01:29:17,184 --> 01:29:18,770
+<font size="41">{\an1}All of this has just begun.</font>
+
+1646
+01:29:18,853 --> 01:29:21,898
+<font size="41">{\an1}All of this exploration
+has just begun.</font>
+
+1647
+01:29:23,566 --> 01:29:26,861
+<font size="41">{\an1}I knew pretty intuitively that
+there was no way to re-create</font>
+
+1648
+01:29:26,943 --> 01:29:30,740
+<font size="41">{\an1}something that ineffable
+and magical.</font>
+
+1649
+01:29:31,949 --> 01:29:34,410
+<font size="41">{\an1}And I thought the idea
+of chasing some kind</font>
+
+1650
+01:29:34,494 --> 01:29:36,913
+<font size="41">{\an1}of repetition was ridiculous.</font>
+
+1651
+01:29:36,996 --> 01:29:40,958
+<font size="41">{\an1}But I also trusted
+the ebbs and flows</font>
+
+1652
+01:29:41,041 --> 01:29:43,669
+<font size="41">{\an1}of fame, under a rock,
+fame, under a rock,</font>
+
+1653
+01:29:43,753 --> 01:29:47,548
+<font size="41">{\an1}fame, loved, hated,
+hated, hated, loved, loved,</font>
+
+1654
+01:29:47,632 --> 01:29:48,758
+<font size="41">{\an1}fame, under the rock.</font>
+
+1655
+01:29:48,841 --> 01:29:51,385
+<font size="41">{\an1}I mean, that's just how
+my whole life has been</font>
+
+1656
+01:29:51,886 --> 01:29:53,054
+<font size="41">{\an1}to this day.</font>
+
+1657
+01:29:53,137 --> 01:29:56,808
+<font size="41">{\an1}You know, I'm either super
+public, or I'm in my sweatpants,</font>
+
+1658
+01:29:56,891 --> 01:29:59,227
+<font size="41">{\an1}writing, creating, generating,</font>
+
+1659
+01:29:59,309 --> 01:30:02,146
+<font size="41">{\an1}stepping out, public,
+and then hiding again.</font>
+
+1660
+01:30:02,230 --> 01:30:04,357
+<font size="41">{\an1}I mean, that's just how it is.</font>
+
+1661
+01:30:04,440 --> 01:30:05,817
+<font size="41">{\an1}That's how I survive it.</font>
+
+1662
+01:30:05,900 --> 01:30:07,276
+<font size="41">{\an1}(WATER BUBBLING)</font>
+
+1663
+01:30:42,186 --> 01:30:43,312
+<font size="41">{\an1}MALE VOICE: Work it.</font>
+
+1664
+01:30:51,654 --> 01:30:52,612
+<font size="41">{\an1}Yeah.</font>
+
+1665
+01:30:52,697 --> 01:30:54,240
+<font size="41">{\an1}All right, I'm gonna see
+what I can get done.</font>
+
+1666
+01:30:54,323 --> 01:30:56,325
+<font size="41">{\an1}I got a bunch of stuff here,
+but--</font>
+
+1667
+01:30:56,409 --> 01:30:58,161
+<font size="41">{\an1}No, and the thing is, is like...</font>
+
+1668
+01:30:58,870 --> 01:31:00,746
+<font size="41">{\an1}she could also sign them</font>
+
+1669
+01:31:00,830 --> 01:31:02,832
+<font size="41">{\an1}tomorrow, like,
+when you and I have</font>
+
+1670
+01:31:02,915 --> 01:31:05,376
+<font size="41">{\an1}our call with her
+at 3:00, you know what I mean?</font>
+
+1671
+01:31:05,460 --> 01:31:07,753
+<font size="41">{\an1}ALANIS:
+Hello, it smells good in here.</font>
+
+1672
+01:31:08,212 --> 01:31:09,213
+<font size="41">{\an1}Okay.</font>
+
+1673
+01:31:09,964 --> 01:31:10,923
+<font size="41">{\an1}ONYX: Hi, Mommy.</font>
+
+1674
+01:31:11,007 --> 01:31:12,383
+<font size="41">{\an1}-Hi, gorgeous.
+-What are you doing?</font>
+
+1675
+01:31:12,466 --> 01:31:15,928
+<font size="41">{\an1}I'm singing the song
+about you and Winter and Ever.</font>
+
+1676
+01:31:16,012 --> 01:31:18,055
+<font size="41">{\an1}Would you like to sit on a chair
+next to me,</font>
+
+1677
+01:31:18,139 --> 01:31:19,599
+<font size="41">{\an1}or would you like me
+to hold you?</font>
+
+1678
+01:31:19,682 --> 01:31:22,393
+<font size="41">{\an1}-I want you to hold me!
+-(TOY PIANO PLAYING)</font>
+
+1679
+01:31:25,103 --> 01:31:26,105
+<font size="41">{\an1}Ready?</font>
+
+1680
+01:31:26,856 --> 01:31:28,316
+<font size="41">{\an1}Ready, ready, ready, ready.</font>
+
+1681
+01:31:28,398 --> 01:31:29,942
+<font size="41">{\an1}(INDISTINCT CHATTER)</font>
+
+1682
+01:31:30,026 --> 01:31:31,360
+<font size="41">{\an1}Why do we need that?</font>
+
+1683
+01:31:31,443 --> 01:31:32,737
+<font size="41">{\an1}'Cause if I go... (POPS)</font>
+
+1684
+01:31:32,820 --> 01:31:35,865
+<font size="41">{\an1}...and some spit goes on there,
+it sounds like "poof",</font>
+
+1685
+01:31:35,948 --> 01:31:37,950
+<font size="41">{\an1}as opposed to... (POPS)</font>
+
+1686
+01:31:40,786 --> 01:31:42,621
+<font size="41">{\an1}-WOMAN: Here we go.
+-Okay.</font>
+
+1687
+01:31:42,705 --> 01:31:44,457
+<font size="41">{\an1}JIMMY FALLON: Performing
+the song "Ablaze"</font>
+
+1688
+01:31:44,540 --> 01:31:46,334
+<font size="41">{\an1}from her first album
+in eight years,</font>
+
+1689
+01:31:46,416 --> 01:31:49,003
+<font size="41">{\an1}here's the one and only
+Alanis Morissette.</font>
+
+1690
+01:31:50,671 --> 01:31:52,924
+<font size="41">{\an1}The music's playing, Mommy.</font>
+
+1691
+01:31:53,007 --> 01:31:54,634
+<font size="41">{\an1}It is. It's an intro.</font>
+
+1692
+01:31:54,717 --> 01:31:55,927
+<font size="41">{\an1}Okay, then sing it.</font>
+
+1693
+01:31:56,010 --> 01:31:57,887
+<font size="41">{\an1}♪ First thing
+that you'll notice ♪</font>
+
+1694
+01:31:57,969 --> 01:32:01,098
+<font size="41">{\an1}♪ Is some separation
+from each other ♪</font>
+
+1695
+01:32:01,182 --> 01:32:02,642
+<font size="41">{\an1}♪ Yes, it's a lie ♪</font>
+
+1696
+01:32:02,725 --> 01:32:06,437
+<font size="41">{\an1}♪ We've been believing
+since time immemorial ♪</font>
+
+1697
+01:32:06,520 --> 01:32:09,482
+<font size="41">{\an1}♪ There was an apple
+There was a snake ♪</font>
+
+1698
+01:32:09,565 --> 01:32:11,567
+<font size="41">{\an1}♪ There was division ♪</font>
+
+1699
+01:32:11,651 --> 01:32:12,777
+<font size="41">{\an1}♪ There was a split ♪</font>
+
+1700
+01:32:12,860 --> 01:32:16,614
+<font size="41">{\an1}♪ There was a conflict
+in the fabric of life ♪</font>
+
+1701
+01:32:16,697 --> 01:32:18,782
+<font size="41">{\an1}Sorry, but that's not
+the same time as...</font>
+
+1702
+01:32:18,866 --> 01:32:19,951
+<font size="41">{\an1}Okay, sorry.</font>
+
+1703
+01:32:20,034 --> 01:32:21,744
+<font size="41">{\an1}♪ To my boy ♪</font>
+
+1704
+01:32:21,827 --> 01:32:23,246
+<font size="41">{\an1}♪ ("ABLAZE"
+BY ALANIS MORISSETTE PLAYS) ♪</font>
+
+1705
+01:32:23,329 --> 01:32:25,039
+<font size="41">{\an1}♪ All that energy, so vital ♪</font>
+
+1706
+01:32:25,121 --> 01:32:27,375
+<font size="41">{\an1}♪ Love your hues ♪</font>
+
+1707
+01:32:27,458 --> 01:32:30,585
+<font size="41">{\an1}♪ And your blues
+in equal measure ♪</font>
+
+1708
+01:32:30,670 --> 01:32:35,549
+<font size="41">{\an1}♪ Your comings
+And your goings-away ♪</font>
+
+1709
+01:32:35,633 --> 01:32:42,431
+<font size="41">{\an1}♪ My mission is to keep
+the light in your eyes ablaze ♪</font>
+
+1710
+01:32:42,514 --> 01:32:44,267
+<font size="41">{\an1}-Hi, Mom.
+-Hi, baby.</font>
+
+1711
+01:32:44,350 --> 01:32:46,434
+<font size="41">{\an1}I really like that, and that.</font>
+
+1712
+01:32:46,519 --> 01:32:48,145
+<font size="41">{\an1}♪ To my girl ♪</font>
+
+1713
+01:32:49,063 --> 01:32:51,523
+<font size="41">{\an1}♪ All your innocence and fire ♪</font>
+
+1714
+01:32:51,607 --> 01:32:53,943
+<font size="41">{\an1}♪ When you reach out ♪</font>
+
+1715
+01:32:54,026 --> 01:32:57,154
+<font size="41">{\an1}♪ I am here hell or high water ♪</font>
+
+1716
+01:32:57,237 --> 01:33:00,449
+<font size="41">{\an1}♪ This nest is never
+going away ♪</font>
+
+1717
+01:33:00,532 --> 01:33:02,451
+<font size="41">{\an1}-Did you say "nest"?
+-Nest.</font>
+
+1718
+01:33:02,535 --> 01:33:03,661
+<font size="41">{\an1}My mission is to keep...</font>
+
+1719
+01:33:03,744 --> 01:33:06,289
+<font size="41">{\an1}-Well, why did you say "nest"?
+-'Cause it's a nest.</font>
+
+1720
+01:33:06,371 --> 01:33:07,540
+<font size="41">{\an1}Oh.</font>
+
+1721
+01:33:07,623 --> 01:33:09,625
+<font size="41">{\an1}♪ Ablaze ♪</font>
+
+1722
+01:33:11,669 --> 01:33:14,088
+<font size="41">{\an1}So, are you gonna sing soon?</font>
+
+1723
+01:33:14,171 --> 01:33:16,841
+<font size="41">{\an1}-Sure.
+-Okay.</font>
+
+1724
+01:33:35,401 --> 01:33:36,402
+<font size="41">{\an1}Five one way,
+five the other way.</font>
+
+1725
+01:33:36,485 --> 01:33:37,903
+<font size="41">{\an1}-Five one way.
+-The whole stack?</font>
+
+1726
+01:33:37,987 --> 01:33:39,155
+<font size="41">{\an1}And then while she's
+doing the stack,</font>
+
+1727
+01:33:39,237 --> 01:33:40,698
+<font size="41">{\an1}you can make
+the next stack...</font>
+
+1728
+01:33:41,365 --> 01:33:42,657
+<font size="41">{\an1}-Tidy.
+-Homogenous.</font>
+
+1729
+01:33:42,742 --> 01:33:44,577
+<font size="41">{\an1}-Facing the same way.
+-Okay.</font>
+
+1730
+01:33:45,619 --> 01:33:46,787
+<font size="41">{\an1}There's one.</font>
+
+1731
+01:33:48,706 --> 01:33:50,958
+<font size="41">{\an1}MAN: This is huge to have...</font>
+
+1732
+01:33:51,041 --> 01:33:52,585
+<font size="41">{\an1}-Huge.
+-MAN: Manpower.</font>
+
+1733
+01:33:54,462 --> 01:33:55,546
+<font size="41">{\an1}That one's good.</font>
+
+1734
+01:33:55,629 --> 01:33:58,174
+<font size="41">{\an1}I love these signatures.
+It's like, every time--</font>
+
+1735
+01:33:58,257 --> 01:33:59,508
+<font size="41">{\an1}ALANIS:
+You're the only one, believe me.</font>
+
+1736
+01:33:59,592 --> 01:34:01,469
+<font size="41">{\an1}-People are like, "Oh."
+-MAN: Yeah.</font>
+
+1737
+01:34:01,552 --> 01:34:03,262
+<font size="41">{\an1}ALANIS: I'm like, "What?"</font>
+
+1738
+01:34:03,346 --> 01:34:05,014
+<font size="41">{\an1}-They're like, "Oh."
+-MAN: All right, you want--</font>
+
+1739
+01:34:05,097 --> 01:34:06,932
+<font size="41">{\an1}Fine, you want a nice,
+neat fake-ass one?</font>
+
+1740
+01:34:07,016 --> 01:34:08,726
+<font size="41">{\an1}ALANIS:
+You want me to just print it?</font>
+
+1741
+01:34:08,809 --> 01:34:09,809
+<font size="41">{\an1}MAN: Yeah.</font>
+
+1742
+01:34:10,811 --> 01:34:12,563
+<font size="41">{\an1}ALANIS:
+Strangely satisfying.</font>
+
+1743
+01:34:18,318 --> 01:34:19,695
+<font size="41">{\an1}When I hear Jagged Little Pill,</font>
+
+1744
+01:34:19,779 --> 01:34:21,237
+<font size="41">{\an1}whether it's through
+the beautiful voices</font>
+
+1745
+01:34:21,322 --> 01:34:23,157
+<font size="41">{\an1}of the Jagged Little Pill
+musical,</font>
+
+1746
+01:34:23,240 --> 01:34:25,368
+<font size="41">{\an1}or whether it's while
+I'm singing it,</font>
+
+1747
+01:34:25,451 --> 01:34:27,119
+<font size="41">{\an1}or hearing it on the radio...</font>
+
+1748
+01:34:28,954 --> 01:34:30,623
+<font size="41">{\an1}There's a kindness.</font>
+
+1749
+01:34:31,957 --> 01:34:34,335
+<font size="41">{\an1}It's like this velvet kindness.</font>
+
+1750
+01:34:34,418 --> 01:34:37,088
+<font size="41">{\an1}No matter how pissed off
+she is...</font>
+
+1751
+01:34:37,171 --> 01:34:40,341
+<font size="41">{\an1}It's like there's mercy in it.</font>
+
+1752
+01:34:40,424 --> 01:34:41,925
+<font size="41">{\an1}There's empathy in it.</font>
+
+1753
+01:34:42,009 --> 01:34:45,763
+<font size="41">{\an1}There's hope,
+even when the song is hopeless.</font>
+
+1754
+01:34:45,846 --> 01:34:47,639
+<font size="41">{\an1}There's a little dreg of...</font>
+
+1755
+01:34:49,850 --> 01:34:54,146
+<font size="41">{\an1}Of "everything's gonna be okay,
+no matter how horrible it gets."</font>
+
+1756
+01:34:57,066 --> 01:35:02,237
+<font size="41">{\an1}♪ ("HEAD OVER FEET"
+BY ALANIS MORISSETTE PLAYS) ♪</font>
+
+1757
+01:35:14,875 --> 01:35:17,962
+<font size="41">{\an1}♪ I couldn't help it ♪</font>
+
+1758
+01:35:18,045 --> 01:35:20,130
+<font size="41">{\an1}♪ It's all your fault ♪</font>
+
+1759
+01:35:20,214 --> 01:35:23,800
+<font size="41">{\an1}♪ You've already won me over ♪</font>
+
+1760
+01:35:23,884 --> 01:35:25,803
+<font size="41">{\an1}♪ In spite of me ♪</font>
+
+1761
+01:35:25,886 --> 01:35:29,764
+<font size="41">{\an1}♪ Don't be alarmed if I fall ♪</font>
+
+1762
+01:35:29,849 --> 01:35:31,642
+<font size="41">{\an1}♪ Head over feet ♪</font>
+
+1763
+01:35:31,725 --> 01:35:35,563
+<font size="41">{\an1}♪ And don't be surprised
+if I love you ♪</font>
+
+1764
+01:35:35,646 --> 01:35:38,607
+<font size="41">{\an1}♪ For all that you are ♪</font>
+
+1765
+01:35:38,691 --> 01:35:41,777
+<font size="41">{\an1}♪ I couldn't help it ♪</font>
+
+1766
+01:35:41,861 --> 01:35:44,321
+<font size="41">{\an1}♪ It's all your fault ♪</font>
+
+1767
+01:35:45,364 --> 01:35:48,784
+<font size="41">{\an1}♪ Your love is thick ♪</font>
+
+1768
+01:35:48,868 --> 01:35:51,412
+<font size="41">{\an1}♪ And it swallowed me whole ♪</font>
+
+1769
+01:35:51,495 --> 01:35:54,832
+<font size="41">{\an1}♪ You're so much braver ♪</font>
+
+1770
+01:35:54,915 --> 01:35:57,334
+<font size="41">{\an1}♪ Than I gave you credit for ♪</font>
+
+1771
+01:35:57,418 --> 01:36:01,547
+<font size="41">{\an1}♪ That's not lip service ♪</font>
+
+1772
+01:36:01,630 --> 01:36:05,675
+<font size="41">{\an1}♪ You've already won me over ♪</font>
+
+1773
+01:36:05,759 --> 01:36:07,719
+<font size="41">{\an1}♪ In spite of me ♪</font>
+
+1774
+01:36:07,803 --> 01:36:11,639
+<font size="41">{\an1}♪ And don't be alarmed
+if I fall ♪</font>
+
+1775
+01:36:11,724 --> 01:36:13,517
+<font size="41">{\an1}♪ Head over feet ♪</font>
+
+1776
+01:36:13,601 --> 01:36:17,605
+<font size="41">{\an1}♪ And don't be surprised
+if I love you ♪</font>
+
+1777
+01:36:17,688 --> 01:36:20,523
+<font size="41">{\an1}♪ For all that you are ♪</font>
+
+1778
+01:36:20,608 --> 01:36:23,652
+<font size="41">{\an1}♪ I couldn't help it ♪</font>
+
+1779
+01:36:23,736 --> 01:36:26,155
+<font size="41">{\an1}♪ It's all your fault ♪</font>
+
+1780
+01:36:27,281 --> 01:36:30,784
+<font size="41">{\an1}♪ You are the bearer ♪</font>
+
+1781
+01:36:30,868 --> 01:36:33,454
+<font size="41">{\an1}♪ Of unconditional things ♪</font>
+
+1782
+01:36:33,537 --> 01:36:36,832
+<font size="41">{\an1}♪ You held your breath ♪</font>
+
+1783
+01:36:36,916 --> 01:36:39,043
+<font size="41">{\an1}♪ And the door for me ♪</font>
+
+1784
+01:36:39,126 --> 01:36:43,088
+<font size="41">{\an1}♪ Thanks for your patience ♪</font>
+
+
+
