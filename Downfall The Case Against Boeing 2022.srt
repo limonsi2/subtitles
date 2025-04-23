@@ -1,0 +1,127 @@
+1
+00:00:02,000 --> 00:00:07,000
+Downloaded from
+YTS.MX
+
+2
+00:00:08,000 --> 00:00:13,000
+Official YIFY movies site:
+YTS.MX
+
+3
+00:03:42,096 --> 00:03:46,017
+AIR TRAFFIC: Lion Inter 610
+cleared for takeoff, runway 2-5 left.
+
+4
+00:03:46,100 --> 00:03:48,853
+CO-PILOT: Lion Inter 610
+cleared for takeoff, 2-5 left.
+
+5
+00:04:06,913 --> 00:04:08,748
+CO-PILOT: Indicated Airspeed Disagree,
+Captain.
+
+6
+00:04:13,711 --> 00:04:14,712
+CO-PILOT: Feel Differential.
+
+7
+00:04:20,551 --> 00:04:22,262
+CO-PILOT: Altitude Disagree, Captain!
+
+8
+00:04:31,271 --> 00:04:32,981
+AIR TRAFFIC: Lion Inter 610?
+
+9
+00:04:33,064 --> 00:04:35,191
+CO-PILOT:
+We have a flight control problem!
+
+10
+00:04:40,655 --> 00:04:41,906
+CO-PILOT: Fly up! Fly up!
+
+11
+00:18:28,190 --> 00:18:30,818
+PILOT: These guys didn't even know
+the damn system was on the airplane,
+
+12
+00:18:30,901 --> 00:18:32,069
+nor did anybody else.
+
+13
+00:18:32,569 --> 00:18:36,156
+BOEING: We try not to overload the crews 
+with information that's unnecessary.
+
+14
+00:18:37,116 --> 00:18:39,201
+PILOT: I would think
+there would be a priority
+
+15
+00:18:39,284 --> 00:18:42,037
+on explanations of things
+that could kill you.
+
+16
+00:18:42,496 --> 00:18:44,748
+BOEING: We take your point.
+We really do.
+
+17
+00:18:45,499 --> 00:18:49,128
+PILOT: Is there something being done
+where Boeing might address
+
+18
+00:18:49,211 --> 00:18:51,130
+ways to make sure it doesn't happen again?
+
+19
+00:18:51,713 --> 00:18:54,716
+BOEING: Well, we're looking at relatively
+straightforward software changes
+
+20
+00:18:54,800 --> 00:18:57,970
+that we expect we can get out
+in a fairly short period of time…
+
+21
+00:18:58,053 --> 00:18:59,179
+maybe six weeks.
+
+22
+00:19:14,945 --> 00:19:17,906
+BOEING: Because no one has yet concluded
+
+23
+00:19:18,407 --> 00:19:21,535
+that the sole cause of this
+was dysfunction of the airplane.
+
+24
+00:51:20,077 --> 00:51:21,870
+Between me and you,
+
+25
+00:51:21,953 --> 00:51:24,456
+they didn't put a shim 
+on the landing gear yesterday.
+
+26
+00:51:24,539 --> 00:51:26,875
+On the lugs. Night shift didn't.
+
+27
+00:51:28,251 --> 00:51:31,588
+They said we don't have time 
+to fucking put it on.
+
+
+
