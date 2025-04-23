@@ -1,0 +1,6619 @@
+1
+00:00:02,000 --> 00:00:07,000
+Downloaded from
+YTS.MX
+
+2
+00:00:08,000 --> 00:00:13,000
+Official YIFY movies site:
+YTS.MX
+
+3
+00:00:17,934 --> 00:00:19,769
+<i>My name is Pete Docter. I'm the CCO,</i>
+
+4
+00:00:19,853 --> 00:00:23,023
+the Chief Creative Officer,
+of Pixar Animation Studios.
+
+5
+00:00:24,607 --> 00:00:27,527
+<i>I've been at Pixar over 30 years now,</i>
+
+6
+00:00:27,610 --> 00:00:31,740
+but I've done all sorts of stuff from
+storyboarding to animation to directing.
+
+7
+00:00:34,909 --> 00:00:39,330
+<i>Pixar's changed a lot,</i>
+<i>but at its core, not at all.</i>
+
+8
+00:00:41,291 --> 00:00:44,044
+<i>When we started, we were in this,</i>
+<i>like, shack of a building.</i>
+
+9
+00:00:44,127 --> 00:00:48,214
+<i>We had 112 people, I think,</i>
+<i>making</i> Toy Story,
+
+10
+00:00:49,674 --> 00:00:52,510
+<i>and yet it was a very personal story.</i>
+
+11
+00:00:52,594 --> 00:00:56,264
+<i>We were, as storytellers,</i>
+<i>telling our own experiences</i>
+
+12
+00:00:56,389 --> 00:00:58,808
+<i>in the world and figuring out,</i>
+<i>"What is jealousy?</i>
+
+13
+00:00:58,892 --> 00:01:01,019
+<i>"What do we do when confronted</i>
+
+14
+00:01:01,102 --> 00:01:02,896
+<i>"by someone who's better than me?"</i>
+
+15
+00:01:04,064 --> 00:01:06,691
+<i>And all these things</i>
+<i>that were tied up in that film.</i>
+
+16
+00:01:07,984 --> 00:01:12,572
+<i>I mean, I grew up in Minnesota,</i>
+<i>in a boring suburban town.</i>
+
+17
+00:01:12,947 --> 00:01:16,451
+<i>I realized that all the films</i>
+<i>that I worked on, about monsters,</i>
+
+18
+00:01:16,743 --> 00:01:19,913
+<i>about an old man who flies his house</i>
+<i>to South America,</i>
+
+19
+00:01:20,330 --> 00:01:23,792
+<i>a little girl who moves to San Francisco,</i>
+
+20
+00:01:24,584 --> 00:01:26,419
+these are all very personal stories.
+
+21
+00:01:26,503 --> 00:01:28,588
+They've come from my own life experience.
+
+22
+00:01:29,631 --> 00:01:30,715
+<i>And so we thought,</i>
+
+23
+00:01:30,799 --> 00:01:34,302
+<i>"How can we allow some new ideas into this</i>
+
+24
+00:01:34,385 --> 00:01:38,181
+<i>"and take the chance with people</i>
+<i>that we just have an intuition, like,</i>
+
+25
+00:01:38,264 --> 00:01:39,974
+"'There's something about that person.
+
+26
+00:01:40,058 --> 00:01:42,185
+'They would have
+something interesting to say.'"
+
+27
+00:01:45,438 --> 00:01:48,191
+LINDSEY COLLINS:
+<i>The SparkShorts program is relatively new.</i>
+
+28
+00:01:49,275 --> 00:01:51,569
+<i>We wanted to give different storytellers</i>
+
+29
+00:01:51,653 --> 00:01:54,447
+a shot in a very short
+amount of time that tells us,
+
+30
+00:01:54,531 --> 00:01:57,033
+"Who are they? What stories do they tell?"
+
+31
+00:01:57,117 --> 00:01:59,619
+The history of shorts at Pixar
+is a pretty interesting one
+
+32
+00:01:59,702 --> 00:02:02,747
+because Pixar kind of sprung from shorts
+
+33
+00:02:02,831 --> 00:02:06,376
+and specifically,
+a short called <i>Andre and Wally B,</i>
+
+34
+00:02:06,459 --> 00:02:10,380
+<i>which is really</i>
+<i>the first animated CG piece.</i>
+
+35
+00:02:11,798 --> 00:02:16,261
+<i>Shorts became something</i>
+<i>that was in the DNA of the company.</i>
+
+36
+00:02:17,220 --> 00:02:20,390
+<i>We would make them</i>
+<i>to try new technological ideas</i>
+
+37
+00:02:20,473 --> 00:02:22,600
+<i>as computer graphics was evolving,</i>
+
+38
+00:02:22,684 --> 00:02:24,978
+<i>all this even before</i> Toy Story <i>was made.</i>
+
+39
+00:02:28,731 --> 00:02:29,732
+Ha!
+
+40
+00:02:29,816 --> 00:02:34,112
+COLLINS:<i> Part of the initial thinking</i>
+<i>behind the short film projects,</i>
+
+41
+00:02:34,195 --> 00:02:35,780
+<i>it was a lot about risk-taking.</i>
+
+42
+00:02:37,532 --> 00:02:38,825
+<i>There was a bit of,</i>
+
+43
+00:02:38,908 --> 00:02:41,911
+<i>"We don't have much to lose,</i>
+<i>'cause nobody knows who we are,"</i>
+
+44
+00:02:42,370 --> 00:02:45,206
+and so we can take some risks
+and gamble a lot.
+
+45
+00:02:45,456 --> 00:02:49,878
+<i>So we were like, "What if we did</i>
+<i>something that was much lower budget</i>
+
+46
+00:02:49,961 --> 00:02:51,671
+<i>"than our traditional short films?"</i>
+
+47
+00:02:52,088 --> 00:02:55,884
+<i>We let the filmmaker tell</i>
+<i>whatever story they wanted to tell</i>
+
+48
+00:02:55,967 --> 00:02:58,720
+<i>and we give the person</i>
+<i>six months to do it.</i>
+
+49
+00:02:59,721 --> 00:03:01,931
+<i>We started the SparkShorts program</i>
+
+50
+00:03:02,015 --> 00:03:06,269
+really because we didn't know
+what kind of talents we were skipping over
+
+51
+00:03:06,352 --> 00:03:08,688
+by not giving people
+a chance to tell their story.
+
+52
+00:03:09,606 --> 00:03:13,359
+<i>We want an unfiltered view</i>
+<i>of what these storytellers are bringing,</i>
+
+53
+00:03:13,484 --> 00:03:15,320
+<i>and we don't want to get in the way.</i>
+
+54
+00:03:16,196 --> 00:03:19,866
+COLLINS:<i> The only way we'll evolve</i>
+<i>the types of stories at the feature level</i>
+
+55
+00:03:19,949 --> 00:03:23,411
+<i>is if we're engaging that next generation.</i>
+
+56
+00:03:23,494 --> 00:03:26,331
+<i>We can't wait 20 years</i>
+<i>to engage that generation.</i>
+
+57
+00:03:26,414 --> 00:03:28,208
+<i>We have to be engaging them now.</i>
+
+58
+00:03:48,978 --> 00:03:51,147
+<i>My name is Aphton Corbin.</i>
+
+59
+00:03:52,065 --> 00:03:55,401
+<i>I'm a story artist here</i>
+<i>at Pixar Animation Studios.</i>
+
+60
+00:03:57,528 --> 00:04:01,115
+<i>I just always was really drawn</i>
+<i>to writing and sharing stories.</i>
+
+61
+00:04:01,491 --> 00:04:05,703
+As a kid, I would do little drawing books
+and staple them together
+
+62
+00:04:05,787 --> 00:04:07,914
+and make out a whole little scenario
+
+63
+00:04:07,997 --> 00:04:10,500
+<i>and give them to people</i>
+<i>as a birthday gift.</i>
+
+64
+00:04:10,583 --> 00:04:14,796
+<i>And when I was younger,</i>
+<i>I would direct playtime with my sister.</i>
+
+65
+00:04:15,630 --> 00:04:17,966
+I'd be like, "The character
+wouldn't say it that way.
+
+66
+00:04:18,049 --> 00:04:19,801
+"We need to do it again this way."
+
+67
+00:04:20,927 --> 00:04:25,431
+<i>Ever since I got hired here at Pixar,</i>
+<i>I knew I wanted to be a director.</i>
+
+68
+00:04:26,391 --> 00:04:29,143
+I guess it's a big statement,
+"I wanna be a director."
+
+69
+00:04:30,228 --> 00:04:32,313
+<i>I didn't know how long it was gonna take,</i>
+
+70
+00:04:32,397 --> 00:04:34,983
+<i>but I knew I wanted</i>
+<i>to eventually direct something.</i>
+
+71
+00:04:35,942 --> 00:04:40,238
+Aphton made such an impression on
+the studio from the minute she got here.
+
+72
+00:04:41,072 --> 00:04:43,408
+<i>She just got this reputation very quickly</i>
+
+73
+00:04:43,491 --> 00:04:47,996
+<i>as somebody who had something</i>
+<i>to say that everybody wanted to hear,</i>
+
+74
+00:04:48,079 --> 00:04:49,706
+<i>no matter what room she was in.</i>
+
+75
+00:04:50,081 --> 00:04:52,500
+I got to work with Aphton on <i>Soul.</i>
+
+76
+00:04:53,668 --> 00:04:58,214
+<i>She came up with the way we visualize</i>
+<i>the counselors in the</i> Soul <i>universe.</i>
+
+77
+00:04:59,299 --> 00:05:05,179
+<i>She's just a very talented story artist</i>
+<i>with these quirky ideas that you're like,</i>
+
+78
+00:05:05,263 --> 00:05:08,766
+<i>"Where did that come from?</i>
+<i>That's just brilliantly bizarre."</i>
+
+79
+00:05:18,985 --> 00:05:23,614
+<i>My name's Louis Gonzales and</i>
+<i>I've been at Pixar almost 20 years now.</i>
+
+80
+00:05:25,283 --> 00:05:27,201
+From the moment
+I've gotten into animation,
+
+81
+00:05:27,285 --> 00:05:30,163
+<i>I've always felt like</i>
+<i>I've been challenged constantly.</i>
+
+82
+00:05:30,496 --> 00:05:34,250
+<i>I was always excited to take</i>
+<i>on all kinds of work at Pixar</i>
+
+83
+00:05:34,334 --> 00:05:36,669
+because it was an experience
+rather than just a job.
+
+84
+00:05:37,628 --> 00:05:41,174
+<i>Over time, I've been very lucky</i>
+<i>to be a part of some very special films</i>
+
+85
+00:05:41,257 --> 00:05:43,051
+that a lot of people love,
+
+86
+00:05:43,134 --> 00:05:45,178
+and I had my small little part in it.
+
+87
+00:05:46,262 --> 00:05:50,475
+<i>But now, almost 20 years later,</i>
+<i>I was like, "What else do I need?</i>
+
+88
+00:05:51,059 --> 00:05:53,519
+<i>"Where's my career going?"</i>
+<i>Like, "What am I doing?</i>
+
+89
+00:05:54,062 --> 00:05:57,607
+"Maybe making stuff as a director
+isn't what's gonna happen for me."
+
+90
+00:06:00,818 --> 00:06:03,571
+MORRIS:<i> Louis has been around</i>
+<i>for a long, long time.</i>
+
+91
+00:06:05,239 --> 00:06:07,533
+<i>He's a statured story artist</i>
+
+92
+00:06:08,242 --> 00:06:11,079
+<i>and fantastic creative mind.</i>
+
+93
+00:06:11,829 --> 00:06:15,875
+DOCTER:<i> Louis worked on films</i>
+<i>with Brad Bird, like</i> The Incredibles.
+
+94
+00:06:17,335 --> 00:06:19,796
+<i>He's brought</i>
+<i>a really unique point of view.</i>
+
+95
+00:06:19,879 --> 00:06:23,925
+<i>And he's brought these</i>
+<i>really amazing characters to life.</i>
+
+96
+00:06:25,802 --> 00:06:28,096
+COLLINS:<i> I think</i>
+<i>he's a great idea generator.</i>
+
+97
+00:06:28,429 --> 00:06:30,515
+<i>So, you're always curious of,</i>
+
+98
+00:06:30,598 --> 00:06:34,352
+"What is this guy gonna do
+when he's given the opportunity?
+
+99
+00:06:34,435 --> 00:06:35,978
+"What story is he gonna tell?"
+
+100
+00:06:45,613 --> 00:06:49,283
+CORBIN:<i> A good year or so into working</i>
+<i>on my first film,</i> Toy Story 4,
+
+101
+00:06:49,367 --> 00:06:54,414
+my focus was only about, "How do
+I do this job of storyboarding well?"
+
+102
+00:06:55,998 --> 00:06:57,625
+<i>One day, I got an email saying, like,</i>
+
+103
+00:06:57,708 --> 00:06:59,043
+<i>"We just wanted you to know that</i>
+
+104
+00:06:59,127 --> 00:07:02,380
+<i>"your name got brought up</i>
+<i>for directing a SparkShort."</i>
+
+105
+00:07:06,676 --> 00:07:09,720
+GONZALES:<i> A little while back,</i>
+<i>Lindsey and Jim reached out to me.</i>
+
+106
+00:07:09,804 --> 00:07:12,515
+<i>I thought they were gonna tell me</i>
+<i>I'm fired, really.</i>
+
+107
+00:07:12,598 --> 00:07:15,351
+<i>But they were like,</i>
+<i>"So, what do you wanna do next?"</i>
+
+108
+00:07:15,435 --> 00:07:18,229
+<i>And I was like,</i>
+<i>"I have the option to even say that?"</i>
+
+109
+00:07:18,312 --> 00:07:19,897
+Like, it was not even...
+
+110
+00:07:19,981 --> 00:07:22,900
+It didn't dawn on me that
+I had a choice in my future.
+
+111
+00:07:23,734 --> 00:07:27,655
+<i>Then they floated it out to me, like,</i>
+<i>"What do you think about a SparkShort?"</i>
+
+112
+00:07:32,743 --> 00:07:34,954
+MORRIS:<i> One of the great things</i>
+<i>about the SparkShorts is</i>
+
+113
+00:07:35,037 --> 00:07:37,457
+<i>it puts you in a place</i>
+<i>of enormous vulnerability.</i>
+
+114
+00:07:37,957 --> 00:07:41,085
+You kind of have nowhere to hide,
+like, "You're the show,"
+
+115
+00:07:41,419 --> 00:07:44,338
+and the pressure of that is significant,
+weighing on you,
+
+116
+00:07:44,422 --> 00:07:46,883
+and trying to figure out,
+"How do you show up in that?
+
+117
+00:07:46,966 --> 00:07:50,386
+<i>"And how do you let your guard down enough</i>
+<i>to let others contribute?"</i>
+
+118
+00:07:51,304 --> 00:07:53,598
+COLLINS:<i> When we start</i>
+<i>to walk directors through</i>
+
+119
+00:07:53,681 --> 00:07:55,475
+<i>what the rules are to do a SparkShort,</i>
+
+120
+00:07:55,558 --> 00:07:59,103
+<i>we tell them,</i>
+<i>"It needs to be a narrative story...</i>
+
+121
+00:08:00,396 --> 00:08:01,439
+(BLOWS)
+
+122
+00:08:01,522 --> 00:08:06,277
+<i>"It can be CG, it can be 2D,</i>
+
+123
+00:08:06,360 --> 00:08:09,113
+<i>"and it needs to be for all audiences."</i>
+
+124
+00:08:11,324 --> 00:08:13,451
+<i>We try to get it done in about six months.</i>
+
+125
+00:08:15,703 --> 00:08:19,081
+But beyond that,
+there really aren't any rules.
+
+126
+00:08:19,165 --> 00:08:24,420
+WOMAN: So, we've selected our 2020
+SparkShort directors and they are...
+
+127
+00:08:25,213 --> 00:08:27,465
+-Louis Gonzales...
+-(ALL CHEERING)
+
+128
+00:08:28,049 --> 00:08:30,676
+GONZALES: <i>When they announced us</i>
+<i>in the company meeting,</i>
+
+129
+00:08:31,093 --> 00:08:34,138
+<i>I didn't expect that kind of</i>
+<i>outpouring of love.</i>
+
+130
+00:08:34,972 --> 00:08:37,767
+<i>It just felt, "Oh, my God,</i>
+<i>the people here at this company</i>
+
+131
+00:08:37,850 --> 00:08:39,769
+<i>"are rooting for us to succeed."</i>
+
+132
+00:08:39,852 --> 00:08:41,729
+<i>"They want to see us tell stories."</i>
+
+133
+00:08:42,730 --> 00:08:45,149
+<i>That, to me, was amazing, truly.</i>
+
+134
+00:08:46,817 --> 00:08:48,986
+And it also added, like, pressure.
+(LAUGHS)
+
+135
+00:08:50,613 --> 00:08:52,782
+<i>When people support you like that,</i>
+
+136
+00:08:52,865 --> 00:08:55,076
+<i>it's like,</i>
+<i>"I don't wanna let anyone down."</i>
+
+137
+00:08:56,327 --> 00:08:59,705
+<i>Because when I was initially asked,</i>
+<i>"What do you think about a SparkShort?"</i>
+
+138
+00:08:59,789 --> 00:09:02,500
+I said, "You know,
+probably not, I'll think about it."
+
+139
+00:09:03,918 --> 00:09:05,503
+<i>But eventually I realized that</i>
+
+140
+00:09:05,586 --> 00:09:09,090
+<i>I was just genuinely</i>
+<i>afraid that I would suck</i>
+
+141
+00:09:09,173 --> 00:09:12,927
+and smash face-first into the wall,
+teeth everywhere.
+
+142
+00:09:13,970 --> 00:09:15,263
+<i>I was afraid of failure.</i>
+
+143
+00:09:16,013 --> 00:09:19,308
+<i>And once I realized that</i>
+<i>I was afraid to fail in this regard,</i>
+
+144
+00:09:19,392 --> 00:09:22,979
+in a creative regard, in the thing that
+I pride myself on as a story artist,
+
+145
+00:09:23,938 --> 00:09:27,733
+I was like, "I need to run head-first
+at this wall 'cause I'll break through."
+
+146
+00:09:29,485 --> 00:09:32,280
+CORBIN:<i> It was kind of crazy</i>
+<i>when they announced us on that day.</i>
+
+147
+00:09:33,489 --> 00:09:36,742
+<i>I was still really insecure</i>
+<i>about being chosen.</i>
+
+148
+00:09:37,952 --> 00:09:40,788
+<i>I knew the fear of it happening too soon,</i>
+
+149
+00:09:41,205 --> 00:09:45,167
+<i>also I was a little uncertain</i>
+<i>of how I was gonna lead a team.</i>
+
+150
+00:09:45,751 --> 00:09:48,004
+<i>And I was like,</i>
+<i>"What are people gonna think?</i>
+
+151
+00:09:48,087 --> 00:09:51,966
+"Are they gonna be like, 'Aphton?
+She hasn't even been here that long.
+
+152
+00:09:52,049 --> 00:09:53,509
+"'What is she even gonna make?'"
+
+153
+00:09:54,260 --> 00:09:57,179
+<i>And then Louis is, like,</i>
+<i>such an amazing story artist,</i>
+
+154
+00:09:57,263 --> 00:10:00,016
+<i>and he's worked on a bunch of movies</i>
+<i>that I grew up watching,</i>
+
+155
+00:10:00,099 --> 00:10:05,271
+it's like, "We're going at the same time?
+That's cool. No pressure there."
+
+156
+00:10:10,610 --> 00:10:13,446
+DOCTER:<i> Lots of times people are curious,</i>
+<i>"How do we make films?"</i>
+
+157
+00:10:14,071 --> 00:10:17,033
+The answer is, "There's no one way."
+Every film is different.
+
+158
+00:10:19,201 --> 00:10:20,995
+<i>They all, of course, start from an idea,</i>
+
+159
+00:10:21,078 --> 00:10:24,373
+<i>but from there, it might be that</i>
+<i>you try to write it up as a script</i>
+
+160
+00:10:24,457 --> 00:10:25,499
+<i>or an outline.</i>
+
+161
+00:10:25,583 --> 00:10:30,046
+It might be that the artist sits
+and draws the idea, as a storyboard,
+
+162
+00:10:30,129 --> 00:10:34,091
+even just single images
+that are enough to convey the concept.
+
+163
+00:10:37,094 --> 00:10:39,722
+CORBIN:<i> After being surprised</i>
+<i>and freaking out,</i>
+
+164
+00:10:39,805 --> 00:10:43,225
+<i>I was coming up with ideas for my short.</i>
+
+165
+00:10:44,602 --> 00:10:45,728
+<i>For a minute, I was like,</i>
+
+166
+00:10:45,811 --> 00:10:49,315
+<i>"Maybe I should do something scary,</i>
+<i>a horror-related thing."</i>
+
+167
+00:10:50,191 --> 00:10:53,653
+<i>And there's very few</i>
+<i>animated horror shorts.</i>
+
+168
+00:10:55,237 --> 00:10:57,490
+<i>So, I was like,</i>
+<i>"Now, this will be fun and edgy."</i>
+
+169
+00:10:59,241 --> 00:11:01,952
+<i>But I was like,</i>
+<i>"It's hard enough to make a film.</i>
+
+170
+00:11:02,036 --> 00:11:03,788
+<i>"I don't think I need to challenge myself</i>
+
+171
+00:11:03,871 --> 00:11:08,000
+<i>"with an entirely different genre</i>
+<i>that I haven't dabbled in quite yet."</i>
+
+172
+00:11:10,795 --> 00:11:12,088
+<i>I always knew it was gonna be</i>
+
+173
+00:11:12,171 --> 00:11:15,841
+<i>a story about becoming an adult</i>
+<i>and how awkward it is.</i>
+
+174
+00:11:16,926 --> 00:11:20,012
+For me, I guess, as a 20-something,
+
+175
+00:11:20,096 --> 00:11:24,517
+the feeling of, "I'm not doing it right
+at all" is so prevalent sometimes.
+
+176
+00:11:25,434 --> 00:11:28,145
+<i>I had made a comic about it forever ago.</i>
+
+177
+00:11:29,438 --> 00:11:33,484
+<i>Sometimes, when you're 26,</i>
+<i>you feel like an adult,</i>
+
+178
+00:11:34,193 --> 00:11:37,571
+<i>and sometimes you feel like</i>
+<i>two kids stacked in a trench coat.</i>
+
+179
+00:11:38,739 --> 00:11:41,200
+<i>But that's just a one-line comic,</i>
+
+180
+00:11:41,283 --> 00:11:44,078
+<i>how do I make that</i>
+<i>into a full fleshed-out story?</i>
+
+181
+00:11:45,037 --> 00:11:46,914
+<i>I thought about that feeling of,</i>
+
+182
+00:11:46,997 --> 00:11:52,086
+<i>"Okay, today everyone sees me</i>
+<i>as a little kid with thick shoulder pads</i>
+
+183
+00:11:52,169 --> 00:11:54,672
+<i>"and I'm not living up</i>
+<i>to my adult potential."</i>
+
+184
+00:11:55,464 --> 00:11:58,801
+<i>Or the moment at work</i>
+<i>where I snap at someone</i>
+
+185
+00:11:58,884 --> 00:12:01,887
+<i>and I was like, "I could've said that</i>
+<i>so much more eloquently,"</i>
+
+186
+00:12:01,971 --> 00:12:05,141
+<i>and instead I just went back</i>
+<i>to that teenage part of myself.</i>
+
+187
+00:12:05,975 --> 00:12:08,018
+Those little sparks
+kept popping up in my head.
+
+188
+00:12:09,186 --> 00:12:11,063
+<i>"I think there's a story here."</i>
+
+189
+00:12:18,863 --> 00:12:19,864
+(MACHINE WHIRRING)
+
+190
+00:12:20,698 --> 00:12:22,658
+GONZALES: <i>I love having parameters.</i>
+
+191
+00:12:23,659 --> 00:12:25,786
+<i>When you have a short window of time,</i>
+
+192
+00:12:25,870 --> 00:12:28,247
+<i>you have minimal amount of people,</i>
+
+193
+00:12:28,330 --> 00:12:32,501
+there's a real strategy
+to how you approach every Spark.
+
+194
+00:12:33,753 --> 00:12:36,255
+<i>The safest thing I could've done</i>
+<i>is went for a big concept.</i>
+
+195
+00:12:37,006 --> 00:12:40,217
+<i>Like, the parents drink the potion</i>
+<i>and they become stuffed animals,</i>
+
+196
+00:12:40,301 --> 00:12:43,763
+<i>and in the end, they'd learn how</i>
+<i>to be better parents to their kids.</i>
+
+197
+00:12:44,472 --> 00:12:47,808
+"Wow, animating teddy bears.
+Love it. Cute."
+
+198
+00:12:48,809 --> 00:12:50,644
+<i>But I wanted to go somewhere deeper.</i>
+
+199
+00:12:51,520 --> 00:12:54,231
+<i>I knew I wanted to do a story</i>
+<i>with a grandmother.</i>
+
+200
+00:12:54,315 --> 00:12:56,692
+<i>Like, grandmothers that I grew up with.</i>
+
+201
+00:12:56,776 --> 00:12:59,904
+<i>There was a grit and a toughness,</i>
+<i>but a lot of love.</i>
+
+202
+00:13:00,946 --> 00:13:03,824
+<i>They'd give you the shirt off their back,</i>
+<i>do anything for you,</i>
+
+203
+00:13:03,908 --> 00:13:06,827
+<i>but they don't look like they're</i>
+<i>completely approachable. </i>(CHUCKLES)
+
+204
+00:13:07,953 --> 00:13:11,582
+<i>So, I started circling around</i>
+<i>this idea of generational divide.</i>
+
+205
+00:13:12,333 --> 00:13:15,669
+<i>For me, it was really important</i>
+<i>to pull from my people.</i>
+
+206
+00:13:15,753 --> 00:13:19,590
+I want my family and friends
+to be representative of the world,
+
+207
+00:13:19,673 --> 00:13:21,509
+of how the world moves and breathes.
+
+208
+00:13:21,592 --> 00:13:24,553
+Which is gonna be different than,
+you know, you or anybody else, right?
+
+209
+00:13:24,637 --> 00:13:26,514
+Our worlds are different.
+
+210
+00:13:26,597 --> 00:13:30,684
+<i>I remember my grandma Pearl,</i>
+<i>who passed, had a lot of attitude.</i>
+
+211
+00:13:32,228 --> 00:13:34,480
+<i>And my daughter wasn't old enough</i>
+<i>to really have</i>
+
+212
+00:13:34,563 --> 00:13:35,940
+<i>a relationship with my grandma.</i>
+
+213
+00:13:36,023 --> 00:13:38,984
+<i>But my daughter,</i>
+<i>when she was young, also had attitude.</i>
+
+214
+00:13:39,068 --> 00:13:42,530
+<i>Oh, I would've loved to have seen what,</i>
+<i>together, they would've been like.</i>
+
+215
+00:13:43,364 --> 00:13:47,618
+<i>I love the juxtaposition of the complete</i>
+<i>innocent with the experienced.</i>
+
+216
+00:13:48,828 --> 00:13:51,413
+<i>But characters that are vulnerable</i>
+<i>in a real way</i>
+
+217
+00:13:51,497 --> 00:13:53,958
+have to come from the artist
+in a real way.
+
+218
+00:13:54,041 --> 00:13:55,543
+The artist has to be vulnerable.
+
+219
+00:13:56,919 --> 00:13:59,547
+<i>And this is the hard thing for me to do.</i>
+
+220
+00:14:00,256 --> 00:14:02,383
+<i>There was a hundred questions that come up</i>
+
+221
+00:14:02,466 --> 00:14:07,513
+<i>to try and corral this big,</i>
+<i>nebulous idea that seems simple,</i>
+
+222
+00:14:08,264 --> 00:14:09,682
+<i>so I needed that true north.</i>
+
+223
+00:14:09,765 --> 00:14:13,269
+<i>I needed something that gave me</i>
+<i>a sense of, "It could be done."</i>
+
+224
+00:14:14,728 --> 00:14:17,314
+<i>And that's when I went to London</i>
+<i>to go visit a friend of mine,</i>
+
+225
+00:14:17,398 --> 00:14:20,401
+<i>and they took me to a play,</i>
+Death of a Salesman.
+
+226
+00:14:21,235 --> 00:14:24,947
+This life and time of this husband,
+and his relationship with his family.
+
+227
+00:14:26,407 --> 00:14:28,367
+<i>It's that simple, but it's that clear.</i>
+
+228
+00:14:29,326 --> 00:14:33,163
+<i>And I thought, "Oh, my God,</i>
+<i>if my short could even scratch the surface</i>
+
+229
+00:14:33,247 --> 00:14:37,042
+<i>"of what the actors in that play are doing</i>
+<i>and have that kind of impact?</i>
+
+230
+00:14:37,126 --> 00:14:38,919
+<i>"Man, this is where I wanna go."</i>
+
+231
+00:14:40,087 --> 00:14:41,839
+The brochure, I have it on my board
+
+232
+00:14:41,922 --> 00:14:44,300
+<i>to remind me that</i>
+<i>this is about characters.</i>
+
+233
+00:14:46,176 --> 00:14:48,429
+<i>"What can I do with a grandmother</i>
+<i>and a granddaughter</i>
+
+234
+00:14:48,512 --> 00:14:50,973
+<i>"and the grandma's old dog</i>
+<i>in an apartment?"</i>
+
+235
+00:14:51,056 --> 00:14:54,643
+<i>I can just wring every drop of personality</i>
+<i>out of these three,</i>
+
+236
+00:14:55,394 --> 00:14:57,271
+'cause it's basically a stage play.
+
+237
+00:15:03,694 --> 00:15:05,321
+CORBIN:<i> It's interesting when people say,</i>
+
+238
+00:15:05,404 --> 00:15:08,032
+<i>"I was never good at drawing,</i>
+<i>so I didn't draw."</i>
+
+239
+00:15:09,283 --> 00:15:11,744
+<i>I don't think I necessarily knew</i>
+<i>that I was good or not.</i>
+
+240
+00:15:11,827 --> 00:15:13,203
+It's something I had to do.
+
+241
+00:15:15,122 --> 00:15:17,458
+<i>It was like my own way of therapy almost.</i>
+
+242
+00:15:17,541 --> 00:15:19,793
+<i>If I'm frustrated,</i>
+<i>I'm like, "I gotta go draw,"</i>
+
+243
+00:15:19,919 --> 00:15:22,087
+<i>or "I'm happy,</i>
+<i>I'm gonna sit down and draw."</i>
+
+244
+00:15:24,006 --> 00:15:25,507
+<i>But I remember, growing up,</i>
+
+245
+00:15:25,591 --> 00:15:28,761
+<i>there wasn't a lot of content</i>
+<i>with Black little girls.</i>
+
+246
+00:15:29,637 --> 00:15:33,015
+<i>The two Disney princesses that</i>
+<i>me and my sister would dress up as were</i>
+
+247
+00:15:33,098 --> 00:15:36,685
+Pocahontas and Jasmine
+'cause it was like, "They're brown-ish."
+
+248
+00:15:37,603 --> 00:15:39,772
+<i>So, when I was really young,</i>
+
+249
+00:15:39,855 --> 00:15:43,233
+<i>I would automatically draw</i>
+<i>blonde hair, blue eyes,</i>
+
+250
+00:15:43,317 --> 00:15:47,071
+<i>you know, if you don't specify character,</i>
+<i>I guess that's what we're doing.</i>
+
+251
+00:15:48,656 --> 00:15:52,701
+<i>And I was always challenged</i>
+<i>by a family member that's like,</i>
+
+252
+00:15:52,785 --> 00:15:54,954
+<i>"How come you only draw white characters?"</i>
+
+253
+00:15:59,249 --> 00:16:02,503
+<i>And the frustration of trying</i>
+<i>to explain to your family,</i>
+
+254
+00:16:02,586 --> 00:16:04,338
+<i>"I don't even know why you're asking me.</i>
+
+255
+00:16:04,421 --> 00:16:05,798
+<i>"You know the answer to this."</i>
+
+256
+00:16:06,882 --> 00:16:08,258
+<i>"I'm drawing what I see</i>
+
+257
+00:16:08,342 --> 00:16:11,303
+"and people don't want anything
+other than white people,
+
+258
+00:16:11,387 --> 00:16:14,014
+"'cause if they did, they'd be on TV."
+
+259
+00:16:15,391 --> 00:16:19,228
+<i>It was hard, incredibly hard</i>
+<i>to break past that</i>
+
+260
+00:16:20,813 --> 00:16:23,899
+and it took a while, a lot of unlearning.
+
+261
+00:16:26,276 --> 00:16:27,861
+<i>It just took a leap of faith.</i>
+
+262
+00:16:32,032 --> 00:16:35,285
+<i>I was like, "Yeah, I'm gonna draw</i>
+<i>more characters of different ethnicities."</i>
+
+263
+00:16:36,078 --> 00:16:39,832
+<i>And it felt right, and it felt truthful</i>
+<i>because it's what I know.</i>
+
+264
+00:16:41,583 --> 00:16:43,919
+<i>Then it turned into,</i>
+<i>"Unless anyone says otherwise,</i>
+
+265
+00:16:44,003 --> 00:16:45,879
+<i>"I'm drawing mainly Black characters,</i>
+
+266
+00:16:45,963 --> 00:16:48,090
+<i>"and then anything else will be a POC,</i>
+
+267
+00:16:48,549 --> 00:16:52,136
+<i>"and let's just see how long it takes</i>
+<i>before a teacher says something."</i>
+
+268
+00:16:53,929 --> 00:16:55,514
+They didn't, 'cause that would've been
+
+269
+00:16:55,639 --> 00:16:58,142
+an extremely interesting conversation
+to have had.
+
+270
+00:16:59,309 --> 00:17:01,353
+<i>And then it just became a norm.</i>
+
+271
+00:17:13,657 --> 00:17:16,201
+<i>When I got to Pixar,</i>
+<i>they had seen my work.</i>
+
+272
+00:17:17,244 --> 00:17:20,205
+<i>So, in my mind, I'm like,</i>
+<i>"You know what you're getting."</i>
+
+273
+00:17:21,373 --> 00:17:24,418
+DOCTER:<i> Working on</i> Soul
+<i>was kind of a revelation to me</i>
+
+274
+00:17:24,501 --> 00:17:27,504
+<i>because as a white kid in America,</i>
+
+275
+00:17:27,588 --> 00:17:31,675
+I saw thousands of characters
+that represented my experience.
+
+276
+00:17:33,594 --> 00:17:37,222
+<i>Joe Gardner in</i> Soul <i>is our first</i>
+<i>African-American lead.</i>
+
+277
+00:17:38,098 --> 00:17:41,477
+<i>So, trying to see the world</i>
+<i>through his perspective,</i>
+
+278
+00:17:41,560 --> 00:17:43,645
+<i>it took a lot of learning on my part,</i>
+
+279
+00:17:44,730 --> 00:17:48,984
+<i>and Aphton was a huge contributor</i>
+<i>to the storytelling of that.</i>
+
+280
+00:17:51,028 --> 00:17:54,406
+CORBIN: <i>Just going here and continuing</i>
+<i>to challenge that level of diversity</i>
+
+281
+00:17:54,490 --> 00:17:57,076
+<i>of voices and characters is important.</i>
+
+282
+00:17:57,910 --> 00:17:59,286
+<i>Asking questions...</i>
+
+283
+00:18:00,120 --> 00:18:03,540
+<i>"Why is this character white?</i>
+<i>Is there any specific reason?"</i>
+
+284
+00:18:04,041 --> 00:18:07,044
+<i>'Cause sometimes it's not,</i>
+<i>a lot of times it's honestly just</i>
+
+285
+00:18:07,503 --> 00:18:09,963
+somebody drew two dots and a smiley face,
+
+286
+00:18:10,047 --> 00:18:14,051
+and then it went downstream
+and they autofilled a white character,
+
+287
+00:18:14,134 --> 00:18:17,805
+and just, like, challenging that
+and having people be more open to, like,
+
+288
+00:18:17,888 --> 00:18:21,350
+"Oh, absolutely, let's find some way
+to add some more diversity here."
+
+289
+00:18:23,143 --> 00:18:26,355
+<i>We all have relatable</i>
+<i>emotions and experiences.</i>
+
+290
+00:18:27,898 --> 00:18:31,819
+<i>I am excited about people</i>
+<i>getting used to seeing common stories</i>
+
+291
+00:18:31,902 --> 00:18:34,321
+<i>through the lens of a Black character.</i>
+
+292
+00:18:35,489 --> 00:18:37,533
+So, that's what I hope to do
+through my film.
+
+293
+00:18:40,369 --> 00:18:44,373
+<i>The initial story was of a day in the life</i>
+<i>of this character, Gia,</i>
+
+294
+00:18:44,456 --> 00:18:46,542
+<i>on her 21st birthday.</i>
+
+295
+00:18:47,209 --> 00:18:48,877
+<i>In my head, the idea is,</i>
+
+296
+00:18:48,961 --> 00:18:52,089
+<i>instead of getting older</i>
+<i>and more mature,</i>
+
+297
+00:18:52,172 --> 00:18:54,508
+<i>more kids are coming into</i>
+<i>this trench coat.</i>
+
+298
+00:18:55,425 --> 00:18:57,177
+So, it should be 21 of them in there.
+
+299
+00:18:57,970 --> 00:19:01,849
+<i>But I was like, "That's ridiculous.</i>
+<i>I'm gonna be lucky if I get a few."</i>
+
+300
+00:19:01,932 --> 00:19:05,978
+<i>And so I was trying to narrow down</i>
+<i>what ages were pivotal.</i>
+
+301
+00:19:07,563 --> 00:19:11,275
+<i>And so it became the One-Year-Old</i>
+<i>that encompassed that baby,</i>
+
+302
+00:19:11,358 --> 00:19:12,985
+<i>just, like, raw emotion.</i>
+
+303
+00:19:13,652 --> 00:19:17,990
+<i>And then Ten, who in my mind,</i>
+<i>she kind of represents that confidence,</i>
+
+304
+00:19:18,073 --> 00:19:19,366
+<i>"Things are good,"</i>
+
+305
+00:19:19,449 --> 00:19:22,286
+<i>and just how you think</i>
+<i>you know everything at that age.</i>
+
+306
+00:19:22,369 --> 00:19:25,998
+<i>And Sixteen is, like, smack in</i>
+<i>your teenage years, that felt right.</i>
+
+307
+00:19:26,790 --> 00:19:29,668
+<i>And for me, being 16 is</i>
+<i>about being super-emotional</i>
+
+308
+00:19:29,751 --> 00:19:31,753
+<i>and insecure about everything.</i>
+
+309
+00:19:33,505 --> 00:19:36,466
+<i>Felt like they balanced each other out</i>
+<i>in a nice way.</i>
+
+310
+00:19:50,314 --> 00:19:54,735
+GONZALES: <i>I think that you can't divorce</i>
+<i>the experience of the storyteller</i>
+
+311
+00:19:54,818 --> 00:19:57,946
+<i>from the types of stories that</i>
+<i>they're gonna tell, it's innate.</i>
+
+312
+00:19:58,906 --> 00:20:01,074
+<i>That's something</i>
+<i>we all do as storytellers.</i>
+
+313
+00:20:01,158 --> 00:20:03,452
+<i>We gravitate towards the things</i>
+<i>that we grow up around,</i>
+
+314
+00:20:03,535 --> 00:20:04,745
+<i>the things that we like.</i>
+
+315
+00:20:04,828 --> 00:20:06,496
+<i>I almost feel like that doesn't go away.</i>
+
+316
+00:20:10,542 --> 00:20:12,711
+<i>Growing up,</i>
+<i>I had a strong group of friends.</i>
+
+317
+00:20:12,794 --> 00:20:15,464
+<i>They were my crew, you know,</i>
+<i>that was a graffiti crew.</i>
+
+318
+00:20:17,299 --> 00:20:19,593
+<i>I loved them a lot</i>
+<i>because it was all about art.</i>
+
+319
+00:20:20,928 --> 00:20:23,513
+<i>Those crews were made up</i>
+<i>of different nationalities,</i>
+
+320
+00:20:23,597 --> 00:20:27,226
+<i>you know, just different cultures,</i>
+<i>and it was us against the world.</i>
+
+321
+00:20:29,228 --> 00:20:32,606
+<i>I loved how</i>
+<i>art was this beacon for sharing.</i>
+
+322
+00:20:32,689 --> 00:20:35,984
+<i>And it didn't matter who you were,</i>
+<i>it was all about the art.</i>
+
+323
+00:20:36,777 --> 00:20:39,404
+<i>It was just this fun life</i>
+<i>of running around LA,</i>
+
+324
+00:20:39,488 --> 00:20:42,282
+<i>spray paintin' and runnin' from the cops,</i>
+<i>and gettin' up on buses,</i>
+
+325
+00:20:42,366 --> 00:20:45,410
+and jumpin' out of windows in case
+the bus driver stopped or whatever.
+
+326
+00:20:45,494 --> 00:20:47,204
+It was fun 'cause it was mischievous,
+
+327
+00:20:47,287 --> 00:20:49,248
+but it was also art-related,
+and I loved that.
+
+328
+00:20:50,499 --> 00:20:52,417
+<i>The thing was, is that this was an outlet</i>
+
+329
+00:20:52,501 --> 00:20:55,796
+<i>to kind of see yourself</i>
+<i>bigger than anyone sees you.</i>
+
+330
+00:20:57,798 --> 00:21:00,133
+<i>You're talkin' about LA</i>
+<i>in the '80s and '90s.</i>
+
+331
+00:21:00,217 --> 00:21:03,428
+<i>It's rife with gang activity</i>
+<i>on every other corner.</i>
+
+332
+00:21:04,137 --> 00:21:06,306
+No one's looking at a brown kid
+back then and going,
+
+333
+00:21:06,390 --> 00:21:08,392
+"My God, you know,
+you're going to Harvard."
+
+334
+00:21:08,475 --> 00:21:10,352
+They're going,
+"Oh, God. You're going to jail.
+
+335
+00:21:10,435 --> 00:21:12,646
+<i>"'Cause look at you,</i>
+<i>you're a graffiti artist."</i>
+
+336
+00:21:12,729 --> 00:21:15,607
+<i>And we're just going,</i>
+<i>"Look, we just wanna be seen."</i>
+
+337
+00:21:20,320 --> 00:21:24,116
+<i>I tried to apply to art colleges,</i>
+<i>but my parents, we couldn't afford it.</i>
+
+338
+00:21:24,866 --> 00:21:27,786
+And I tried to get
+some sort of scholarship or somethin',
+
+339
+00:21:27,869 --> 00:21:30,080
+but I was a terrible student.
+I'll be honest.
+
+340
+00:21:30,163 --> 00:21:33,292
+I wasn't as focused on my studies
+as I should have been
+
+341
+00:21:33,375 --> 00:21:35,002
+because I drew all the time.
+
+342
+00:21:35,544 --> 00:21:36,545
+<i>My parents were awesome.</i>
+
+343
+00:21:36,628 --> 00:21:38,380
+<i>They were always supportive of me drawing.</i>
+
+344
+00:21:39,131 --> 00:21:41,508
+<i>But they drove buses for a living.</i>
+
+345
+00:21:41,591 --> 00:21:44,136
+My parents would be like,
+"Totally. Drawing is great.
+
+346
+00:21:44,219 --> 00:21:45,387
+"We're gonna support you.
+
+347
+00:21:45,470 --> 00:21:47,222
+"However, think about driving a bus?"
+
+348
+00:21:48,098 --> 00:21:50,392
+<i>And I was like,</i>
+<i>"I'm not gonna be a bus driver</i>
+
+349
+00:21:50,475 --> 00:21:53,270
+"'cause that feels like
+I'm settlin', Mom."
+
+350
+00:21:53,353 --> 00:21:56,148
+<i>But the thing is that it always</i>
+<i>kind of pushed me into trying</i>
+
+351
+00:21:56,231 --> 00:21:58,317
+<i>to hustle up drawing for a living.</i>
+
+352
+00:21:59,109 --> 00:22:01,236
+My spectrum of what it could've been was
+
+353
+00:22:01,320 --> 00:22:04,531
+doing designs for T-shirts,
+storefronts with graffiti,
+
+354
+00:22:04,614 --> 00:22:06,533
+like, it was like this,
+you know, airbrushing.
+
+355
+00:22:06,616 --> 00:22:09,411
+It was a small thing
+that you could maintain a business.
+
+356
+00:22:09,911 --> 00:22:12,414
+<i>I don't know if you could</i>
+<i>support a family with that.</i>
+
+357
+00:22:13,457 --> 00:22:14,958
+I was looking for the right fit,
+
+358
+00:22:15,042 --> 00:22:17,085
+and I figured comic books
+was gonna be my fit.
+
+359
+00:22:18,837 --> 00:22:21,423
+<i>I started getting into comic books</i>
+<i>in high school.</i>
+
+360
+00:22:22,215 --> 00:22:26,053
+<i>I loved the Brothers Hernandez.</i>
+<i>Jaime, Berto and Mario,</i>
+
+361
+00:22:26,553 --> 00:22:28,972
+<i>and I loved their work</i>
+<i>because it was this great mash-up</i>
+
+362
+00:22:29,056 --> 00:22:31,975
+<i>of these characters that lived</i>
+<i>in an area like I did.</i>
+
+363
+00:22:32,059 --> 00:22:33,977
+<i>They were Latin, mostly.</i>
+
+364
+00:22:34,061 --> 00:22:36,938
+<i>It was grounded in a world like mine,</i>
+<i>but they'd have adventures.</i>
+
+365
+00:22:37,022 --> 00:22:38,648
+<i>They would go into outer space.</i>
+
+366
+00:22:39,524 --> 00:22:41,568
+<i>It was like,</i>
+<i>"This is fantastic, different."</i>
+
+367
+00:22:42,277 --> 00:22:45,489
+Comic books made me double down and go,
+"I want to tell stories."
+
+368
+00:23:00,629 --> 00:23:03,382
+My daughter loved costumes
+when she was younger.
+
+369
+00:23:03,465 --> 00:23:05,133
+She had this Tigger costume.
+
+370
+00:23:05,217 --> 00:23:08,053
+<i>And she loved dancing around,</i>
+<i>being Tigger.</i>
+
+371
+00:23:08,136 --> 00:23:10,138
+<i>She would wear it for days on end.</i>
+
+372
+00:23:10,972 --> 00:23:14,142
+<i>When I started to explore ideas</i>
+<i>of this little girl,</i>
+
+373
+00:23:14,226 --> 00:23:19,689
+<i>I initially started her as a little girl</i>
+<i>that dressed up in a cat costume.</i>
+
+374
+00:23:19,773 --> 00:23:22,567
+<i>I just wanted her to be</i>
+<i>a pure little 4-year-old</i>
+
+375
+00:23:22,651 --> 00:23:25,070
+<i>with the energy</i>
+<i>and excitement and imagination</i>
+
+376
+00:23:25,153 --> 00:23:27,406
+that kids of that age usually have.
+
+377
+00:23:27,489 --> 00:23:29,533
+<i>Little kids, their emotions are unbounded,</i>
+
+378
+00:23:29,616 --> 00:23:33,370
+so you can have, "I'm happy, I'm sad,
+and I'm angry and I'm playful"
+
+379
+00:23:33,453 --> 00:23:35,497
+all within five or 10 minutes.
+
+380
+00:23:36,790 --> 00:23:38,291
+I knew I had this tough grandma
+
+381
+00:23:38,375 --> 00:23:41,837
+who was gonna be visited by
+her granddaughter, who is super energetic.
+
+382
+00:23:41,920 --> 00:23:45,382
+I wanna engage, engage,
+engage with my grandma.
+
+383
+00:23:46,133 --> 00:23:49,761
+<i>And the grandma's like, "Yes, I love you,</i>
+<i>but I'm trying to do something right now."</i>
+
+384
+00:23:50,053 --> 00:23:52,389
+<i>I had to kind of figure out</i>
+<i>why she would go to</i>
+
+385
+00:23:52,472 --> 00:23:54,933
+<i>the lengths to keep</i>
+<i>the little girl away from her.</i>
+
+386
+00:23:56,935 --> 00:23:58,937
+As I was exploring the grandmother,
+
+387
+00:23:59,020 --> 00:24:03,900
+not baking cookies and not doing
+the '80s TV show version of a grandma,
+
+388
+00:24:03,984 --> 00:24:05,277
+but someone that I know.
+
+389
+00:24:06,319 --> 00:24:09,865
+<i>So, like, that grit that</i>
+<i>I remember in my grandmas,</i>
+
+390
+00:24:09,948 --> 00:24:12,117
+it was kind of like
+trying to pull off of them,
+
+391
+00:24:12,200 --> 00:24:13,785
+you know, glean pieces of them.
+
+392
+00:24:14,661 --> 00:24:17,747
+Thinking about it, I was kind of like,
+"What if she loved wrestling?"
+
+393
+00:24:18,582 --> 00:24:20,584
+But that comes with the trappings of,
+
+394
+00:24:20,667 --> 00:24:22,502
+"Oh, you're Hispanic. Is she Hispanic?
+
+395
+00:24:22,586 --> 00:24:25,589
+"Oh, <i>luchadores,</i> am I right?
+She was a <i>luchador,</i> am I right?"
+
+396
+00:24:25,672 --> 00:24:30,510
+And I'm like, "No.
+She loves wrestling like soap operas."
+
+397
+00:24:31,261 --> 00:24:33,472
+<i>It's no different.</i>
+<i>It's just more athletic.</i>
+
+398
+00:24:34,639 --> 00:24:36,683
+<i>It's the thing that she loves to watch.</i>
+
+399
+00:24:37,559 --> 00:24:39,603
+<i>So I was like,</i>
+<i>"Okay, this is sitting right."</i>
+
+400
+00:24:40,854 --> 00:24:43,982
+<i>Because it's not some sort of arbitrary</i>
+<i>decision that makes her interesting.</i>
+
+401
+00:24:44,107 --> 00:24:46,485
+<i>It's something that's rooted</i>
+<i>in something real.</i>
+
+402
+00:24:46,568 --> 00:24:49,654
+<i>So I'm like, "Okay, that's what it is."</i>
+<i>That's how it started.</i>
+
+403
+00:25:00,999 --> 00:25:02,834
+CORBIN: I mostly board digitally,
+
+404
+00:25:02,918 --> 00:25:07,839
+but when I'm brainstorming ideas,
+I will draw them on paper first sometimes,
+
+405
+00:25:07,923 --> 00:25:09,257
+more like thumbnails.
+
+406
+00:25:09,341 --> 00:25:13,845
+Just so I can start to try and figure out
+these shots that are in my head
+
+407
+00:25:13,929 --> 00:25:18,308
+and they help me visualize
+some of the key scenes
+
+408
+00:25:18,391 --> 00:25:20,560
+I wanna portray in my short.
+
+409
+00:25:22,145 --> 00:25:27,108
+And I'm working on the intro conversation
+with Gia and her sister Nicole.
+
+410
+00:25:27,901 --> 00:25:32,864
+<i>The creation of this sister character</i>
+<i>is based off of my sister.</i>
+
+411
+00:25:34,241 --> 00:25:37,035
+<i>My sister is my best friend,</i>
+<i>and we're only two years apart,</i>
+
+412
+00:25:37,118 --> 00:25:41,414
+<i>and so it's nice to have someone who</i>
+<i>is not too far away from you in age,</i>
+
+413
+00:25:41,498 --> 00:25:43,333
+<i>who knows what you're going through.</i>
+
+414
+00:25:45,752 --> 00:25:49,339
+<i>The idea of going out with your sister</i>
+<i>for your 21st birthday</i>
+
+415
+00:25:49,422 --> 00:25:52,342
+<i>felt so gettable and so adorable.</i>
+
+416
+00:25:52,842 --> 00:25:55,887
+<i>I just got really excited</i>
+<i>about their relationship.</i>
+
+417
+00:25:59,349 --> 00:26:01,476
+<i>Then I started thinking about settings.</i>
+
+418
+00:26:02,310 --> 00:26:04,646
+<i>I initially thought of an office.</i>
+
+419
+00:26:06,773 --> 00:26:10,068
+<i>And it started with talking to friends</i>
+<i>by the water cooler</i>
+
+420
+00:26:10,151 --> 00:26:13,071
+<i>as three characters stacked up</i>
+<i>on top of each other.</i>
+
+421
+00:26:13,780 --> 00:26:18,243
+<i>And then what if some of her friends</i>
+<i>take her out to this club,</i>
+
+422
+00:26:18,326 --> 00:26:20,662
+<i>and that's when she has this meltdown.</i>
+
+423
+00:26:23,206 --> 00:26:25,750
+<i>But as a person</i>
+<i>who doesn't work in a typical office,</i>
+
+424
+00:26:25,834 --> 00:26:27,961
+<i>it kind of felt untruthful.</i>
+
+425
+00:26:29,421 --> 00:26:32,465
+<i>And then I was like, "Okay,</i>
+<i>what if I cut the entire office part out</i>
+
+426
+00:26:32,549 --> 00:26:35,343
+<i>"and just have it happen</i>
+<i>entirely in the club?"</i>
+
+427
+00:26:37,304 --> 00:26:39,723
+<i>Being more of a homebody introvert,</i>
+
+428
+00:26:39,806 --> 00:26:42,684
+<i>there's something so truthful</i>
+<i>about going to a place</i>
+
+429
+00:26:42,767 --> 00:26:45,854
+<i>where you're supposed to be having</i>
+<i>a fun time, but you're really not.</i>
+
+430
+00:26:45,937 --> 00:26:49,399
+<i>It felt right. It was like</i>
+<i>one setting, it was concise,</i>
+
+431
+00:26:49,482 --> 00:26:52,277
+<i>and it really tightened up</i>
+<i>the rest of the story.</i>
+
+432
+00:26:58,283 --> 00:27:02,329
+GONZALES: So, the grandma, she's gonna be
+in her early 50s, you know?
+
+433
+00:27:02,412 --> 00:27:05,040
+So, not too old where
+she's like, "My hip and my stuff."
+
+434
+00:27:05,123 --> 00:27:07,375
+Your thoughts around hair?
+It's complicated.
+
+435
+00:27:07,459 --> 00:27:08,627
+Well, we're... (CHUCKLES)
+
+436
+00:27:09,252 --> 00:27:11,463
+MORRIS:<i> The director</i>
+<i>is the key storyteller.</i>
+
+437
+00:27:11,546 --> 00:27:14,716
+<i>And their wing-person is their producer,</i>
+
+438
+00:27:15,550 --> 00:27:18,678
+they get a lot of stuff thrown at them
+that they aren't expecting,
+
+439
+00:27:18,762 --> 00:27:20,472
+<i>and they have to be thinking of,</i>
+
+440
+00:27:20,555 --> 00:27:22,807
+<i>"How can I do this better,</i>
+<i>faster, cheaper?"</i>
+
+441
+00:27:23,308 --> 00:27:26,728
+I needed my partner in the short to be
+someone who's gonna check me,
+
+442
+00:27:26,811 --> 00:27:28,688
+because I don't wanna have blind spots.
+
+443
+00:27:28,813 --> 00:27:31,274
+<i>But I wanted to know who Courtney was.</i>
+
+444
+00:27:31,358 --> 00:27:33,777
+You've worked in
+a ton of departments, right?
+
+445
+00:27:33,860 --> 00:27:35,153
+How do you like to work?
+
+446
+00:27:35,236 --> 00:27:36,946
+I think one of the biggest things for me,
+
+447
+00:27:37,030 --> 00:27:38,990
+to help pull up the pace,
+is collaboration.
+
+448
+00:27:39,491 --> 00:27:41,326
+<i>My name is Courtney Kent.</i>
+
+449
+00:27:41,409 --> 00:27:44,162
+I've been at Pixar
+a little over 13 years now.
+
+450
+00:27:44,245 --> 00:27:45,789
+How many editors do we have?
+
+451
+00:27:45,872 --> 00:27:46,873
+How does that work?
+
+452
+00:27:46,956 --> 00:27:49,209
+I've got a list of people
+that are open to it,
+
+453
+00:27:49,292 --> 00:27:51,336
+and I think we can sit and talk
+to all of them.
+
+454
+00:27:51,419 --> 00:27:54,464
+Along the way, I got to help
+on the development
+
+455
+00:27:54,547 --> 00:27:58,218
+of the very first SparkShort,
+<i>Smash and Grab.</i>
+
+456
+00:27:59,969 --> 00:28:01,805
+<i>And since then, I have been saying,</i>
+
+457
+00:28:02,055 --> 00:28:06,309
+if there's ever an opportunity for
+a Spark producer, I would love to do it.
+
+458
+00:28:07,769 --> 00:28:10,772
+<i>Louis and I got partnered together,</i>
+<i>not knowing each other,</i>
+
+459
+00:28:10,855 --> 00:28:13,775
+<i>which was intimidating</i>
+<i>and exciting at the same time.</i>
+
+460
+00:28:13,858 --> 00:28:15,944
+<i>It feels a little bit</i>
+<i>like a blind marriage.</i>
+
+461
+00:28:16,319 --> 00:28:17,696
+<i>I was very nervous.</i>
+
+462
+00:28:17,779 --> 00:28:20,240
+<i>I think I felt like I had a lot to prove.</i>
+
+463
+00:28:20,365 --> 00:28:23,118
+I think, having never been a producer
+before, you go into it, like,
+
+464
+00:28:23,243 --> 00:28:24,911
+<i>"I don't know what I'm doing."</i>
+
+465
+00:28:25,787 --> 00:28:28,289
+<i>But as soon as we started</i>
+<i>talking about the story</i>
+
+466
+00:28:28,373 --> 00:28:30,333
+<i>being really focused on family,</i>
+
+467
+00:28:30,959 --> 00:28:32,669
+<i>and I have a young daughter,</i>
+
+468
+00:28:34,421 --> 00:28:36,881
+<i>we were able to find some fast connections</i>
+
+469
+00:28:37,048 --> 00:28:39,592
+<i>that gave us some great momentum</i>
+<i>going forward.</i>
+
+470
+00:28:42,220 --> 00:28:44,848
+COLLINS:<i> The producer is very much</i>
+<i>the partner for the director,</i>
+
+471
+00:28:44,973 --> 00:28:47,517
+but also the kind of leader of the crew.
+
+472
+00:28:48,017 --> 00:28:50,729
+<i>So, we'd ask that producers on SparkShorts</i>
+
+473
+00:28:50,812 --> 00:28:53,314
+<i>find people that they trust</i>
+
+474
+00:28:53,398 --> 00:28:58,153
+<i>and use them to get the director's vision</i>
+<i>up on the screen.</i>
+
+475
+00:28:59,279 --> 00:29:03,867
+CORBIN:<i> I think I was told, "You have</i>
+<i>a producer now and he is Erik."</i>
+
+476
+00:29:05,076 --> 00:29:09,789
+<i>I didn't really know him,</i>
+<i>and my initial reaction was like,</i>
+
+477
+00:29:09,873 --> 00:29:11,708
+<i>"I can handle it myself."</i>
+
+478
+00:29:11,791 --> 00:29:14,711
+I just didn't know what
+that relationship even meant.
+
+479
+00:29:15,211 --> 00:29:18,882
+<i>And then I started to get</i>
+<i>what our dynamic was going to be.</i>
+
+480
+00:29:19,299 --> 00:29:20,884
+<i>My name is Erik Langley.</i>
+
+481
+00:29:20,967 --> 00:29:24,220
+<i>I've been with Pixar since 2004.</i>
+
+482
+00:29:24,304 --> 00:29:25,805
+That's about 16 years now.
+
+483
+00:29:26,598 --> 00:29:29,684
+<i>And it's my first time</i>
+<i>producing a SparkShort.</i>
+
+484
+00:29:31,686 --> 00:29:36,107
+<i>From the beginning, Aphton knew what</i>
+<i>the story was that she wanted to tell,</i>
+
+485
+00:29:36,191 --> 00:29:38,693
+and there's nothing better
+that a crew can have
+
+486
+00:29:38,777 --> 00:29:40,945
+than a director that knows
+what he or she wants.
+
+487
+00:29:41,863 --> 00:29:46,826
+<i>The biggest crew that we're gonna have</i>
+<i>on a film is gonna be the animation crew.</i>
+
+488
+00:29:46,910 --> 00:29:50,121
+I feel like I could see animators
+asking about, like,
+
+489
+00:29:50,205 --> 00:29:51,956
+"What's going on in that coat?" And like,
+
+490
+00:29:52,040 --> 00:29:54,083
+"Do you have any vision of how,
+you know...
+
+491
+00:29:54,209 --> 00:29:55,919
+"How often are we gonna cut in..."
+
+492
+00:29:56,002 --> 00:29:58,713
+<i>We wanted to pitch to animation</i>
+<i>so they could have some context,</i>
+
+493
+00:29:58,797 --> 00:30:02,217
+see what the story was gonna be,
+the characters were gonna be, the style...
+
+494
+00:30:02,300 --> 00:30:04,260
+-That's all you guys.
+-Stuff like this. Yeah.
+
+495
+00:30:04,344 --> 00:30:06,262
+-You can decide. Get 'em all excited.
+-Exactly.
+
+496
+00:30:06,387 --> 00:30:10,183
+CORBIN:<i> Sometimes the animators</i>
+<i>have an option on what show to go on,</i>
+
+497
+00:30:10,308 --> 00:30:12,894
+<i>and so you want to convince them</i>
+<i>that your idea is</i>
+
+498
+00:30:12,977 --> 00:30:15,730
+<i>really exciting, and that</i>
+<i>they'll have a fun time on it.</i>
+
+499
+00:30:19,067 --> 00:30:22,111
+GONZALES: <i>All 70 animators were</i>
+<i>in this one screening room,</i>
+
+500
+00:30:22,195 --> 00:30:26,783
+<i>and animators have the reputation</i>
+<i>of being kind of hard.</i>
+
+501
+00:30:26,866 --> 00:30:29,035
+Like, "Here we are now,
+entertain us" kind of vibe.
+
+502
+00:30:30,703 --> 00:30:33,915
+<i>This was my first big pitch</i>
+<i>to a group that size.</i>
+
+503
+00:30:33,998 --> 00:30:36,167
+<i>It's scary, it's nerve-racking,</i>
+<i>it's a big deal.</i>
+
+504
+00:30:36,292 --> 00:30:38,336
+<i>'Cause how your movie</i>
+<i>lives and breathes</i>
+
+505
+00:30:38,419 --> 00:30:42,006
+<i>is gonna be that relationship</i>
+<i>between you and the animators.</i>
+
+506
+00:30:42,090 --> 00:30:44,843
+LANGLEY: <i>Anytime you have to get up</i>
+<i>in front of a hundred-plus people</i>
+
+507
+00:30:44,926 --> 00:30:46,427
+and do a little presentation,
+
+508
+00:30:46,511 --> 00:30:49,180
+you're always gonna be,
+I guess, a little bit anxious.
+
+509
+00:30:52,684 --> 00:30:54,310
+All right, hello, animation.
+
+510
+00:30:54,394 --> 00:30:58,857
+Thanks for having us, letting us crash
+your meeting. So, I'm Erik, I'm producing.
+
+511
+00:30:58,940 --> 00:31:02,360
+I'm Aphton and I'm directing.
+So I hit this to get going?
+
+512
+00:31:02,443 --> 00:31:03,444
+-Yes.
+-Aha!
+
+513
+00:31:03,528 --> 00:31:06,447
+The working title we're going
+with right now is <i>Twenty Something.</i>
+
+514
+00:31:06,531 --> 00:31:10,493
+<i>I was like, "Okay, I hope I just remember</i>
+<i>everything I had planned to say."</i>
+
+515
+00:31:10,577 --> 00:31:12,579
+This is every time I go out, by the way,
+
+516
+00:31:12,662 --> 00:31:15,582
+and being overwhelmed by all these people
+who've got it together.
+
+517
+00:31:15,665 --> 00:31:17,375
+I mean, just those moments in the office
+
+518
+00:31:17,458 --> 00:31:19,669
+where you feel like
+you didn't say the right thing.
+
+519
+00:31:19,752 --> 00:31:21,921
+<i>I had some embarrassing pictures</i>
+<i>of me as a kid.</i>
+
+520
+00:31:22,005 --> 00:31:23,298
+<i>I was like, "They'll like that."</i>
+
+521
+00:31:23,381 --> 00:31:24,632
+(CROWD CLAPPING, LAUGHING)
+
+522
+00:31:24,716 --> 00:31:26,467
+<i>"I'll hate it, they'll love it."</i>
+
+523
+00:31:27,594 --> 00:31:30,054
+Note the mesh-fingerless gloves.
+
+524
+00:31:30,138 --> 00:31:31,890
+-(CROWD LAUGHING)
+-We'll just move on.
+
+525
+00:31:32,932 --> 00:31:35,310
+GONZALES:<i> I think Aphton has</i>
+<i>a really interesting concept.</i>
+
+526
+00:31:35,435 --> 00:31:39,022
+She was funny, she had her characters
+and stuff like that. It was a good pitch.
+
+527
+00:31:39,147 --> 00:31:40,273
+Please.
+
+528
+00:31:40,356 --> 00:31:43,818
+But it was that time in the process
+where I knew my characters
+
+529
+00:31:43,902 --> 00:31:46,279
+and I knew my setting,
+but I didn't know my story.
+
+530
+00:31:46,362 --> 00:31:48,823
+"What would best represent me in a story?"
+
+531
+00:31:48,907 --> 00:31:52,076
+And I thought,
+"About a 50-year-old grandmother
+
+532
+00:31:52,201 --> 00:31:53,536
+-"with her granddaughter."
+-(CHUCKLES)
+
+533
+00:31:53,661 --> 00:31:57,123
+<i>And I'm just going, like, "Man, no one's</i>
+<i>gonna wanna work on this short."</i>
+
+534
+00:31:57,206 --> 00:31:58,625
+<i>Because it doesn't sound exciting.</i>
+
+535
+00:32:00,126 --> 00:32:04,005
+<i>So, I figured I need to go into this</i>
+<i>and present myself.</i>
+
+536
+00:32:04,130 --> 00:32:09,510
+-Here it is. Come on! Come on! Yeah.
+-Yes, she loves wrestling.
+
+537
+00:32:09,636 --> 00:32:12,847
+GONZALES: <i>I wanna make sure I emphasize</i>
+<i>who I am and how I go about stuff.</i>
+
+538
+00:32:12,972 --> 00:32:15,141
+Little girl's dropping elbows and leg.
+
+539
+00:32:15,224 --> 00:32:16,726
+<i>Get someone excited to work on this.</i>
+
+540
+00:32:16,809 --> 00:32:19,687
+Grandma's pullin' her down,
+swinging around, upside down.
+
+541
+00:32:19,771 --> 00:32:22,231
+Really stuff that we shouldn't
+be doing with little kids,
+
+542
+00:32:22,315 --> 00:32:24,025
+Grandma's probably gonna be doing.
+
+543
+00:32:24,108 --> 00:32:25,777
+All right. Thank you!
+
+544
+00:32:25,902 --> 00:32:28,821
+KENT:<i> There was a great reception.</i>
+<i>People seemed pretty excited.</i>
+
+545
+00:32:28,905 --> 00:32:31,491
+We both had animators after come up
+
+546
+00:32:31,616 --> 00:32:34,661
+<i>and talk about how fun</i>
+<i>they thought the story was.</i>
+
+547
+00:32:35,078 --> 00:32:36,621
+-GONZALES: Daniel.
+-Good job.
+
+548
+00:32:36,704 --> 00:32:38,665
+GONZALES: Hey, right on, bro.
+
+549
+00:32:38,748 --> 00:32:39,749
+LANGLEY: Nice job, guys.
+
+550
+00:32:39,832 --> 00:32:41,334
+GONZALES: Hey, same with you guys, man.
+
+551
+00:32:41,417 --> 00:32:43,753
+LANGLEY: <i>After we pitched,</i>
+<i>it got a good response.</i>
+
+552
+00:32:43,878 --> 00:32:46,089
+People were excited,
+they wanted to be a part of it.
+
+553
+00:32:51,386 --> 00:32:54,764
+GONZALES: <i>My whole career has been gettin'</i>
+<i>thrown into the deep end of the ocean</i>
+
+554
+00:32:54,847 --> 00:32:56,891
+<i>and havin' to make my way back to shore.</i>
+
+555
+00:32:58,935 --> 00:33:00,812
+I didn't go to art school,
+and I don't have
+
+556
+00:33:00,895 --> 00:33:02,397
+this "get in, fit in" mentality
+
+557
+00:33:02,480 --> 00:33:04,857
+that you kind of develop
+when you go through schools
+
+558
+00:33:04,941 --> 00:33:06,651
+and you grow up a certain kind of a way.
+
+559
+00:33:08,069 --> 00:33:12,699
+<i>It was very much about trying to see</i>
+<i>how I can figure stuff out.</i>
+
+560
+00:33:14,617 --> 00:33:17,787
+<i>Early on, when I was hanging out</i>
+<i>at the back of this comic book store</i>
+
+561
+00:33:17,870 --> 00:33:21,666
+<i>with a few other friends of mine,</i>
+<i>I met this guy, Johan,</i>
+
+562
+00:33:21,749 --> 00:33:23,710
+<i>and he has mentorship, and he's like,</i>
+
+563
+00:33:23,793 --> 00:33:26,421
+"Do you ever think about animation?"
+
+564
+00:33:26,504 --> 00:33:30,008
+And I said, "You mean, like, watch it?"
+And he's like, "No, working."
+
+565
+00:33:30,091 --> 00:33:31,592
+"I don't know if I can do it."
+
+566
+00:33:31,676 --> 00:33:33,845
+He was like,
+"We'll put a portfolio together
+
+567
+00:33:33,928 --> 00:33:35,263
+and get you a job in animation."
+
+568
+00:33:35,346 --> 00:33:38,224
+I was like, "I got nothin' to lose
+and I wanna draw for a living."
+
+569
+00:33:38,349 --> 00:33:40,727
+<i>I hunkered down</i>
+<i>and woke up at 7:00 in the morning.</i>
+
+570
+00:33:40,810 --> 00:33:43,896
+<i>I was on my little desk</i>
+<i>next to my bed doing these tests</i>
+
+571
+00:33:43,980 --> 00:33:46,607
+<i>and doing these drawings</i>
+<i>every day for about eight months.</i>
+
+572
+00:33:46,691 --> 00:33:49,193
+<i>You know, puttin' together this portfolio.</i>
+
+573
+00:33:51,779 --> 00:33:54,157
+<i>Going out into the zoo and drawing.</i>
+
+574
+00:33:56,200 --> 00:33:58,286
+<i>And going to museums.</i>
+
+575
+00:33:58,411 --> 00:34:00,496
+<i>Wherever I can figure out</i>
+<i>how to scoot my way in</i>
+
+576
+00:34:00,580 --> 00:34:02,123
+<i>to get some free gesture drawing.</i>
+
+577
+00:34:03,624 --> 00:34:07,045
+When it was all said and done, I had
+a portfolio. I was like, "Whoa!"
+
+578
+00:34:11,132 --> 00:34:12,800
+<i>I applied to several studios.</i>
+
+579
+00:34:12,884 --> 00:34:14,969
+Some of them were like,
+"Thanks, but no, thanks."
+
+580
+00:34:15,053 --> 00:34:16,888
+But Warner Bros. Feature,
+they were like,
+
+581
+00:34:16,971 --> 00:34:19,098
+<i>"Yes, we want you</i>
+<i>to come here as a trainee."</i>
+
+582
+00:34:19,182 --> 00:34:21,059
+And I was like, "Well, does it pay?"
+(LAUGHS)
+
+583
+00:34:24,187 --> 00:34:26,481
+<i>Warner Bros. Feature Animation</i>
+<i>was my art school.</i>
+
+584
+00:34:26,564 --> 00:34:29,942
+It was where I cut my teeth,
+got a lot of opportunity on <i>Iron Giant.</i>
+
+585
+00:34:30,026 --> 00:34:31,819
+<i>Because there was always learning.</i>
+
+586
+00:34:32,737 --> 00:34:33,863
+<i>Working on</i> Iron Giant
+
+587
+00:34:33,946 --> 00:34:36,699
+<i>was one of the best experiences</i>
+<i>I ever had in my career.</i>
+
+588
+00:34:37,992 --> 00:34:41,454
+<i>Brad Bird was this geyser of energy,</i>
+
+589
+00:34:41,537 --> 00:34:44,123
+<i>and he was a force</i>
+<i>that was just moving this along.</i>
+
+590
+00:34:44,207 --> 00:34:48,086
+<i>And everyone was just holding on</i>
+<i>for dear life to try and stay with him.</i>
+
+591
+00:34:48,169 --> 00:34:51,547
+<i>Brad and the crew</i>
+<i>gave me a chance to prove myself.</i>
+
+592
+00:34:53,466 --> 00:34:54,926
+<i>It wasn't a judgment. It was like,</i>
+
+593
+00:34:55,009 --> 00:34:56,844
+"Here's the work,
+you keep doing good work,
+
+594
+00:34:56,928 --> 00:34:58,304
+"I'm gonna keep giving you work."
+
+595
+00:34:58,387 --> 00:35:00,056
+And I'm like, "Please, give me more."
+
+596
+00:35:00,139 --> 00:35:02,517
+'Cause the last thing I wanna do
+is not be in animation
+
+597
+00:35:02,600 --> 00:35:04,560
+'cause I love it.
+If it wasn't for <i>Iron Giant,</i>
+
+598
+00:35:04,644 --> 00:35:08,147
+I wouldn't have worked with Brad, right?
+And I wouldn't be up at Pixar.
+
+599
+00:35:10,358 --> 00:35:13,444
+<i>Pixar was really weird for me</i>
+<i>when I first started.</i>
+
+600
+00:35:14,821 --> 00:35:20,118
+<i>Because when I came in, everyone</i>
+<i>was so nice that I was kind of like,</i>
+
+601
+00:35:20,243 --> 00:35:23,788
+"You guys are all fake. And I..."
+You know, "And I'm on to you."
+
+602
+00:35:25,331 --> 00:35:31,337
+<i>People here were into making great stuff,</i>
+<i>and I loved that.</i>
+
+603
+00:35:32,380 --> 00:35:34,799
+<i>But, you know, when you walk</i>
+<i>into an animation studio,</i>
+
+604
+00:35:34,882 --> 00:35:37,385
+it's, like, action figures
+are all up on their desks,
+
+605
+00:35:37,468 --> 00:35:40,471
+and all kinds of fun stuff.
+And I was like, "Yo, that's so not me.
+
+606
+00:35:40,596 --> 00:35:44,559
+<i>"I'm not that kind of guy."</i>
+<i>It just felt like a different world.</i>
+
+607
+00:35:47,145 --> 00:35:51,315
+<i>And so it just started this long process,</i>
+<i>for me, of trying to figure out how I fit.</i>
+
+608
+00:35:52,191 --> 00:35:56,195
+<i>On top of that, I would work, like,</i>
+<i>14-hour days, six days a week, at least.</i>
+
+609
+00:35:57,113 --> 00:35:59,907
+<i>And when you have kids,</i>
+<i>you have a responsibility.</i>
+
+610
+00:36:00,783 --> 00:36:02,618
+<i>Family is everything to me.</i>
+
+611
+00:36:06,873 --> 00:36:10,793
+<i>And trying to find a balance there is,</i>
+<i>you know, it was difficult.</i>
+
+612
+00:36:12,128 --> 00:36:15,923
+<i>Either, do I choose my career,</i>
+<i>or do I choose my kids?</i>
+
+613
+00:36:20,887 --> 00:36:22,305
+<i>That's what makes it hard.</i>
+
+614
+00:36:40,031 --> 00:36:41,824
+CORBIN:<i> When I had the idea of having</i>
+
+615
+00:36:41,908 --> 00:36:44,869
+<i>three kids stacked on top of each other</i>
+<i>in a trench coat,</i>
+
+616
+00:36:44,952 --> 00:36:47,622
+<i>I was like, "I'm gonna have to sell this</i>
+
+617
+00:36:47,705 --> 00:36:49,457
+<i>"as an idea that's not gonna be expensive</i>
+
+618
+00:36:49,540 --> 00:36:51,584
+<i>"and hard to do,</i>
+<i>and the best way to do this,</i>
+
+619
+00:36:51,667 --> 00:36:55,504
+<i>"and have it look appealing and gorgeous,</i>
+<i>is going to be 2D."</i>
+
+620
+00:36:58,799 --> 00:37:01,385
+The difference between 2D and 3D animation
+
+621
+00:37:01,469 --> 00:37:06,349
+is that 3D is computer-generated
+and can show depth in three dimensions.
+
+622
+00:37:08,601 --> 00:37:11,520
+<i>And 2D is flat, hand-drawn.</i>
+
+623
+00:37:13,064 --> 00:37:15,274
+<i>There were two 2D SparkShorts</i>
+
+624
+00:37:15,358 --> 00:37:18,319
+<i>that were done before,</i> Kitbull <i>and</i> Burrow.
+
+625
+00:37:20,154 --> 00:37:22,949
+<i>And so I think there was enough</i>
+<i>collective knowledge to be, like,</i>
+
+626
+00:37:23,032 --> 00:37:25,618
+"Why can't we do it 2D?
+Let's give it a shot."
+
+627
+00:37:26,869 --> 00:37:28,746
+CORBIN: I really like this, Rachel.
+This is so fast.
+
+628
+00:37:28,829 --> 00:37:30,665
+-I gave you what I wanted...
+-(RACHEL XIN LAUGHING)
+
+629
+00:37:30,748 --> 00:37:33,167
+...and then you were like,
+"Yeah. Here you go, here you go."
+
+630
+00:37:33,251 --> 00:37:35,044
+RACHEL: This is my job. (LAUGHS)
+
+631
+00:37:35,127 --> 00:37:36,128
+CORBIN: I know.
+
+632
+00:37:36,212 --> 00:37:38,422
+<i>I'm working with Rachel,</i>
+<i>my character design artist.</i>
+
+633
+00:37:40,049 --> 00:37:42,802
+<i>I had thought about doing</i>
+<i>the character design myself,</i>
+
+634
+00:37:42,885 --> 00:37:46,889
+<i>but I also really wanted to work</i>
+<i>on my new job as a director.</i>
+
+635
+00:37:46,973 --> 00:37:48,641
+And directing someone in art
+
+636
+00:37:48,724 --> 00:37:51,602
+felt like another important thing
+that I needed to learn.
+
+637
+00:37:51,686 --> 00:37:53,854
+-I'm really liking this one.
+-XIN: Ah!
+
+638
+00:37:53,980 --> 00:37:58,567
+I think we found something fun
+with the hair choice.
+
+639
+00:37:58,693 --> 00:38:00,820
+I think I'm more drawn
+to this face shape as well.
+
+640
+00:38:00,903 --> 00:38:05,324
+<i>Figuring out my own voice</i>
+<i>as a director became really important</i>
+
+641
+00:38:05,408 --> 00:38:08,119
+<i>in this crazy Spark process.</i>
+
+642
+00:38:08,202 --> 00:38:10,079
+-Should we...
+-(CHUCKLES) The sticker?
+
+643
+00:38:10,162 --> 00:38:12,999
+-CORBIN: The director Post-its.
+-Yeah. Do you wanna... Yeah. You do it.
+
+644
+00:38:13,082 --> 00:38:15,293
+-Do you mind if I have my moment?
+-Have your moment.
+
+645
+00:38:15,376 --> 00:38:18,004
+-XIN: This is a really enjoyable moment.
+-It is. I like this one!
+
+646
+00:38:18,087 --> 00:38:21,257
+This one. I'm really liking this.
+I love this head.
+
+647
+00:38:21,340 --> 00:38:23,426
+<i>So, I started to go back</i>
+<i>and look at those things</i>
+
+648
+00:38:23,509 --> 00:38:26,178
+<i>that made me "me" and brought me here.</i>
+
+649
+00:38:27,513 --> 00:38:30,850
+<i>Growing up, I always loved</i>
+<i>animation and cartoons.</i>
+
+650
+00:38:31,475 --> 00:38:34,020
+<i>Especially Disney cartoons.</i>
+
+651
+00:38:35,313 --> 00:38:38,858
+<i>When I got to high school,</i>
+<i>I took an animation class.</i>
+
+652
+00:38:39,525 --> 00:38:44,405
+<i>And I would just sit in my room and try</i>
+<i>to draw stuff and staple paper together.</i>
+
+653
+00:38:45,948 --> 00:38:50,661
+Seeing a drawing come to life
+grabbed me, and from there,
+
+654
+00:38:50,745 --> 00:38:52,830
+I learned about different schools
+that taught it.
+
+655
+00:38:53,331 --> 00:38:55,458
+<i>I really gravitated towards CalArts</i>
+
+656
+00:38:55,541 --> 00:38:58,502
+<i>because it was a school</i>
+<i>founded by Walt Disney.</i>
+
+657
+00:39:00,254 --> 00:39:02,214
+And so I was like,
+"I gotta go to this school."
+
+658
+00:39:02,882 --> 00:39:06,177
+<i>As soon as I graduated,</i>
+<i>I applied to CalArts,</i>
+
+659
+00:39:07,136 --> 00:39:11,849
+but I didn't get in. Instead,
+I went to a community college.
+
+660
+00:39:12,516 --> 00:39:17,021
+<i>And I wound up working a lot of hours</i>
+<i>at McDonald's to earn income for myself.</i>
+
+661
+00:39:17,104 --> 00:39:20,649
+And I was like, "Oh, my goodness!
+Am I ever gonna make it into animation?"
+
+662
+00:39:21,692 --> 00:39:24,070
+<i>But I was still working on my portfolio.</i>
+
+663
+00:39:24,945 --> 00:39:28,824
+<i>And during that year-and-a-half,</i>
+<i>I thought a lot about who I was</i>
+
+664
+00:39:28,908 --> 00:39:30,534
+<i>as an artist.</i>
+
+665
+00:39:31,452 --> 00:39:34,830
+<i>I was really inspired by Japanese anime.</i>
+
+666
+00:39:34,914 --> 00:39:36,290
+<i>And so I tried to draw</i>
+
+667
+00:39:36,374 --> 00:39:40,294
+<i>these very delicate anime line drawings</i>
+<i>with a mechanical pencil,</i>
+
+668
+00:39:40,378 --> 00:39:41,754
+and then on the other side,
+
+669
+00:39:41,837 --> 00:39:45,341
+I was trying to do really beautiful,
+rough Disney style.
+
+670
+00:39:46,801 --> 00:39:47,802
+Every once in a while,
+
+671
+00:39:47,885 --> 00:39:50,012
+I'd kind of just do little
+scribbles or something
+
+672
+00:39:50,096 --> 00:39:52,348
+<i>for myself, a silly comic,</i>
+
+673
+00:39:53,641 --> 00:39:55,684
+and people would be like,
+"We really like that."
+
+674
+00:39:55,768 --> 00:39:57,686
+I'd be like, "No,
+that's not how I wanna draw.
+
+675
+00:39:57,770 --> 00:39:59,146
+"That's, like, not good." (CHUCKLES)
+
+676
+00:39:59,897 --> 00:40:03,234
+<i>But people kept reacting to it</i>
+<i>and, like, really loving it.</i>
+
+677
+00:40:04,402 --> 00:40:07,613
+And that's when I started to get more okay
+with where I was at.
+
+678
+00:40:07,696 --> 00:40:12,076
+<i>And I put together a portfolio</i>
+<i>and I applied to CalArts again.</i>
+
+679
+00:40:13,828 --> 00:40:16,622
+They really responded to it
+and I got into CalArts.
+
+680
+00:40:22,420 --> 00:40:24,964
+<i>The plan was to get out</i>
+<i>as fast as possible</i>
+
+681
+00:40:25,047 --> 00:40:27,883
+<i>because the tuition was crazy expensive.</i>
+
+682
+00:40:27,967 --> 00:40:30,845
+And so I was like, "I'm gonna
+be there for, like, a year.
+
+683
+00:40:30,928 --> 00:40:31,929
+"Maybe two years.
+
+684
+00:40:32,012 --> 00:40:35,766
+<i>"And Pixar's just gonna love my stuff,</i>
+<i>I'm gonna get swept up,</i>
+
+685
+00:40:35,850 --> 00:40:39,854
+<i>"and then that'll be that."</i>
+<i>But that's not what happened.</i>
+
+686
+00:40:39,937 --> 00:40:43,607
+<i>And I was, like, just sweating</i>
+<i>that entire whole four years thinking,</i>
+
+687
+00:40:43,691 --> 00:40:46,735
+"How come I'm not getting noticed?"
+Like, "What am I doing wrong?"
+
+688
+00:40:46,819 --> 00:40:48,612
+And, "What do the studios want?"
+
+689
+00:40:49,071 --> 00:40:51,115
+<i>I really needed to grow some more.</i>
+
+690
+00:40:51,240 --> 00:40:56,495
+<i>I needed time to actually learn how</i>
+<i>to be more of myself in my artwork.</i>
+
+691
+00:40:56,579 --> 00:40:59,582
+<i>And I needed to find my own voice.</i>
+
+692
+00:41:01,584 --> 00:41:04,962
+One of my teachers was like, "Get a Tumblr
+and start putting art on there."
+
+693
+00:41:05,045 --> 00:41:06,464
+So I kind of used Tumblr as, like,
+
+694
+00:41:06,547 --> 00:41:08,507
+"I'm gonna upload
+something on here every week,
+
+695
+00:41:08,591 --> 00:41:11,093
+"and who cares if it's ugly.
+It's going on there."
+
+696
+00:41:16,849 --> 00:41:19,101
+<i>And that's when I started drawing myself</i>
+
+697
+00:41:19,185 --> 00:41:20,936
+<i>in comics for the first time.</i>
+
+698
+00:41:21,020 --> 00:41:24,106
+<i>And my experiences growing up</i>
+<i>in the Sacramento area</i>
+
+699
+00:41:24,190 --> 00:41:26,692
+<i>which is majority white.</i>
+
+700
+00:41:26,817 --> 00:41:29,153
+<i>Living there as a Black family,</i>
+
+701
+00:41:29,236 --> 00:41:34,158
+<i>there was a lot of weird awkwardness</i>
+<i>that comes along with that.</i>
+
+702
+00:41:34,241 --> 00:41:37,870
+<i>These comics were really</i>
+<i>rough and scribbly.</i>
+
+703
+00:41:39,622 --> 00:41:42,124
+<i>And I would post them</i>
+<i>at the stroke of midnight.</i>
+
+704
+00:41:44,210 --> 00:41:47,838
+And then go hide in my dorm room,
+like, "Oh, my God, what did I just post?
+
+705
+00:41:47,922 --> 00:41:50,466
+"That was so, like, revealing."
+
+706
+00:41:54,053 --> 00:41:56,138
+<i>People who'd message me back</i>
+
+707
+00:41:56,222 --> 00:41:57,681
+<i>or stop me in the hallway</i>
+
+708
+00:41:57,765 --> 00:42:02,937
+<i>and feel the need to share their story</i>
+<i>with me was a lot larger than I expected.</i>
+
+709
+00:42:04,480 --> 00:42:08,651
+<i>And just being like,</i>
+<i>"I felt the same way" and "I agree"</i>
+
+710
+00:42:08,734 --> 00:42:10,986
+<i>and "Here's something</i>
+<i>that happened to me,"</i>
+
+711
+00:42:11,070 --> 00:42:14,114
+<i>and I thought that was something</i>
+<i>that was very powerful and unexpected.</i>
+
+712
+00:42:16,075 --> 00:42:21,121
+<i>It just continued to give me courage</i>
+<i>to share my own stories in my own way.</i>
+
+713
+00:42:23,123 --> 00:42:26,293
+<i>I just felt like, "Oh, why have I been</i>
+<i>wasting my time trying to be</i>
+
+714
+00:42:26,377 --> 00:42:28,254
+<i>"anything else but myself?"</i>
+
+715
+00:42:30,965 --> 00:42:34,051
+<i>And that's how I actually</i>
+<i>was noticed by Pixar.</i>
+
+716
+00:42:35,386 --> 00:42:37,555
+<i>They reached out to me.</i>
+<i>And I was like,</i>
+
+717
+00:42:37,638 --> 00:42:40,683
+"Of all things that I thought
+Pixar would be interested,
+
+718
+00:42:40,766 --> 00:42:42,935
+"I didn't think it would be
+my Black girl comics."
+
+719
+00:42:45,521 --> 00:42:48,482
+<i>But I was able to tap</i>
+<i>into a truthful story</i>
+
+720
+00:42:48,566 --> 00:42:51,110
+and help people see my point of view,
+
+721
+00:42:51,193 --> 00:42:53,445
+and that's what Pixar
+is really passionate about,
+
+722
+00:42:53,529 --> 00:42:56,365
+<i>is telling stories</i>
+<i>from an authentic place.</i>
+
+723
+00:42:59,827 --> 00:43:01,412
+(WATER SPRINKLER WHIRRING)
+
+724
+00:43:14,842 --> 00:43:19,096
+GONZALES: <i>When I'm telling a story,</i>
+<i>I wanna make something that feels honest.</i>
+
+725
+00:43:22,474 --> 00:43:25,311
+<i>The story was gonna be</i>
+<i>the granddaughter comes over</i>
+
+726
+00:43:25,394 --> 00:43:27,396
+<i>and wants to be around the grandmother.</i>
+
+727
+00:43:27,813 --> 00:43:29,690
+<i>And the grandmother</i>
+<i>is trying to do something</i>
+
+728
+00:43:29,773 --> 00:43:31,567
+<i>that the granddaughter interrupts.</i>
+
+729
+00:43:33,027 --> 00:43:34,778
+<i>So, how does that play out?</i>
+
+730
+00:43:34,862 --> 00:43:37,740
+<i>And I wanted the grandma having</i>
+<i>some sense of imagination,</i>
+
+731
+00:43:37,823 --> 00:43:39,617
+<i>because we know little kids do.</i>
+
+732
+00:43:39,700 --> 00:43:42,661
+So, I wanted to find that bridge of...
+Yeah, they're alike.
+
+733
+00:43:42,745 --> 00:43:45,247
+And how we can do that visually
+without them saying, like,
+
+734
+00:43:45,331 --> 00:43:47,291
+"Oh, boy." You know, like,
+"You like wrestling?
+
+735
+00:43:47,374 --> 00:43:50,919
+"I like wrestling. This is great, we're
+such great grandma and granddaughter."
+
+736
+00:43:51,003 --> 00:43:54,173
+<i>I didn't want dialogue. No,</i>
+<i>I wanted to just play it out and see</i>
+
+737
+00:43:54,256 --> 00:43:58,135
+what I can do. 'Cause, like, I've made
+so many movies that have dialogue,
+
+738
+00:43:58,218 --> 00:44:00,846
+it's kind of like,
+"Can we just stop the talking?"
+
+739
+00:44:01,180 --> 00:44:02,973
+<i>I love animation that says less.</i>
+
+740
+00:44:04,600 --> 00:44:06,602
+COLLINS: <i>One of the truisms here</i>
+<i>is the belief</i>
+
+741
+00:44:06,685 --> 00:44:10,356
+<i>that you should be able to turn the sound</i>
+<i>off on any of our films and follow it.</i>
+
+742
+00:44:12,399 --> 00:44:17,446
+<i>The storytelling should be that clear</i>
+<i>and the visual should be that impactful.</i>
+
+743
+00:44:17,529 --> 00:44:18,572
+(CHIRPS)
+
+744
+00:44:20,032 --> 00:44:21,992
+COLLINS: <i>For</i> WALL-E,
+<i>we were always being told,</i>
+
+745
+00:44:22,076 --> 00:44:23,869
+<i>"Oh, kids won't sit and watch</i>
+
+746
+00:44:23,952 --> 00:44:27,623
+<i>"a dialogue-free</i>
+<i>25-minute beginning of a movie,</i>
+
+747
+00:44:27,706 --> 00:44:30,334
+"they'll lose interest."
+But the reality is,
+
+748
+00:44:30,417 --> 00:44:34,713
+<i>kids spend their first four or five years</i>
+<i>of their life just observing and watching</i>
+
+749
+00:44:34,797 --> 00:44:37,341
+<i>and trying to understand what's happening.</i>
+
+750
+00:44:38,258 --> 00:44:39,510
+(WARBLES)
+
+751
+00:44:39,593 --> 00:44:44,098
+And they have no problem understanding
+the language coming their way.
+
+752
+00:44:46,266 --> 00:44:48,102
+<i>So, it's kind of this handshake</i>
+
+753
+00:44:48,185 --> 00:44:51,271
+<i>you have to make</i>
+<i>between the story and the visuals,</i>
+
+754
+00:44:51,355 --> 00:44:54,191
+<i>which is like,</i>
+<i>"This should work without dialogue."</i>
+
+755
+00:44:54,274 --> 00:44:56,735
+WALL-E: WALL-E!
+EVE: WALL-E!
+
+756
+00:44:56,819 --> 00:44:59,363
+Now, it might work better
+when you have dialogue to it.
+
+757
+00:44:59,446 --> 00:45:01,198
+<i>But it should work without it.</i>
+
+758
+00:45:03,575 --> 00:45:05,494
+LANGLEY: <i>When we kicked off, we were told,</i>
+
+759
+00:45:05,577 --> 00:45:09,123
+"On a SparkShort, you probably
+wanna just do two characters,
+
+760
+00:45:09,206 --> 00:45:13,127
+"minimal dialogue, and keep it to,
+you know, a set or two."
+
+761
+00:45:14,336 --> 00:45:17,840
+<i>But Aphton's short</i>
+<i>has five speaking roles.</i>
+
+762
+00:45:19,007 --> 00:45:22,010
+<i>I knew that to sell this idea,</i>
+<i>it would need some dialogue</i>
+
+763
+00:45:22,136 --> 00:45:25,639
+<i>because you get so much personality</i>
+<i>out of how people speak.</i>
+
+764
+00:45:25,723 --> 00:45:28,183
+Whoo! Let's party!
+
+765
+00:45:28,308 --> 00:45:31,729
+CORBIN: <i>So, I asked Erik, "Can you give me</i>
+<i>a rough idea of how much dialogue</i>
+
+766
+00:45:31,812 --> 00:45:34,523
+<i>"have been in the past shorts?"</i>
+<i>And he was like,</i>
+
+767
+00:45:34,606 --> 00:45:38,694
+<i>"Oh, you know, just, like, four pages."</i>
+<i>And I was like, "Okay." </i>(CHUCKLES)
+
+768
+00:45:39,737 --> 00:45:42,072
+<i>"I think mine's gonna be longer."</i>
+
+769
+00:45:43,073 --> 00:45:48,162
+Because the idea of feeling insecure about
+being an adult, it's a little complex.
+
+770
+00:45:50,748 --> 00:45:51,790
+MORRIS: <i>When we make a film,</i>
+
+771
+00:45:53,417 --> 00:45:57,045
+<i>we go through a process of making</i>
+<i>what are called story reels,</i>
+
+772
+00:45:57,129 --> 00:46:00,758
+<i>which is basically a rough,</i>
+<i>hand-drawn version of the film</i>
+
+773
+00:46:00,841 --> 00:46:04,511
+<i>that has temporary voices</i>
+<i>and temporary music in it.</i>
+
+774
+00:46:06,472 --> 00:46:10,350
+<i>We screen those and then try to identify</i>
+<i>what's working and what's not.</i>
+
+775
+00:46:12,728 --> 00:46:15,689
+<i>They start out and you think,</i>
+<i>you know, "This is gonna be great."</i>
+
+776
+00:46:16,148 --> 00:46:18,984
+And then you put it up in reels
+and look at it and you go, like,
+
+777
+00:46:19,067 --> 00:46:20,986
+"Huh. Not as great as we thought."
+
+778
+00:46:21,069 --> 00:46:24,156
+Reads to me like Joe knows
+exactly where he's going,
+
+779
+00:46:24,239 --> 00:46:25,824
+and he's done this before. (SMACKS LIPS)
+
+780
+00:46:25,908 --> 00:46:27,826
+So, I feel like we need to adjust it.
+
+781
+00:46:27,910 --> 00:46:30,704
+And then you try to tear it down
+and see what's not working about it
+
+782
+00:46:30,788 --> 00:46:31,997
+and put it together again.
+
+783
+00:46:45,844 --> 00:46:47,596
+KENT: <i>Louis came from stories,</i>
+
+784
+00:46:47,679 --> 00:46:50,849
+<i>so he was comfortable drawing</i>
+<i>all of the storyboards himself.</i>
+
+785
+00:46:52,184 --> 00:46:54,478
+<i>And so that's kind of him sitting</i>
+<i>and really thinking</i>
+
+786
+00:46:54,561 --> 00:46:56,480
+<i>about the story that he wants to tell.</i>
+
+787
+00:46:58,065 --> 00:47:03,111
+And creating kind of key moments that
+he feels like would help tell the story.
+
+788
+00:47:05,823 --> 00:47:10,160
+<i>So, you have a grandmother sitting down</i>
+<i>to watch her wrestling show,</i>
+
+789
+00:47:12,204 --> 00:47:14,832
+<i>and then the next key moment,</i>
+<i>her granddaughter shows up.</i>
+
+790
+00:47:18,377 --> 00:47:20,087
+<i>They have some conflict.</i>
+
+791
+00:47:23,048 --> 00:47:24,550
+<i>The TV falls.</i>
+
+792
+00:47:28,303 --> 00:47:33,225
+<i>They kind of wrestle on the floor</i>
+<i>and then they hug.</i>
+
+793
+00:47:34,893 --> 00:47:37,437
+<i>And once he has some</i>
+<i>of those things fleshed out,</i>
+
+794
+00:47:37,521 --> 00:47:40,691
+<i>those drawings would</i>
+<i>get sent over to editorial</i>
+
+795
+00:47:40,774 --> 00:47:43,360
+and they would cut them together
+and kind of time them out.
+
+796
+00:47:45,028 --> 00:47:49,867
+I just wanted to throw some boards up
+really fast, to see if we had something.
+
+797
+00:47:50,993 --> 00:47:54,162
+<i>Gave it to my editor,</i>
+<i>so I can get a sense for the story.</i>
+
+798
+00:47:55,247 --> 00:47:57,624
+<i>And then problem-solve, in the cut.</i>
+
+799
+00:47:59,251 --> 00:48:02,588
+<i>I was, like, excited to see</i>
+<i>what we had,</i>
+
+800
+00:48:04,715 --> 00:48:09,553
+<i>but we watched the cut</i>
+<i>and it was terrible.</i>
+
+801
+00:48:18,353 --> 00:48:19,813
+(CHUCKLING) <i>And my heart sinks.</i>
+
+802
+00:48:21,315 --> 00:48:24,484
+<i>I had lot of ideas that were kind of,</i>
+<i>you know, jockeying for position.</i>
+
+803
+00:48:25,193 --> 00:48:27,571
+<i>So, the story wasn't clear.</i>
+
+804
+00:48:29,907 --> 00:48:32,826
+<i>But I could tell, even as bad as it was,</i>
+
+805
+00:48:32,951 --> 00:48:34,494
+<i>that there was something here.</i>
+
+806
+00:48:34,578 --> 00:48:40,918
+<i>I just needed to find it,</i>
+<i>and that's when I kind of went away.</i>
+
+807
+00:48:44,379 --> 00:48:46,590
+KENT:<i> Louis went radio silent,</i>
+
+808
+00:48:46,673 --> 00:48:50,302
+and when you don't have your director
+having a defined vision,
+
+809
+00:48:50,385 --> 00:48:52,304
+it's very, very challenging.
+
+810
+00:48:54,097 --> 00:48:58,685
+<i>I was like, "Oh, okay.</i>
+<i>Are we gonna make this film?"</i>
+
+811
+00:49:01,855 --> 00:49:04,399
+GONZALES: <i>I set my brain</i>
+<i>on findin' the story.</i>
+
+812
+00:49:05,651 --> 00:49:08,820
+<i>So, my brain's trying to figure it out</i>
+<i>and it doesn't stop.</i>
+
+813
+00:49:10,155 --> 00:49:12,991
+<i>I'm waking up at 3:00 in the morning</i>
+<i>and sittin' in the dark.</i>
+
+814
+00:49:13,408 --> 00:49:16,787
+<i>You're just mining</i>
+<i>your soul for things that,</i>
+
+815
+00:49:16,870 --> 00:49:19,039
+<i>on a different level, will resonate.</i>
+
+816
+00:49:21,625 --> 00:49:24,294
+<i>It's the level that none of us see,</i>
+<i>but we all feel.</i>
+
+817
+00:49:24,753 --> 00:49:25,879
+<i>That human truth.</i>
+
+818
+00:49:34,054 --> 00:49:37,307
+<i>Write that down,</i>
+<i>explore it throughout the day,</i>
+
+819
+00:49:37,391 --> 00:49:39,685
+<i>watch it go from, like,</i>
+<i>in the morning it's glorious</i>
+
+820
+00:49:39,768 --> 00:49:44,898
+<i>and, like, this solved everything,</i>
+<i>to, like, noon, I'm not so sure,</i>
+
+821
+00:49:44,982 --> 00:49:48,610
+<i>I'm scratching my head,</i>
+<i>to, like, right before you go to bed,</i>
+
+822
+00:49:48,694 --> 00:49:52,739
+<i>put your head on the pillow, and</i>
+<i>it's like, "Oh, my God. This is terrible.</i>
+
+823
+00:49:52,823 --> 00:49:55,283
+"That's not gonna work.
+What am I gonna do?"
+
+824
+00:50:02,124 --> 00:50:06,378
+<i>Based on the story and where I was at,</i>
+<i>it was seismic in terms of</i>
+
+825
+00:50:06,461 --> 00:50:09,172
+<i>feeling like,</i>
+<i>"I'm gonna make the best short ever,"</i>
+
+826
+00:50:09,256 --> 00:50:13,218
+<i>to, </i>(CHUCKLES)<i> "I am going to look like</i>
+<i>the biggest fool in the world."</i>
+
+827
+00:50:16,763 --> 00:50:19,474
+<i>It blew up more and more</i>
+<i>each time I wrote it.</i>
+
+828
+00:50:20,308 --> 00:50:22,352
+<i>I was in a super downward spiral.</i>
+
+829
+00:50:22,769 --> 00:50:26,690
+<i>Writing, creating, felt very isolating,</i>
+<i>and you feel alone.</i>
+
+830
+00:50:27,858 --> 00:50:30,360
+<i>It was the darkest period I had.</i>
+
+831
+00:50:31,028 --> 00:50:34,865
+<i>I was like, "I don't know what to do.</i>
+<i>Just give me some more time, Courtney."</i>
+
+832
+00:50:35,532 --> 00:50:39,745
+KENT: <i>The fear of not knowing what's</i>
+<i>going on in his mind was really hard,</i>
+
+833
+00:50:39,828 --> 00:50:43,206
+and I thought,
+"Do we have a story to tell?"
+
+834
+00:50:48,962 --> 00:50:52,132
+MORRIS: <i>Story is at the heart</i>
+<i>of what we do.</i>
+
+835
+00:50:52,215 --> 00:50:53,967
+<i>And since I've been at Pixar,</i>
+
+836
+00:50:54,051 --> 00:50:58,388
+I've seen the unfaltering
+intestinal fortitude to pursue it
+
+837
+00:50:58,472 --> 00:51:01,141
+until we get it right.
+
+838
+00:51:03,810 --> 00:51:07,481
+<i>It's not like you sit down</i>
+<i>and figure the story out all at once.</i>
+
+839
+00:51:08,356 --> 00:51:10,650
+<i>It takes a long, long, long, long time.</i>
+
+840
+00:51:10,734 --> 00:51:13,737
+<i>And when we realize</i>
+<i>the thing isn't quite working</i>
+
+841
+00:51:13,820 --> 00:51:15,989
+<i>and we need to tear things down,</i>
+<i>change it,</i>
+
+842
+00:51:16,073 --> 00:51:18,283
+<i>that's just part of the process.</i>
+
+843
+00:51:19,242 --> 00:51:21,745
+<i>Because if things are going smoothly,</i>
+
+844
+00:51:22,871 --> 00:51:25,582
+you're probably not trying hard
+to do something great.
+
+845
+00:51:27,876 --> 00:51:30,253
+COLLINS: <i>You're just going back</i>
+<i>and through something</i>
+
+846
+00:51:30,337 --> 00:51:33,215
+<i>and trying to perfect something</i>
+<i>again and again and again.</i>
+
+847
+00:51:34,341 --> 00:51:37,260
+<i>On</i> Finding Nemo, <i>for the longest time,</i>
+
+848
+00:51:37,344 --> 00:51:39,679
+<i>nobody liked Marlin, who's the dad.</i>
+
+849
+00:51:39,805 --> 00:51:41,973
+Whoa, whoa, whoa!
+Hold on, hold on. Wait to cross.
+
+850
+00:51:42,057 --> 00:51:43,975
+COLLINS: <i>They're like, "He's annoying."</i>
+
+851
+00:51:44,059 --> 00:51:45,894
+(GRUNTS) You were about
+to swim into open water!
+
+852
+00:51:45,977 --> 00:51:47,104
+No! I wasn't gonna go out!
+
+853
+00:51:47,187 --> 00:51:48,313
+-It's just a good thing I was here.
+-But, Dad...
+
+854
+00:51:48,396 --> 00:51:51,358
+And so we were like,
+"Okay, rewrite, rewrite, rewrite."
+
+855
+00:51:51,441 --> 00:51:54,111
+<i>And the initial conceit of that movie</i>
+
+856
+00:51:54,194 --> 00:51:59,241
+<i>was that the traumatic moment</i>
+<i>of the barracuda coming in</i>
+
+857
+00:52:00,075 --> 00:52:01,910
+<i>wasn't at the front of the movie.</i>
+
+858
+00:52:03,078 --> 00:52:07,415
+It was spelled out in flashbacks
+throughout the film.
+
+859
+00:52:07,499 --> 00:52:09,709
+CORAL: We still have to name them.
+MARLIN: I haven't forgotten.
+
+860
+00:52:09,793 --> 00:52:12,587
+CORAL: You know what name
+I've always liked? Nemo.
+
+861
+00:52:12,671 --> 00:52:15,257
+MARLIN: Great! One down.
+Only 99 more to go.
+
+862
+00:52:15,549 --> 00:52:18,260
+COLLINS: <i>The problem was</i>
+<i>you had no sympathy for this dad,</i>
+
+863
+00:52:18,385 --> 00:52:20,262
+<i>because you're like,</i>
+<i>"What is his deal?" </i>(CHUCKLES)
+
+864
+00:52:20,345 --> 00:52:23,598
+<i>And so it was very late in the game,</i>
+
+865
+00:52:24,307 --> 00:52:27,686
+before it was like, "You guys,
+this flashback thing is not working.
+
+866
+00:52:27,769 --> 00:52:29,271
+"You have to put that story upfront."
+
+867
+00:52:29,938 --> 00:52:30,939
+(GASPS)
+
+868
+00:52:32,065 --> 00:52:33,984
+COLLINS: <i>Because you're not sympathetic</i>
+
+869
+00:52:34,067 --> 00:52:36,236
+<i>with the main character</i>
+<i>and you have to be.</i>
+
+870
+00:52:36,319 --> 00:52:37,404
+Coral!
+
+871
+00:52:39,614 --> 00:52:41,032
+Daddy's got you.
+
+872
+00:52:43,618 --> 00:52:47,164
+When you go to tell a story,
+there's a lot of reflection.
+
+873
+00:52:48,123 --> 00:52:50,375
+<i>'Cause I'm really asking myself,</i>
+
+874
+00:52:50,458 --> 00:52:52,961
+<i>"Why do these characters</i>
+<i>in this idea matter,</i>
+
+875
+00:52:53,044 --> 00:52:56,631
+<i>"why is it always present in the back</i>
+<i>of my brain? Why do I like this?"</i>
+
+876
+00:52:57,048 --> 00:52:59,968
+<i>And you have to ask yourself</i>
+<i>the hard questions.</i>
+
+877
+00:53:01,511 --> 00:53:03,847
+"What does this mean to you?
+What is it trying to say?
+
+878
+00:53:03,930 --> 00:53:05,891
+"What are you going through right now?"
+
+879
+00:53:07,142 --> 00:53:10,645
+<i>One of the things that inherently</i>
+<i>was a game changer for me</i>
+
+880
+00:53:10,729 --> 00:53:13,231
+<i>was a moment in the short</i>
+<i>when the TV breaks.</i>
+
+881
+00:53:15,108 --> 00:53:18,820
+<i>The grandma used to always be</i>
+<i>super pissed off at the little girl.</i>
+
+882
+00:53:22,699 --> 00:53:26,203
+<i>And I thought, "What a jerk.</i>
+<i>Like, who wants to watch that character?"</i>
+
+883
+00:53:27,704 --> 00:53:30,165
+<i>I realized with that,</i>
+<i>it can't just be a character</i>
+
+884
+00:53:30,248 --> 00:53:34,085
+<i>that wants to watch wrestling over</i>
+<i>her grandchild. That just makes no sense.</i>
+
+885
+00:53:36,087 --> 00:53:40,175
+<i>And so we had to dig deeper and find out</i>
+<i>what wrestling means to her.</i>
+
+886
+00:53:40,258 --> 00:53:42,844
+<i>Because we needed to know</i>
+<i>on an emotional level</i>
+
+887
+00:53:42,969 --> 00:53:44,638
+<i>why wrestling was the thing that she</i>
+
+888
+00:53:44,721 --> 00:53:46,598
+<i>was shutting the world out for,</i>
+<i>on this day</i>
+
+889
+00:53:46,681 --> 00:53:49,476
+<i>and why it's an annoyance</i>
+<i>when anybody comes over.</i>
+
+890
+00:53:51,269 --> 00:53:55,982
+And the question, to me, was like,
+"What's a scary reaction in that moment?"
+
+891
+00:53:56,066 --> 00:53:59,319
+And for me, her being vulnerable
+
+892
+00:53:59,402 --> 00:54:01,738
+was the most scary thing
+that I could put out there.
+
+893
+00:54:01,905 --> 00:54:03,240
+(SIGHS)
+
+894
+00:54:03,323 --> 00:54:04,699
+(CRYING)
+
+895
+00:54:04,783 --> 00:54:08,203
+If she just starts to break down
+and bawl, you know, just cry,
+
+896
+00:54:08,286 --> 00:54:11,957
+and just, you know,
+be genuinely upset by this
+
+897
+00:54:12,040 --> 00:54:13,708
+interruption with her routine...
+
+898
+00:54:16,127 --> 00:54:18,213
+<i>That was a really big moment for me</i>
+
+899
+00:54:18,296 --> 00:54:21,383
+<i>because it was like,</i>
+<i>everything in my gut tells me it's right,</i>
+
+900
+00:54:21,466 --> 00:54:25,095
+<i>but I'm hesitant because</i>
+<i>I don't want her to seem weak.</i>
+
+901
+00:54:26,763 --> 00:54:29,057
+I was like, "Okay, we have to do it,"
+
+902
+00:54:29,140 --> 00:54:31,851
+'cause it's about being vulnerable
+with the characters.
+
+903
+00:54:31,935 --> 00:54:34,813
+<i>And I don't see how you can tell</i>
+<i>a story if there isn't an aspect</i>
+
+904
+00:54:34,896 --> 00:54:37,524
+<i>of vulnerability from yourself as well.</i>
+
+905
+00:54:38,984 --> 00:54:42,529
+Nona needed to have a reason
+why this was special
+
+906
+00:54:43,071 --> 00:54:46,783
+and I had flirted with the idea
+of a deceased husband.
+
+907
+00:54:48,535 --> 00:54:52,247
+<i>Like, "Maybe wrestling is something</i>
+<i>that she celebrated with her husband."</i>
+
+908
+00:54:52,414 --> 00:54:54,457
+<i>But he's passed away,</i>
+
+909
+00:54:55,458 --> 00:54:57,460
+<i>and so now we're starting</i>
+<i>to lean into, like,</i>
+
+910
+00:54:57,585 --> 00:55:01,548
+<i>this was her taking a day</i>
+<i>to celebrate the love of her life.</i>
+
+911
+00:55:02,257 --> 00:55:06,303
+Now we're digging a little bit further
+to find what this meant.
+
+912
+00:55:07,220 --> 00:55:09,681
+<i>And so once I brought the husband in,</i>
+
+913
+00:55:09,764 --> 00:55:13,601
+<i>we now understand that</i>
+<i>this is about him and her.</i>
+
+914
+00:55:14,269 --> 00:55:16,521
+<i>And now there is an emotional weight to it</i>
+
+915
+00:55:16,604 --> 00:55:19,274
+<i>that it didn't have</i>
+<i>when it was just wrestling.</i>
+
+916
+00:55:22,652 --> 00:55:25,905
+DOCTER: <i>The advice that I have</i>
+<i>for SparkShorts filmmakers is,</i>
+
+917
+00:55:26,072 --> 00:55:29,492
+<i>"Remember that</i>
+<i>this is not for your benefit.</i>
+
+918
+00:55:29,576 --> 00:55:31,995
+<i>"You're not here</i>
+<i>making a movie for yourself.</i>
+
+919
+00:55:32,078 --> 00:55:34,664
+"You're making the movie for the audience.
+
+920
+00:55:34,748 --> 00:55:39,502
+"And so if you think it's great,
+but the audience doesn't, guess who wins?"
+
+921
+00:55:39,586 --> 00:55:40,628
+(CHUCKLES)
+
+922
+00:55:40,712 --> 00:55:42,630
+-(DOOR CLOSES)
+-(FOOTSTEPS RECEDING)
+
+923
+00:55:43,465 --> 00:55:44,591
+(OWL HOOTING)
+
+924
+00:55:44,674 --> 00:55:48,136
+DOCTER: <i>Every one of our films</i>
+<i>try to present the characters</i>
+
+925
+00:55:48,219 --> 00:55:50,972
+<i>and a situation</i>
+<i>that immediately grabs your attention.</i>
+
+926
+00:55:51,931 --> 00:55:53,767
+DOCTER: <i>Like the beginning</i>
+<i>of</i> Monsters Inc.,
+
+927
+00:55:53,850 --> 00:55:55,685
+<i>you know, there's a kid going to bed,</i>
+
+928
+00:55:56,227 --> 00:56:00,648
+<i>and then immediately you start to see</i>
+<i>strange things happening in the room.</i>
+
+929
+00:56:01,608 --> 00:56:02,734
+(GASPS)
+
+930
+00:56:02,817 --> 00:56:05,195
+DOCTER:<i> You're drawn in</i>
+<i>because this is something</i>
+
+931
+00:56:05,278 --> 00:56:08,573
+that everybody has experienced
+as a kid or even as an adult.
+
+932
+00:56:09,491 --> 00:56:10,492
+(SCREAMING)
+
+933
+00:56:10,575 --> 00:56:12,035
+(SCREAMING LOUDER)
+
+934
+00:56:14,621 --> 00:56:16,331
+DOCTER:<i> And then we reverse it by saying,</i>
+
+935
+00:56:16,414 --> 00:56:21,294
+<i>"Wait a minute, yes, there are monsters,</i>
+<i>but that's their job, to scare kids."</i>
+
+936
+00:56:24,547 --> 00:56:27,884
+<i>And so it's got this</i>
+<i>intrinsic kind of tie-in</i>
+
+937
+00:56:27,967 --> 00:56:30,845
+with what we know to be true with a twist.
+
+938
+00:56:32,222 --> 00:56:34,265
+(ELECTRONIC MUSIC PLAYING)
+
+939
+00:56:35,767 --> 00:56:39,104
+Uh, she's legit.
+In fact, it's her birthday today!
+
+940
+00:56:39,187 --> 00:56:40,230
+Congrats.
+
+941
+00:56:40,772 --> 00:56:45,151
+CORBIN:<i> When you're doing</i>
+<i>an animated film, there's an excitement</i>
+
+942
+00:56:45,235 --> 00:56:49,447
+of, "How far can we push this
+and still be believable?"
+
+943
+00:56:49,531 --> 00:56:51,950
+Get whatever you want. I'm buying.
+
+944
+00:56:52,033 --> 00:56:54,619
+Oh, milk then. (CHUCKLES) Kidding.
+
+945
+00:56:54,702 --> 00:56:57,205
+CORBIN:<i> Gia is very ambiguous</i>
+<i>in the beginning,</i>
+
+946
+00:56:57,705 --> 00:57:00,625
+<i>and there's a long period</i>
+<i>before you realize,</i>
+
+947
+00:57:00,708 --> 00:57:04,546
+<i>"Oh, it's just a woman</i>
+<i>having a freak-out about her adulthood."</i>
+
+948
+00:57:04,629 --> 00:57:06,923
+-(BABY COOING)
+-(GASPS)
+
+949
+00:57:07,006 --> 00:57:09,175
+No! You had sweets earlier!
+
+950
+00:57:09,259 --> 00:57:13,221
+-Uh, Gia, are you feelin' okay?
+-Yeah, yeah. (CHUCKLES) Totally fine.
+
+951
+00:57:13,304 --> 00:57:16,349
+LANGLEY: <i>We had two screenings</i>
+<i>and people came back with opinions...</i>
+
+952
+00:57:16,433 --> 00:57:19,769
+GIA: I gotta go potty... I mean, restroom.
+I gotta go to the restroom.
+
+953
+00:57:20,562 --> 00:57:22,814
+LANGLEY: <i>And almost everybody asked,</i>
+
+954
+00:57:22,897 --> 00:57:26,526
+<i>"Is she literally three kids</i>
+<i>and a trench coat or is it a metaphor?</i>
+
+955
+00:57:26,609 --> 00:57:28,653
+"I think you need
+to really make that clear,"
+
+956
+00:57:29,237 --> 00:57:31,072
+<i>and, "How's the audience gonna take that?"</i>
+
+957
+00:57:35,285 --> 00:57:38,538
+DOMEE SHI: Is it everything you imagined,
+being a director?
+
+958
+00:57:38,621 --> 00:57:40,582
+-CORBIN: I guess.
+-(CHUCKLES)
+
+959
+00:57:40,665 --> 00:57:45,044
+CORBIN: Think, overall, people
+are getting what I'm trying to say.
+
+960
+00:57:45,128 --> 00:57:48,715
+SHI: Have you gotten any notes
+that have been not that?
+
+961
+00:57:50,175 --> 00:57:53,052
+CORBIN: <i>It's important to be clear,</i>
+<i>there's a time and a place for it,</i>
+
+962
+00:57:53,136 --> 00:57:58,183
+but also knowing that some ambiguity
+can be fun and more mysterious.
+
+963
+00:57:59,267 --> 00:58:01,853
+<i>I knew it was something</i>
+<i>I really wanted to try.</i>
+
+964
+00:58:01,936 --> 00:58:03,688
+SHI: Just being
+in the audience in the dark
+
+965
+00:58:03,771 --> 00:58:07,817
+and hearing them
+laugh and gasp, it's kind of cool.
+
+966
+00:58:07,901 --> 00:58:08,943
+-Yeah.
+-It--
+
+967
+00:58:09,027 --> 00:58:11,529
+And then you get kind of addicted to that,
+
+968
+00:58:11,613 --> 00:58:17,118
+and you wanna keep making audiences
+feel things and react and scream.
+
+969
+00:58:17,202 --> 00:58:23,041
+CORBIN: <i>Domee is a director here at Pixar</i>
+<i>and she directed the short</i> Bao.
+
+970
+00:58:23,124 --> 00:58:25,710
+<i>She's just someone</i>
+<i>I wanted to get advice from,</i>
+
+971
+00:58:25,793 --> 00:58:30,423
+<i>because she was able to take risks</i>
+<i>which were very interesting in her short.</i>
+
+972
+00:58:30,507 --> 00:58:32,967
+SHI: I always feel like, working here,
+
+973
+00:58:33,051 --> 00:58:36,304
+they kind of hammer it into you,
+like, "It's all about clarity."
+
+974
+00:58:36,387 --> 00:58:38,598
+But it's mostly about feeling.
+
+975
+00:58:38,681 --> 00:58:40,683
+I remember on <i>Bao,</i>
+
+976
+00:58:40,767 --> 00:58:44,395
+there was always some people that were
+a little bit confused by the ending.
+
+977
+00:58:46,064 --> 00:58:48,733
+<i>Bao</i> is about a lonely old Chinese lady
+
+978
+00:58:48,816 --> 00:58:52,153
+who one day discovers
+that one of her dumplings
+
+979
+00:58:52,237 --> 00:58:54,572
+<i>has come to life as a dumpling boy.</i>
+
+980
+00:58:54,656 --> 00:58:57,534
+<i>And of course, she immediately adopts it</i>
+
+981
+00:58:57,617 --> 00:58:59,661
+<i>and goes through</i>
+<i>the trials and tribulations</i>
+
+982
+00:58:59,744 --> 00:59:02,038
+<i>of motherhood with the dumpling.</i>
+
+983
+00:59:02,121 --> 00:59:07,126
+It's semi-autobiographical based on my own
+life growing up as a smothered only child.
+
+984
+00:59:07,210 --> 00:59:08,211
+(CHUCKLES)
+
+985
+00:59:10,296 --> 00:59:12,840
+<i>I just felt like,</i>
+<i>I just needed to make this.</i>
+
+986
+00:59:13,967 --> 00:59:16,678
+<i>At that time, I was living away from home</i>
+
+987
+00:59:16,761 --> 00:59:20,765
+<i>and I was feeling guilt</i>
+<i>of being far away from my mom,</i>
+
+988
+00:59:20,848 --> 00:59:23,851
+<i>and I just needed something</i>
+<i>to work through that dynamic.</i>
+
+989
+00:59:24,936 --> 00:59:29,774
+<i>I remember when I first pitched</i>
+<i>the idea to Pete Docter just casually,</i>
+
+990
+00:59:30,608 --> 00:59:32,902
+<i>when I got to the part</i>
+<i>where the Mom character</i>
+
+991
+00:59:32,986 --> 00:59:36,114
+<i>eats the baby dumpling</i>
+<i>'cause she didn't want him to leave her,</i>
+
+992
+00:59:37,448 --> 00:59:39,659
+<i>he was so shocked by it,</i>
+<i>but he loved it so much,</i>
+
+993
+00:59:39,742 --> 00:59:41,452
+<i>and he was like, "Keep this ending.</i>
+
+994
+00:59:41,536 --> 00:59:44,038
+<i>"It's so unique and weird and cool."</i>
+
+995
+00:59:44,122 --> 00:59:46,374
+That gave me the confidence
+to defend that ending,
+
+996
+00:59:46,457 --> 00:59:49,335
+even when I would get notes of, like,
+"That's dark." "That's weird."
+
+997
+00:59:49,460 --> 00:59:51,879
+Or like,
+"Don't you think you'd scare some kids?"
+
+998
+00:59:51,963 --> 00:59:53,881
+(AUDIENCE APPLAUDING)
+
+999
+00:59:54,007 --> 00:59:56,926
+And the Oscar goes to <i>Bao.</i>
+
+1000
+00:59:57,093 --> 00:59:58,928
+-(ALL CHEERING)
+-Yes!
+
+1001
+01:00:00,096 --> 01:00:01,389
+SHI: <i>Thank you to the Academy.</i>
+
+1002
+01:00:01,472 --> 01:00:05,059
+To all of the nerdy girls out there
+who hide behind their sketchbooks,
+
+1003
+01:00:05,143 --> 01:00:08,146
+don't be afraid
+to tell your stories to the world.
+
+1004
+01:00:08,229 --> 01:00:09,272
+(ALL APPLAUDING)
+
+1005
+01:00:10,481 --> 01:00:12,066
+You don't have to explain everything.
+
+1006
+01:00:12,150 --> 01:00:15,486
+As long as the feeling
+that people have at the end of your short
+
+1007
+01:00:15,570 --> 01:00:17,947
+is the feeling
+that you want to leave them with.
+
+1008
+01:00:18,865 --> 01:00:20,366
+<i>That's a scary thing to do.</i>
+
+1009
+01:00:21,284 --> 01:00:22,785
+Sometimes you just gotta go for it.
+
+1010
+01:00:22,869 --> 01:00:25,955
+And, you know,
+seeing your reels, I feel it.
+
+1011
+01:00:26,039 --> 01:00:28,458
+So, I wouldn't sweat it.
+
+1012
+01:00:28,541 --> 01:00:30,293
+CORBIN: <i>Getting that affirmation of, like,</i>
+
+1013
+01:00:30,376 --> 01:00:33,463
+<i>"Yeah, go for it. Don't be afraid</i>
+<i>to have it be a little weird."</i>
+
+1014
+01:00:33,546 --> 01:00:35,006
+<i>It was very helpful.</i>
+
+1015
+01:00:35,089 --> 01:00:36,591
+Like, nope, that's the point.
+
+1016
+01:00:36,674 --> 01:00:40,053
+It's just like
+we're enjoying this abstract adventure.
+
+1017
+01:00:41,304 --> 01:00:43,389
+<i>And then, at the end, we come to clarity.</i>
+
+1018
+01:00:52,649 --> 01:00:54,817
+DAVID LALLY: I'm curious
+about the garments.
+
+1019
+01:00:54,901 --> 01:00:57,195
+What's the thought with sim?
+
+1020
+01:00:57,278 --> 01:00:58,863
+I feel like, when I was talking to Ana
+
+1021
+01:00:58,946 --> 01:01:02,533
+about like the idea
+of prioritizing movement, right?
+
+1022
+01:01:02,617 --> 01:01:03,910
+LALLY: Mmm-hmm.
+
+1023
+01:01:03,993 --> 01:01:06,204
+GONZALES: What's Nona's priority?
+It's her T-shirt.
+
+1024
+01:01:06,287 --> 01:01:08,122
+<i>With the little girl, her primary symbol</i>
+
+1025
+01:01:08,206 --> 01:01:10,333
+<i>will probably be</i>
+<i>whatever you do with her hair.</i>
+
+1026
+01:01:10,416 --> 01:01:12,543
+<i>I was even going, like,</i>
+<i>"The dog moves so slow."</i>
+
+1027
+01:01:12,627 --> 01:01:15,338
+-I don't know if I need something on it.
+-KENT: You have the collar.
+
+1028
+01:01:15,421 --> 01:01:18,216
+-If it has a dangly piece...
+-Or we could probably animate it.
+
+1029
+01:01:18,299 --> 01:01:20,051
+-I think... Okay.
+-We can lose the collar.
+
+1030
+01:01:21,052 --> 01:01:23,888
+<i>I love animation</i>
+<i>because of the collaboration.</i>
+
+1031
+01:01:24,555 --> 01:01:29,352
+<i>And I really, truly think</i>
+<i>that if you have your team invested</i>
+
+1032
+01:01:29,435 --> 01:01:31,813
+and you have a story that you wanna tell,
+
+1033
+01:01:31,896 --> 01:01:33,690
+I just think that it can only be good.
+
+1034
+01:01:34,774 --> 01:01:36,025
+<i>But there's a difference</i>
+
+1035
+01:01:36,109 --> 01:01:39,278
+<i>with how you wanna approach</i>
+<i>the SparkShort versus a feature.</i>
+
+1036
+01:01:39,362 --> 01:01:41,197
+Bold lines are gonna help direct the eye.
+
+1037
+01:01:41,280 --> 01:01:42,365
+<i>Feature films,</i>
+
+1038
+01:01:42,448 --> 01:01:45,827
+<i>they're all about having time and money</i>
+<i>to smooth out imperfections.</i>
+
+1039
+01:01:47,704 --> 01:01:48,830
+And I want imperfections.
+
+1040
+01:01:48,913 --> 01:01:50,581
+LACAZE: If we simplify the models a lot,
+
+1041
+01:01:50,665 --> 01:01:53,042
+we might be able to be
+more graphical and more,
+
+1042
+01:01:53,126 --> 01:01:55,253
+-have intent on what the wrinkles are.
+-Right.
+
+1043
+01:01:55,336 --> 01:01:58,131
+GONZALES: <i>I want us</i>
+<i>to be like a band starting out.</i>
+
+1044
+01:01:58,214 --> 01:02:00,425
+And they have a rawness,
+you know what I mean?
+
+1045
+01:02:00,508 --> 01:02:03,302
+(ROCK MUSIC PLAYING)
+
+1046
+01:02:03,386 --> 01:02:05,138
+GONZALES: <i>I kept relating</i>
+<i>our short to that.</i>
+
+1047
+01:02:05,221 --> 01:02:07,932
+I'm like, we are the best
+garage band in the business.
+
+1048
+01:02:08,516 --> 01:02:11,310
+<i>So, let's do our thing and make it dirty.</i>
+
+1049
+01:02:11,394 --> 01:02:12,478
+<i>Don't polish it.</i>
+
+1050
+01:02:15,523 --> 01:02:17,859
+<i>Let's be broad and bold with our choices.</i>
+
+1051
+01:02:18,818 --> 01:02:20,528
+And then we'll see what happens.
+
+1052
+01:02:24,782 --> 01:02:26,117
+<i>Story is problem solving.</i>
+
+1053
+01:02:26,492 --> 01:02:28,244
+<i>So, I always feel like,</i>
+
+1054
+01:02:28,327 --> 01:02:31,539
+<i>whatever falls in your lap</i>
+<i>is there for you to make something with.</i>
+
+1055
+01:02:31,622 --> 01:02:33,958
+<i>But it's more than that.</i>
+<i>There's an alchemy.</i>
+
+1056
+01:02:34,041 --> 01:02:36,377
+<i>There's a sense of magic to it.</i>
+
+1057
+01:02:36,586 --> 01:02:39,756
+The screen has gotta move
+and dance in front of your eyes
+
+1058
+01:02:39,839 --> 01:02:43,301
+<i>to really concoct something</i>
+<i>that evokes an emotion</i>
+
+1059
+01:02:43,384 --> 01:02:46,596
+<i>that takes you on a ride somewhere,</i>
+<i>and when it's all said and done,</i>
+
+1060
+01:02:46,679 --> 01:02:48,598
+<i>it reaffirms the beautiful things in life.</i>
+
+1061
+01:02:49,849 --> 01:02:53,144
+KENT:<i> Some of the earlier</i>
+<i>iterations of the wrestling scene</i>
+
+1062
+01:02:53,227 --> 01:02:55,396
+<i>between Nona and Renee,</i>
+
+1063
+01:02:56,105 --> 01:02:59,817
+<i>they took a moment to go around</i>
+<i>and get things from the apartment</i>
+
+1064
+01:02:59,901 --> 01:03:01,861
+<i>to make themselves look like wrestlers.</i>
+
+1065
+01:03:03,696 --> 01:03:05,865
+<i>And they'd wrestled there on the floor.</i>
+
+1066
+01:03:06,783 --> 01:03:09,911
+<i>It was all in this real world.</i>
+
+1067
+01:03:11,204 --> 01:03:14,832
+But Louis felt like the scene
+wasn't pushing it enough.
+
+1068
+01:03:14,916 --> 01:03:18,085
+-(CROWD CHEERING)
+-ANNOUNCER: <i>Welcome to the main event!</i>
+
+1069
+01:03:18,169 --> 01:03:21,881
+<i>In the blue corner, Nona the Hammer!</i>
+
+1070
+01:03:21,964 --> 01:03:26,093
+GONZALES: <i>I wanted to see what it feels</i>
+<i>like for them to play wrestling.</i>
+
+1071
+01:03:27,178 --> 01:03:29,096
+<i>Not make it literal.</i>
+
+1072
+01:03:29,180 --> 01:03:31,891
+<i>We get to see it</i>
+<i>how the little girl sees it.</i>
+
+1073
+01:03:33,309 --> 01:03:36,145
+<i>And we know that Nona</i>
+<i>has that kind of imagination too.</i>
+
+1074
+01:03:37,313 --> 01:03:39,315
+KENT: <i>We were really trying to see,</i>
+
+1075
+01:03:40,024 --> 01:03:43,110
+<i>how far can you push it</i>
+<i>before you start to lose your audience</i>
+
+1076
+01:03:43,194 --> 01:03:46,906
+<i>with how unusual</i>
+<i>and crazy this imagination can get.</i>
+
+1077
+01:03:48,241 --> 01:03:52,411
+<i>But some of the ideas felt like</i>
+<i>they were just a little bit too much.</i>
+
+1078
+01:03:54,372 --> 01:03:56,541
+It should feel like a kid's playground.
+
+1079
+01:03:56,624 --> 01:03:58,793
+But yet still feel grounded and real.
+
+1080
+01:03:59,877 --> 01:04:03,089
+KENT: <i>And so then I think we tried</i>
+<i>to find what's in the middle.</i>
+
+1081
+01:04:03,172 --> 01:04:06,592
+<i>It was still Renee</i>
+<i>bringing in her stickers</i>
+
+1082
+01:04:07,593 --> 01:04:11,013
+<i>and then Nona getting</i>
+<i>to do her big wrestling move.</i>
+
+1083
+01:04:12,223 --> 01:04:15,434
+GONZALES: <i>So, now the two worlds</i>
+<i>that were bumping off each other</i>
+
+1084
+01:04:16,394 --> 01:04:18,980
+have now harmonized in this scene.
+
+1085
+01:04:24,360 --> 01:04:27,446
+<i>And they're both sharing a place</i>
+<i>in time that made 'em both better,</i>
+
+1086
+01:04:27,530 --> 01:04:29,156
+<i>that made 'em both stronger.</i>
+
+1087
+01:04:37,874 --> 01:04:41,752
+LALLY: ...from up here, just paying
+attention more to the eye, so...
+
+1088
+01:04:41,836 --> 01:04:43,796
+MORRIS: <i>When I think about</i>
+<i>what's different between</i>
+
+1089
+01:04:43,880 --> 01:04:46,424
+<i>an animation director</i>
+<i>and a live-action director,</i>
+
+1090
+01:04:47,133 --> 01:04:49,760
+I've often thought
+that a great live-action director
+
+1091
+01:04:49,844 --> 01:04:52,471
+has a script and then
+they bring their actors on the set,
+
+1092
+01:04:52,555 --> 01:04:54,807
+just kind of working like a jazz musician.
+
+1093
+01:04:54,891 --> 01:04:57,351
+(JAZZ MUSIC PLAYING)
+
+1094
+01:04:57,435 --> 01:05:01,022
+MORRIS: <i>And sort of taking the pieces</i>
+<i>and making it fit and improvise.</i>
+
+1095
+01:05:04,817 --> 01:05:08,946
+And by contrast, an animation director
+is more like a classical composer
+
+1096
+01:05:09,030 --> 01:05:12,033
+who is going
+and painstakingly writing that score
+
+1097
+01:05:12,116 --> 01:05:15,077
+<i>and changing that note</i>
+<i>from a 16th note to an eighth note,</i>
+
+1098
+01:05:15,161 --> 01:05:17,079
+<i>and that process is very long.</i>
+
+1099
+01:05:18,539 --> 01:05:20,249
+DOCTER: <i>Just takes a lot of work.</i>
+
+1100
+01:05:20,333 --> 01:05:23,419
+<i>And oftentimes</i>
+<i>what it is, is making mistakes.</i>
+
+1101
+01:05:24,003 --> 01:05:27,131
+You know, trying something
+and going, "Well, that didn't work.
+
+1102
+01:05:27,214 --> 01:05:29,425
+"They didn't laugh at that at all.
+Why was that?
+
+1103
+01:05:29,508 --> 01:05:31,093
+"Let's go back and figure it out."
+
+1104
+01:05:31,177 --> 01:05:33,721
+And then you do it again
+and again and again.
+
+1105
+01:05:34,305 --> 01:05:35,640
+JOY: Let's do this.
+
+1106
+01:05:35,723 --> 01:05:37,475
+DOCTER: <i>By the time you see it on screen,</i>
+
+1107
+01:05:37,558 --> 01:05:41,395
+<i>you're seeing probably</i>
+<i>the 10th version of that film.</i>
+
+1108
+01:05:41,479 --> 01:05:42,730
+FEAR: <i>Oh, potential friend spotted.</i>
+
+1109
+01:05:43,272 --> 01:05:46,108
+-JOY: Not this again.
+-Maybe we should talk to them.
+
+1110
+01:05:46,192 --> 01:05:48,152
+Riley's been at the school
+for over two months,
+
+1111
+01:05:48,235 --> 01:05:50,738
+-she doesn't have a single friend.
+-What about Bing-Bong?
+
+1112
+01:05:50,821 --> 01:05:52,281
+FEAR: Bing-Bong's imaginary...
+
+1113
+01:05:52,365 --> 01:05:54,951
+DOCTER: <i>A version of</i> Inside Out
+<i>that we had for a long time</i>
+
+1114
+01:05:55,034 --> 01:05:58,204
+<i>is that Joy was paired</i>
+<i>with Fear throughout the entire journey.</i>
+
+1115
+01:05:58,287 --> 01:05:59,872
+FEAR: You're not coming back
+to headquarters.
+
+1116
+01:05:59,956 --> 01:06:02,249
+-Riley's better off without you.
+-Wait, I...
+
+1117
+01:06:02,333 --> 01:06:03,668
+Get her, boys.
+
+1118
+01:06:09,674 --> 01:06:11,968
+DOCTER: <i>And late along the way,</i>
+
+1119
+01:06:12,051 --> 01:06:14,679
+<i>we realized for this story to make sense,</i>
+
+1120
+01:06:16,138 --> 01:06:17,890
+<i>Joy has to be paired with Sadness.</i>
+
+1121
+01:06:18,557 --> 01:06:20,726
+(SNIFFLES) I miss home.
+
+1122
+01:06:20,810 --> 01:06:22,186
+(SOBBING)
+
+1123
+01:06:26,691 --> 01:06:28,651
+DOCTER: <i>Well, that meant</i>
+<i>we had to go back,</i>
+
+1124
+01:06:28,734 --> 01:06:31,779
+<i>retool the whole film,</i>
+<i>throw out a ton of stuff.</i>
+
+1125
+01:06:34,657 --> 01:06:38,953
+<i>Thousands of drawings, hundreds of hours</i>
+<i>spent recording and editing.</i>
+
+1126
+01:06:39,036 --> 01:06:41,372
+<i>But they were all very valuable in that</i>
+
+1127
+01:06:41,455 --> 01:06:43,666
+<i>they taught us things</i>
+<i>about the characters,</i>
+
+1128
+01:06:43,749 --> 01:06:46,794
+<i>the world and the story,</i>
+<i>and what it was supposed to be.</i>
+
+1129
+01:06:55,511 --> 01:06:57,638
+LANGLEY: Yeah, so this is great.
+So, this is the first time
+
+1130
+01:06:57,722 --> 01:06:59,640
+we're seeing this
+with all the scratch cut in.
+
+1131
+01:06:59,724 --> 01:07:01,767
+RIZK: Yeah. This is all scratch
+temp dialogue,
+
+1132
+01:07:03,936 --> 01:07:05,688
+LANGLEY: All right. Let's take a look.
+
+1133
+01:07:06,981 --> 01:07:10,776
+NICOLE: <i>Okay, hurry back.</i>
+<i>After this, we're hitting the dance floor!</i>
+
+1134
+01:07:10,860 --> 01:07:13,154
+GIA:<i> I can't wait. Whoa!</i>
+
+1135
+01:07:13,237 --> 01:07:15,531
+CORBIN:<i> One of the challenging</i>
+<i>parts about this short</i>
+
+1136
+01:07:15,614 --> 01:07:20,036
+<i>was selling the idea</i>
+<i>of these characters being certain ages.</i>
+
+1137
+01:07:20,870 --> 01:07:22,788
+TEN: <i>Jeez, we're a mess.</i>
+<i>What happened?</i>
+
+1138
+01:07:22,872 --> 01:07:25,499
+SIXTEEN: <i>Hey, first off,</i>
+<i>who died and made you boss?</i>
+
+1139
+01:07:25,583 --> 01:07:27,251
+CORBIN:<i> Ten being 10,</i>
+
+1140
+01:07:27,334 --> 01:07:28,753
+<i>Sixteen being 16.</i>
+
+1141
+01:07:30,004 --> 01:07:33,215
+<i>But while using scratch voice talent.</i>
+
+1142
+01:07:33,299 --> 01:07:35,843
+TEN: <i>Way to go, Sixteen.</i>
+<i>How stupid could you be? </i>(GASPS)
+
+1143
+01:07:35,926 --> 01:07:37,094
+SIXTEEN: <i>Can't believe you blew it.</i>
+
+1144
+01:07:37,178 --> 01:07:39,847
+And scratch
+is your rough draft voice actors
+
+1145
+01:07:39,930 --> 01:07:41,724
+<i>who are reading lines,</i>
+
+1146
+01:07:41,807 --> 01:07:46,479
+<i>so that we all get an idea</i>
+<i>of what it sounds like and how it plays.</i>
+
+1147
+01:07:46,562 --> 01:07:49,023
+I have a question about Ten's audio.
+
+1148
+01:07:49,106 --> 01:07:52,068
+Like, do you feel... It's definitely
+not reading as a 10-year-old.
+
+1149
+01:07:52,151 --> 01:07:53,152
+Right.
+
+1150
+01:07:53,235 --> 01:07:55,780
+<i>We didn't have any kids</i>
+<i>to do a scratch recording,</i>
+
+1151
+01:07:55,863 --> 01:07:59,533
+<i>and so selling the idea</i>
+<i>of Ten being 10 was kind of hard.</i>
+
+1152
+01:08:00,034 --> 01:08:01,243
+I was thinking that too.
+
+1153
+01:08:01,327 --> 01:08:04,789
+And I'm not sure how much of it to, like,
+be nitpicky about because it is scratch.
+
+1154
+01:08:04,872 --> 01:08:08,334
+But it would be nice
+if it sounded a little bit off.
+
+1155
+01:08:09,043 --> 01:08:12,046
+Like, if she sounded a little younger
+and it's like, "Oh," "Uh..."
+
+1156
+01:08:12,254 --> 01:08:13,380
+LANGLEY: <i>In the screenings,</i>
+
+1157
+01:08:13,464 --> 01:08:17,009
+<i>people were having trouble believing</i>
+<i>that the Ten-year-old was a 10-year-old</i>
+
+1158
+01:08:17,093 --> 01:08:21,514
+because we had a 30-year-old
+woman doing the temporary dialogue.
+
+1159
+01:08:21,597 --> 01:08:22,848
+TEN: <i>We're an adult.</i>
+
+1160
+01:08:22,932 --> 01:08:27,061
+We have to keep it together
+'cause that's what adults do.
+
+1161
+01:08:27,144 --> 01:08:28,354
+-SIXTEEN: All right!
+-Yeah!
+
+1162
+01:08:28,437 --> 01:08:30,064
+CORBIN: <i>The voice I knew was really gonna</i>
+
+1163
+01:08:34,527 --> 01:08:37,863
+<i>The minute we had</i>
+<i>Kaylin do the voice of Ten...</i>
+
+1164
+01:08:37,947 --> 01:08:41,534
+LANGLEY: <i>Okay, so count us down</i>
+<i>three, two, one. Record.</i>
+
+1165
+01:08:41,617 --> 01:08:44,036
+<i>And press the button record</i>
+<i>as you're saying, "Record."</i>
+
+1166
+01:08:44,120 --> 01:08:45,121
+Okay!
+
+1167
+01:08:45,204 --> 01:08:49,416
+CORBIN:<i> She brought so much charm</i>
+<i>and innocence to the character.</i>
+
+1168
+01:08:49,500 --> 01:08:54,296
+We are a beautiful, strong, mature,
+21-year-old woman!
+
+1169
+01:08:54,380 --> 01:08:56,841
+We are going to go shake
+our bottom on that dance floor,
+
+1170
+01:08:56,924 --> 01:08:59,677
+-we're gonna stay up past our bedtime...
+-SIXTEEN: Yeah!
+
+1171
+01:08:59,760 --> 01:09:01,887
+...and we are going to kiss
+our youth goodbye.
+
+1172
+01:09:01,971 --> 01:09:03,681
+'Cause this is Gia's night!
+
+1173
+01:09:03,764 --> 01:09:04,932
+-Yeah!
+-Yeah!
+
+1174
+01:09:05,015 --> 01:09:07,351
+-(ONE GURGLING)
+-(SIGHING GRIMLY)
+
+1175
+01:09:10,813 --> 01:09:14,024
+KENT: So, I think we've finally gotten
+somebody to come on for sets.
+
+1176
+01:09:14,108 --> 01:09:16,277
+GONZALES: Oh, good. Yeah.
+KENT: Trianne's gonna jump in,
+
+1177
+01:09:16,360 --> 01:09:18,821
+-to start doing the modeling. So...
+-Okay.
+
+1178
+01:09:18,904 --> 01:09:20,573
+-Um...
+-(CHUCKLES)
+
+1179
+01:09:20,656 --> 01:09:22,616
+What does she have to get started with?
+
+1180
+01:09:22,700 --> 01:09:24,618
+-Okay, well, we need a map, right?
+-Yeah.
+
+1181
+01:09:24,702 --> 01:09:26,787
+I have the floor plan,
+I know how that works.
+
+1182
+01:09:26,871 --> 01:09:28,622
+I'm picturing like a... (CLICKS TONGUE)
+
+1183
+01:09:28,706 --> 01:09:31,000
+Like LA villa-style homes,
+you know what I mean?
+
+1184
+01:09:31,083 --> 01:09:33,294
+The white stucco walls
+so you have that texture,
+
+1185
+01:09:33,377 --> 01:09:35,087
+so we don't have to have flat walls.
+
+1186
+01:09:35,171 --> 01:09:38,174
+But I do like the idea of the lived-in
+space kind of being curated.
+
+1187
+01:09:38,257 --> 01:09:41,677
+Trying to find a couple
+of the right details to make it feel full.
+
+1188
+01:09:42,344 --> 01:09:44,847
+<i>There's an energy to it that</i>
+<i>you want to get it right.</i>
+
+1189
+01:09:44,930 --> 01:09:47,141
+<i>Because to me</i>
+<i>it's how legit the world feels,</i>
+
+1190
+01:09:47,224 --> 01:09:49,059
+<i>or how that the character fits into it.</i>
+
+1191
+01:09:51,979 --> 01:09:56,609
+<i>There's cultural details that we have</i>
+<i>to put in to make it feel true.</i>
+
+1192
+01:09:56,734 --> 01:09:58,152
+<i>I know it's West Coast,</i>
+
+1193
+01:09:58,235 --> 01:10:00,779
+and that has a rhythm
+and vibe to it, you know?
+
+1194
+01:10:00,863 --> 01:10:03,115
+And I kind of wanna
+make sure I pay attention to that.
+
+1195
+01:10:03,199 --> 01:10:06,202
+<i>We brought in a set designer</i>
+<i>to make Nona's apartment right,</i>
+
+1196
+01:10:06,285 --> 01:10:07,953
+<i>'cause we manufactured that apartment.</i>
+
+1197
+01:10:08,037 --> 01:10:09,538
+<i>That's the only set we built.</i>
+
+1198
+01:10:09,622 --> 01:10:11,916
+<i>I gave her some broad details, like,</i>
+
+1199
+01:10:11,999 --> 01:10:16,086
+<i>I want it to feel like</i>
+<i>in the Spanish revival style in LA.</i>
+
+1200
+01:10:16,420 --> 01:10:21,091
+<i>So, warm wood floors, arches,</i>
+<i>stairs with wrought-iron railing.</i>
+
+1201
+01:10:21,967 --> 01:10:25,221
+<i>And she got the tone.</i>
+<i>She got the heart and soul into it.</i>
+
+1202
+01:10:26,764 --> 01:10:28,724
+<i>She's like,</i>
+<i>"Oh, my granny has this in her house.</i>
+
+1203
+01:10:28,807 --> 01:10:30,684
+<i>"Like, a cutting board hanging."</i>
+
+1204
+01:10:30,768 --> 01:10:32,102
+And I'm like, "I love that."
+
+1205
+01:10:33,270 --> 01:10:37,358
+<i>She just put herself into it.</i>
+<i>All the decor, all the frames.</i>
+
+1206
+01:10:41,862 --> 01:10:44,073
+<i>So, it feels lived in</i>
+<i>and the details are there</i>
+
+1207
+01:10:44,156 --> 01:10:47,785
+without detailing everything out,
+'cause we couldn't afford it.
+
+1208
+01:10:55,793 --> 01:10:57,419
+CORBIN: <i>When the rubber meets the road,</i>
+
+1209
+01:10:57,503 --> 01:11:01,090
+<i>the people who make</i>
+<i>the film shine are the animators.</i>
+
+1210
+01:11:03,634 --> 01:11:04,969
+<i>This is what you see on screen.</i>
+
+1211
+01:11:05,052 --> 01:11:07,179
+You don't see
+my crude stick figure drawings,
+
+1212
+01:11:07,263 --> 01:11:09,139
+you see the beautiful animation.
+
+1213
+01:11:11,517 --> 01:11:16,647
+<i>This film was set in a club,</i>
+<i>so that means crowds.</i>
+
+1214
+01:11:20,734 --> 01:11:23,862
+<i>Because we're a CG studio,</i>
+
+1215
+01:11:23,946 --> 01:11:25,239
+<i>if you're doing CG,</i>
+
+1216
+01:11:25,322 --> 01:11:28,367
+<i>there's a whole department</i>
+<i>dedicated just to do crowds for you.</i>
+
+1217
+01:11:28,450 --> 01:11:30,869
+-(INDISTINCT CHATTER)
+-(SIREN WAILING)
+
+1218
+01:11:30,953 --> 01:11:35,457
+CORBIN:<i> But for us in the Spark program</i>
+<i>doing 2D animation,</i>
+
+1219
+01:11:35,541 --> 01:11:40,004
+<i>we had to come up with creative ways</i>
+<i>to make this club feel full and lively</i>
+
+1220
+01:11:40,087 --> 01:11:42,923
+<i>without animating over 70 people.</i>
+
+1221
+01:11:44,258 --> 01:11:46,760
+LANGLEY: <i>She was inspired</i>
+<i>by old cartoons,</i>
+
+1222
+01:11:46,844 --> 01:11:50,514
+<i>like the UPA films where</i>
+<i>the environments in the backdrops</i>
+
+1223
+01:11:50,597 --> 01:11:52,433
+<i>would just be a couple lines,</i>
+
+1224
+01:11:52,516 --> 01:11:55,185
+<i>just to indicate that something was there.</i>
+
+1225
+01:11:55,269 --> 01:11:58,605
+<i>So we decided</i>
+<i>to have a lot of background characters,</i>
+
+1226
+01:11:58,689 --> 01:12:00,482
+<i>but they're not moving.</i>
+
+1227
+01:12:01,108 --> 01:12:03,986
+<i>But we strategically</i>
+<i>put a few characters here and there</i>
+
+1228
+01:12:04,069 --> 01:12:06,655
+<i>that were moving to give</i>
+<i>the audience the impression</i>
+
+1229
+01:12:06,739 --> 01:12:09,908
+<i>that there were a bunch of people</i>
+<i>dancing and the club was populated.</i>
+
+1230
+01:12:15,497 --> 01:12:16,582
+(PANTING)
+
+1231
+01:12:16,665 --> 01:12:18,042
+CORBIN: <i>I feel like I really threw</i>
+
+1232
+01:12:18,125 --> 01:12:20,002
+<i>the kitchen sink</i>
+<i>at the animation department.</i>
+
+1233
+01:12:20,085 --> 01:12:22,296
+-(GROANING)
+-Woah!
+
+1234
+01:12:22,379 --> 01:12:24,882
+CORBIN:<i> There's so much</i>
+<i>going on with these characters.</i>
+
+1235
+01:12:25,341 --> 01:12:27,551
+<i>There's some scenes with six different</i>
+
+1236
+01:12:27,634 --> 01:12:29,636
+<i>characters that one animator had to do.</i>
+
+1237
+01:12:29,720 --> 01:12:30,804
+(GROANING)
+
+1238
+01:12:30,888 --> 01:12:33,015
+CORBIN:<i> And they're pretty</i>
+<i>complicated characters.</i>
+
+1239
+01:12:33,098 --> 01:12:34,099
+Sorry
+
+1240
+01:12:34,183 --> 01:12:36,435
+CORBIN: <i>I felt like it was kind of</i>
+<i>like a trial by fire.</i>
+
+1241
+01:12:37,061 --> 01:12:38,729
+Uh, well, I...
+
+1242
+01:12:40,189 --> 01:12:42,149
+So, my animation supervisor, Lucas,
+
+1243
+01:12:42,232 --> 01:12:45,361
+would ask me
+if I was willing to modify some things,
+
+1244
+01:12:46,195 --> 01:12:48,530
+<i>like extra earrings and bags,</i>
+
+1245
+01:12:48,614 --> 01:12:51,700
+<i>things that the animators would</i>
+<i>have to account for over and over,</i>
+
+1246
+01:12:51,784 --> 01:12:55,704
+<i>that could end up being very</i>
+<i>challenging over a large course of time.</i>
+
+1247
+01:12:55,788 --> 01:12:58,374
+<i>But one of the things</i>
+<i>I really wanted to keep</i>
+
+1248
+01:12:58,916 --> 01:13:02,044
+<i>was the different hair</i>
+<i>that the characters had.</i>
+
+1249
+01:13:03,128 --> 01:13:05,130
+<i>It's a huge thing in Black culture.</i>
+
+1250
+01:13:05,214 --> 01:13:07,591
+<i>There's a lot</i>
+<i>of different, unique hairstyles.</i>
+
+1251
+01:13:07,674 --> 01:13:11,220
+<i>And I feel like it's a very good</i>
+<i>indicator of how old you are.</i>
+
+1252
+01:13:11,303 --> 01:13:12,846
+<i>It's like the difference between</i>
+
+1253
+01:13:12,930 --> 01:13:15,182
+<i>your mother doing</i>
+<i>your hair for you as a child</i>
+
+1254
+01:13:15,265 --> 01:13:17,726
+<i>and then you getting it done at a salon.</i>
+
+1255
+01:13:17,810 --> 01:13:21,772
+<i>I was like, I know that some of these</i>
+<i>braids and hairstyles are gonna be a lot,</i>
+
+1256
+01:13:21,855 --> 01:13:25,692
+<i>but I think it's a huge</i>
+<i>story point for these characters.</i>
+
+1257
+01:13:25,776 --> 01:13:26,777
+TEN: The plan, remember?
+
+1258
+01:13:26,860 --> 01:13:31,073
+CORBIN: <i>We did some things to modify</i>
+<i>the hair so it wasn't as challenging.</i>
+
+1259
+01:13:31,490 --> 01:13:33,409
+Girl, where are you? Gia?
+
+1260
+01:13:33,492 --> 01:13:35,327
+CORBIN: <i>But these animators are amazing,</i>
+
+1261
+01:13:35,702 --> 01:13:39,039
+<i>and I was so excited</i>
+<i>because we were so crunched on time...</i>
+
+1262
+01:13:39,248 --> 01:13:40,999
+I know you are, but what am I?
+
+1263
+01:13:41,083 --> 01:13:43,001
+CORBIN: <i>...but it looks so good.</i>
+
+1264
+01:13:43,085 --> 01:13:44,503
+SIXTEEN: You don't know what you're doing.
+
+1265
+01:13:44,586 --> 01:13:46,088
+(WHIMPERING)
+
+1266
+01:13:54,430 --> 01:13:56,932
+GONZALES: <i>Now, being</i>
+<i>in the industry for 20 years,</i>
+
+1267
+01:13:57,558 --> 01:14:00,436
+<i>for the first time,</i>
+<i>I'm really feeling like the older cat.</i>
+
+1268
+01:14:01,895 --> 01:14:04,815
+<i>And there's a lot of youngsters</i>
+<i>coming up underneath me that are,</i>
+
+1269
+01:14:04,898 --> 01:14:07,693
+<i>you know,</i>
+<i>got great ideas, lot of great energy,</i>
+
+1270
+01:14:07,818 --> 01:14:10,362
+<i>and I'm realizing</i>
+<i>that I don't have as much energy.</i>
+
+1271
+01:14:10,446 --> 01:14:13,824
+<i>But this short is about</i>
+<i>how the generations influence each other.</i>
+
+1272
+01:14:14,867 --> 01:14:17,786
+I always use the example of my dog,
+you know, before she passed.
+
+1273
+01:14:17,870 --> 01:14:19,079
+I had a dog named Pica.
+
+1274
+01:14:19,997 --> 01:14:23,584
+<i>Pica was a smaller Pitbull</i>
+<i>and she was about 12.</i>
+
+1275
+01:14:23,667 --> 01:14:25,002
+<i>She had hip issues.</i>
+
+1276
+01:14:25,085 --> 01:14:27,796
+<i>She was old</i>
+<i>and she was not wanting to move.</i>
+
+1277
+01:14:29,089 --> 01:14:32,926
+<i>Around the same time,</i>
+<i>we got my daughter a Yorkie for Christmas.</i>
+
+1278
+01:14:34,136 --> 01:14:35,345
+<i>My daughter was happy,</i>
+
+1279
+01:14:35,429 --> 01:14:37,973
+but I actually think
+the old dog was happier.
+
+1280
+01:14:38,307 --> 01:14:40,934
+Because all of a sudden
+she was like, "I'm gonna play."
+
+1281
+01:14:42,728 --> 01:14:45,856
+<i>This little puppy brought her</i>
+<i>back to life, it gave her a spark.</i>
+
+1282
+01:14:46,523 --> 01:14:50,110
+<i>And that's how I wanted the relationship</i>
+<i>of the little girl and the dog to be.</i>
+
+1283
+01:14:51,278 --> 01:14:53,947
+<i>When I present it</i>
+<i>to the team to have this dog,</i>
+
+1284
+01:14:54,031 --> 01:14:56,617
+<i>they'll be in there, like,</i>
+<i>"You probably can't have a dog</i>
+
+1285
+01:14:57,201 --> 01:14:59,912
+<i>"and you can't have a dog</i>
+<i>with a hoodie, for sure."</i>
+
+1286
+01:15:00,954 --> 01:15:02,956
+KENT: <i>Quadrupeds, things on four legs,</i>
+
+1287
+01:15:03,040 --> 01:15:06,043
+<i>are notoriously</i>
+<i>difficult to do in animation.</i>
+
+1288
+01:15:06,835 --> 01:15:10,172
+<i>And the grandma had to pick up</i>
+<i>the dog and move the dog around,</i>
+
+1289
+01:15:10,255 --> 01:15:12,716
+<i>which is also a very</i>
+<i>complicated thing to animate.</i>
+
+1290
+01:15:14,218 --> 01:15:18,805
+At the same time, seeing the image
+that Louis drew was so sweet
+
+1291
+01:15:18,889 --> 01:15:21,934
+<i>and made it just</i>
+<i>so much more personal to the story</i>
+
+1292
+01:15:22,726 --> 01:15:25,229
+<i>that we wanted to figure out</i>
+<i>how to make it happen.</i>
+
+1293
+01:15:27,356 --> 01:15:29,274
+GONZALES: <i>My team brought so much.</i>
+
+1294
+01:15:30,317 --> 01:15:33,237
+<i>Sculpting the shapes, simming the dog</i>
+
+1295
+01:15:33,320 --> 01:15:35,447
+<i>with a real legit</i>
+<i>terrycloth hoodie and...</i>
+
+1296
+01:15:37,824 --> 01:15:39,826
+<i>touches of the dog on the couch.</i>
+
+1297
+01:15:42,079 --> 01:15:43,539
+<i>In the end, we got all of it.</i>
+
+1298
+01:15:46,458 --> 01:15:49,127
+<i>And the exciting thing</i>
+<i>is I can't wait to show it.</i>
+
+1299
+01:15:49,962 --> 01:15:51,505
+<i>I don't know what it's gonna yield,</i>
+
+1300
+01:15:51,588 --> 01:15:54,883
+<i>but it's done and I'm proud of it,</i>
+<i>so let's see what happens.</i>
+
+1301
+01:16:05,102 --> 01:16:08,230
+DOCTER: <i>The first thing I think that</i>
+<i>you're looking for when you go to a movie</i>
+
+1302
+01:16:08,313 --> 01:16:10,315
+<i>is to just be entertained.</i>
+
+1303
+01:16:10,399 --> 01:16:13,819
+But that's sort of surface level,
+it's like the candy coating.
+
+1304
+01:16:14,778 --> 01:16:17,406
+<i>Our job as filmmakers is to figure out,</i>
+
+1305
+01:16:17,489 --> 01:16:20,117
+<i>"What are you giving the audience</i>
+<i>to take home?</i>
+
+1306
+01:16:20,200 --> 01:16:23,203
+<i>"What are you giving them</i>
+<i>to continue to think about?"</i>
+
+1307
+01:16:23,287 --> 01:16:26,290
+So that that night when they're eating
+dinner, they're like, "Huh."
+
+1308
+01:16:27,583 --> 01:16:30,294
+<i>And I think the only way you can do that</i>
+
+1309
+01:16:30,377 --> 01:16:34,715
+<i>is by having filmmakers who have something</i>
+<i>interesting to say in a unique way,</i>
+
+1310
+01:16:34,798 --> 01:16:40,554
+<i>and hopefully in ways, ideas,</i>
+<i>concepts that have never been said before.</i>
+
+1311
+01:16:43,098 --> 01:16:47,394
+CORBIN: <i>Overall, I'm super pleased</i>
+<i>with the entire film</i>
+
+1312
+01:16:47,769 --> 01:16:49,771
+<i>and extremely proud of it.</i>
+
+1313
+01:16:50,772 --> 01:16:54,484
+<i>And I was very emotional.</i>
+<i>Erik and I both were,</i>
+
+1314
+01:16:54,568 --> 01:16:59,239
+<i>just because it felt like</i>
+<i>such a crazy road from beginning to end.</i>
+
+1315
+01:16:59,323 --> 01:17:01,783
+<i>I just wanted to tell a story</i>
+
+1316
+01:17:01,867 --> 01:17:05,662
+<i>that I felt like I was going through</i>
+<i>and I know everyone else goes through.</i>
+
+1317
+01:17:05,746 --> 01:17:08,707
+<i>No matter what age, race, gender,</i>
+
+1318
+01:17:08,790 --> 01:17:12,002
+<i>this felt like a story</i>
+<i>that touched a lot of people,</i>
+
+1319
+01:17:12,085 --> 01:17:15,589
+<i>and then the specificity of it</i>
+<i>being told through a Black character,</i>
+
+1320
+01:17:15,672 --> 01:17:18,967
+<i>I think makes it special</i>
+<i>and new and exciting.</i>
+
+1321
+01:17:20,636 --> 01:17:23,180
+LANGLEY: <i>The story is funny, emotional,</i>
+
+1322
+01:17:23,263 --> 01:17:26,850
+<i>and it's coming from a voice</i>
+<i>that has been underrepresented</i>
+
+1323
+01:17:26,933 --> 01:17:31,980
+and I'm excited for people to see that,
+and to see themselves in that,
+
+1324
+01:17:32,064 --> 01:17:33,482
+<i>because I think we all can.</i>
+
+1325
+01:17:34,650 --> 01:17:36,860
+CORBIN:<i> I can't wait</i>
+<i>for the African-American community,</i>
+
+1326
+01:17:36,943 --> 01:17:39,488
+<i>specifically Black little girls,</i>
+<i>to see it.</i>
+
+1327
+01:17:40,739 --> 01:17:43,241
+<i>There's a huge want for representation,</i>
+
+1328
+01:17:43,325 --> 01:17:45,619
+<i>and just to be able to watch this</i>
+<i>and see yourself</i>
+
+1329
+01:17:45,702 --> 01:17:47,829
+<i>means a whole lot to a lot of people.</i>
+
+1330
+01:17:48,497 --> 01:17:51,875
+<i>And so I'm really excited</i>
+<i>for people to feel seen</i>
+
+1331
+01:17:51,958 --> 01:17:54,628
+and know that this one is, like,
+specifically for them.
+
+1332
+01:17:56,963 --> 01:17:59,841
+<i>I'm very excited</i>
+<i>for my family to see this film as well.</i>
+
+1333
+01:18:01,176 --> 01:18:02,803
+<i>Especially my sister.</i>
+
+1334
+01:18:03,470 --> 01:18:04,930
+<i>And when I told her,</i>
+
+1335
+01:18:05,013 --> 01:18:08,141
+<i>"There's a character in here</i>
+<i>that I, like, loosely based after you."</i>
+
+1336
+01:18:08,225 --> 01:18:09,726
+Whoo! Let's party!
+
+1337
+01:18:09,810 --> 01:18:12,062
+She's like, "Oh!"
+and she's excited about that.
+
+1338
+01:18:12,145 --> 01:18:15,691
+Okay, okay, back up, back up.
+Nothin' to see here. Go on.
+
+1339
+01:18:15,774 --> 01:18:18,568
+-Oh, Gia.
+-Just leave me alone.
+
+1340
+01:18:18,652 --> 01:18:21,071
+CORBIN:<i> It's a film about being an adult</i>
+
+1341
+01:18:21,154 --> 01:18:25,951
+<i>and accepting the messiness</i>
+<i>that comes along with it.</i>
+
+1342
+01:18:26,034 --> 01:18:27,703
+NICOLE: Are you in here
+crying on the toilet?
+
+1343
+01:18:27,786 --> 01:18:28,787
+No.
+
+1344
+01:18:28,870 --> 01:18:30,372
+Yes.
+
+1345
+01:18:30,997 --> 01:18:34,126
+CORBIN:<i> And I wanted to put in this idea</i>
+<i>of Nicole being like,</i>
+
+1346
+01:18:34,209 --> 01:18:37,754
+<i>"Nah, you're being super dramatic,</i>
+<i>everything's going to be just fine."</i>
+
+1347
+01:18:37,838 --> 01:18:39,631
+All right. Let's do this.
+
+1348
+01:18:39,715 --> 01:18:42,092
+That's my girl. Let's go.
+
+1349
+01:18:42,175 --> 01:18:43,760
+CORBIN: <i>I think kind of like the short,</i>
+
+1350
+01:18:43,844 --> 01:18:47,973
+<i>I think I'm just learning</i>
+<i>more and more to trust myself,</i>
+
+1351
+01:18:48,056 --> 01:18:51,226
+<i>that I am doing things right.</i>
+(CHUCKLES) <i>Or close enough.</i>
+
+1352
+01:18:51,309 --> 01:18:53,645
+<i>And that I'm gonna</i>
+<i>keep growing and learning</i>
+
+1353
+01:18:53,729 --> 01:18:56,898
+<i>and that's not a bad thing,</i>
+<i>that's all part of the process.</i>
+
+1354
+01:18:58,191 --> 01:19:02,612
+<i>And I think that just is attributed</i>
+<i>to the fact that I did the short,</i>
+
+1355
+01:19:04,364 --> 01:19:06,283
+<i>I've made it, and I survived.</i>
+
+1356
+01:19:09,077 --> 01:19:12,247
+GONZALES: <i>This is my first time</i>
+<i>actually really finishing something.</i>
+
+1357
+01:19:12,330 --> 01:19:15,792
+<i>I've never finished a short film,</i>
+<i>and I've tried for a long time.</i>
+
+1358
+01:19:16,585 --> 01:19:20,213
+<i>You know, I've tried to figure out a way</i>
+<i>to break it up and have a team,</i>
+
+1359
+01:19:20,297 --> 01:19:22,883
+<i>and it wasn't until now</i>
+<i>that I could actually do that.</i>
+
+1360
+01:19:25,302 --> 01:19:27,053
+<i>It's important to finish.</i>
+
+1361
+01:19:27,137 --> 01:19:29,097
+<i>'Cause you can't grow unless you finish.</i>
+
+1362
+01:19:30,140 --> 01:19:33,435
+KENT: <i>We are so excited to finally</i>
+<i>get to share</i> Nona <i>with the world.</i>
+
+1363
+01:19:34,269 --> 01:19:37,230
+<i>And I'm very excited</i>
+<i>for my family to get to see it.</i>
+
+1364
+01:19:37,939 --> 01:19:41,735
+<i>My daughter is also a 5-year-old</i>
+<i>little girl just like Renee.</i>
+
+1365
+01:19:42,277 --> 01:19:43,320
+<i>To actually get to sit</i>
+
+1366
+01:19:43,403 --> 01:19:45,906
+and watch the whole thing
+with her in the final state
+
+1367
+01:19:45,989 --> 01:19:49,618
+will be also really exciting.
+I hope it doesn't give her any bad ideas.
+
+1368
+01:19:51,328 --> 01:19:53,789
+GONZALES: <i>Making the short</i>
+<i>has been a real beautiful experience.</i>
+
+1369
+01:19:55,832 --> 01:19:57,918
+<i>Stories honor life, right?</i>
+<i>They honor people</i>
+
+1370
+01:19:58,001 --> 01:20:01,171
+<i>and when I tell my stories,</i>
+<i>I'm honoring my family and friends.</i>
+
+1371
+01:20:01,254 --> 01:20:03,381
+<i>And that's something that I love.</i>
+
+1372
+01:20:05,008 --> 01:20:09,429
+<i>I love the fact that I'm doing it now.</i>
+<i>But I also had to wait 20 years to do it.</i>
+
+1373
+01:20:11,139 --> 01:20:12,766
+<i>When I could have had the chance</i>
+
+1374
+01:20:12,849 --> 01:20:15,018
+<i>to really try and work</i>
+<i>my way towards directing,</i>
+
+1375
+01:20:15,602 --> 01:20:18,647
+<i>I stopped because</i>
+<i>I wanted to be with my kids,</i>
+
+1376
+01:20:19,231 --> 01:20:20,565
+<i>'cause I couldn't choose both.</i>
+
+1377
+01:20:21,983 --> 01:20:24,236
+<i>I was working after work</i>
+<i>and on the weekends.</i>
+
+1378
+01:20:24,319 --> 01:20:27,072
+<i>And I have a very clear memory</i>
+<i>of this one morning,</i>
+
+1379
+01:20:27,155 --> 01:20:29,783
+<i>I remember my kids telling me,</i>
+<i>"Why don't you come play with us?</i>
+
+1380
+01:20:29,866 --> 01:20:32,160
+<i>"Play catch."</i>
+<i>I'm like, "I'll be right there."</i>
+
+1381
+01:20:32,828 --> 01:20:36,373
+<i>I'm thinking, "Yeah, I'm gonna draw</i>
+<i>a few things and be done with it."</i>
+
+1382
+01:20:38,083 --> 01:20:40,460
+<i>They came in and said good night to me.</i>
+
+1383
+01:20:41,253 --> 01:20:44,881
+<i>I missed them the whole damn day,</i>
+<i>and it hit me so hard.</i>
+
+1384
+01:20:45,715 --> 01:20:47,801
+<i>They only have this time once,</i>
+<i>so I wanna make sure</i>
+
+1385
+01:20:47,884 --> 01:20:50,136
+<i>that they get as much as possible from me.</i>
+
+1386
+01:20:53,557 --> 01:20:57,686
+<i>As I made the story</i>
+<i>and as it gets more and more specific,</i>
+
+1387
+01:20:58,520 --> 01:21:00,939
+<i>you start to really realize</i>
+<i>what it means to you.</i>
+
+1388
+01:21:01,022 --> 01:21:02,983
+<i>And for me, it's like, "Oh, my God.</i>
+
+1389
+01:21:03,066 --> 01:21:05,944
+<i>"This is my kids</i>
+<i>wanting me to play with them,</i>
+
+1390
+01:21:06,027 --> 01:21:08,154
+<i>"while I'm trying</i>
+<i>to move my career along."</i>
+
+1391
+01:21:09,698 --> 01:21:12,492
+<i>I was letting them down</i>
+<i>because I wasn't paying attention,</i>
+
+1392
+01:21:12,576 --> 01:21:14,286
+<i>which is basically what my short's doing.</i>
+
+1393
+01:21:16,454 --> 01:21:17,956
+<i>I needed that awakening.</i>
+
+1394
+01:21:19,124 --> 01:21:22,377
+And it's funny how the short
+completely kind of turned that way.
+
+1395
+01:21:23,837 --> 01:21:25,505
+<i>And that's when it found its honesties,</i>
+
+1396
+01:21:25,589 --> 01:21:28,008
+<i>because I could relate to it</i>
+<i>in a very specific way,</i>
+
+1397
+01:21:28,675 --> 01:21:30,093
+<i>in a truthful way.</i>
+
+1398
+01:21:30,176 --> 01:21:32,387
+COLLINS: <i>There's something about</i>
+<i>the more personal you get,</i>
+
+1399
+01:21:32,470 --> 01:21:34,347
+<i>the more universal the story becomes.</i>
+
+1400
+01:21:34,431 --> 01:21:38,184
+<i>And I think for my kids' generation,</i>
+<i>their kids' generation,</i>
+
+1401
+01:21:38,685 --> 01:21:45,150
+<i>those stories are less and less</i>
+<i>your typical fantasy fairytale stories</i>
+
+1402
+01:21:45,233 --> 01:21:47,027
+<i>in terms of what makes them feel</i>
+
+1403
+01:21:47,110 --> 01:21:49,863
+like they lean forward and it's...
+And it speaks to them.
+
+1404
+01:21:50,822 --> 01:21:53,450
+DOCTER: <i>Audiences are always</i>
+<i>looking to be surprised,</i>
+
+1405
+01:21:53,533 --> 01:21:55,702
+<i>when they sit down, they turn on a movie.</i>
+
+1406
+01:21:55,785 --> 01:22:00,415
+<i>If we can get filmmakers who come from</i>
+<i>different and diverse backgrounds,</i>
+
+1407
+01:22:01,082 --> 01:22:02,792
+<i>I think we have a better chance</i>
+
+1408
+01:22:02,876 --> 01:22:05,378
+of giving them that surprise
+that they're looking for.
+
+1409
+01:22:05,462 --> 01:22:07,547
+MORRIS: <i>Given the director's newness</i>
+<i>to these roles,</i>
+
+1410
+01:22:07,631 --> 01:22:09,716
+<i>given the constraints</i>
+<i>they've had in their budgets,</i>
+
+1411
+01:22:09,799 --> 01:22:13,261
+<i>given the time</i>
+<i>they've had to make them in,</i>
+
+1412
+01:22:13,970 --> 01:22:17,349
+I'm always blown away
+when I see the films that get finished,
+
+1413
+01:22:17,432 --> 01:22:21,353
+<i>and I'm always amazed</i>
+<i>how much they pull it off,</i>
+
+1414
+01:22:21,436 --> 01:22:23,730
+<i>and how good they are.</i>
+
+1415
+01:22:25,190 --> 01:22:27,484
+COLLINS: <i>I see SparkShorts evolving only</i>
+
+1416
+01:22:27,567 --> 01:22:31,363
+<i>in that I see</i>
+<i>the filmmakers themselves evolving.</i>
+
+1417
+01:22:31,780 --> 01:22:34,074
+<i>And as we look into the future,</i>
+
+1418
+01:22:34,157 --> 01:22:37,577
+<i>we need to continue</i>
+<i>to get new voices out there,</i>
+
+1419
+01:22:37,661 --> 01:22:40,288
+<i>to give them an opportunity,</i>
+<i>to give them the platform,</i>
+
+1420
+01:22:41,539 --> 01:22:46,127
+and to challenge ourselves
+to be open to hearing them
+
+1421
+01:22:48,088 --> 01:22:50,548
+<i>as a studio, as a world, as an audience.</i>
+
+1422
+01:22:51,132 --> 01:22:57,097
+<i>This program's gonna give us</i>
+<i>a preview of our filmmakers to come.</i>
+
+1423
+01:22:59,975 --> 01:23:04,145
+<i>And it's gonna be the best opening act</i>
+<i>to ultimately what is hopefully</i>
+
+1424
+01:23:04,229 --> 01:23:06,773
+<i>the next couple decades</i>
+<i>of Pixar filmmaking.</i>
+
+
+

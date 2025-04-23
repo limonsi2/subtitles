@@ -1,0 +1,4851 @@
+1
+00:00:02,000 --> 00:00:07,000
+Downloaded from
+YTS.MX
+
+2
+00:00:05,619 --> 00:00:08,286
+(siren wailing)
+
+3
+00:00:08,000 --> 00:00:13,000
+Official YIFY movies site:
+YTS.MX
+
+4
+00:00:55,880 --> 00:00:58,880
+(soft guitar music)
+
+5
+00:01:09,656 --> 00:01:12,296
+♪ White lips, pale face ♪
+
+6
+00:01:12,296 --> 00:01:14,979
+♪ Breathing in the snowflakes ♪
+
+7
+00:01:14,979 --> 00:01:19,979
+♪ Burnt lungs, sour taste ♪
+
+8
+00:01:20,955 --> 00:01:23,632
+♪ Light's gone, days end ♪
+
+9
+00:01:23,632 --> 00:01:26,315
+♪ Struggling to pay rent ♪
+
+10
+00:01:26,315 --> 00:01:31,315
+♪ Long nights, strange men ♪
+
+11
+00:01:31,456 --> 00:01:32,837
+♪ And they say ♪
+
+12
+00:01:32,837 --> 00:01:35,994
+♪ She's in the Class A Team ♪
+
+13
+00:01:35,994 --> 00:01:38,555
+♪ Stuck in her daydream ♪
+
+14
+00:01:38,555 --> 00:01:41,557
+♪ Been this way since 18 ♪
+
+15
+00:01:41,557 --> 00:01:44,213
+♪ But lately, her face seems ♪
+
+16
+00:01:44,213 --> 00:01:46,837
+♪ Slowly sinking, wasting ♪
+
+17
+00:01:46,837 --> 00:01:49,616
+♪ Crumbling like pastries ♪
+
+18
+00:01:49,616 --> 00:01:51,056
+♪ And they scream ♪
+
+19
+00:01:51,056 --> 00:01:53,797
+♪ The worst things in
+life come free to us ♪
+
+20
+00:01:53,797 --> 00:01:56,933
+♪ 'Cause we're just under the upper hand ♪
+
+21
+00:01:56,933 --> 00:02:00,022
+♪ And goes mad for a couple grams ♪
+
+22
+00:02:00,022 --> 00:02:05,022
+♪ And she don't wanna go outside tonight ♪
+
+23
+00:02:05,274 --> 00:02:07,992
+♪ And in a pipe she
+flies to the motherland ♪
+
+24
+00:02:07,992 --> 00:02:11,413
+♪ Or sells love to another man ♪
+
+25
+00:02:11,413 --> 00:02:14,875
+♪ It's too cold outside ♪
+
+26
+00:02:14,875 --> 00:02:19,875
+♪ For angels to fly ♪
+
+27
+00:02:20,832 --> 00:02:25,832
+♪ For angels to fly ♪
+
+28
+00:02:28,855 --> 00:02:31,737
+♪ Ripped gloves, raincoat ♪
+
+29
+00:02:31,737 --> 00:02:34,315
+♪ Tried to swim, stay afloat ♪
+
+30
+00:02:34,315 --> 00:02:39,315
+♪ Dry house, wet clothes ♪
+
+31
+00:02:40,171 --> 00:02:42,976
+♪ Loose change, bank notes ♪
+
+32
+00:02:42,976 --> 00:02:45,554
+♪ Weary-eyed, dry throat ♪
+
+33
+00:02:45,554 --> 00:02:50,554
+♪ Call girl, no phone ♪
+
+34
+00:02:50,837 --> 00:02:51,957
+♪ And they say ♪
+
+35
+00:02:51,957 --> 00:02:54,453
+♪ She's in the Class A Team ♪
+
+36
+00:02:54,453 --> 00:02:57,515
+♪ Stuck in her daydream ♪
+
+37
+00:02:57,515 --> 00:03:00,653
+♪ Been this way since 18 ♪
+
+38
+00:03:00,653 --> 00:03:02,850
+♪ But lately, her face seems ♪
+
+39
+00:03:02,850 --> 00:03:06,093
+♪ Slowly sinking, wasting ♪
+
+40
+00:03:06,093 --> 00:03:08,594
+♪ Crumbling like pastries ♪
+
+41
+00:03:08,594 --> 00:03:10,093
+♪ And they scream ♪
+
+42
+00:03:10,093 --> 00:03:12,653
+♪ The worst things in
+life come free to us ♪
+
+43
+00:03:12,653 --> 00:03:15,886
+♪ 'Cause we're just under the upper hand ♪
+
+44
+00:03:15,886 --> 00:03:19,312
+♪ And goes mad for a couple grams ♪
+
+45
+00:03:19,312 --> 00:03:24,106
+♪ But she don't wanna go outside tonight ♪
+
+46
+00:03:24,106 --> 00:03:26,927
+♪ And in a pipe she
+flies to the motherland ♪
+
+47
+00:03:26,927 --> 00:03:30,269
+♪ Sells love to another man ♪
+
+48
+00:03:30,269 --> 00:03:33,444
+♪ It's too cold outside ♪
+
+49
+00:03:33,444 --> 00:03:36,951
+♪ For angels to fly ♪
+
+50
+00:03:36,951 --> 00:03:39,933
+♪ An angel will die ♪
+
+51
+00:03:39,933 --> 00:03:42,749
+♪ Covered in white ♪
+
+52
+00:03:42,749 --> 00:03:46,665
+♪ Closed eyes and hopin'
+for a better life ♪
+
+53
+00:03:46,665 --> 00:03:51,133
+♪ This time, we'll fade out tonight ♪
+
+54
+00:03:51,133 --> 00:03:56,133
+♪ Straight down the line ♪
+
+55
+00:03:56,586 --> 00:04:01,586
+♪ Straight down the line ♪
+
+56
+00:04:03,168 --> 00:04:04,674
+♪ And they say ♪
+
+57
+00:04:04,674 --> 00:04:07,330
+♪ She's in the Class A Team ♪
+
+58
+00:04:07,330 --> 00:04:10,552
+♪ Stuck in her daydream ♪
+
+59
+00:04:10,552 --> 00:04:13,131
+♪ Been this way since 18 ♪
+
+60
+00:04:13,131 --> 00:04:16,173
+♪ But lately, her face seems ♪
+
+61
+00:04:16,173 --> 00:04:18,834
+♪ Slowly sinking, wasting ♪
+
+62
+00:04:18,834 --> 00:04:21,512
+♪ Crumbling like pastries ♪
+
+63
+00:04:21,512 --> 00:04:23,074
+♪ They scream ♪
+
+64
+00:04:23,074 --> 00:04:25,794
+♪ The worst things in
+life come free to us ♪
+
+65
+00:04:25,794 --> 00:04:29,490
+♪ And we're all under the upper hand ♪
+
+66
+00:04:29,490 --> 00:04:31,853
+♪ And go mad for a couple grams ♪
+
+67
+00:04:31,853 --> 00:04:36,853
+♪ And we don't wanna go outside tonight ♪
+
+68
+00:04:37,234 --> 00:04:40,152
+♪ 'Cause in the pipe,
+fly to the motherland ♪
+
+69
+00:04:40,152 --> 00:04:43,730
+♪ Or sell love to another man ♪
+
+70
+00:04:43,730 --> 00:04:47,450
+♪ It's too cold outside ♪
+
+71
+00:04:47,450 --> 00:04:52,450
+♪ For angels to fly ♪
+
+72
+00:04:53,090 --> 00:04:58,090
+♪ For angels to fly ♪
+
+73
+00:04:59,272 --> 00:05:04,229
+♪ Fly, fly ♪
+
+74
+00:05:04,229 --> 00:05:09,229
+♪ For angels to fly, to fly, to fly ♪
+
+75
+00:05:10,173 --> 00:05:13,256
+♪ For angels to die ♪
+
+76
+00:05:34,527 --> 00:05:39,527
+♪ When your legs don't work
+like they used to before ♪
+
+77
+00:05:39,890 --> 00:05:44,890
+♪ And I can't sweep you off of your feet ♪
+
+78
+00:05:45,469 --> 00:05:50,469
+♪ Will your mouth still
+remember the taste of my love ♪
+
+79
+00:05:51,308 --> 00:05:55,080
+♪ Will your eyes still
+smile from your cheeks ♪
+
+80
+00:05:55,080 --> 00:06:00,080
+♪ And darling I will be
+loving you 'til we're 70 ♪
+
+81
+00:06:06,717 --> 00:06:11,717
+♪ And baby my heart could
+still fall as hard at 23 ♪
+
+82
+00:06:16,577 --> 00:06:19,277
+♪ And I'm thinking 'bout how people fall ♪
+
+83
+00:06:19,277 --> 00:06:23,960
+♪ In love in mysterious ways ♪
+
+84
+00:06:23,960 --> 00:06:28,960
+♪ Maybe just the touch of a hand ♪
+
+85
+00:06:29,317 --> 00:06:34,317
+♪ Me I fall in love with
+you every single day ♪
+
+86
+00:06:35,197 --> 00:06:40,018
+♪ And I just wanna tell you I am ♪
+
+87
+00:06:40,018 --> 00:06:45,016
+♪ So honey now ♪
+
+88
+00:06:45,016 --> 00:06:50,016
+♪ Take me into your loving arms ♪
+
+89
+00:06:50,738 --> 00:06:55,738
+♪ Kiss me under the light
+of a thousand stars ♪
+
+90
+00:06:56,272 --> 00:07:00,333
+♪ Place your head on
+my beating heart now ♪
+
+91
+00:07:00,333 --> 00:07:02,834
+♪ I'm thinking out loud ♪
+
+92
+00:07:02,834 --> 00:07:07,834
+♪ Maybe we found love right where we are ♪
+
+93
+00:07:10,592 --> 00:07:15,592
+♪ When my hair's all but
+gone and my memory fades ♪
+
+94
+00:07:16,071 --> 00:07:21,071
+♪ And the crowds won't remember my name ♪
+
+95
+00:07:21,432 --> 00:07:26,432
+♪ When my hands don't play
+the strings the same way, mm ♪
+
+96
+00:07:27,192 --> 00:07:31,172
+♪ I know you will still love me the same ♪
+
+97
+00:07:31,172 --> 00:07:36,172
+♪ 'Cause honey your soul can
+never grow old, it's ever green ♪
+
+98
+00:07:42,358 --> 00:07:47,358
+♪ Baby your smile's forever
+in my mind and memory ♪
+
+99
+00:07:51,912 --> 00:07:55,816
+♪ I'm thinking 'bout how
+people fall in love ♪
+
+100
+00:07:55,816 --> 00:07:59,533
+♪ In mysterious ways ♪
+
+101
+00:07:59,533 --> 00:08:04,533
+♪ Maybe it's all part of a plan ♪
+
+102
+00:08:05,213 --> 00:08:10,213
+♪ I'll just keep on
+making the same mistakes ♪
+
+103
+00:08:10,733 --> 00:08:15,733
+♪ Hoping that you'll understand ♪
+
+104
+00:08:15,861 --> 00:08:20,354
+♪ But baby now ♪
+
+105
+00:08:20,354 --> 00:08:25,354
+♪ Take me into your loving arms ♪
+
+106
+00:08:25,613 --> 00:08:30,613
+♪ Kiss me under the light
+of a thousand stars ♪
+
+107
+00:08:31,437 --> 00:08:35,690
+♪ Place your head on
+my beating heart now ♪
+
+108
+00:08:35,690 --> 00:08:38,056
+♪ I'm thinking out loud ♪
+
+109
+00:08:38,056 --> 00:08:43,056
+♪ Maybe we found love
+right where we are, oh ♪
+
+110
+00:09:01,394 --> 00:09:05,329
+♪ So baby now ♪
+
+111
+00:09:05,329 --> 00:09:10,329
+♪ Take me into your loving arms ♪
+
+112
+00:09:11,073 --> 00:09:14,994
+♪ Kiss me under the light
+of a thousand stars ♪
+
+113
+00:09:14,994 --> 00:09:19,994
+♪ Oh my darling, place your
+head on my beating heart ♪
+
+114
+00:09:20,696 --> 00:09:23,277
+♪ I'm thinking out loud ♪
+
+115
+00:09:23,277 --> 00:09:28,277
+♪ Maybe we found love right where we are ♪
+
+116
+00:09:28,856 --> 00:09:33,856
+♪ Oh baby, we found love
+right where we are ♪
+
+117
+00:09:34,813 --> 00:09:39,480
+♪ And we found love right where we are ♪
+
+118
+00:10:15,995 --> 00:10:20,956
+♪ Oh-I-oh-I-oh-I-oh-I ♪
+
+119
+00:10:20,956 --> 00:10:25,874
+♪ Oh-I-oh-I-oh-I-oh-I ♪
+
+120
+00:10:25,874 --> 00:10:30,874
+♪ Oh-I-oh-I-oh-I-oh-I ♪
+
+121
+00:10:31,413 --> 00:10:36,058
+♪ Oh-I-oh-I-oh-I-oh-I ♪
+
+122
+00:10:36,058 --> 00:10:41,058
+♪ Oh-I-oh-I-oh-I-oh-I ♪
+
+123
+00:10:41,335 --> 00:10:43,175
+♪ The club isn't the best
+place to find a lover ♪
+
+124
+00:10:43,175 --> 00:10:45,737
+♪ So the bar is where I go ♪
+
+125
+00:10:45,737 --> 00:10:48,041
+♪ Me and my friends at
+the table doing shots ♪
+
+126
+00:10:48,041 --> 00:10:50,638
+♪ Drinking fast and then we talk slow ♪
+
+127
+00:10:50,638 --> 00:10:53,199
+♪ And you come over and start
+up a conversation with just me ♪
+
+128
+00:10:53,199 --> 00:10:55,519
+♪ And trust me I'll give it a chance now ♪
+
+129
+00:10:55,519 --> 00:10:58,121
+♪ Take my hand, stop, put
+Van the Man on the jukebox ♪
+
+130
+00:10:58,121 --> 00:11:01,041
+♪ And then we start to dance,
+and now I'm singing like ♪
+
+131
+00:11:01,041 --> 00:11:03,060
+♪ Girl, you know I want your love ♪
+
+132
+00:11:03,060 --> 00:11:06,467
+♪ Your love was handmade
+for somebody like me ♪
+
+133
+00:11:06,467 --> 00:11:08,206
+♪ Come on now, follow my lead ♪
+
+134
+00:11:08,206 --> 00:11:10,446
+♪ I may be crazy, don't mind me ♪
+
+135
+00:11:10,446 --> 00:11:13,107
+♪ Say, boy, let's not talk too much ♪
+
+136
+00:11:13,107 --> 00:11:16,403
+♪ Grab on my waist and
+put that body on me ♪
+
+137
+00:11:16,403 --> 00:11:18,163
+♪ Come on now, follow my lead ♪
+
+138
+00:11:18,163 --> 00:11:21,907
+♪ Come, come on now, follow my lead ♪
+
+139
+00:11:21,907 --> 00:11:24,316
+♪ I'm in love with the shape of you ♪
+
+140
+00:11:24,316 --> 00:11:26,478
+♪ We push and pull like a magnet do ♪
+
+141
+00:11:26,478 --> 00:11:28,958
+♪ Although my heart is falling too ♪
+
+142
+00:11:28,958 --> 00:11:31,561
+♪ I'm in love with your body now ♪
+
+143
+00:11:31,561 --> 00:11:34,041
+♪ And last night you were in my room ♪
+
+144
+00:11:34,041 --> 00:11:36,281
+♪ And now my bedsheets smell like you ♪
+
+145
+00:11:36,281 --> 00:11:38,857
+♪ Every day discovering
+something brand new ♪
+
+146
+00:11:38,857 --> 00:11:40,558
+♪ I'm in love with your body ♪
+
+147
+00:11:40,558 --> 00:11:44,041
+♪ Oh-I-oh-I-oh-I-oh-I ♪
+
+148
+00:11:44,041 --> 00:11:45,257
+♪ I'm in love with your body ♪
+
+149
+00:11:45,257 --> 00:11:48,979
+♪ Oh-I-oh-I-oh-I-oh-I ♪
+
+150
+00:11:48,979 --> 00:11:50,398
+♪ I'm in love with your body ♪
+
+151
+00:11:50,398 --> 00:11:53,998
+♪ Oh-I-oh-I-oh-I-oh-I ♪
+
+152
+00:11:53,998 --> 00:11:56,358
+♪ I'm in love with your body ♪
+
+153
+00:11:56,358 --> 00:11:58,916
+♪ Every day discovering
+something brand new ♪
+
+154
+00:11:58,916 --> 00:12:00,838
+♪ I'm in love with the shape of you ♪
+
+155
+00:12:00,838 --> 00:12:02,374
+♪ One week in we let the story begin ♪
+
+156
+00:12:02,374 --> 00:12:05,112
+♪ We're going out on our first date ♪
+
+157
+00:12:05,112 --> 00:12:07,373
+♪ You and me are thrifty,
+so go all you can eat ♪
+
+158
+00:12:07,373 --> 00:12:09,915
+♪ Fill up your bag and I fill up a plate ♪
+
+159
+00:12:09,915 --> 00:12:12,278
+♪ We talk for hours and hours
+about the sweet and the sour ♪
+
+160
+00:12:12,278 --> 00:12:14,759
+♪ And how your family is doing okay ♪
+
+161
+00:12:14,759 --> 00:12:17,195
+♪ Leave and get in a taxi,
+then kiss in the backseat ♪
+
+162
+00:12:17,195 --> 00:12:20,249
+♪ Tell the driver make the radio
+play, and I'm singing like ♪
+
+163
+00:12:20,249 --> 00:12:22,539
+♪ Girl, you know I want your love ♪
+
+164
+00:12:22,539 --> 00:12:25,739
+♪ Your love was handmade
+for somebody like me ♪
+
+165
+00:12:25,739 --> 00:12:27,441
+♪ Come on now, follow my lead ♪
+
+166
+00:12:27,441 --> 00:12:29,697
+♪ I may be crazy, don't mind me ♪
+
+167
+00:12:29,697 --> 00:12:32,358
+♪ Say, boy, let's not talk too much ♪
+
+168
+00:12:32,358 --> 00:12:35,597
+♪ Grab on my waist and
+put that body on me ♪
+
+169
+00:12:35,597 --> 00:12:37,419
+♪ Come on now, follow my lead ♪
+
+170
+00:12:37,419 --> 00:12:40,658
+♪ Come, come on now, follow my lead ♪
+
+171
+00:12:40,658 --> 00:12:43,337
+♪ I'm in love with the shape of you ♪
+
+172
+00:12:43,337 --> 00:12:45,723
+♪ We push and pull like a magnet do ♪
+
+173
+00:12:45,723 --> 00:12:48,182
+♪ Although my heart is falling too ♪
+
+174
+00:12:48,182 --> 00:12:50,900
+♪ I'm in love with your body ♪
+
+175
+00:12:50,900 --> 00:12:53,335
+♪ And last night you were in my room ♪
+
+176
+00:12:53,335 --> 00:12:55,415
+♪ And now my bedsheets smell like you ♪
+
+177
+00:12:55,415 --> 00:12:58,316
+♪ Every day discovering
+something brand new ♪
+
+178
+00:12:58,316 --> 00:12:59,960
+♪ I'm in love with your body ♪
+
+179
+00:12:59,960 --> 00:13:03,243
+♪ Oh-I-oh-I-oh-I-oh-I ♪
+
+180
+00:13:03,243 --> 00:13:04,513
+♪ I'm in love with your body ♪
+
+181
+00:13:04,513 --> 00:13:08,139
+♪ Oh-I-oh-I-oh-I-oh-I ♪
+
+182
+00:13:08,139 --> 00:13:09,578
+♪ I'm in love with your body ♪
+
+183
+00:13:09,578 --> 00:13:13,201
+♪ Oh-I-oh-I-oh-I-oh-I ♪
+
+184
+00:13:13,201 --> 00:13:15,121
+♪ I'm in love with your body ♪
+
+185
+00:13:15,121 --> 00:13:18,203
+♪ Every day discovering
+something brand new ♪
+
+186
+00:13:18,203 --> 00:13:20,058
+♪ I'm in love with the shape of you ♪
+
+187
+00:13:20,058 --> 00:13:22,318
+♪ Come on, be my baby, come on ♪
+
+188
+00:13:22,318 --> 00:13:24,817
+♪ Come on, be my baby, come on ♪
+
+189
+00:13:24,817 --> 00:13:27,361
+♪ Come on, be my baby, come on ♪
+
+190
+00:13:27,361 --> 00:13:29,702
+♪ Come on, be my baby, come on ♪
+
+191
+00:13:29,702 --> 00:13:32,283
+♪ Come on, be my baby, come on ♪
+
+192
+00:13:32,283 --> 00:13:34,922
+♪ Come on, be my baby, come on ♪
+
+193
+00:13:34,922 --> 00:13:37,378
+♪ Come on, be my baby, come on ♪
+
+194
+00:13:37,378 --> 00:13:40,822
+♪ Come on, be my baby, come on ♪
+
+195
+00:13:40,822 --> 00:13:43,019
+♪ I'm in love with the shape of you ♪
+
+196
+00:13:43,019 --> 00:13:45,382
+♪ We push and pull like a magnet do ♪
+
+197
+00:13:45,382 --> 00:13:47,942
+♪ Although my heart is falling too ♪
+
+198
+00:13:47,942 --> 00:13:50,321
+♪ I'm in love with your body ♪
+
+199
+00:13:50,321 --> 00:13:52,881
+♪ Last night you were in my room ♪
+
+200
+00:13:52,881 --> 00:13:55,000
+♪ And now my bedsheets smell like you ♪
+
+201
+00:13:55,000 --> 00:13:57,841
+♪ Every day discovering
+something brand new ♪
+
+202
+00:13:57,841 --> 00:13:59,499
+♪ I'm in love with your body ♪
+
+203
+00:13:59,499 --> 00:14:01,979
+♪ Come on, be my baby, come on ♪
+
+204
+00:14:01,979 --> 00:14:04,897
+♪ Come on, I'm in love with your body ♪
+
+205
+00:14:04,897 --> 00:14:07,683
+♪ Oh-I-oh-I-oh-I-oh-I ♪
+
+206
+00:14:07,683 --> 00:14:09,878
+♪ I'm in love with your body ♪
+
+207
+00:14:09,878 --> 00:14:12,438
+♪ Come on, be my baby, come on ♪
+
+208
+00:14:12,438 --> 00:14:15,041
+♪ I'm in love with your body ♪
+
+209
+00:14:15,041 --> 00:14:17,681
+♪ Every day discovering
+something brand new ♪
+
+210
+00:14:17,681 --> 00:14:22,014
+♪ I'm in love with the shape of you ♪
+
+211
+00:14:30,178 --> 00:14:32,098
+- I think the end process for every album
+
+212
+00:14:32,098 --> 00:14:34,015
+is always the toughest.
+
+213
+00:14:36,428 --> 00:14:40,928
+Finding the last possible
+drop of songs to go into it.
+
+214
+00:14:48,618 --> 00:14:50,594
+I usually would play it to
+sort of hundreds of people
+
+215
+00:14:50,594 --> 00:14:51,839
+before the album came out,
+
+216
+00:14:51,839 --> 00:14:53,976
+but probably six people
+were in the process
+
+217
+00:14:53,976 --> 00:14:56,393
+of whittling down this album.
+
+218
+00:15:00,015 --> 00:15:01,156
+I think this is the best
+record I've ever made
+
+219
+00:15:01,156 --> 00:15:05,239
+and I can't wait to play
+in front of an audience.
+
+220
+00:15:11,498 --> 00:15:14,498
+(audience cheering)
+
+221
+00:15:18,916 --> 00:15:21,999
+Hello everyone, how's everyone doing?
+
+222
+00:15:24,234 --> 00:15:25,556
+So thank you very much for coming to this
+
+223
+00:15:25,556 --> 00:15:27,055
+Equals Live Experience for Amazon.
+
+224
+00:15:27,055 --> 00:15:28,356
+I'm gonna play some songs
+that hope that you know,
+
+225
+00:15:28,356 --> 00:15:30,818
+and I'll start off with this one.
+
+226
+00:15:30,818 --> 00:15:33,818
+(soft guitar music)
+
+227
+00:17:04,652 --> 00:17:08,342
+♪ I took an arrow to the heart ♪
+
+228
+00:17:08,342 --> 00:17:11,728
+♪ I never kissed a mouth
+that tastes like yours ♪
+
+229
+00:17:11,728 --> 00:17:15,202
+♪ Strawberries and somethin' more ♪
+
+230
+00:17:15,202 --> 00:17:18,744
+♪ Ooh yeah, I want it all ♪
+
+231
+00:17:18,744 --> 00:17:21,904
+♪ Lipstick on my guitar ooh ♪
+
+232
+00:17:21,904 --> 00:17:25,387
+♪ Fill up the engine,
+we can drive real far ♪
+
+233
+00:17:25,387 --> 00:17:28,848
+♪ Go dancin' underneath the stars ♪
+
+234
+00:17:28,848 --> 00:17:31,867
+♪ Ooh yeah, I want it all ♪
+
+235
+00:17:31,867 --> 00:17:34,381
+♪ Mm, you got me feelin' like ♪
+
+236
+00:17:34,381 --> 00:17:37,664
+♪ I wanna be that guy,
+I wanna kiss your eyes ♪
+
+237
+00:17:37,664 --> 00:17:41,067
+♪ I wanna drink that smile,
+I wanna feel like I'm ♪
+
+238
+00:17:41,067 --> 00:17:42,503
+♪ Like my soul's on fire ♪
+
+239
+00:17:42,503 --> 00:17:45,104
+♪ I wanna stay up all day and all night ♪
+
+240
+00:17:45,104 --> 00:17:46,747
+♪ Yeah, you got me singin' like ♪
+
+241
+00:17:46,747 --> 00:17:50,064
+♪ Ooh, I love it when
+you do it like that ♪
+
+242
+00:17:50,064 --> 00:17:53,168
+♪ And when you're close
+up, give me the shivers ♪
+
+243
+00:17:53,168 --> 00:17:56,768
+♪ Oh baby, you wanna dance
+'til the sunlight cracks ♪
+
+244
+00:17:56,768 --> 00:17:58,401
+♪ And when they say the party's over ♪
+
+245
+00:17:58,401 --> 00:18:00,107
+♪ Then we'll bring it right back ♪
+
+246
+00:18:00,107 --> 00:18:03,582
+♪ And we'll say, ooh, I love
+it when you do it like that ♪
+
+247
+00:18:03,582 --> 00:18:07,115
+♪ And when you're close
+up, give me the shivers ♪
+
+248
+00:18:07,115 --> 00:18:10,340
+♪ Oh baby, you wanna dance
+'til the sunlight cracks ♪
+
+249
+00:18:10,340 --> 00:18:12,120
+♪ And when they say the party's over ♪
+
+250
+00:18:12,120 --> 00:18:14,078
+♪ Then we'll bring it right back ♪
+
+251
+00:18:14,078 --> 00:18:16,681
+♪ Into the car ♪
+
+252
+00:18:16,681 --> 00:18:19,678
+♪ On the backseat in the moonlit dark ♪
+
+253
+00:18:19,678 --> 00:18:23,337
+♪ Wrap me up between your legs and arms ♪
+
+254
+00:18:23,337 --> 00:18:26,761
+♪ Ooh, I can't get enough ♪
+
+255
+00:18:26,761 --> 00:18:30,133
+♪ You know you could tear me apart ooh ♪
+
+256
+00:18:30,133 --> 00:18:33,481
+♪ Put me back together and take my heart ♪
+
+257
+00:18:33,481 --> 00:18:36,820
+♪ I never thought that
+I could love this hard ♪
+
+258
+00:18:36,820 --> 00:18:39,957
+♪ Ooh, I can't get enough ♪
+
+259
+00:18:39,957 --> 00:18:42,500
+♪ Mm, you got me feeling like ♪
+
+260
+00:18:42,500 --> 00:18:45,736
+♪ I wanna be that guy,
+I wanna kiss your eyes ♪
+
+261
+00:18:45,736 --> 00:18:49,240
+♪ I wanna drink that smile,
+I wanna feel like I'm ♪
+
+262
+00:18:49,240 --> 00:18:50,718
+♪ Like my soul's on fire ♪
+
+263
+00:18:50,718 --> 00:18:53,358
+♪ I wanna stay up all day and all night ♪
+
+264
+00:18:53,358 --> 00:18:54,853
+♪ Yeah, you got me singin' like ♪
+
+265
+00:18:54,853 --> 00:18:57,961
+♪ Ooh, I love it when
+you do it like that ♪
+
+266
+00:18:57,961 --> 00:19:01,478
+♪ And when you're close
+up, give me the shivers ♪
+
+267
+00:19:01,478 --> 00:19:04,857
+♪ Oh baby, you wanna dance
+'til the sunlight cracks ♪
+
+268
+00:19:04,857 --> 00:19:06,697
+♪ And when they say the party's over ♪
+
+269
+00:19:06,697 --> 00:19:08,361
+♪ Then we'll bring it right back ♪
+
+270
+00:19:08,361 --> 00:19:11,918
+♪ And we'll say, ooh, I love
+it when you do it like that ♪
+
+271
+00:19:11,918 --> 00:19:15,585
+♪ And when you're close
+up, give me the shivers ♪
+
+272
+00:19:15,585 --> 00:19:18,484
+♪ Oh baby, you wanna dance
+'til the sunlight cracks ♪
+
+273
+00:19:18,484 --> 00:19:20,505
+♪ And when they say the party's over ♪
+
+274
+00:19:20,505 --> 00:19:22,046
+♪ Then we'll bring it right back ♪
+
+275
+00:19:22,046 --> 00:19:25,018
+♪ Baby, you burn so hot ♪
+
+276
+00:19:25,018 --> 00:19:27,982
+♪ You make me shiver
+with the fire you got ♪
+
+277
+00:19:27,982 --> 00:19:31,326
+♪ This thing we started,
+I don't want it to stop ♪
+
+278
+00:19:31,326 --> 00:19:36,024
+♪ You know you make me shiver-er-er ♪
+
+279
+00:19:36,024 --> 00:19:38,043
+♪ Baby, you burn so hot ♪
+
+280
+00:19:38,043 --> 00:19:41,486
+♪ You make me shiver
+with the fire you got ♪
+
+281
+00:19:41,486 --> 00:19:44,964
+♪ This thing we started,
+I don't want it to stop ♪
+
+282
+00:19:44,964 --> 00:19:48,244
+♪ You know you make me shiver ♪
+
+283
+00:19:48,244 --> 00:19:49,545
+♪ Yeah, you got me singin' like ♪
+
+284
+00:19:49,545 --> 00:19:52,765
+♪ Ooh, I love it when
+you do it like that ♪
+
+285
+00:19:52,765 --> 00:19:56,206
+♪ And when you're close
+up, give me the shivers ♪
+
+286
+00:19:56,206 --> 00:19:59,545
+♪ Oh baby, you wanna dance
+'til the sunlight cracks ♪
+
+287
+00:19:59,545 --> 00:20:01,204
+♪ And when they say the party's over ♪
+
+288
+00:20:01,204 --> 00:20:02,819
+♪ Then we'll bring it right back ♪
+
+289
+00:20:02,819 --> 00:20:06,279
+♪ And we'll say, ooh, I love
+it when you do it like that ♪
+
+290
+00:20:06,279 --> 00:20:09,778
+♪ And when you're close
+up, give me the shivers ♪
+
+291
+00:20:09,778 --> 00:20:13,139
+♪ Oh baby, you wanna dance
+'til the sunlight cracks ♪
+
+292
+00:20:13,139 --> 00:20:14,899
+♪ And when they say the party's over ♪
+
+293
+00:20:14,899 --> 00:20:17,880
+♪ Then we'll bring it right back, yeah ♪
+
+294
+00:20:17,880 --> 00:20:20,880
+(audience applauds)
+
+295
+00:20:32,097 --> 00:20:34,430
+Thank you very much, thanks.
+
+296
+00:20:38,555 --> 00:20:39,924
+So thank you very much for coming,
+
+297
+00:20:39,924 --> 00:20:43,061
+this was meant to be the
+week of the album release,
+
+298
+00:20:43,061 --> 00:20:44,743
+but obviously I got COVID
+so I couldn't do it.
+
+299
+00:20:44,743 --> 00:20:46,860
+So I'm very, very happy
+that we're able to do this
+
+300
+00:20:46,860 --> 00:20:49,693
+and it looks absolutely beautiful.
+
+301
+00:20:51,980 --> 00:20:56,839
+So basically in this show,
+at the beginning of the show,
+
+302
+00:20:56,839 --> 00:21:00,044
+I played three songs
+from old albums up there,
+
+303
+00:21:00,044 --> 00:21:01,244
+that are kind of prerecorded.
+
+304
+00:21:01,244 --> 00:21:02,322
+And then it kinda segues into this,
+
+305
+00:21:02,322 --> 00:21:03,820
+which is all the songs from the new album.
+
+306
+00:21:03,820 --> 00:21:04,844
+And a lot of these songs,
+
+307
+00:21:04,844 --> 00:21:06,060
+I haven't really played live before.
+
+308
+00:21:06,060 --> 00:21:07,720
+I'm playing "Two-step" later,
+
+309
+00:21:07,720 --> 00:21:10,881
+which actually I rehearsed
+for the first time,
+
+310
+00:21:10,881 --> 00:21:12,631
+for the first time, about an hour ago.
+
+311
+00:21:12,631 --> 00:21:15,589
+So we'll see how that goes.
+
+312
+00:21:15,589 --> 00:21:16,631
+And if I mess up, then,
+
+313
+00:21:16,631 --> 00:21:19,548
+we'll just do it again and edit it.
+
+314
+00:21:21,285 --> 00:21:26,265
+So this album I basically made
+over the course of four years
+
+315
+00:21:26,265 --> 00:21:29,090
+and it was a long process,
+
+316
+00:21:29,090 --> 00:21:31,107
+but I really feel like the
+first song that was completed
+
+317
+00:21:31,107 --> 00:21:32,791
+for the album was this next song,
+
+318
+00:21:32,791 --> 00:21:35,041
+which I wrote in Nashville.
+
+319
+00:21:36,705 --> 00:21:38,450
+While I was making, it was kind of,
+
+320
+00:21:38,450 --> 00:21:39,452
+I didn't really intend
+
+321
+00:21:39,452 --> 00:21:41,754
+on making number six
+collaborations project.
+
+322
+00:21:41,754 --> 00:21:44,609
+It kind of just happened by
+accident whilst making Equals.
+
+323
+00:21:44,609 --> 00:21:46,412
+'Cause I was just sort of
+making songs for Equals
+
+324
+00:21:46,412 --> 00:21:49,115
+and then every now and then making,
+
+325
+00:21:49,115 --> 00:21:50,631
+something that sounded
+like beautiful people
+
+326
+00:21:50,631 --> 00:21:52,050
+or antisocial or whatever.
+
+327
+00:21:52,050 --> 00:21:54,247
+And I was like, well,
+this doesn't really fit.
+
+328
+00:21:54,247 --> 00:21:56,508
+It sort of turned into number six.
+
+329
+00:21:56,508 --> 00:22:00,245
+But so this is a song that
+I wrote around that time,
+
+330
+00:22:00,245 --> 00:22:04,011
+that I feel like has become
+a fan favorite on the album.
+
+331
+00:22:04,011 --> 00:22:08,511
+And it's called "First
+Times", so I hope you like it.
+
+332
+00:22:17,234 --> 00:22:22,092
+♪ I thought it'd feel
+different playing Wembley ♪
+
+333
+00:22:22,092 --> 00:22:26,711
+♪ 80,000 singing with me ♪
+
+334
+00:22:26,711 --> 00:22:31,711
+♪ It's what I've been chasing
+'cause this is the dream ♪
+
+335
+00:22:36,214 --> 00:22:40,941
+♪ When it was all over,
+I cleared out the room ♪
+
+336
+00:22:40,941 --> 00:22:45,650
+♪ Grabbed a couple
+beers, just me and you ♪
+
+337
+00:22:45,650 --> 00:22:50,650
+♪ Then we start talking
+the way that we do ♪
+
+338
+00:22:55,153 --> 00:22:57,767
+♪ Ain't it funny how the simplest things ♪
+
+339
+00:22:57,767 --> 00:22:59,628
+♪ In life can make a man ♪
+
+340
+00:22:59,628 --> 00:23:03,228
+♪ Little moments that pass us by ♪
+
+341
+00:23:03,228 --> 00:23:08,228
+♪ Oh, but I remember ♪
+
+342
+00:23:09,503 --> 00:23:11,607
+♪ The first kiss, the first night ♪
+
+343
+00:23:11,607 --> 00:23:13,804
+♪ The first song that made you cry ♪
+
+344
+00:23:13,804 --> 00:23:18,243
+♪ The first drink, red wine,
+on a step in Brooklyn ♪
+
+345
+00:23:18,243 --> 00:23:21,047
+♪ I still feel the first fight ♪
+
+346
+00:23:21,047 --> 00:23:23,527
+♪ But we both made it out alive ♪
+
+347
+00:23:23,527 --> 00:23:28,527
+♪ And I can't wait to make
+a million more first times ♪
+
+348
+00:23:38,706 --> 00:23:42,866
+♪ The greatest thing
+that I have achieved ♪
+
+349
+00:23:42,866 --> 00:23:47,644
+♪ Is four little words down on one knee ♪
+
+350
+00:23:47,644 --> 00:23:50,364
+♪ You said, darling, are you joking ♪
+
+351
+00:23:50,364 --> 00:23:55,364
+♪ And I just said, please ♪
+
+352
+00:23:57,026 --> 00:23:59,724
+♪ Ain't it funny how the simplest things ♪
+
+353
+00:23:59,724 --> 00:24:01,527
+♪ In life can make a man ♪
+
+354
+00:24:01,527 --> 00:24:05,083
+♪ Little moments that pass us by ♪
+
+355
+00:24:05,083 --> 00:24:10,083
+♪ Oh, but I remember ♪
+
+356
+00:24:11,324 --> 00:24:13,506
+♪ The first kiss, the first night ♪
+
+357
+00:24:13,506 --> 00:24:15,847
+♪ The first song that made you cry ♪
+
+358
+00:24:15,847 --> 00:24:20,167
+♪ The first look in your eyes
+when I said, I love you ♪
+
+359
+00:24:20,167 --> 00:24:22,904
+♪ I can still feel the butterflies ♪
+
+360
+00:24:22,904 --> 00:24:25,266
+♪ From when we stumbled home that night ♪
+
+361
+00:24:25,266 --> 00:24:30,087
+♪ I can't wait to make a
+million more first times ♪
+
+362
+00:24:30,087 --> 00:24:32,748
+♪ Ain't it funny how the simplest things ♪
+
+363
+00:24:32,748 --> 00:24:34,748
+♪ In life can make a man ♪
+
+364
+00:24:34,748 --> 00:24:38,386
+♪ Little moments that pass us by ♪
+
+365
+00:24:38,386 --> 00:24:43,386
+♪ Oh, but I remember ♪
+
+366
+00:24:44,428 --> 00:24:49,124
+♪ The first kiss, first night,
+first song that made you cry ♪
+
+367
+00:24:49,124 --> 00:24:53,666
+♪ First dance in moonlight
+in your parents' garden ♪
+
+368
+00:24:53,666 --> 00:24:58,666
+♪ I can't wait to see
+everything that's yet to be ♪
+
+369
+00:24:59,022 --> 00:25:04,022
+♪ Our first child, and then
+a million more first times ♪
+
+370
+00:25:06,284 --> 00:25:09,034
+(crowd applauds)
+
+371
+00:25:20,024 --> 00:25:24,364
+I always find like I overly
+complicate things for myself
+
+372
+00:25:24,364 --> 00:25:26,225
+while writing songs sometimes,
+
+373
+00:25:26,225 --> 00:25:28,746
+'cause "First Times" and "Perfect",
+
+374
+00:25:28,746 --> 00:25:30,480
+no choruses are the same,
+
+375
+00:25:30,480 --> 00:25:31,903
+they're different words every single time.
+
+376
+00:25:31,903 --> 00:25:32,986
+So when I was singing,
+"First Times" there,
+
+377
+00:25:32,986 --> 00:25:35,045
+I was going (beep).
+
+378
+00:25:35,045 --> 00:25:37,167
+(audience laughs)
+
+379
+00:25:37,167 --> 00:25:38,826
+Just trying to get all the
+lyrics in the right place.
+
+380
+00:25:38,826 --> 00:25:39,770
+'Cause you know, when
+you were kind of playing
+
+381
+00:25:39,770 --> 00:25:41,370
+in front of people that do know the songs
+
+382
+00:25:41,370 --> 00:25:42,767
+and they're like...
+
+383
+00:25:42,767 --> 00:25:46,490
+(audience laughing)
+
+384
+00:25:46,490 --> 00:25:47,323
+This is great.
+
+385
+00:25:47,323 --> 00:25:48,750
+I've missed gigs so much.
+
+386
+00:25:48,750 --> 00:25:50,027
+I've missed being able
+to play people so much.
+
+387
+00:25:50,027 --> 00:25:50,892
+(crowd cheering)
+
+388
+00:25:50,892 --> 00:25:51,975
+So thank you.
+
+389
+00:25:57,636 --> 00:26:00,212
+So this album is a kind of
+quote, unquote, a lockdown album.
+
+390
+00:26:00,212 --> 00:26:04,129
+'Cause it was pretty much
+finished in lockdown.
+
+391
+00:26:04,129 --> 00:26:06,538
+The main guy that I've worked
+with pretty much all my career
+
+392
+00:26:06,538 --> 00:26:08,521
+is a guy called Johnny McDaid,
+
+393
+00:26:08,521 --> 00:26:10,335
+who, I've done songs like, "Shape of You",
+
+394
+00:26:10,335 --> 00:26:13,866
+or "Photograph", or like
+half this record, basically,
+
+395
+00:26:13,866 --> 00:26:15,066
+"Bad Habits".
+
+396
+00:26:15,066 --> 00:26:16,730
+And when lockdown hit,
+
+397
+00:26:16,730 --> 00:26:18,928
+we didn't really know what was going on.
+
+398
+00:26:18,928 --> 00:26:22,128
+So we were still keeping in
+touch, and then he was like,
+
+399
+00:26:22,128 --> 00:26:24,866
+"Why don't I move next door to you?
+
+400
+00:26:24,866 --> 00:26:27,085
+And like for quarantine for a while.
+
+401
+00:26:27,085 --> 00:26:28,409
+And then once I've quarantine,
+
+402
+00:26:28,409 --> 00:26:30,488
+I can just move in and then
+we can just create music."
+
+403
+00:26:30,488 --> 00:26:32,010
+And I was like, cool,
+sounds like a good idea.
+
+404
+00:26:32,010 --> 00:26:34,570
+So he moved in and then we'd
+sort of wave at each other
+
+405
+00:26:34,570 --> 00:26:35,804
+and whatnot.
+
+406
+00:26:35,804 --> 00:26:37,050
+And then when his
+quarantine, had finished,
+
+407
+00:26:37,050 --> 00:26:39,548
+we started creating
+music and this next song,
+
+408
+00:26:39,548 --> 00:26:42,925
+it was pretty much the first
+song we wrote that week.
+
+409
+00:26:42,925 --> 00:26:45,361
+This was like May 2020.
+
+410
+00:26:45,361 --> 00:26:48,164
+So may last year it started off originally
+
+411
+00:26:48,164 --> 00:26:51,112
+like a power ballad and
+it was a bit more slow
+
+412
+00:26:51,112 --> 00:26:54,133
+and it sped up now and
+I kind of like both,
+
+413
+00:26:54,133 --> 00:26:55,474
+kind of like both,
+
+414
+00:26:55,474 --> 00:26:57,955
+but I'm gonna play it sort
+of like halfway between both.
+
+415
+00:26:57,955 --> 00:27:00,955
+(audience laughing)
+
+416
+00:27:19,715 --> 00:27:21,977
+♪ This is a dark parade ♪
+
+417
+00:27:21,977 --> 00:27:26,977
+♪ Another rough patch
+to rain on, to rain on ♪
+
+418
+00:27:30,499 --> 00:27:32,915
+♪ I know your friends may say ♪
+
+419
+00:27:32,915 --> 00:27:37,915
+♪ This is a cause for celebration,
+hip-hip-hooray, love ♪
+
+420
+00:27:40,835 --> 00:27:43,777
+♪ Photographs in sepia tones ♪
+
+421
+00:27:43,777 --> 00:27:48,777
+♪ It's so still, the fire's
+barely fighting the cold, alone ♪
+
+422
+00:27:50,751 --> 00:27:54,377
+♪ There are times when
+I can feel your ghost ♪
+
+423
+00:27:54,377 --> 00:27:59,377
+♪ Just when I'm almost letting you go ♪
+
+424
+00:27:59,791 --> 00:28:03,219
+♪ The cards were stacked against us both ♪
+
+425
+00:28:03,219 --> 00:28:08,219
+♪ I will always love you
+for what it's worth ♪
+
+426
+00:28:09,095 --> 00:28:13,257
+♪ We'll never fade like
+graffiti on the overpass ♪
+
+427
+00:28:13,257 --> 00:28:18,257
+♪ And I know time may change
+the way you think of us ♪
+
+428
+00:28:19,118 --> 00:28:21,016
+♪ But I'll remember the way we were ♪
+
+429
+00:28:21,016 --> 00:28:22,419
+♪ You were the first full stop ♪
+
+430
+00:28:22,419 --> 00:28:27,000
+♪ Love that will never leave ♪
+
+431
+00:28:27,000 --> 00:28:31,417
+♪ Baby, you will never be lost on me ♪
+
+432
+00:28:41,518 --> 00:28:44,255
+♪ This is a goddamn shame ♪
+
+433
+00:28:44,255 --> 00:28:49,255
+♪ I never wanted to break
+it, or leave us tainted ♪
+
+434
+00:28:52,501 --> 00:28:55,258
+♪ Know I should walk away ♪
+
+435
+00:28:55,258 --> 00:29:00,258
+♪ But I just can't replace
+us, or even erase us ♪
+
+436
+00:29:02,302 --> 00:29:05,041
+♪ The car was stuck, the engine stalled ♪
+
+437
+00:29:05,041 --> 00:29:10,041
+♪ And both of us got caught
+out in the snow, alone ♪
+
+438
+00:29:12,622 --> 00:29:16,041
+♪ There were times when
+I forget the lows ♪
+
+439
+00:29:16,041 --> 00:29:21,041
+♪ And think the highs were
+all that we'd ever known ♪
+
+440
+00:29:21,822 --> 00:29:24,918
+♪ The cards were stacked against us both ♪
+
+441
+00:29:24,918 --> 00:29:29,918
+♪ I will always love you
+for what it's worth ♪
+
+442
+00:29:30,585 --> 00:29:35,585
+♪ We'll never fade like
+graffiti on the overpass ♪
+
+443
+00:29:35,601 --> 00:29:40,601
+♪ I know time may change
+the way you think of us ♪
+
+444
+00:29:40,899 --> 00:29:42,942
+♪ But I'll remember the way we were ♪
+
+445
+00:29:42,942 --> 00:29:44,302
+♪ You were the first full stop ♪
+
+446
+00:29:44,302 --> 00:29:48,674
+♪ Love that will never leave ♪
+
+447
+00:29:48,674 --> 00:29:53,174
+♪ Baby, you will never be lost on me ♪
+
+448
+00:29:59,499 --> 00:30:03,999
+♪ Baby, you will never be lost on me ♪
+
+449
+00:30:14,201 --> 00:30:19,201
+♪ I will always love you
+for what it's worth ♪
+
+450
+00:30:19,662 --> 00:30:24,662
+♪ We'll never fade like
+graffiti on the overpass ♪
+
+451
+00:30:24,883 --> 00:30:29,883
+♪ And I know time may change
+the way you think of us ♪
+
+452
+00:30:30,041 --> 00:30:31,822
+♪ But I'll remember the way we were ♪
+
+453
+00:30:31,822 --> 00:30:33,342
+♪ You were the first full stop ♪
+
+454
+00:30:33,342 --> 00:30:37,865
+♪ Love that will never leave ♪
+
+455
+00:30:37,865 --> 00:30:42,865
+♪ Baby, you will never be lost on me ♪
+
+456
+00:30:46,105 --> 00:30:48,323
+♪ Yeah, yeah, yeah ♪
+
+457
+00:30:48,323 --> 00:30:50,723
+♪ Yeah, yeah, yeah ♪
+
+458
+00:30:50,723 --> 00:30:55,723
+♪ Lost on me ♪
+
+459
+00:30:57,173 --> 00:31:01,173
+♪ Ooh, graffiti on the overpass ♪
+
+460
+00:31:04,469 --> 00:31:07,219
+(crowd applauds)
+
+461
+00:31:09,204 --> 00:31:10,037
+Thank you.
+
+462
+00:31:12,503 --> 00:31:16,508
+I'm gonna call Ashton Miranda on stage,
+
+463
+00:31:16,508 --> 00:31:20,800
+he's a very good friend
+of mine and piano player.
+
+464
+00:31:20,800 --> 00:31:21,633
+Me and Ashton I've been playing together
+
+465
+00:31:21,633 --> 00:31:22,908
+for seven years now.
+
+466
+00:31:22,908 --> 00:31:25,089
+And I sometimes when I play certain songs,
+
+467
+00:31:25,089 --> 00:31:26,802
+feel very alone on stage
+
+468
+00:31:26,802 --> 00:31:28,028
+'cause we play them together so much.
+
+469
+00:31:28,028 --> 00:31:30,630
+So it's so nice to have him here for this.
+
+470
+00:31:30,630 --> 00:31:33,003
+Thank you for coming.
+
+471
+00:31:33,003 --> 00:31:34,705
+Ashton, I'm gonna throw a
+curve ball in after this,
+
+472
+00:31:34,705 --> 00:31:37,329
+Ashton loves to rehearse
+and we're gonna play
+
+473
+00:31:37,329 --> 00:31:39,109
+a song that we haven't rehearsed.
+
+474
+00:31:39,109 --> 00:31:40,694
+(crowd laughs)
+
+475
+00:31:40,694 --> 00:31:42,647
+After this one, though.
+
+476
+00:31:42,647 --> 00:31:44,050
+It's gonna be fun. It's gonna be fun.
+
+477
+00:31:44,050 --> 00:31:46,786
+I'm gonna leave you guessing
+which one it is though.
+
+478
+00:31:46,786 --> 00:31:49,305
+So this next song we're gonna
+play, is "Leave Your Life",
+
+479
+00:31:49,305 --> 00:31:50,305
+by the way.
+
+480
+00:31:53,041 --> 00:31:55,186
+This next song I'm gonna play,
+
+481
+00:31:55,186 --> 00:31:59,436
+I feel like the story around
+it, is personal to me,
+
+482
+00:32:00,839 --> 00:32:02,983
+but I feel like now the song has come out.
+
+483
+00:32:02,983 --> 00:32:05,463
+I feel like the song
+belongs to so many people
+
+484
+00:32:05,463 --> 00:32:08,296
+in so many other people's stories.
+
+485
+00:32:10,469 --> 00:32:12,039
+Instead of telling you
+the story around the song,
+
+486
+00:32:12,039 --> 00:32:15,181
+I want to explain what the
+song means to me now it's out.
+
+487
+00:32:15,181 --> 00:32:17,348
+And, I wrote this song in,
+
+488
+00:32:18,781 --> 00:32:21,129
+I'd never really experienced grief before,
+
+489
+00:32:21,129 --> 00:32:24,503
+I had my grandparents die and
+I feel like your grandparents,
+
+490
+00:32:24,503 --> 00:32:25,442
+when you were at school,
+
+491
+00:32:25,442 --> 00:32:27,682
+everyone's grandparents died
+and it's just a normal thing
+
+492
+00:32:27,682 --> 00:32:29,202
+that people get old and they pass away.
+
+493
+00:32:29,202 --> 00:32:30,381
+And although it's very, very sad.
+
+494
+00:32:30,381 --> 00:32:31,703
+That is just part of life.
+
+495
+00:32:31,703 --> 00:32:34,141
+But I had a friend pass away last year
+
+496
+00:32:34,141 --> 00:32:36,242
+and it was the first time I'd
+ever had anyone close to me
+
+497
+00:32:36,242 --> 00:32:37,992
+just like that gone.
+
+498
+00:32:39,196 --> 00:32:41,197
+I had conversations with
+him every other day.
+
+499
+00:32:41,197 --> 00:32:42,519
+And then those conversations just stopped.
+
+500
+00:32:42,519 --> 00:32:46,418
+So the song I wrote it,
+trying to process it,
+
+501
+00:32:46,418 --> 00:32:48,514
+which I feel it helped.
+
+502
+00:32:48,514 --> 00:32:49,516
+I feel it definitely helped.
+
+503
+00:32:49,516 --> 00:32:51,677
+And I feel like the grief
+is such a solitary thing
+
+504
+00:32:51,677 --> 00:32:53,245
+that I was very much solitary.
+
+505
+00:32:53,245 --> 00:32:54,241
+I don't wanna speak to anyone.
+
+506
+00:32:54,241 --> 00:32:56,392
+I'm gonna write, write,
+write, write, write,
+
+507
+00:32:56,392 --> 00:32:58,754
+and then I don't wanna
+talk to anyone about it.
+
+508
+00:32:58,754 --> 00:33:00,206
+'Cause if I talked to anyone
+about it, I'll just cry.
+
+509
+00:33:00,206 --> 00:33:02,725
+And then when the song came out,
+
+510
+00:33:02,725 --> 00:33:06,552
+suddenly like the solitary nature of grief
+
+511
+00:33:06,552 --> 00:33:09,352
+became very public and it felt very bare.
+
+512
+00:33:09,352 --> 00:33:12,132
+And I felt weird about it,
+before the song came out,
+
+513
+00:33:12,132 --> 00:33:13,310
+I rung up his family and made sure
+
+514
+00:33:13,310 --> 00:33:14,533
+that they were okay with it.
+
+515
+00:33:14,533 --> 00:33:15,853
+And we went through the
+artwork and the mixes
+
+516
+00:33:15,853 --> 00:33:16,952
+and all of that stuff.
+
+517
+00:33:16,952 --> 00:33:17,954
+And then when the song came out,
+
+518
+00:33:17,954 --> 00:33:20,034
+I suddenly realized that
+there was a whole world
+
+519
+00:33:20,034 --> 00:33:21,752
+of people feeling exactly the same way
+
+520
+00:33:21,752 --> 00:33:25,111
+and the song allowed
+itself to be this thing
+
+521
+00:33:25,111 --> 00:33:28,944
+that basically gave a
+voice to solitary grief.
+
+522
+00:33:30,013 --> 00:33:33,576
+And I've met so many people
+since the song have come out
+
+523
+00:33:33,576 --> 00:33:34,826
+and people who,
+
+524
+00:33:35,903 --> 00:33:37,853
+I met a boy the other day
+whose mother had passed away
+
+525
+00:33:37,853 --> 00:33:39,667
+and he was like, "This is
+the way that I communicated
+
+526
+00:33:39,667 --> 00:33:42,232
+with my father as I send him the song.
+
+527
+00:33:42,232 --> 00:33:44,034
+And he knows exactly what
+I mean without me having
+
+528
+00:33:44,034 --> 00:33:45,234
+to say anything.
+
+529
+00:33:45,234 --> 00:33:46,232
+And I can send that song."
+
+530
+00:33:46,232 --> 00:33:48,393
+And I found that going
+on, the YouTube comments
+
+531
+00:33:48,393 --> 00:33:50,776
+for this song made it all make sense
+
+532
+00:33:50,776 --> 00:33:52,532
+because when you write a song like this,
+
+533
+00:33:52,532 --> 00:33:53,835
+it's very personal.
+
+534
+00:33:53,835 --> 00:33:55,314
+You go, ooh, I don't
+want anyone to hear this.
+
+535
+00:33:55,314 --> 00:33:56,317
+And then when it comes out,
+
+536
+00:33:56,317 --> 00:34:00,114
+you realize that music
+is a universal language
+
+537
+00:34:00,114 --> 00:34:01,394
+and it helps people communicate.
+
+538
+00:34:01,394 --> 00:34:03,597
+I find it, sometimes I send
+songs to my wife and be like,
+
+539
+00:34:03,597 --> 00:34:06,455
+oh, this made me think of
+you or this is our song.
+
+540
+00:34:06,455 --> 00:34:07,586
+Or this is that.
+
+541
+00:34:07,586 --> 00:34:11,896
+And I find that out of
+a really sad situation,
+
+542
+00:34:11,896 --> 00:34:14,973
+something positive has
+happened with this song.
+
+543
+00:34:14,973 --> 00:34:16,991
+And I'm really, really grateful
+that people have connected
+
+544
+00:34:16,991 --> 00:34:18,893
+to it in the way that they have.
+
+545
+00:34:18,893 --> 00:34:20,674
+This is "Visiting Hours".
+
+546
+00:34:20,674 --> 00:34:23,424
+(crowd clapping)
+
+547
+00:34:35,978 --> 00:34:40,978
+♪ I wish that Heaven had visiting hours ♪
+
+548
+00:34:41,686 --> 00:34:46,686
+♪ So I could just show
+up then bring the news ♪
+
+549
+00:34:48,658 --> 00:34:53,658
+♪ That she's gettin' older and
+I wish that you'd met her ♪
+
+550
+00:34:54,600 --> 00:34:57,677
+♪ The things that she'll learn from me ♪
+
+551
+00:34:57,677 --> 00:35:01,160
+♪ I got them all from you ♪
+
+552
+00:35:01,160 --> 00:35:03,778
+♪ Can I just stay a while ♪
+
+553
+00:35:03,778 --> 00:35:07,458
+♪ And we'll put all the world to rights ♪
+
+554
+00:35:07,458 --> 00:35:09,741
+♪ The little ones will grow ♪
+
+555
+00:35:09,741 --> 00:35:13,618
+♪ And I'll still drink
+your favorite wine ♪
+
+556
+00:35:13,618 --> 00:35:15,960
+♪ And soon they're goin' to close ♪
+
+557
+00:35:15,960 --> 00:35:19,421
+♪ But I'll see you another day ♪
+
+558
+00:35:19,421 --> 00:35:24,421
+♪ So much has changed
+since you've been away ♪
+
+559
+00:35:31,879 --> 00:35:36,879
+♪ I wish that Heaven had visiting hours ♪
+
+560
+00:35:37,756 --> 00:35:42,756
+♪ So I could just swing
+by and ask your advice ♪
+
+561
+00:35:43,917 --> 00:35:47,075
+♪ What would you do in my situation ♪
+
+562
+00:35:47,075 --> 00:35:49,981
+♪ I haven't a clue how
+I'd even raise them ♪
+
+563
+00:35:49,981 --> 00:35:52,997
+♪ What would you do ♪
+
+564
+00:35:52,997 --> 00:35:56,338
+♪ 'Cause you always do what's right ♪
+
+565
+00:35:56,338 --> 00:36:01,338
+♪ Can we just talk a while
+until my worries disappear ♪
+
+566
+00:36:02,797 --> 00:36:07,797
+♪ I'd tell you that I'm scared
+of turning out a failure ♪
+
+567
+00:36:08,336 --> 00:36:11,218
+♪ You'd say, remember that the answer's ♪
+
+568
+00:36:11,218 --> 00:36:14,360
+♪ In the love that we create ♪
+
+569
+00:36:14,360 --> 00:36:19,360
+♪ So much has changed
+since you've been away ♪
+
+570
+00:36:26,664 --> 00:36:31,664
+♪ I wish that Heaven had visiting hours ♪
+
+571
+00:36:32,582 --> 00:36:37,582
+♪ And I would ask them if
+I could take you home ♪
+
+572
+00:36:38,786 --> 00:36:43,786
+♪ But I know what they'd
+say, that it's for the best ♪
+
+573
+00:36:45,081 --> 00:36:48,520
+♪ So I will live life
+the way you taught me ♪
+
+574
+00:36:48,520 --> 00:36:52,426
+♪ And make it on my own ♪
+
+575
+00:36:52,426 --> 00:36:57,426
+♪ I will close the door, and
+I will open up my heart ♪
+
+576
+00:36:57,694 --> 00:37:02,694
+♪ And everyone I love will
+know exactly who you are ♪
+
+577
+00:37:03,928 --> 00:37:08,928
+♪ 'Cause this is not goodbye,
+it is just 'til we meet again ♪
+
+578
+00:37:11,746 --> 00:37:16,746
+♪ So much has changed
+since you've been away ♪
+
+579
+00:37:24,223 --> 00:37:27,806
+(crowd applauds)
+
+580
+00:37:27,806 --> 00:37:28,639
+Thank you.
+
+581
+00:37:32,431 --> 00:37:36,338
+So, as I said, I was gonna throw
+a curve ball, Ashton's way.
+
+582
+00:37:36,338 --> 00:37:38,512
+We've actually played this
+song before for just once.
+
+583
+00:37:38,512 --> 00:37:41,832
+And this song was actually meant
+to be in the setlist today.
+
+584
+00:37:41,832 --> 00:37:43,656
+And the reason I feel weird
+about not putting this one
+
+585
+00:37:43,656 --> 00:37:45,474
+in this set is 'cause it
+kind of goes hand in hand
+
+586
+00:37:45,474 --> 00:37:47,294
+with "Visiting Hours".
+
+587
+00:37:47,294 --> 00:37:50,627
+The story behind the song is I got sent,
+
+588
+00:37:53,046 --> 00:37:55,559
+we were finishing the album
+and someone came up with
+
+589
+00:37:55,559 --> 00:37:57,016
+this bright idea of like,
+
+590
+00:37:57,016 --> 00:38:01,757
+"Hey, because you made most
+of your last record in Sweden,
+
+591
+00:38:01,757 --> 00:38:03,858
+we should send you to
+Sweden to finish the album."
+
+592
+00:38:03,858 --> 00:38:04,856
+And I was like, cool.
+
+593
+00:38:04,856 --> 00:38:08,280
+And they were like, "But this
+is the idea, you fly to Sweden
+
+594
+00:38:08,280 --> 00:38:10,898
+without your baby and you land.
+
+595
+00:38:10,898 --> 00:38:12,461
+And then you write about
+how miserable you are."
+
+596
+00:38:12,461 --> 00:38:14,039
+(crowd laughs)
+
+597
+00:38:14,039 --> 00:38:17,039
+I was like, ah, that's a bit cruel.
+
+598
+00:38:23,036 --> 00:38:26,879
+I basically said in my head,
+I was like, do you know what?
+
+599
+00:38:26,879 --> 00:38:29,543
+I can write a song about missing my child
+
+600
+00:38:29,543 --> 00:38:32,322
+without actually leaving
+the same room as them.
+
+601
+00:38:32,322 --> 00:38:33,678
+And I'll show you basically.
+
+602
+00:38:33,678 --> 00:38:35,421
+So I had this idea that I was
+gonna do this song anyway.
+
+603
+00:38:35,421 --> 00:38:38,541
+And then my friend Michael
+passed away and I flew
+
+604
+00:38:38,541 --> 00:38:41,485
+to Australia with my child
+and we were in quarantine
+
+605
+00:38:41,485 --> 00:38:42,482
+for two weeks.
+
+606
+00:38:42,482 --> 00:38:46,802
+And basically I just
+had this melody running
+
+607
+00:38:46,802 --> 00:38:48,263
+around my head every time I took a shower,
+
+608
+00:38:48,263 --> 00:38:50,099
+melody's come into showers by the way,
+
+609
+00:38:50,099 --> 00:38:51,964
+'cause shower sound great to sing in.
+
+610
+00:38:51,964 --> 00:38:52,797
+So I'm there going.
+
+611
+00:38:52,797 --> 00:38:55,880
+(Ed Sheeran humming)
+
+612
+00:38:57,113 --> 00:38:59,807
+So I had this melody
+for "Leave Your Life",
+
+613
+00:38:59,807 --> 00:39:01,710
+but I didn't really know
+what I was gonna write about.
+
+614
+00:39:01,710 --> 00:39:03,913
+Like, do I write about
+just leaving my child
+
+615
+00:39:03,913 --> 00:39:05,065
+and flying somewhere?
+
+616
+00:39:05,065 --> 00:39:08,414
+If it felt a bit like not genuine.
+
+617
+00:39:08,414 --> 00:39:13,134
+And then Michael's funeral
+happened and I was in quarantine
+
+618
+00:39:13,134 --> 00:39:15,052
+for the funeral and we
+watched it over Zoom.
+
+619
+00:39:15,052 --> 00:39:19,135
+And I spoke to a member
+of his family afterwards,
+
+620
+00:39:21,120 --> 00:39:25,550
+who said that basically
+after every conversation,
+
+621
+00:39:25,550 --> 00:39:27,263
+he would end it with, I love you.
+
+622
+00:39:27,263 --> 00:39:30,705
+And no matter what, no matter
+what every single conversation
+
+623
+00:39:30,705 --> 00:39:31,808
+ended with, I love you.
+
+624
+00:39:31,808 --> 00:39:33,651
+So the last thing he said
+to everyone that he knew
+
+625
+00:39:33,651 --> 00:39:34,649
+was I love you.
+
+626
+00:39:34,649 --> 00:39:36,588
+And I thought that that
+was such an amazing thing
+
+627
+00:39:36,588 --> 00:39:38,784
+to kind of take in to life.
+
+628
+00:39:38,784 --> 00:39:41,187
+And so I started doing it
+with people in my family,
+
+629
+00:39:41,187 --> 00:39:42,526
+but I can't do it with my daughter
+
+630
+00:39:42,526 --> 00:39:45,267
+'cause she's 15 months now
+and she was six months then.
+
+631
+00:39:45,267 --> 00:39:49,326
+And I felt like, even
+though if I went tomorrow
+
+632
+00:39:49,326 --> 00:39:50,649
+and was not here on this planet,
+
+633
+00:39:50,649 --> 00:39:53,449
+even though she would
+know that I did love her,
+
+634
+00:39:53,449 --> 00:39:54,463
+'cause people would tell her,
+
+635
+00:39:54,463 --> 00:39:56,867
+she would never actually know
+it from the horses mouth,
+
+636
+00:39:56,867 --> 00:39:57,870
+if that makes sense.
+
+637
+00:39:57,870 --> 00:39:59,369
+So I wrote this song basically as that,
+
+638
+00:39:59,369 --> 00:40:03,952
+if anything happened and it's
+called "Leave Your Life".
+
+639
+00:40:04,787 --> 00:40:08,366
+♪ If I forget to say goodbye ♪
+
+640
+00:40:08,366 --> 00:40:11,300
+♪ Before I catch the plane ♪
+
+641
+00:40:11,300 --> 00:40:14,307
+♪ Would you know the way that I ♪
+
+642
+00:40:14,307 --> 00:40:17,427
+♪ Feel when I'm away ♪
+
+643
+00:40:17,427 --> 00:40:20,728
+♪ We'll see the same sky tonight ♪
+
+644
+00:40:20,728 --> 00:40:23,726
+♪ But the stars are out of place ♪
+
+645
+00:40:23,726 --> 00:40:26,905
+♪ You'll never know the
+weight of my heart ♪
+
+646
+00:40:26,905 --> 00:40:30,046
+♪ Every time I leave you, babe ♪
+
+647
+00:40:30,046 --> 00:40:35,046
+♪ It's hard to break the landing ♪
+
+648
+00:40:36,286 --> 00:40:41,286
+♪ But I'll see you again ♪
+
+649
+00:40:43,611 --> 00:40:48,366
+♪ I'm never gonna leave your life ♪
+
+650
+00:40:48,366 --> 00:40:51,006
+♪ Even at the times I'm miles away ♪
+
+651
+00:40:51,006 --> 00:40:55,683
+♪ You are always on my mind ♪
+
+652
+00:40:55,683 --> 00:41:00,542
+♪ Forever and now, I
+will be by your side ♪
+
+653
+00:41:00,542 --> 00:41:04,045
+♪ I know it can change from day to day ♪
+
+654
+00:41:04,045 --> 00:41:08,446
+♪ But this love will keep alive ♪
+
+655
+00:41:08,446 --> 00:41:12,460
+♪ I'm never gonna leave your life ♪
+
+656
+00:41:12,460 --> 00:41:17,460
+♪ I-I-I, I'm never gonna leave your life ♪
+
+657
+00:41:19,625 --> 00:41:22,462
+♪ I could never tell you a lie ♪
+
+658
+00:41:22,462 --> 00:41:25,422
+♪ Or put in words your finest traits ♪
+
+659
+00:41:25,422 --> 00:41:28,665
+♪ The darkest green and hazel eyes ♪
+
+660
+00:41:28,665 --> 00:41:31,625
+♪ And yet I can't describe the shade ♪
+
+661
+00:41:31,625 --> 00:41:34,941
+♪ You are all this heart of mine ♪
+
+662
+00:41:34,941 --> 00:41:37,923
+♪ And there you will remain ♪
+
+663
+00:41:37,923 --> 00:41:41,161
+♪ You'll never know the
+weight of my decisions ♪
+
+664
+00:41:41,161 --> 00:41:44,159
+♪ When I leave your smiling face ♪
+
+665
+00:41:44,159 --> 00:41:49,159
+♪ It's hard to understand it ♪
+
+666
+00:41:50,302 --> 00:41:55,203
+♪ But I'll see you again ♪
+
+667
+00:41:55,203 --> 00:41:57,550
+♪ Oh, I ♪
+
+668
+00:41:57,550 --> 00:42:01,822
+♪ I'm never gonna leave your life ♪
+
+669
+00:42:01,822 --> 00:42:05,043
+♪ Even at the times I'm miles away ♪
+
+670
+00:42:05,043 --> 00:42:09,385
+♪ You are always on my mind ♪
+
+671
+00:42:09,385 --> 00:42:14,142
+♪ Forever and now, I
+will be by your side ♪
+
+672
+00:42:14,142 --> 00:42:17,763
+♪ I know it can change from day to day ♪
+
+673
+00:42:17,763 --> 00:42:21,881
+♪ But this love will keep alive ♪
+
+674
+00:42:21,881 --> 00:42:25,705
+♪ I'm never gonna leave your life ♪
+
+675
+00:42:25,705 --> 00:42:30,705
+♪ I-I-I, I'm never gonna leave your life ♪
+
+676
+00:42:33,262 --> 00:42:38,262
+♪ It's hard to break the landing ♪
+
+677
+00:42:39,262 --> 00:42:44,262
+♪ But I'll see you again ♪
+
+678
+00:42:46,321 --> 00:42:50,796
+♪ I'm never gonna leave your life ♪
+
+679
+00:42:50,796 --> 00:42:54,245
+♪ Even at the times I'm miles away ♪
+
+680
+00:42:54,245 --> 00:42:58,102
+♪ You are always on my mind ♪
+
+681
+00:42:58,102 --> 00:43:02,540
+♪ Forever and now, I
+will be by your side ♪
+
+682
+00:43:02,540 --> 00:43:06,262
+♪ I know it can change from day to day ♪
+
+683
+00:43:06,262 --> 00:43:10,742
+♪ But this love will keep alive ♪
+
+684
+00:43:10,742 --> 00:43:13,862
+♪ I'm never gonna leave your life ♪
+
+685
+00:43:13,862 --> 00:43:18,862
+♪ I-I-I, I'm never gonna leave your life ♪
+
+686
+00:43:21,503 --> 00:43:24,646
+♪ If I forget to say goodbye ♪
+
+687
+00:43:24,646 --> 00:43:27,664
+♪ Before I catch the plane ♪
+
+688
+00:43:27,664 --> 00:43:30,820
+♪ Would you know the way that I ♪
+
+689
+00:43:30,820 --> 00:43:33,903
+♪ Feel when I'm away ♪
+
+690
+00:43:34,902 --> 00:43:37,652
+(crowd applauds)
+
+691
+00:43:39,046 --> 00:43:42,296
+Round of applause for Ashton, everyone.
+
+692
+00:43:47,424 --> 00:43:48,998
+I was just telling them to
+give you a round of applause.
+
+693
+00:43:48,998 --> 00:43:52,603
+'Cause you know (indistinct).
+
+694
+00:43:52,603 --> 00:43:55,664
+So those songs kind of go hand-in-hand.
+
+695
+00:43:55,664 --> 00:43:58,806
+Weirdly, this next song goes
+hand-in-hand with "Bad Habits"
+
+696
+00:43:58,806 --> 00:44:01,003
+and they could not be further apart.
+
+697
+00:44:01,003 --> 00:44:03,403
+They were written on the same
+day and this one kind of came
+
+698
+00:44:03,403 --> 00:44:07,031
+as a sort of knee jerk reactions about,
+
+699
+00:44:07,031 --> 00:44:09,280
+you make a song like
+"Bad Habits" and it's...
+
+700
+00:44:09,280 --> 00:44:10,880
+(Ed Sheeran humming)
+
+701
+00:44:10,880 --> 00:44:14,077
+And you go, all right, let's
+try something quiet and slow.
+
+702
+00:44:14,077 --> 00:44:17,360
+And this song was written in
+such a short period of time.
+
+703
+00:44:17,360 --> 00:44:19,339
+That for a long time, I
+thought it was (beep),
+
+704
+00:44:19,339 --> 00:44:22,240
+'cause, it was written in
+such a short period of time.
+
+705
+00:44:22,240 --> 00:44:23,265
+And I kept listening to me like,
+
+706
+00:44:23,265 --> 00:44:24,956
+oh, that's not any good.
+
+707
+00:44:24,956 --> 00:44:28,683
+And then my brother did a
+string arrangement for it,
+
+708
+00:44:28,683 --> 00:44:30,422
+that basically brought out of its shell.
+
+709
+00:44:30,422 --> 00:44:34,469
+And it's turned it into this
+big cinematic orchestral thing
+
+710
+00:44:34,469 --> 00:44:36,577
+that I love, that I love.
+
+711
+00:44:36,577 --> 00:44:39,577
+And yeah, I hope it lives on forever
+
+712
+00:44:40,900 --> 00:44:43,258
+and we're gonna play it now.
+
+713
+00:44:43,258 --> 00:44:45,696
+It's called "Joker And The Queen".
+
+714
+00:44:45,696 --> 00:44:47,860
+One, two, three.
+
+715
+00:44:47,860 --> 00:44:51,300
+♪ How was I to know ♪
+
+716
+00:44:51,300 --> 00:44:54,996
+♪ It's a crazy thing ♪
+
+717
+00:44:54,996 --> 00:44:58,180
+♪ I showed you my hand ♪
+
+718
+00:44:58,180 --> 00:45:01,599
+♪ And you still let me win ♪
+
+719
+00:45:01,599 --> 00:45:05,039
+♪ Who was I to say ♪
+
+720
+00:45:05,039 --> 00:45:08,900
+♪ That this was meant to be ♪
+
+721
+00:45:08,900 --> 00:45:12,180
+♪ The road that was broken ♪
+
+722
+00:45:12,180 --> 00:45:15,780
+♪ Brought us together ♪
+
+723
+00:45:15,780 --> 00:45:20,780
+♪ And I know you could
+fall for a thousand kings ♪
+
+724
+00:45:23,359 --> 00:45:28,359
+♪ And hearts that could
+give you a diamond ring ♪
+
+725
+00:45:29,376 --> 00:45:34,376
+♪ When I fold, you see the best in me ♪
+
+726
+00:45:36,496 --> 00:45:41,496
+♪ The joker and the queen ♪
+
+727
+00:45:42,559 --> 00:45:45,759
+♪ I was upside down ♪
+
+728
+00:45:45,759 --> 00:45:49,524
+♪ From the outside in ♪
+
+729
+00:45:49,524 --> 00:45:52,623
+♪ You came to the table ♪
+
+730
+00:45:52,623 --> 00:45:55,903
+♪ And you went all in ♪
+
+731
+00:45:55,903 --> 00:45:59,364
+♪ With a single word ♪
+
+732
+00:45:59,364 --> 00:46:02,964
+♪ And a gentle touch ♪
+
+733
+00:46:02,964 --> 00:46:06,422
+♪ You turned a moment ♪
+
+734
+00:46:06,422 --> 00:46:09,866
+♪ Into forever ♪
+
+735
+00:46:09,866 --> 00:46:14,866
+♪ And I know you could
+fall for a thousand kings ♪
+
+736
+00:46:17,223 --> 00:46:22,223
+♪ And hearts that could
+give you a diamond ring ♪
+
+737
+00:46:23,121 --> 00:46:28,121
+♪ When I fold, you see the best in me ♪
+
+738
+00:46:30,383 --> 00:46:33,883
+♪ The joker and the queen ♪
+
+739
+00:47:03,623 --> 00:47:08,623
+♪ And I know you could
+fall for a thousand kings ♪
+
+740
+00:47:10,540 --> 00:47:15,540
+♪ And hearts that could
+give you a diamond ring ♪
+
+741
+00:47:16,459 --> 00:47:21,459
+♪ When I folded, you saw the best in me ♪
+
+742
+00:47:23,456 --> 00:47:28,456
+♪ The joker and the queen ♪
+
+743
+00:47:30,202 --> 00:47:33,702
+♪ The joker and the queen ♪
+
+744
+00:47:36,004 --> 00:47:38,754
+(crowd applauds)
+
+745
+00:47:41,692 --> 00:47:44,275
+Everyone give it up for Ashton.
+
+746
+00:47:52,376 --> 00:47:54,059
+Well, now we're entering
+into the interesting part
+
+747
+00:47:54,059 --> 00:47:56,358
+of the gig, 'cause this is the
+song that I wasn't intending
+
+748
+00:47:56,358 --> 00:47:57,355
+on playing today
+
+749
+00:47:57,355 --> 00:47:59,915
+'cause I hadn't rehearsed
+it once ever, ever.
+
+750
+00:47:59,915 --> 00:48:02,139
+And it's a loop pedal song,
+and it's quite intricate.
+
+751
+00:48:02,139 --> 00:48:04,795
+And if it's not on time,
+it will sound (beep),
+
+752
+00:48:04,795 --> 00:48:06,875
+but I've rehearsed it for a little bit.
+
+753
+00:48:06,875 --> 00:48:09,556
+And the beauty of this is
+if it doesn't sound good,
+
+754
+00:48:09,556 --> 00:48:10,817
+it just won't make the show.
+
+755
+00:48:10,817 --> 00:48:13,234
+So your part of this tonight,
+
+756
+00:48:15,179 --> 00:48:16,188
+this is the first time I've ever,
+
+757
+00:48:16,188 --> 00:48:17,849
+ever, ever, ever played it.
+
+758
+00:48:17,849 --> 00:48:20,599
+(crowd applauds)
+
+759
+00:48:21,871 --> 00:48:24,449
+I hope it goes well. I hope it goes well.
+
+760
+00:48:24,449 --> 00:48:28,292
+This was the final song that
+I finished for the record.
+
+761
+00:48:28,292 --> 00:48:31,987
+And this came, in a stage when
+the album's being finished,
+
+762
+00:48:31,987 --> 00:48:33,428
+this is how "Shape of You" came about,
+
+763
+00:48:33,428 --> 00:48:35,823
+is basically like the album's done.
+
+764
+00:48:35,823 --> 00:48:38,308
+And then everyone goes, right it's done.
+
+765
+00:48:38,308 --> 00:48:40,002
+And then there's just this
+little prodding finger
+
+766
+00:48:40,002 --> 00:48:41,924
+from everywhere.
+
+767
+00:48:41,924 --> 00:48:46,104
+My manager, Stuart is the most
+genius person in the world
+
+768
+00:48:46,104 --> 00:48:50,544
+because he knows that
+there's something good in
+
+769
+00:48:50,544 --> 00:48:52,425
+when you feel like a record's
+finished and you just go in
+
+770
+00:48:52,425 --> 00:48:54,505
+and create whatever you want.
+
+771
+00:48:54,505 --> 00:48:55,811
+And that's where "Don't" in "Sing" came
+
+772
+00:48:55,811 --> 00:49:00,291
+and it's where a "Shape
+of You" and what came in?
+
+773
+00:49:00,291 --> 00:49:01,933
+"Shape of You"" and "Eraser" came
+
+774
+00:49:01,933 --> 00:49:04,592
+and it's where "Bad
+Habits" and "2step" came.
+
+775
+00:49:04,592 --> 00:49:08,575
+And this song basically came at my last,
+
+776
+00:49:08,575 --> 00:49:11,467
+I was on my last legs with
+writing for this album.
+
+777
+00:49:11,467 --> 00:49:12,827
+And I was like, it's totally done.
+
+778
+00:49:12,827 --> 00:49:14,801
+I'd actually gone to Los
+Angeles to promote the album.
+
+779
+00:49:14,801 --> 00:49:18,047
+I was doing all the voice
+stuff and stuff like that.
+
+780
+00:49:18,047 --> 00:49:21,408
+And I went in for a sort of
+like site session of this guy
+
+781
+00:49:21,408 --> 00:49:23,445
+who I'd been friends with
+for a very long time.
+
+782
+00:49:23,445 --> 00:49:24,528
+And we hadn't really worked together
+
+783
+00:49:24,528 --> 00:49:25,525
+because we'd been friends.
+
+784
+00:49:25,525 --> 00:49:26,528
+And I just was like,
+
+785
+00:49:26,528 --> 00:49:28,005
+let's just go in and see what we create.
+
+786
+00:49:28,005 --> 00:49:29,008
+This song came out.
+
+787
+00:49:29,008 --> 00:49:31,584
+It's still my favorite song on the album.
+
+788
+00:49:31,584 --> 00:49:33,662
+And I hope I don't butcher
+it today because of that.
+
+789
+00:49:33,662 --> 00:49:38,579
+I've just shot a music video
+for it in Kiev, which is cool.
+
+790
+00:49:39,888 --> 00:49:42,468
+We did it in Kiev 'cause we
+could shut down an entire part
+
+791
+00:49:42,468 --> 00:49:43,467
+of the city.
+
+792
+00:49:43,467 --> 00:49:47,627
+And we had like 250 dancers
+and it looks pretty stunning,
+
+793
+00:49:47,627 --> 00:49:49,544
+but it was minus three.
+
+794
+00:49:52,308 --> 00:49:53,685
+All right, here we go.
+
+795
+00:49:53,685 --> 00:49:55,525
+If I mess this up, I'm gonna
+have to do it a few more times,
+
+796
+00:49:55,525 --> 00:49:56,728
+but I'll probably get it first time.
+
+797
+00:49:56,728 --> 00:49:57,645
+Here we go.
+
+798
+00:50:05,654 --> 00:50:08,654
+(soft guitar music)
+
+799
+00:50:10,102 --> 00:50:12,685
+(crowd laughs)
+
+800
+00:51:31,381 --> 00:51:32,746
+♪ I had a bad week ♪
+
+801
+00:51:32,746 --> 00:51:34,906
+♪ Spent the evening pretending
+it wasn't that deep ♪
+
+802
+00:51:34,906 --> 00:51:37,525
+♪ You could see in my eyes
+that it was taking over ♪
+
+803
+00:51:37,525 --> 00:51:40,000
+♪ I guess I was just blind
+and caught up in the moment ♪
+
+804
+00:51:40,000 --> 00:51:42,421
+♪ You know you take all
+of my stress right down ♪
+
+805
+00:51:42,421 --> 00:51:44,759
+♪ Help me get it off my chest and out ♪
+
+806
+00:51:44,759 --> 00:51:46,842
+♪ Into the ether with
+the rest of this mess ♪
+
+807
+00:51:46,842 --> 00:51:48,041
+♪ That just keeps us depressed ♪
+
+808
+00:51:48,041 --> 00:51:49,503
+♪ We forget that we're here right now ♪
+
+809
+00:51:49,503 --> 00:51:51,703
+♪ 'Cause we're living
+life at a different pace ♪
+
+810
+00:51:51,703 --> 00:51:52,703
+♪ Stuck in a constant race ♪
+
+811
+00:51:52,703 --> 00:51:53,845
+♪ Keep the pressure on,
+you're bound to break ♪
+
+812
+00:51:53,845 --> 00:51:54,906
+♪ Something's got to change ♪
+
+813
+00:51:54,906 --> 00:51:56,245
+♪ We should just be
+canceling all our plans ♪
+
+814
+00:51:56,245 --> 00:51:57,285
+♪ And not give a damn ♪
+
+815
+00:51:57,285 --> 00:51:59,428
+♪ If we're missing out on what
+the people think is right ♪
+
+816
+00:51:59,428 --> 00:52:01,085
+♪ Seeing through a picture
+behind the screen ♪
+
+817
+00:52:01,085 --> 00:52:02,225
+♪ And forget to be ♪
+
+818
+00:52:02,225 --> 00:52:03,587
+♪ Lose the conversation for the message ♪
+
+819
+00:52:03,587 --> 00:52:04,625
+♪ That you'll never read ♪
+
+820
+00:52:04,625 --> 00:52:05,826
+♪ I think maybe you and me ♪
+
+821
+00:52:05,826 --> 00:52:08,468
+♪ Oh, we should head out to the
+place where the music plays ♪
+
+822
+00:52:08,468 --> 00:52:11,066
+♪ And then we'll go all night ♪
+
+823
+00:52:11,066 --> 00:52:13,407
+♪ Two-stepping with the woman I love ♪
+
+824
+00:52:13,407 --> 00:52:16,086
+♪ All my troubles turn to
+nothing when I'm in your eyes ♪
+
+825
+00:52:16,086 --> 00:52:20,708
+♪ Electrified, we'll keep
+turning up and go all night ♪
+
+826
+00:52:20,708 --> 00:52:23,050
+♪ Oh, we had dips and falls in our time ♪
+
+827
+00:52:23,050 --> 00:52:26,426
+♪ But we know what it feels
+to be low then up, alone ♪
+
+828
+00:52:26,426 --> 00:52:27,428
+♪ And loved ♪
+
+829
+00:52:27,428 --> 00:52:28,890
+♪ And all we need is us to go all ♪
+
+830
+00:52:28,890 --> 00:52:33,007
+♪ Night, night ♪
+
+831
+00:52:33,007 --> 00:52:34,948
+♪ Two-stepping with the woman I love ♪
+
+832
+00:52:34,948 --> 00:52:37,185
+♪ Night, yeah ♪
+
+833
+00:52:37,185 --> 00:52:38,388
+♪ All we need is us ♪
+
+834
+00:52:38,388 --> 00:52:39,884
+♪ What do you reckon, is it just me ♪
+
+835
+00:52:39,884 --> 00:52:42,592
+♪ Words are weapons and
+occasionally they cut deep ♪
+
+836
+00:52:42,592 --> 00:52:43,425
+♪ Crisis of confidence ♪
+
+837
+00:52:43,425 --> 00:52:45,226
+♪ It tends to come when I feel the dark ♪
+
+838
+00:52:45,226 --> 00:52:46,346
+♪ And I open my heart ♪
+
+839
+00:52:46,346 --> 00:52:47,759
+♪ If you don't see it,
+you should trust me ♪
+
+840
+00:52:47,759 --> 00:52:49,866
+♪ I feel like I've got
+nothing left right now ♪
+
+841
+00:52:49,866 --> 00:52:53,043
+♪ Except this beauty
+in a dress right now ♪
+
+842
+00:52:53,043 --> 00:52:54,346
+♪ She got me feeling like the best ♪
+
+843
+00:52:54,346 --> 00:52:55,562
+♪ And the rest are just less ♪
+
+844
+00:52:55,562 --> 00:52:58,122
+♪ Than she needs, so we press
+play and step to the beat ♪
+
+845
+00:52:58,122 --> 00:52:59,899
+♪ 'Cause we're living
+life at a different pace ♪
+
+846
+00:52:59,899 --> 00:53:00,902
+♪ Stuck in a constant race ♪
+
+847
+00:53:00,902 --> 00:53:02,262
+♪ Keep the pressure on,
+you're bound to break ♪
+
+848
+00:53:02,262 --> 00:53:03,327
+♪ Something's got to change ♪
+
+849
+00:53:03,327 --> 00:53:04,602
+♪ We should just be
+canceling all our plans ♪
+
+850
+00:53:04,602 --> 00:53:05,604
+♪ And not give a damn ♪
+
+851
+00:53:05,604 --> 00:53:07,802
+♪ Head out to the place where it plays ♪
+
+852
+00:53:07,802 --> 00:53:09,482
+♪ And we'll go all night ♪
+
+853
+00:53:09,482 --> 00:53:11,882
+♪ Two-stepping with the woman I love ♪
+
+854
+00:53:11,882 --> 00:53:14,500
+♪ All my troubles turn to
+nothing when I'm in your eyes ♪
+
+855
+00:53:14,500 --> 00:53:19,204
+♪ Electrified, we'll keep
+turning up and go all night ♪
+
+856
+00:53:19,204 --> 00:53:21,616
+♪ Oh, we had dips and falls in our time ♪
+
+857
+00:53:21,616 --> 00:53:24,260
+♪ But we know what it
+feels to be low then up ♪
+
+858
+00:53:24,260 --> 00:53:25,444
+♪ Alone and loved ♪
+
+859
+00:53:25,444 --> 00:53:28,340
+♪ And all we need is us to go all ♪
+
+860
+00:53:28,340 --> 00:53:31,423
+♪ Night, night ♪
+
+861
+00:53:31,423 --> 00:53:33,342
+♪ Two-stepping with the woman I love ♪
+
+862
+00:53:33,342 --> 00:53:35,700
+♪ Night, yeah ♪
+
+863
+00:53:35,700 --> 00:53:38,279
+♪ All we need is us to go all night ♪
+
+864
+00:53:38,279 --> 00:53:41,183
+♪ Night, night ♪
+
+865
+00:53:41,183 --> 00:53:43,103
+♪ Two-stepping with the woman I love ♪
+
+866
+00:53:43,103 --> 00:53:44,842
+♪ Night, yeah ♪
+
+867
+00:53:44,842 --> 00:53:48,740
+♪ All we need is us to go all night ♪
+
+868
+00:53:48,740 --> 00:53:51,490
+(crowd applauds)
+
+869
+00:54:06,804 --> 00:54:07,637
+Thank you.
+
+870
+00:54:12,183 --> 00:54:14,980
+As a first time, I don't
+think it went too badly.
+
+871
+00:54:14,980 --> 00:54:17,343
+(crowd cheering)
+
+872
+00:54:17,343 --> 00:54:18,980
+There was room for improvement.
+
+873
+00:54:18,980 --> 00:54:20,639
+There's room for improvement.
+
+874
+00:54:20,639 --> 00:54:23,999
+Now, something else that
+I've never played before.
+
+875
+00:54:23,999 --> 00:54:26,863
+(crowd applauds)
+
+876
+00:54:26,863 --> 00:54:29,082
+I wrote a Christmas song,
+
+877
+00:54:29,082 --> 00:54:32,454
+which my manager always said that he quit
+
+878
+00:54:32,454 --> 00:54:35,037
+if ever I did a Christmas song.
+
+879
+00:54:36,138 --> 00:54:38,305
+This basically came about.
+
+880
+00:54:39,399 --> 00:54:43,416
+So Elton John is someone that
+has been an integral part
+
+881
+00:54:43,416 --> 00:54:46,099
+of my career from the
+very, very beginning.
+
+882
+00:54:46,099 --> 00:54:47,972
+When I first signed to my now manager,
+
+883
+00:54:47,972 --> 00:54:49,838
+he was on Rocket management.
+
+884
+00:54:49,838 --> 00:54:53,278
+And so Elton was essentially a
+mentor and he used to call me
+
+885
+00:54:53,278 --> 00:54:55,779
+maybe like once every few
+months just being like,
+
+886
+00:54:55,779 --> 00:54:57,171
+how's it going?
+
+887
+00:54:57,171 --> 00:54:59,616
+And what can we improve on?
+
+888
+00:54:59,616 --> 00:55:00,736
+You're not getting played on US radio.
+
+889
+00:55:00,736 --> 00:55:03,113
+Let me sort that out. I
+could do a few phone calls.
+
+890
+00:55:03,113 --> 00:55:04,558
+You've been nominated for Grammy,
+
+891
+00:55:04,558 --> 00:55:05,574
+but you can't play the Grammy's.
+
+892
+00:55:05,574 --> 00:55:06,775
+Why don't I play it with you?
+
+893
+00:55:06,775 --> 00:55:08,536
+He'd basically just be this mentor
+
+894
+00:55:08,536 --> 00:55:09,733
+that would just always help me out.
+
+895
+00:55:09,733 --> 00:55:12,872
+And then as my career progressed and got,
+
+896
+00:55:12,872 --> 00:55:14,254
+I had more and more success,
+
+897
+00:55:14,254 --> 00:55:16,472
+I sort of started hanging
+out with him more and more
+
+898
+00:55:16,472 --> 00:55:20,082
+and more and he became
+from a mentor to a friend,
+
+899
+00:55:20,082 --> 00:55:23,665
+and then he just started ringing me a lot.
+
+900
+00:55:24,534 --> 00:55:26,135
+He has an iPad. I have an iPad.
+
+901
+00:55:26,135 --> 00:55:28,898
+So we're both not phone
+people, which is quite good.
+
+902
+00:55:28,898 --> 00:55:30,519
+I feel like he might be
+the only person on my iPad
+
+903
+00:55:30,519 --> 00:55:32,295
+that I call.
+
+904
+00:55:32,295 --> 00:55:33,938
+And I might be the only
+person on his iPad that he...
+
+905
+00:55:33,938 --> 00:55:36,098
+'Cause we literally
+speak every single day.
+
+906
+00:55:36,098 --> 00:55:40,068
+But this happened right
+after I became a father.
+
+907
+00:55:40,068 --> 00:55:41,474
+He just started ringing me all the time,
+
+908
+00:55:41,474 --> 00:55:43,373
+just to check how I was doing.
+
+909
+00:55:43,373 --> 00:55:45,229
+He loved seeing my little
+daughter on FaceTime
+
+910
+00:55:45,229 --> 00:55:46,253
+would chat to his kids.
+
+911
+00:55:46,253 --> 00:55:47,227
+He loves football. I love football.
+
+912
+00:55:47,227 --> 00:55:49,144
+His kids like Pokemon. I like Pokemon.
+
+913
+00:55:49,144 --> 00:55:51,624
+There's a lot of stuff that goes in there.
+
+914
+00:55:51,624 --> 00:55:54,344
+And he wrote me on Christmas
+day, last year to say,
+
+915
+00:55:54,344 --> 00:55:57,443
+"Merry Christmas, you having a good day?
+
+916
+00:55:57,443 --> 00:55:58,902
+We should do a Christmas song."
+
+917
+00:55:58,902 --> 00:56:00,787
+(crowd applauds)
+
+918
+00:56:00,787 --> 00:56:03,438
+And so two things went
+through my head at that point.
+
+919
+00:56:03,438 --> 00:56:05,907
+One is, God I've gotta do
+a song with Elton John.
+
+920
+00:56:05,907 --> 00:56:06,909
+That's gonna be cool.
+
+921
+00:56:06,909 --> 00:56:10,419
+And then the second thing was
+like, Stuart's gonna say no.
+
+922
+00:56:10,419 --> 00:56:12,968
+So I kind of like
+tempered it a little bit.
+
+923
+00:56:12,968 --> 00:56:13,989
+And was just like,
+
+924
+00:56:13,989 --> 00:56:15,192
+I don't know if I wanna
+do a Christmas song.
+
+925
+00:56:15,192 --> 00:56:18,826
+But if we do do one,
+maybe 2022, maybe 2023,
+
+926
+00:56:18,826 --> 00:56:20,488
+like something like that.
+
+927
+00:56:20,488 --> 00:56:23,731
+And then the thing in March happened
+
+928
+00:56:23,731 --> 00:56:25,448
+where my friend passed away.
+
+929
+00:56:25,448 --> 00:56:26,930
+And instantly from that point,
+
+930
+00:56:26,930 --> 00:56:30,787
+I was just like, why am
+I waiting to do anything?
+
+931
+00:56:30,787 --> 00:56:33,567
+Life is about doing everything now.
+
+932
+00:56:33,567 --> 00:56:35,608
+It's about grabbing life by the balls
+
+933
+00:56:35,608 --> 00:56:38,207
+and just having fun with
+things and not worrying about
+
+934
+00:56:38,207 --> 00:56:40,548
+whether it's cool or not
+to do a Christmas song.
+
+935
+00:56:40,548 --> 00:56:42,807
+'Cause I think doing a song
+with Elton John in general
+
+936
+00:56:42,807 --> 00:56:44,057
+is pretty cool.
+
+937
+00:56:45,672 --> 00:56:49,268
+And he was sort of ringing me
+throughout that whole process.
+
+938
+00:56:49,268 --> 00:56:50,367
+And so I was like, when I get back,
+
+939
+00:56:50,367 --> 00:56:52,408
+I'll come up to Windsor,
+
+940
+00:56:52,408 --> 00:56:54,986
+we'll eat some food and we
+write some Christmas songs.
+
+941
+00:56:54,986 --> 00:56:58,346
+And so I went up to Windsor
+and we finished three songs,
+
+942
+00:56:58,346 --> 00:57:00,607
+one of which, well we were
+gonna release all three,
+
+943
+00:57:00,607 --> 00:57:01,924
+this Christmas, but we thought,
+
+944
+00:57:01,924 --> 00:57:03,360
+like let's stagger it a bit.
+
+945
+00:57:03,360 --> 00:57:05,728
+So there's one coming out next Christmas,
+
+946
+00:57:05,728 --> 00:57:06,588
+called, "Pull My Christmas Cracker,
+
+947
+00:57:06,588 --> 00:57:09,005
+You'll Get More Than A Bang".
+
+948
+00:57:10,410 --> 00:57:14,308
+And it's innuendo heavy, but
+we've finished this song.
+
+949
+00:57:14,308 --> 00:57:16,885
+This is song the
+basically after he rung me
+
+950
+00:57:16,885 --> 00:57:18,991
+on Christmas day, I was like,
+
+951
+00:57:18,991 --> 00:57:21,311
+well, I don't know what a Christmas song
+
+952
+00:57:21,311 --> 00:57:22,684
+of mine sounds like.
+
+953
+00:57:22,684 --> 00:57:25,407
+Let me think if I can think
+of a chorus because you know,
+
+954
+00:57:25,407 --> 00:57:27,007
+it is Christmas.
+
+955
+00:57:27,007 --> 00:57:28,590
+So now is the time to feel Christmasy.
+
+956
+00:57:28,590 --> 00:57:29,423
+So I came up with a...
+
+957
+00:57:29,423 --> 00:57:31,131
+♪ Just kiss me under the mistletoe ♪
+
+958
+00:57:31,131 --> 00:57:32,607
+♪ Open the wine ♪
+
+959
+00:57:32,607 --> 00:57:35,265
+And I put it on a voice note and I just,
+
+960
+00:57:35,265 --> 00:57:39,682
+actually it says, Merry Xmas (beep).
+
+961
+00:57:40,646 --> 00:57:42,368
+I sent it to Elton.
+
+962
+00:57:42,368 --> 00:57:44,288
+And so we just had this
+thing and then we finished it
+
+963
+00:57:44,288 --> 00:57:46,251
+and, "You not gonna put
+that in them," I said, no.
+
+964
+00:57:46,251 --> 00:57:49,283
+(crowd laughs)
+
+965
+00:57:49,283 --> 00:57:51,094
+So basically I wrote
+the chorus Christmas day
+
+966
+00:57:51,094 --> 00:57:53,287
+after Elton rung me and then
+we finished it in Windsor.
+
+967
+00:57:53,287 --> 00:57:55,570
+And then we shot a music video recently,
+
+968
+00:57:55,570 --> 00:57:58,625
+which parodies all the
+great British music videos,
+
+969
+00:57:58,625 --> 00:58:02,042
+such as East 17, Shakin' Stevens, Wizard.
+
+970
+00:58:03,927 --> 00:58:05,327
+I'm gonna get to playing this song.
+
+971
+00:58:05,327 --> 00:58:07,660
+And Ashton is back, the man.
+
+972
+00:58:09,367 --> 00:58:11,367
+So this is called, "Merry Christmas".
+
+973
+00:58:11,367 --> 00:58:12,370
+And I hope you like it.
+
+974
+00:58:12,370 --> 00:58:14,946
+By the way, and this is a 100%
+true because I've said this
+
+975
+00:58:14,946 --> 00:58:16,269
+to loads of people and they'd be like,
+
+976
+00:58:16,269 --> 00:58:17,570
+"No, that's not true".
+
+977
+00:58:17,570 --> 00:58:20,786
+There's no other song called
+Merry Christmas. There's none.
+
+978
+00:58:20,786 --> 00:58:22,546
+It's Happy X, Miss Mary X, Miss,
+
+979
+00:58:22,546 --> 00:58:23,890
+I'm telling you, look it up.
+
+980
+00:58:23,890 --> 00:58:27,502
+It feels like a glitch in the matrix.
+
+981
+00:58:27,502 --> 00:58:29,752
+So anyway, Merry Christmas.
+
+982
+00:58:30,864 --> 00:58:33,614
+(crowd applauds)
+
+983
+00:58:35,533 --> 00:58:36,450
+Here we go.
+
+984
+00:58:37,629 --> 00:58:42,530
+♪ Build a fire and
+gather around the tree ♪
+
+985
+00:58:42,530 --> 00:58:47,530
+♪ Fill a glass and maybe
+come and sit with me ♪
+
+986
+00:59:16,712 --> 00:59:20,184
+♪ So, kiss me under the mistletoe ♪
+
+987
+00:59:20,184 --> 00:59:24,429
+♪ Pour out the wine, let's toast
+and pray for December snow ♪
+
+988
+00:59:24,429 --> 00:59:26,412
+♪ Yeah, there's been pain this year ♪
+
+989
+00:59:26,412 --> 00:59:28,312
+♪ But it's time to let it go ♪
+
+990
+00:59:28,312 --> 00:59:30,530
+♪ Next year, you never know ♪
+
+991
+00:59:30,530 --> 00:59:34,130
+♪ But for now, Merry Christmas ♪
+
+992
+00:59:34,130 --> 00:59:37,330
+♪ We'll dance in the
+kitchen while embers glow ♪
+
+993
+00:59:37,330 --> 00:59:41,751
+♪ We both know love, this love
+we got is the best of all ♪
+
+994
+00:59:41,751 --> 00:59:45,988
+♪ I wish you could see it through
+my eyes and you would know ♪
+
+995
+00:59:45,988 --> 00:59:48,090
+♪ My God you look beautiful ♪
+
+996
+00:59:48,090 --> 00:59:51,587
+♪ Right now Merry Christmas ♪
+
+997
+00:59:51,587 --> 00:59:55,130
+♪ And the fire is raging on ♪
+
+998
+00:59:55,130 --> 00:59:59,927
+♪ And we'll all sing along to the song ♪
+
+999
+00:59:59,927 --> 01:00:03,987
+♪ Just having so much fun ♪
+
+1000
+01:00:03,987 --> 01:00:07,207
+♪ While we're here can
+we all spare a thought ♪
+
+1001
+01:00:07,207 --> 01:00:12,207
+♪ For the ones who are gone
+Merry Christmas everyone ♪
+
+1002
+01:00:14,029 --> 01:00:18,048
+♪ Ah ♪
+
+1003
+01:00:18,048 --> 01:00:21,367
+♪ Ah ♪
+
+1004
+01:00:21,367 --> 01:00:24,967
+♪ So just keep kissing
+me under the mistletoe ♪
+
+1005
+01:00:24,967 --> 01:00:29,469
+♪ Pour out the wine, let's toast
+and pray for December snow ♪
+
+1006
+01:00:29,469 --> 01:00:31,431
+♪ Yeah, there's been pain this year ♪
+
+1007
+01:00:31,431 --> 01:00:33,847
+♪ But it's time to let it go ♪
+
+1008
+01:00:33,847 --> 01:00:36,071
+♪ Next year, you never know ♪
+
+1009
+01:00:36,071 --> 01:00:39,351
+♪ But for now, Merry Christmas ♪
+
+1010
+01:00:39,351 --> 01:00:42,450
+♪ We'll dance in the
+kitchen while embers glow ♪
+
+1011
+01:00:42,450 --> 01:00:47,154
+♪ We both know love, for this
+love we got is the best of all ♪
+
+1012
+01:00:47,154 --> 01:00:51,305
+♪ I wish you could see it through
+my eyes and you would know ♪
+
+1013
+01:00:51,305 --> 01:00:53,966
+♪ My God you look beautiful ♪
+
+1014
+01:00:53,966 --> 01:00:56,787
+♪ Right now Merry Christmas ♪
+
+1015
+01:00:56,787 --> 01:01:00,274
+♪ And I feel it when it come ♪
+
+1016
+01:01:00,274 --> 01:01:05,274
+♪ Every year helping us carry on ♪
+
+1017
+01:01:05,576 --> 01:01:08,795
+♪ Fill up with so much love ♪
+
+1018
+01:01:08,795 --> 01:01:12,275
+♪ All the family and
+friends are together ♪
+
+1019
+01:01:12,275 --> 01:01:15,313
+♪ Where we all belong ♪
+
+1020
+01:01:15,313 --> 01:01:18,804
+♪ Merry Christmas everyone ♪
+
+1021
+01:01:18,804 --> 01:01:23,136
+♪ Ah ♪
+
+1022
+01:01:23,136 --> 01:01:27,507
+♪ Ah ♪
+
+1023
+01:01:27,507 --> 01:01:31,886
+♪ Ah ♪
+
+1024
+01:01:31,886 --> 01:01:35,825
+♪ Ah ♪
+
+1025
+01:01:35,825 --> 01:01:40,825
+♪ It's Christmas time, for you
+and I we'll have a goodnight ♪
+
+1026
+01:01:41,855 --> 01:01:44,438
+♪ And a Merry Christmas ♪
+
+1027
+01:01:44,438 --> 01:01:49,438
+♪ It's Christmas time, for you
+and I we'll have a goodnight ♪
+
+1028
+01:01:50,576 --> 01:01:53,035
+♪ And a Merry Christmas ♪
+
+1029
+01:01:53,035 --> 01:01:58,035
+♪ It's Christmas time, for you
+and I we'll have a goodnight ♪
+
+1030
+01:01:59,296 --> 01:02:01,659
+♪ And a Merry Christmas ♪
+
+1031
+01:02:01,659 --> 01:02:06,659
+♪ It's Christmas time, for you
+and I we'll have a goodnight ♪
+
+1032
+01:02:07,932 --> 01:02:11,911
+♪ And a Merry Christmas time ♪
+
+1033
+01:02:11,911 --> 01:02:14,661
+(crowd applauds)
+
+1034
+01:02:17,339 --> 01:02:19,422
+Ashton Miranda, everyone.
+
+1035
+01:02:28,140 --> 01:02:29,582
+What's everyone think?
+
+1036
+01:02:29,582 --> 01:02:32,062
+(crowd applauds)
+
+1037
+01:02:32,062 --> 01:02:33,803
+I feel like with Christmas songs,
+
+1038
+01:02:33,803 --> 01:02:36,964
+you either go full in or you don't.
+
+1039
+01:02:36,964 --> 01:02:38,964
+So the video we chuck
+the kitchen sinken it,
+
+1040
+01:02:38,964 --> 01:02:41,474
+that, I mean, that's one sleigh bell.
+
+1041
+01:02:41,474 --> 01:02:42,476
+The actual recording of it
+
+1042
+01:02:42,476 --> 01:02:44,855
+has a lot more sleigh bells on it.
+
+1043
+01:02:44,855 --> 01:02:47,355
+Some ding-dong bells and yeah.
+
+1044
+01:02:48,215 --> 01:02:49,554
+Thank you so much for being here today.
+
+1045
+01:02:49,554 --> 01:02:51,815
+This has been really fun.
+Has everyone had fun?
+
+1046
+01:02:51,815 --> 01:02:54,535
+(crowd applauding)
+
+1047
+01:02:54,535 --> 01:02:55,783
+I just wanna say thank you to everyone
+
+1048
+01:02:55,783 --> 01:02:57,032
+that put on this event.
+
+1049
+01:02:57,032 --> 01:03:01,532
+It looks phenomenal and I
+had nothing to do with this.
+
+1050
+01:03:02,994 --> 01:03:04,556
+Thank you very much everyone
+who put on this event.
+
+1051
+01:03:04,556 --> 01:03:06,232
+Thank you for Amazon
+for making this happen.
+
+1052
+01:03:06,232 --> 01:03:08,434
+Thank you for you guys to
+going through all the protocols
+
+1053
+01:03:08,434 --> 01:03:12,055
+to come here and be safe and
+stand together and enjoy a gig.
+
+1054
+01:03:12,055 --> 01:03:14,417
+And I hope you have an amazing Christmas,
+
+1055
+01:03:14,417 --> 01:03:18,667
+and happy holidays, if
+Christmas ain't your thing.
+
+1056
+01:03:21,309 --> 01:03:23,820
+Thank you so much for letting
+me play some of this album
+
+1057
+01:03:23,820 --> 01:03:26,380
+for you and have an
+amazing rest of your day.
+
+1058
+01:03:26,380 --> 01:03:27,857
+This is my last song. Thank you.
+
+1059
+01:03:27,857 --> 01:03:30,774
+(crowd applauding)
+
+1060
+01:04:42,376 --> 01:04:47,376
+♪ Every time you come around,
+you know I can't say no ♪
+
+1061
+01:04:49,260 --> 01:04:54,260
+♪ Every time the sun goes
+down, I let you take control ♪
+
+1062
+01:04:56,837 --> 01:05:01,837
+♪ I can feel the paradise
+before my world implodes ♪
+
+1063
+01:05:04,498 --> 01:05:09,498
+♪ Tonight had something wonderful ♪
+
+1064
+01:05:10,898 --> 01:05:14,715
+♪ My bad habits lead to
+late nights, endin' alone ♪
+
+1065
+01:05:14,715 --> 01:05:18,508
+♪ Conversations with a
+stranger I barely know ♪
+
+1066
+01:05:18,508 --> 01:05:22,415
+♪ Swearin' this will be the
+last, but it probably won't ♪
+
+1067
+01:05:22,415 --> 01:05:26,112
+♪ I got nothin' left to
+lose, or use, or do ♪
+
+1068
+01:05:26,112 --> 01:05:30,272
+♪ My bad habits lead to
+wide eyes stare into space ♪
+
+1069
+01:05:30,272 --> 01:05:33,669
+♪ And I know I'll lose control
+of the things that I say ♪
+
+1070
+01:05:33,669 --> 01:05:37,567
+♪ Yeah, I was lookin' for a
+way out, now I can't escape ♪
+
+1071
+01:05:37,567 --> 01:05:41,586
+♪ Nothin' happens after
+two, it's true, it's true ♪
+
+1072
+01:05:41,586 --> 01:05:44,527
+♪ My bad habits lead to you ♪
+
+1073
+01:05:44,527 --> 01:05:49,404
+♪ Ooh-ooh, ooh-ooh ♪
+
+1074
+01:05:49,404 --> 01:05:52,207
+♪ My bad habits lead to you ♪
+
+1075
+01:05:52,207 --> 01:05:57,207
+♪ Ooh-ooh, ooh-ooh ♪
+
+1076
+01:05:59,247 --> 01:06:04,247
+♪ Every pure intention ends
+when the good times start ♪
+
+1077
+01:06:06,266 --> 01:06:11,266
+♪ Fallin' over everything to
+reach the first time's spark ♪
+
+1078
+01:06:13,842 --> 01:06:18,842
+♪ It started under neon lights
+and then it all got dark ♪
+
+1079
+01:06:21,760 --> 01:06:26,760
+♪ I only know how to go too far ♪
+
+1080
+01:06:28,063 --> 01:06:31,946
+♪ My bad habits lead to
+late nights, endin' alone ♪
+
+1081
+01:06:31,946 --> 01:06:35,726
+♪ Conversations with a
+stranger I barely know ♪
+
+1082
+01:06:35,726 --> 01:06:39,706
+♪ Swearin' this will be the
+last, but it probably won't ♪
+
+1083
+01:06:39,706 --> 01:06:43,285
+♪ I got nothin' left to
+lose, or use, or do ♪
+
+1084
+01:06:43,285 --> 01:06:47,386
+♪ My bad habits lead to
+wide eyes stare into space ♪
+
+1085
+01:06:47,386 --> 01:06:51,003
+♪ And I know I'll lose control
+of the things that I say ♪
+
+1086
+01:06:51,003 --> 01:06:55,066
+♪ was lookin' for a way
+out, now I can't escape ♪
+
+1087
+01:06:55,066 --> 01:06:58,767
+♪ Nothin' happens after
+two, it's true, it's true ♪
+
+1088
+01:06:58,767 --> 01:07:01,690
+♪ My bad habits lead to you ♪
+
+1089
+01:07:01,690 --> 01:07:06,586
+♪ Ooh-ooh, ooh-ooh ♪
+
+1090
+01:07:06,586 --> 01:07:09,407
+♪ My bad habits lead to you ♪
+
+1091
+01:07:09,407 --> 01:07:14,407
+♪ Ooh-ooh, ooh-ooh ♪
+
+1092
+01:07:16,309 --> 01:07:21,309
+♪ We took the long way 'round ♪
+
+1093
+01:07:23,407 --> 01:07:28,407
+♪ Burned 'til the fun ran out, now ♪
+
+1094
+01:07:30,181 --> 01:07:33,690
+♪ My bad habits lead to
+late nights, endin' alone ♪
+
+1095
+01:07:33,690 --> 01:07:37,450
+♪ Conversations with a
+stranger I barely know ♪
+
+1096
+01:07:37,450 --> 01:07:41,467
+♪ Swearin' this will be the
+last, but it probably won't ♪
+
+1097
+01:07:41,467 --> 01:07:45,087
+♪ I got nothin' left to
+lose, or use, or do ♪
+
+1098
+01:07:45,087 --> 01:07:49,061
+♪ My bad habits lead to
+wide eyes stare into space ♪
+
+1099
+01:07:49,061 --> 01:07:52,565
+♪ And I know I'll lose control
+of the things that I say ♪
+
+1100
+01:07:52,565 --> 01:07:56,784
+♪ I was lookin' for a way
+out, now I can't escape ♪
+
+1101
+01:07:56,784 --> 01:08:00,472
+♪ Nothin' happens after
+two, it's true, it's true ♪
+
+1102
+01:08:00,472 --> 01:08:03,469
+♪ My bad habits lead to you ♪
+
+1103
+01:08:03,469 --> 01:08:08,213
+♪ Ooh-ooh, ooh-ooh ♪
+
+1104
+01:08:08,213 --> 01:08:11,130
+♪ My bad habits lead to you ♪
+
+1105
+01:08:11,130 --> 01:08:16,130
+♪ Ooh-ooh, ooh-ooh ♪
+
+1106
+01:08:16,170 --> 01:08:18,565
+♪ My bad habits lead to you ♪
+
+1107
+01:08:18,565 --> 01:08:21,486
+(crowd applauds)
+
+1108
+01:08:21,486 --> 01:08:22,577
+Have a wonderful rest of your day.
+
+1109
+01:08:22,577 --> 01:08:23,410
+Thank you so much.
+
+1110
+01:08:23,410 --> 01:08:26,160
+(crowd cheering)
+
+1111
+01:08:35,500 --> 01:08:38,250
+(crowd clapping)
+
+1112
+01:08:54,798 --> 01:08:57,465
+(gentle music)
+
+
+
