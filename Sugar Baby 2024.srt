@@ -1,0 +1,6204 @@
+﻿1
+00:00:02,000 --> 00:00:07,000
+.
+
+2
+00:00:08,000 --> 00:00:13,000
+.
+
+3
+00:00:15,849 --> 00:00:18,385
+[woman vocalizing]
+
+4
+00:00:24,224 --> 00:00:26,726
+[indistinct radio chatter]
+
+5
+00:00:26,793 --> 00:00:29,329
+[mellow music]
+
+6
+00:00:31,564 --> 00:00:34,501
+[siren wailing]
+
+7
+00:00:54,621 --> 00:00:56,089
+[zipper whirrs]
+
+8
+00:01:08,134 --> 00:01:10,637
+[birds chirping]
+
+9
+00:01:17,077 --> 00:01:18,478
+Ready when you are, Ms. King.
+
+10
+00:01:18,545 --> 00:01:19,813
+Thank you.
+
+11
+00:01:19,879 --> 00:01:20,880
+I'll be right there.
+
+12
+00:01:28,922 --> 00:01:30,423
+Students,
+
+13
+00:01:30,490 --> 00:01:32,759
+we are honored to have our guest speaker with us today.
+
+14
+00:01:32,826 --> 00:01:35,595
+She made waves with her early backing
+
+15
+00:01:35,662 --> 00:01:38,498
+of Generation Coders, a groundbreaking company
+
+16
+00:01:38,565 --> 00:01:41,167
+that empowers children to become AI pioneers.
+
+17
+00:01:41,234 --> 00:01:44,771
+Not only is she an influential investor in the tech industry,
+
+18
+00:01:44,838 --> 00:01:47,307
+she's a visionary leader with a track record
+
+19
+00:01:47,373 --> 00:01:50,910
+of nurturing innovations into global success stories.
+
+20
+00:01:50,977 --> 00:01:54,781
+It is my pleasure to welcome Ms. Veronica King.
+
+21
+00:01:54,848 --> 00:01:56,483
+[applauding]
+
+22
+00:01:58,685 --> 00:01:59,586
+Thank you.
+
+23
+00:01:59,652 --> 00:02:02,589
+It inspires me to be here as well.
+
+24
+00:02:02,655 --> 00:02:06,626
+You were the driving force of the next wave of technology.
+
+25
+00:02:06,693 --> 00:02:11,598
+It is important to learn early how to invest in...
+
+26
+00:02:13,399 --> 00:02:15,268
+Nice of you to join us, Mike.
+
+27
+00:02:17,270 --> 00:02:19,839
+As I was saying,
+
+28
+00:02:19,906 --> 00:02:21,274
+I, uh...
+
+29
+00:02:23,209 --> 00:02:25,311
+it is important to learn early
+
+30
+00:02:25,378 --> 00:02:28,815
+how to invest in low-risk portfolios.
+
+31
+00:02:34,053 --> 00:02:36,623
+-Good to meet you. -Yeah, nice to meet you, too.
+
+32
+00:02:36,689 --> 00:02:37,657
+[camera clicks]
+
+33
+00:02:38,958 --> 00:02:40,493
+Thank you.
+
+34
+00:02:40,560 --> 00:02:42,829
+Thank you so much for having me. It was a pleasure.
+
+35
+00:02:47,700 --> 00:02:49,802
+Ms. King...
+
+36
+00:02:49,869 --> 00:02:52,138
+I feel really bad for interrupting your presentation,
+
+37
+00:02:52,205 --> 00:02:53,473
+so I wanted to say sorry about that.
+
+38
+00:02:53,540 --> 00:02:55,241
+It's not a problem.
+
+39
+00:02:55,308 --> 00:02:57,076
+Mike Sheppard.
+
+40
+00:02:57,143 --> 00:02:58,578
+Hi, Mike.
+
+41
+00:02:58,645 --> 00:02:59,879
+I've been following your career since you invested
+
+42
+00:02:59,946 --> 00:03:02,582
+in this finance app I use, JumpFunder.
+
+43
+00:03:02,649 --> 00:03:04,484
+Don't tell my friends, but I'm kind of a fan.
+
+44
+00:03:04,551 --> 00:03:06,953
+[chuckles] I won't tell anyone.
+
+45
+00:03:07,020 --> 00:03:09,522
+Okay, so, look, I'm actually working on an app myself
+
+46
+00:03:09,589 --> 00:03:11,424
+to promote healthier lifestyles.
+
+47
+00:03:11,491 --> 00:03:14,160
+Would you by chance be offering any mentorship programs?
+
+48
+00:03:14,227 --> 00:03:15,862
+No, sorry, not at the moment,
+
+49
+00:03:15,929 --> 00:03:18,164
+but definitely keep going with that idea.
+
+50
+00:03:18,231 --> 00:03:19,766
+It sounds like a game-changer.
+
+51
+00:03:19,832 --> 00:03:22,435
+Well, it was worth a shot. Thanks anyway.
+
+52
+00:03:22,502 --> 00:03:24,170
+Really great presentation too, by the way.
+
+53
+00:03:24,237 --> 00:03:26,372
+Thank you.
+
+54
+00:03:26,439 --> 00:03:28,441
+Greg, I can't believe how much he puts me
+
+55
+00:03:28,508 --> 00:03:30,944
+in the mind of Jayson.
+
+56
+00:03:31,010 --> 00:03:32,478
+It's not necessary looks.
+
+57
+00:03:32,545 --> 00:03:34,581
+It's his mannerism.
+
+58
+00:03:34,647 --> 00:03:37,684
+[Veronica] He has such a confidence in himself.
+
+59
+00:03:37,750 --> 00:03:40,587
+You sure putting yourself in that environment is a good idea?
+
+60
+00:03:40,653 --> 00:03:44,257
+It feels good knowing that I'm helping kids Jayson's age.
+
+61
+00:03:44,324 --> 00:03:45,658
+[Greg] Understood.
+
+62
+00:03:45,725 --> 00:03:48,928
+And you've been handling everything very well.
+
+63
+00:03:48,995 --> 00:03:50,396
+It's just that I wouldn't want to see you
+
+64
+00:03:50,463 --> 00:03:52,131
+go back into that dark period.
+
+65
+00:03:52,198 --> 00:03:54,300
+[Greg] I wouldn't mention it if I didn't care about you.
+
+66
+00:03:54,367 --> 00:03:56,803
+I know. Come by later?
+
+67
+00:03:56,869 --> 00:03:58,004
+You got it.
+
+68
+00:04:01,074 --> 00:04:02,475
+Ooh.
+
+69
+00:04:02,542 --> 00:04:05,778
+Here we go. [gasps] There's something on your face.
+
+70
+00:04:08,748 --> 00:04:10,350
+[sighs] Bye.
+
+71
+00:04:10,416 --> 00:04:11,484
+Excuse me.
+
+72
+00:04:11,551 --> 00:04:13,720
+Oh, you're Veronica King.
+
+73
+00:04:13,786 --> 00:04:16,222
+I watched your interview last week on TEDtime Live.
+
+74
+00:04:16,289 --> 00:04:17,724
+Thank you.
+
+75
+00:04:17,790 --> 00:04:20,159
+I couldn't help but notice your companion.
+
+76
+00:04:20,226 --> 00:04:22,228
+Babies. [chuckles]
+
+77
+00:04:22,295 --> 00:04:24,330
+No sense in being shy about the truth.
+
+78
+00:04:24,397 --> 00:04:26,366
+When it comes to my age, you stop worrying about
+
+79
+00:04:26,432 --> 00:04:29,168
+what people think and focus on being happy.
+
+80
+00:04:29,235 --> 00:04:34,173
+And those two... [sighs] make mama very happy. [chuckles]
+
+81
+00:04:34,240 --> 00:04:35,541
+You're dating both of them.
+
+82
+00:04:35,608 --> 00:04:36,876
+Oh, no, I ditched that.
+
+83
+00:04:36,943 --> 00:04:38,511
+I thought I was looking for love,
+
+84
+00:04:38,578 --> 00:04:40,980
+but really, I just wanted companionship.
+
+85
+00:04:41,047 --> 00:04:43,216
+So now I focus on the sugar baby apps.
+
+86
+00:04:43,283 --> 00:04:47,353
+It's kind of like a "pay-to-play" relationship.
+
+87
+00:04:47,420 --> 00:04:50,356
+Like picking from a menu.
+
+88
+00:04:50,423 --> 00:04:52,792
+-What's the name of the app? -[chuckles]
+
+89
+00:04:54,294 --> 00:04:55,628
+[Andrew] Uh, yes, I was just checking in
+
+90
+00:04:55,695 --> 00:04:58,364
+to make sure we were still good for 1:00.
+
+91
+00:04:58,431 --> 00:05:00,099
+-Sugar Finders. -Yes.
+
+92
+00:05:00,166 --> 00:05:02,235
+-Uh. -What?
+
+93
+00:05:02,302 --> 00:05:03,903
+This app. Have you heard of it?
+
+94
+00:05:03,970 --> 00:05:06,506
+Well, a little too young to be a sugar daddy.
+
+95
+00:05:07,774 --> 00:05:09,876
+So, it's for older people?
+
+96
+00:05:09,942 --> 00:05:11,411
+Yeah, specifically,
+
+97
+00:05:11,477 --> 00:05:15,915
+one looking for the company of a much younger persuasion.
+
+98
+00:05:15,982 --> 00:05:17,784
+You know, you pay them for their time,
+
+99
+00:05:17,850 --> 00:05:21,387
+attention, affection, sex, whatever you need.
+
+100
+00:05:22,121 --> 00:05:23,556
+You interested in that?
+
+101
+00:05:23,623 --> 00:05:25,958
+What in the world would I do with a sugar baby? No.
+
+102
+00:05:26,025 --> 00:05:29,862
+I think it would be a potential investment opportunity.
+
+103
+00:05:29,929 --> 00:05:31,097
+Just business.
+
+104
+00:05:31,164 --> 00:05:32,865
+My shero.
+
+105
+00:05:32,932 --> 00:05:36,102
+All business, all the time. [chuckles]
+
+106
+00:05:36,169 --> 00:05:37,337
+Just don't forget about me
+
+107
+00:05:37,403 --> 00:05:38,371
+when you're handing out promotions.
+
+108
+00:05:38,438 --> 00:05:39,739
+Of course.
+
+109
+00:05:39,806 --> 00:05:41,741
+Run some reports for me on this app.
+
+110
+00:05:41,808 --> 00:05:44,510
+If it's that popular, I think it could be worth looking into.
+
+111
+00:05:46,412 --> 00:05:47,947
+[engine revving]
+
+112
+00:05:49,549 --> 00:05:51,651
+[doorbell rings]
+
+113
+00:05:54,354 --> 00:05:55,621
+[door opens]
+
+114
+00:05:55,688 --> 00:05:58,157
+[whimsical music]
+
+115
+00:06:02,261 --> 00:06:04,831
+Beverly, I'm glad you're here.
+
+116
+00:06:04,897 --> 00:06:06,632
+I missed you.
+
+117
+00:06:06,699 --> 00:06:08,201
+I'm gonna cut right to the chase.
+
+118
+00:06:08,267 --> 00:06:09,369
+What's up?
+
+119
+00:06:09,435 --> 00:06:11,537
+It's clear that your personal life
+
+120
+00:06:11,604 --> 00:06:12,805
+has become a distraction
+
+121
+00:06:12,872 --> 00:06:14,207
+from your responsibilities to me.
+
+122
+00:06:14,273 --> 00:06:16,042
+I'm trying the best I can.
+
+123
+00:06:16,109 --> 00:06:18,010
+I'm juggling you, school, and everything.
+
+124
+00:06:18,077 --> 00:06:22,048
+Oh, and I wish you well with your... education,
+
+125
+00:06:22,115 --> 00:06:23,883
+but I'm terminating this agreement.
+
+126
+00:06:23,950 --> 00:06:26,586
+Whoa, whoa. Wait, wait, wait, wait.
+
+127
+00:06:26,652 --> 00:06:28,988
+You're right, okay?
+
+128
+00:06:29,055 --> 00:06:31,758
+Let me make it up to you. What I gotta do?
+
+129
+00:06:31,824 --> 00:06:36,028
+[chuckles] Nothing my new sugar baby can't handle, dear.
+
+130
+00:06:37,997 --> 00:06:39,365
+Wait, what about the rest of my money?
+
+131
+00:06:39,432 --> 00:06:41,067
+You still owe me eight grand.
+
+132
+00:06:41,134 --> 00:06:45,405
+You get paid for our service when you complete the service.
+
+133
+00:06:45,471 --> 00:06:46,706
+Our business has concluded,
+
+134
+00:06:46,773 --> 00:06:48,908
+and I don't owe you another penny.
+
+135
+00:06:52,078 --> 00:06:53,112
+Good luck, Mike.
+
+136
+00:06:57,483 --> 00:06:58,851
+[exhales]
+
+137
+00:06:59,886 --> 00:07:01,020
+[Gia] Do you think she figured out
+
+138
+00:07:01,087 --> 00:07:02,688
+we were dating and not roommates?
+
+139
+00:07:02,755 --> 00:07:04,056
+[Mike] I doubt it.
+
+140
+00:07:04,123 --> 00:07:06,559
+Beverly was too damn clingy anyway.
+
+141
+00:07:06,626 --> 00:07:08,227
+Forget her, I'll find somebody else.
+
+142
+00:07:08,294 --> 00:07:10,596
+Babe, we needed that income.
+
+143
+00:07:10,663 --> 00:07:12,165
+We have tuition due in two weeks.
+
+144
+00:07:12,231 --> 00:07:13,366
+I know, I know.
+
+145
+00:07:13,433 --> 00:07:15,234
+-Do you think I need to-- -No.
+
+146
+00:07:15,301 --> 00:07:17,270
+We agreed that I would do these arrangements,
+
+147
+00:07:17,336 --> 00:07:19,172
+so you won't be involved in anything dangerous.
+
+148
+00:07:19,238 --> 00:07:22,208
+Look, maybe I can pick up a few more hours tutoring.
+
+149
+00:07:22,275 --> 00:07:23,810
+I want to help you, okay?
+
+150
+00:07:23,876 --> 00:07:25,511
+I don't want this to be too much on you.
+
+151
+00:07:25,578 --> 00:07:27,947
+Babe, I got it, all right?
+
+152
+00:07:28,014 --> 00:07:29,515
+I'll make sure I do what I gotta do
+
+153
+00:07:29,582 --> 00:07:31,217
+to take care of us, I promise.
+
+154
+00:07:32,552 --> 00:07:33,820
+You want a slice of cheesecake
+
+155
+00:07:33,886 --> 00:07:35,588
+from that bakery you like on campus?
+
+156
+00:07:35,655 --> 00:07:37,390
+-I love you. -I love you more.
+
+157
+00:07:37,457 --> 00:07:40,593
+[dramatic music]
+
+158
+00:07:44,430 --> 00:07:46,165
+[doorbell rings]
+
+159
+00:07:46,232 --> 00:07:47,633
+Coming.
+
+160
+00:07:49,669 --> 00:07:51,771
+-Good evening. -[creaks]
+
+161
+00:07:51,838 --> 00:07:54,006
+I got some reports on the Sugar Finders app
+
+162
+00:07:54,073 --> 00:07:55,374
+like you asked.
+
+163
+00:07:55,441 --> 00:07:56,509
+[Greg] Hey-hey, Andrew.
+
+164
+00:07:56,576 --> 00:07:58,444
+[laughs]
+
+165
+00:07:58,511 --> 00:08:01,647
+-Mm. -Mm. [chuckles]
+
+166
+00:08:01,714 --> 00:08:03,316
+I'm on call tonight, so I gotta head out.
+
+167
+00:08:03,382 --> 00:08:05,685
+You promise you call me if you need anything?
+
+168
+00:08:05,751 --> 00:08:07,954
+Of course, as I always do.
+
+169
+00:08:08,020 --> 00:08:09,121
+Mm-hmm.
+
+170
+00:08:12,725 --> 00:08:14,260
+Have a good night, Andrew.
+
+171
+00:08:18,598 --> 00:08:20,233
+Okay, let me see what you have.
+
+172
+00:08:24,537 --> 00:08:27,406
+[Andrew] You and Greg seem pretty close.
+
+173
+00:08:27,473 --> 00:08:31,777
+Greg is and always will be my best friend, that's it.
+
+174
+00:08:31,844 --> 00:08:34,013
+I just mean it's nice to see
+
+175
+00:08:34,080 --> 00:08:35,748
+a man putting a smile on your face.
+
+176
+00:08:35,815 --> 00:08:37,517
+Even though everything happened with your husband
+
+177
+00:08:37,583 --> 00:08:39,252
+before I came around,
+
+178
+00:08:39,318 --> 00:08:41,120
+I've seen the toll it's taken on you.
+
+179
+00:08:45,525 --> 00:08:47,660
+What'd you find out about the app?
+
+180
+00:08:47,727 --> 00:08:49,529
+Numbers look promising.
+
+181
+00:08:49,595 --> 00:08:51,063
+In the first year,
+
+182
+00:08:51,130 --> 00:08:53,099
+they're anticipating to generate five million in revenue
+
+183
+00:08:53,165 --> 00:08:55,535
+with a gross profit margin of 75%.
+
+184
+00:08:55,601 --> 00:08:59,005
+Their user acquisition is aggressive,
+
+185
+00:08:59,071 --> 00:09:02,008
+but we have to trust market research.
+
+186
+00:09:02,074 --> 00:09:05,077
+Very true, especially with a startup so new.
+
+187
+00:09:05,144 --> 00:09:08,381
+It would be ideal if we could locate one of their users,
+
+188
+00:09:08,447 --> 00:09:11,350
+you know, maybe talk to them, get some first-hand knowledge.
+
+189
+00:09:13,219 --> 00:09:15,221
+-What are you doing? -A field test.
+
+190
+00:09:15,288 --> 00:09:18,758
+I need to find out for myself how this thing works.
+
+191
+00:09:18,824 --> 00:09:21,060
+Simplistic interface,
+
+192
+00:09:21,127 --> 00:09:23,095
+-visually appealing... -Yep.
+
+193
+00:09:23,162 --> 00:09:28,200
+...organized, unique scheduling features...
+
+194
+00:09:29,335 --> 00:09:30,303
+in-app messaging.
+
+195
+00:09:31,771 --> 00:09:33,239
+I'm curious if--
+
+196
+00:09:35,908 --> 00:09:38,277
+What, what's wrong?
+
+197
+00:09:38,344 --> 00:09:40,246
+Nothing. I was just saying
+
+198
+00:09:40,313 --> 00:09:43,316
+I'm curious if they have high subscription retention.
+
+199
+00:09:45,318 --> 00:09:47,253
+Find out if we can set up a meeting
+
+200
+00:09:47,320 --> 00:09:48,588
+with the app executives.
+
+201
+00:09:48,654 --> 00:09:51,190
+[soft music]
+
+202
+00:09:55,161 --> 00:09:58,998
+-[keys clicking] -[phone vibrating]
+
+203
+00:10:07,540 --> 00:10:09,976
+Babe, look at this. Come here.
+
+204
+00:10:13,012 --> 00:10:14,747
+Look.
+
+205
+00:10:14,814 --> 00:10:17,216
+Veronica King? Since when is she a sugar mama?
+
+206
+00:10:17,283 --> 00:10:19,051
+I don't know, but this could be our answer.
+
+207
+00:10:19,118 --> 00:10:20,753
+-Mm -This could set us up
+
+208
+00:10:20,820 --> 00:10:22,989
+to where I don't even have to do this no more.
+
+209
+00:10:23,055 --> 00:10:24,056
+You think she'll be interested?
+
+210
+00:10:24,123 --> 00:10:26,425
+Trust me, I'll make sure she is.
+
+211
+00:10:26,492 --> 00:10:27,827
+I'll do whatever she says
+
+212
+00:10:27,893 --> 00:10:29,362
+and give her all the attention she needs.
+
+213
+00:10:29,428 --> 00:10:32,398
+This one gonna take care of us just like I promised.
+
+214
+00:10:32,465 --> 00:10:34,467
+[soft chuckles]
+
+215
+00:10:34,533 --> 00:10:37,069
+[calm music]
+
+216
+00:10:39,405 --> 00:10:43,843
+"He longed to become real to know what it felt like.
+
+217
+00:10:48,648 --> 00:10:50,216
+He was a Real Rabbit at last,
+
+218
+00:10:51,283 --> 00:10:53,452
+and at home with the other rabbits."
+
+219
+00:10:59,425 --> 00:11:00,793
+I love you, my sunshine.
+
+220
+00:11:02,228 --> 00:11:03,863
+Good night.
+
+221
+00:11:03,929 --> 00:11:05,464
+[phone chimes]
+
+222
+00:11:13,506 --> 00:11:16,042
+[dramatic music]
+
+223
+00:11:29,422 --> 00:11:32,525
+[Sharon] How has it been since our last session, Veronica?
+
+224
+00:11:32,591 --> 00:11:35,294
+The grief comes in waves.
+
+225
+00:11:35,361 --> 00:11:36,362
+Sometimes it's so heavy
+
+226
+00:11:36,429 --> 00:11:39,231
+I don't know how I'll get out of bed.
+
+227
+00:11:39,298 --> 00:11:41,000
+[Sharon] You have to be gentle with yourself.
+
+228
+00:11:41,067 --> 00:11:43,169
+I know I've been saying that ten years is a long time,
+
+229
+00:11:43,235 --> 00:11:45,071
+but it doesn't really seem like that
+
+230
+00:11:45,137 --> 00:11:48,541
+when you're trying to survive living without your husband.
+
+231
+00:11:48,607 --> 00:11:51,677
+How's your son coping with the death of his father?
+
+232
+00:11:51,744 --> 00:11:53,813
+-Is he still traveling? -Yeah.
+
+233
+00:11:54,880 --> 00:11:56,082
+It's hard for him, too.
+
+234
+00:11:56,148 --> 00:11:57,817
+Have you spoken with him lately?
+
+235
+00:11:57,883 --> 00:12:01,454
+Yes. He's on one of those alphabet trips.
+
+236
+00:12:01,520 --> 00:12:03,656
+A location for each letter.
+
+237
+00:12:03,723 --> 00:12:06,225
+I think he's in Dubai now.
+
+238
+00:12:06,292 --> 00:12:07,460
+Egypt is next.
+
+239
+00:12:08,561 --> 00:12:11,130
+And how is he feeling?
+
+240
+00:12:13,432 --> 00:12:14,433
+Not too good.
+
+241
+00:12:15,901 --> 00:12:17,436
+I just want to protect him.
+
+242
+00:12:19,472 --> 00:12:20,840
+Do you have kids, Sharon?
+
+243
+00:12:20,906 --> 00:12:24,376
+[chuckles] Ah, I do. Two little girls.
+
+244
+00:12:24,443 --> 00:12:28,013
+So I know exactly what you mean by wanting to protect your son.
+
+245
+00:12:29,381 --> 00:12:32,518
+A mother's unconditional love is a powerful thing.
+
+246
+00:12:32,585 --> 00:12:34,854
+Do you ever feel like you're not a good mother?
+
+247
+00:12:34,920 --> 00:12:36,989
+[Sharon] Yes.
+
+248
+00:12:37,056 --> 00:12:39,925
+And those feelings are completely normal.
+
+249
+00:12:41,360 --> 00:12:44,063
+Any setbacks are valuable life lessons
+
+250
+00:12:44,130 --> 00:12:47,233
+that could lead to development and resilience.
+
+251
+00:12:47,299 --> 00:12:50,035
+They're opportunities for growth.
+
+252
+00:12:50,102 --> 00:12:53,339
+And you learn a lot more about yourself in the end.
+
+253
+00:13:04,350 --> 00:13:06,619
+You know, it was good to see your profile on the app.
+
+254
+00:13:06,685 --> 00:13:08,854
+I didn't know you were into this kind of lifestyle.
+
+255
+00:13:08,921 --> 00:13:10,289
+I'm not actually.
+
+256
+00:13:10,356 --> 00:13:12,258
+I'm looking to invest in Sugar Finders.
+
+257
+00:13:12,324 --> 00:13:14,827
+So I was just doing some research.
+
+258
+00:13:14,894 --> 00:13:16,428
+Wait, so you're not interested
+
+259
+00:13:16,495 --> 00:13:18,297
+in an arrangement with a sugar baby?
+
+260
+00:13:19,765 --> 00:13:21,400
+So why did you agree to me?
+
+261
+00:13:21,467 --> 00:13:23,636
+[Veronica] We might as well talk about it, Mike.
+
+262
+00:13:23,702 --> 00:13:25,638
+Especially since you mentioned an interest
+
+263
+00:13:25,704 --> 00:13:27,139
+in a mentorship anyway.
+
+264
+00:13:30,075 --> 00:13:34,580
+We'll both have a glass of Chateau D'Anielle
+
+265
+00:13:34,647 --> 00:13:37,216
+and oysters topped with caviar.
+
+266
+00:13:38,184 --> 00:13:41,487
+Wow. You have nice taste.
+
+267
+00:13:41,554 --> 00:13:43,355
+I like to think so.
+
+268
+00:13:43,422 --> 00:13:48,260
+So tell me how you found your way on Sugar Finders.
+
+269
+00:13:48,327 --> 00:13:49,728
+Well, honestly, I need to do this
+
+270
+00:13:49,795 --> 00:13:51,197
+to finance my education.
+
+271
+00:13:51,263 --> 00:13:52,965
+And I also want to start up my own tech business
+
+272
+00:13:53,032 --> 00:13:54,300
+after college, so...
+
+273
+00:13:54,366 --> 00:13:55,768
+Ambition.
+
+274
+00:13:55,835 --> 00:13:57,503
+Admirable.
+
+275
+00:13:57,570 --> 00:14:01,707
+Do your parents agree with your job?
+
+276
+00:14:01,774 --> 00:14:04,610
+My mom left me and my dad when I was about five years old.
+
+277
+00:14:04,677 --> 00:14:06,812
+And I don't have any brothers or sisters, so...
+
+278
+00:14:06,879 --> 00:14:09,215
+I'm sorry about that.
+
+279
+00:14:09,281 --> 00:14:11,650
+-Are you and your dad close? -Not really.
+
+280
+00:14:11,717 --> 00:14:15,087
+He was a military guy, so he was kind of a hard-ass.
+
+281
+00:14:15,154 --> 00:14:17,356
+I never really got much love from him.
+
+282
+00:14:17,423 --> 00:14:20,059
+We don't talk much, so I pretty much do everything in my own.
+
+283
+00:14:20,793 --> 00:14:21,894
+How about you?
+
+284
+00:14:21,961 --> 00:14:24,864
+Not much to tell. I'm a widow.
+
+285
+00:14:24,930 --> 00:14:29,668
+I have one son who's about your age.
+
+286
+00:14:29,735 --> 00:14:34,139
+He's my world. So, Mike, how does this work?
+
+287
+00:14:35,040 --> 00:14:36,208
+This is all new to me.
+
+288
+00:14:36,275 --> 00:14:37,576
+Okay, so, basically,
+
+289
+00:14:37,643 --> 00:14:39,411
+you would pay me to do whatever it is
+
+290
+00:14:39,478 --> 00:14:40,746
+you need me to do.
+
+291
+00:14:40,813 --> 00:14:44,917
+-And if you ever get lonely or-- -No, nothing like that.
+
+292
+00:14:44,984 --> 00:14:47,786
+I'm not looking for companionship.
+
+293
+00:14:47,853 --> 00:14:49,588
+Let's just be clear.
+
+294
+00:14:49,655 --> 00:14:51,023
+That's fine.
+
+295
+00:14:51,090 --> 00:14:52,658
+So what exactly are you looking for?
+
+296
+00:14:52,725 --> 00:14:56,328
+I told you I'm looking to invest in Sugar Finders.
+
+297
+00:14:56,395 --> 00:14:59,198
+I was thinking you can act like my field test.
+
+298
+00:14:59,265 --> 00:15:03,836
+Helping me to delve further into the app's operations.
+
+299
+00:15:03,903 --> 00:15:05,704
+Yeah, that's easy.
+
+300
+00:15:05,771 --> 00:15:08,841
+You could also accompany me to tech events,
+
+301
+00:15:08,908 --> 00:15:10,576
+to network and connect.
+
+302
+00:15:10,643 --> 00:15:13,846
+You could provide me feedback about your experiences
+
+303
+00:15:13,913 --> 00:15:17,082
+and further influence my decision.
+
+304
+00:15:17,149 --> 00:15:19,084
+Okay, now that, kind of, sounds like companionship,
+
+305
+00:15:19,151 --> 00:15:21,954
+-wouldn't you say? -Absolutely not.
+
+306
+00:15:22,021 --> 00:15:24,790
+This is strictly business, understand?
+
+307
+00:15:24,857 --> 00:15:26,058
+Whatever you say.
+
+308
+00:15:27,760 --> 00:15:29,094
+So when do we start?
+
+309
+00:15:29,962 --> 00:15:31,563
+What's your fee?
+
+310
+00:15:31,630 --> 00:15:33,766
+Ten thousand for three months and I'm all yours.
+
+311
+00:15:33,832 --> 00:15:36,135
+Ten thousand?
+
+312
+00:15:36,201 --> 00:15:37,870
+I thought it was going to be much more than that,
+
+313
+00:15:37,937 --> 00:15:39,038
+to be honest.
+
+314
+00:15:39,104 --> 00:15:41,006
+[phone vibrates]
+
+315
+00:15:44,977 --> 00:15:47,212
+One more thing.
+
+316
+00:15:47,279 --> 00:15:49,882
+I'm paying you for your accessibility.
+
+317
+00:15:49,949 --> 00:15:52,184
+I want to be sure you're focused.
+
+318
+00:15:52,251 --> 00:15:55,554
+Do you have any distractions, relationships,
+
+319
+00:15:55,621 --> 00:15:59,258
+other sugar mamas or anything that might interfere?
+
+320
+00:15:59,325 --> 00:16:03,696
+If so, tell me now. Before I waste my time.
+
+321
+00:16:04,830 --> 00:16:06,198
+Not at all.
+
+322
+00:16:06,265 --> 00:16:09,101
+I'm focused and ready.
+
+323
+00:16:13,505 --> 00:16:17,576
+-[phone ringing] -[sniffs]
+
+324
+00:16:18,911 --> 00:16:20,646
+[sighs]
+
+325
+00:16:24,483 --> 00:16:27,353
+-Hello? -Good morning.
+
+326
+00:16:27,419 --> 00:16:29,822
+I didn't wake you, did I?
+
+327
+00:16:29,888 --> 00:16:31,623
+No, I'm up. What's good?
+
+328
+00:16:31,690 --> 00:16:34,360
+I have a tech fundraising event to attend this weekend
+
+329
+00:16:34,426 --> 00:16:37,363
+and I think it's a good idea if you come with me.
+
+330
+00:16:37,429 --> 00:16:39,198
+[Mike] For sure. Yeah, sounds fun.
+
+331
+00:16:39,264 --> 00:16:40,432
+It's a gala.
+
+332
+00:16:40,499 --> 00:16:42,267
+Do you have something formal to wear?
+
+333
+00:16:44,069 --> 00:16:46,538
+Uh...
+
+334
+00:16:46,605 --> 00:16:50,209
+I mean I can wear the same suit I wore last night to dinner.
+
+335
+00:16:50,275 --> 00:16:51,877
+Text me your address.
+
+336
+00:16:51,944 --> 00:16:54,346
+I'm sending a car in an hour so we can do some shopping.
+
+337
+00:16:54,413 --> 00:16:55,647
+[Mike] All right. Cool.
+
+338
+00:17:02,021 --> 00:17:04,556
+[upbeat music]
+
+339
+00:17:08,227 --> 00:17:09,862
+I told you this is a gala,
+
+340
+00:17:09,928 --> 00:17:14,266
+which means we need something that makes you look like a boss.
+
+341
+00:17:14,333 --> 00:17:16,001
+Like you belong in that room.
+
+342
+00:17:16,068 --> 00:17:17,736
+[scoffs] Okay, cool.
+
+343
+00:17:17,803 --> 00:17:19,905
+So what else you need me to do there other than network?
+
+344
+00:17:19,972 --> 00:17:21,273
+I'll be looking for you to give me
+
+345
+00:17:21,340 --> 00:17:23,475
+a different perspective on the tech landscape.
+
+346
+00:17:23,542 --> 00:17:25,744
+Observe the guests, their behaviors,
+
+347
+00:17:25,811 --> 00:17:28,147
+their trends, and interactions.
+
+348
+00:17:28,213 --> 00:17:31,050
+It will help me when I'm doing my investing.
+
+349
+00:17:31,116 --> 00:17:32,651
+All right. Got it.
+
+350
+00:17:34,219 --> 00:17:36,655
+We need something that says elite.
+
+351
+00:17:36,722 --> 00:17:39,158
+Something that commands attention.
+
+352
+00:17:43,429 --> 00:17:46,131
+♪ Yeah, yeah ♪
+
+353
+00:17:46,198 --> 00:17:48,200
+♪ Confidence on a heartbeat ♪
+
+354
+00:17:48,267 --> 00:17:50,369
+♪ Living life like I want it ♪
+
+355
+00:17:50,436 --> 00:17:52,671
+♪ I'mma stay and enjoy it ♪
+
+356
+00:17:52,738 --> 00:17:54,373
+♪ Yeah, yeah ♪
+
+357
+00:17:54,440 --> 00:17:56,642
+♪ Better call up the booties ♪
+
+358
+00:17:56,708 --> 00:17:59,011
+♪ Place your bets On the new me ♪
+
+359
+00:17:59,078 --> 00:18:01,213
+♪ All the eyes looking to see ♪
+
+360
+00:18:02,181 --> 00:18:04,249
+♪ Cheers to me ♪
+
+361
+00:18:05,250 --> 00:18:09,455
+♪ Ready for the world to see ♪
+
+362
+00:18:09,521 --> 00:18:13,292
+♪ I'm exactly where I knew I'll always be ♪
+
+363
+00:18:13,358 --> 00:18:14,960
+♪ Oh, we ♪
+
+364
+00:18:15,027 --> 00:18:17,996
+♪ Cheers to me ♪
+
+365
+00:18:18,063 --> 00:18:21,233
+♪ Ready for the world to see ♪
+
+366
+00:18:26,038 --> 00:18:28,907
+I'm gonna need a bigger closet for all this stuff you bought.
+
+367
+00:18:28,974 --> 00:18:30,342
+You're more than welcome
+
+368
+00:18:30,409 --> 00:18:32,177
+to keep some of the stuff at my place, Jayson.
+
+369
+00:18:33,679 --> 00:18:34,746
+Who's Jayson?
+
+370
+00:18:38,584 --> 00:18:40,052
+My son.
+
+371
+00:18:40,119 --> 00:18:41,954
+-I'm sorry. -Nah, it's all good.
+
+372
+00:18:42,020 --> 00:18:44,623
+-Where is he? -Traveling.
+
+373
+00:18:44,690 --> 00:18:46,825
+I can't really keep up with him anymore.
+
+374
+00:18:50,362 --> 00:18:51,830
+Wait for me outside
+
+375
+00:18:51,897 --> 00:18:55,033
+and I'm gonna use the restroom and call the car.
+
+376
+00:18:55,100 --> 00:18:57,636
+[dramatic music]
+
+377
+00:19:19,224 --> 00:19:20,325
+[sighs]
+
+378
+00:19:20,392 --> 00:19:21,894
+Are you nervous?
+
+379
+00:19:21,960 --> 00:19:23,896
+I just want to make a good impression, that's all.
+
+380
+00:19:23,962 --> 00:19:25,664
+Babe, you're gonna be fine.
+
+381
+00:19:25,731 --> 00:19:26,865
+Okay?
+
+382
+00:19:26,932 --> 00:19:29,201
+Relax and give them that winning personality
+
+383
+00:19:29,268 --> 00:19:30,302
+that I fell in love with.
+
+384
+00:19:30,369 --> 00:19:31,970
+[chuckles] All right.
+
+385
+00:19:33,472 --> 00:19:36,275
+So, I picked this one out for you tonight.
+
+386
+00:19:36,341 --> 00:19:38,410
+I think this color looks amazing on you.
+
+387
+00:19:39,311 --> 00:19:40,612
+Yeah?
+
+388
+00:19:40,679 --> 00:19:43,749
+Um... Veronica wanted me to wear this one.
+
+389
+00:19:45,217 --> 00:19:48,787
+It's her favorite and, you know, I gotta please the client, so...
+
+390
+00:19:48,854 --> 00:19:50,489
+-Mm-hmm. -Yeah.
+
+391
+00:19:51,523 --> 00:19:54,126
+Oh, I almost forgot.
+
+392
+00:19:54,193 --> 00:19:57,763
+When we were shopping, I saw this and I thought of you.
+
+393
+00:19:57,829 --> 00:19:58,931
+Mm-hmm.
+
+394
+00:20:01,400 --> 00:20:04,102
+Babe, you shouldn't have.
+
+395
+00:20:04,169 --> 00:20:06,838
+Well, I didn't. Veronica did.
+
+396
+00:20:06,905 --> 00:20:10,776
+[chuckles] I'm a bit old for you.
+
+397
+00:20:17,015 --> 00:20:19,785
+Here we go. There.
+
+398
+00:20:23,555 --> 00:20:25,657
+All right, so it'll probably be late tonight,
+
+399
+00:20:25,724 --> 00:20:28,026
+so don't bother waiting up, okay?
+
+400
+00:20:28,093 --> 00:20:29,628
+-Okay. -All right.
+
+401
+00:20:30,996 --> 00:20:33,999
+All right, it's about that time. Wish me luck.
+
+402
+00:20:34,066 --> 00:20:35,033
+Good luck.
+
+403
+00:20:47,012 --> 00:20:49,348
+You look wonderful, Andrew. As do you.
+
+404
+00:20:49,414 --> 00:20:51,149
+This is my friend, Mike.
+
+405
+00:20:51,216 --> 00:20:52,951
+Mike, this is my assistant, Andrew.
+
+406
+00:20:54,586 --> 00:20:56,655
+So, Ms. King, I have some good news and some bad news.
+
+407
+00:20:56,722 --> 00:20:59,024
+The good news is you're on the VIP list.
+
+408
+00:20:59,091 --> 00:21:02,694
+The bad news is you're only allowed one guest.
+
+409
+00:21:02,761 --> 00:21:05,130
+I'm sure there's space for one more.
+
+410
+00:21:05,197 --> 00:21:07,566
+I'm so sorry.
+
+411
+00:21:07,633 --> 00:21:09,134
+It's a very strict list, ma'am.
+
+412
+00:21:09,201 --> 00:21:11,503
+Veronica, you only asked me to reserve two tickets
+
+413
+00:21:11,570 --> 00:21:14,473
+and I thought I was your guest.
+
+414
+00:21:14,539 --> 00:21:18,076
+I understand, but Mike here is joining me tonight.
+
+415
+00:21:19,378 --> 00:21:21,179
+Consider it a paid night off.
+
+416
+00:21:21,246 --> 00:21:22,414
+We'll touch base in the morning.
+
+417
+00:21:22,481 --> 00:21:24,349
+Have a good day, sir. Right this way.
+
+418
+00:21:24,416 --> 00:21:26,952
+[rock music]
+
+419
+00:21:45,103 --> 00:21:46,905
+Good to see you, Rob.
+
+420
+00:21:46,972 --> 00:21:48,540
+This is my friend, Mike Sheppard.
+
+421
+00:21:48,607 --> 00:21:50,008
+This is Mike Sheppard.
+
+422
+00:21:50,075 --> 00:21:53,211
+He is so smart, so tech-savvy. So tech-savvy.
+
+423
+00:21:53,278 --> 00:21:56,415
+He is extremely tech-savvy. Extremely tech savvy.
+
+424
+00:21:56,481 --> 00:21:58,617
+This is Mike Sheppard. Mike Sheppard here.
+
+425
+00:21:58,684 --> 00:22:00,952
+-Yeah. -Good to meet you all.
+
+426
+00:22:01,019 --> 00:22:04,056
+So this is an app I created and patented called WellMentor.
+
+427
+00:22:04,122 --> 00:22:05,624
+It's a comprehensive health app
+
+428
+00:22:05,691 --> 00:22:07,326
+that tracks various health metrics.
+
+429
+00:22:07,392 --> 00:22:08,894
+One really cool thing about it
+
+430
+00:22:08,960 --> 00:22:10,762
+is you can put in your own blood type.
+
+431
+00:22:10,829 --> 00:22:13,398
+So, for me, I would select O negative from the dropdown,
+
+432
+00:22:13,465 --> 00:22:14,966
+and it gives personalized recommendations
+
+433
+00:22:15,033 --> 00:22:16,501
+for optimal health and fitness plans
+
+434
+00:22:16,568 --> 00:22:18,837
+tailored to your genetic profile.
+
+435
+00:22:18,904 --> 00:22:21,573
+Can you grab me something to drink
+
+436
+00:22:21,640 --> 00:22:24,042
+while I talk more with Bernard?
+
+437
+00:22:24,109 --> 00:22:25,277
+Sure.
+
+438
+00:22:25,344 --> 00:22:27,913
+[music continues]
+
+439
+00:22:27,979 --> 00:22:29,448
+[sighs]
+
+440
+00:22:29,514 --> 00:22:31,083
+Let me get to it, please.
+
+441
+00:22:34,986 --> 00:22:36,021
+Appreciate it.
+
+442
+00:22:42,227 --> 00:22:43,762
+My, my.
+
+443
+00:22:43,829 --> 00:22:47,132
+You are certainly looking like a million bucks, Mike.
+
+444
+00:22:47,199 --> 00:22:51,269
+Beverly, I didn't think you would be here.
+
+445
+00:22:51,336 --> 00:22:52,704
+Well, my company is catering,
+
+446
+00:22:52,771 --> 00:22:55,674
+so I thought it would be a good reason to party
+
+447
+00:22:55,741 --> 00:22:57,809
+with the tech snobs.
+
+448
+00:22:57,876 --> 00:23:00,679
+So who are you here with?
+
+449
+00:23:00,746 --> 00:23:03,882
+Uh, just a friend.
+
+450
+00:23:05,217 --> 00:23:06,785
+Replaced me already.
+
+451
+00:23:07,853 --> 00:23:09,921
+I see.
+
+452
+00:23:09,988 --> 00:23:13,825
+Well, if things don't work out with you and your friend,
+
+453
+00:23:15,193 --> 00:23:16,928
+why don't you give me a call?
+
+454
+00:23:16,995 --> 00:23:19,931
+And maybe I'll let you convince me
+
+455
+00:23:19,998 --> 00:23:22,934
+I made a mistake.
+
+456
+00:23:23,001 --> 00:23:25,570
+Didn't your parents teach you to keep your hands to yourself?
+
+457
+00:23:25,637 --> 00:23:28,006
+Ooh, Veronica King.
+
+458
+00:23:28,073 --> 00:23:30,776
+Well, you know, I can't say I'm surprised,
+
+459
+00:23:30,842 --> 00:23:33,145
+but you're experimenting with new things now.
+
+460
+00:23:33,211 --> 00:23:35,313
+That's none of your business.
+
+461
+00:23:35,380 --> 00:23:37,149
+Mikey is here with me.
+
+462
+00:23:37,215 --> 00:23:38,650
+-Mikey? -Yeah.
+
+463
+00:23:38,717 --> 00:23:41,820
+Well, you know, I certainly meant no disrespect.
+
+464
+00:23:41,887 --> 00:23:44,823
+We all know your men usually have a wandering eye,
+
+465
+00:23:44,890 --> 00:23:47,559
+so I didn't think it would be an issue.
+
+466
+00:23:51,596 --> 00:23:54,633
+Hey, forget her.
+
+467
+00:23:54,699 --> 00:23:56,067
+I'm with you.
+
+468
+00:23:56,134 --> 00:23:59,070
+[rock music]
+
+469
+00:24:05,710 --> 00:24:07,512
+One of your sugar mamas, I presume.
+
+470
+00:24:07,579 --> 00:24:10,015
+Yes, but I swear.
+
+471
+00:24:10,081 --> 00:24:12,884
+I had no idea Beverly's company would be catering.
+
+472
+00:24:12,951 --> 00:24:14,653
+I didn't plan on seeing her again.
+
+473
+00:24:14,719 --> 00:24:17,189
+She sure didn't act like things were over.
+
+474
+00:24:17,255 --> 00:24:18,256
+It is.
+
+475
+00:24:19,524 --> 00:24:21,593
+My loyalty is with you now.
+
+476
+00:24:23,862 --> 00:24:27,666
+Other than that, I'm having a great time.
+
+477
+00:24:27,732 --> 00:24:29,401
+You certainly are the life of the party.
+
+478
+00:24:29,468 --> 00:24:30,569
+[chuckles]
+
+479
+00:24:30,635 --> 00:24:32,737
+I'm just glad you invited me.
+
+480
+00:24:34,506 --> 00:24:39,444
+I didn't realize that app of yours was such a great idea.
+
+481
+00:24:39,511 --> 00:24:41,146
+Where did you come up with it?
+
+482
+00:24:41,213 --> 00:24:42,814
+It's because of my dairy allergy.
+
+483
+00:24:42,881 --> 00:24:44,649
+I had a really severe reaction when I was little
+
+484
+00:24:44,716 --> 00:24:45,917
+that almost killed me.
+
+485
+00:24:45,984 --> 00:24:47,652
+So I figured this app would help.
+
+486
+00:24:47,719 --> 00:24:48,720
+Definitely.
+
+487
+00:24:48,787 --> 00:24:52,524
+And Bernard was impressed, too.
+
+488
+00:24:52,591 --> 00:24:54,893
+How'd you learn to charm people?
+
+489
+00:24:54,960 --> 00:24:56,828
+Well, my dad and I traveled a lot.
+
+490
+00:24:56,895 --> 00:25:00,065
+He was military, so I always had to make new friends.
+
+491
+00:25:00,131 --> 00:25:02,400
+It helped so I wouldn't feel so lonely.
+
+492
+00:25:02,467 --> 00:25:03,702
+Lonely?
+
+493
+00:25:03,768 --> 00:25:07,572
+That's one I know all too well.
+
+494
+00:25:10,141 --> 00:25:12,511
+Do you ever think about taking trips with Jayson?
+
+495
+00:25:12,577 --> 00:25:14,379
+Always.
+
+496
+00:25:14,446 --> 00:25:19,551
+But I like to let him have his little adventures.
+
+497
+00:25:19,618 --> 00:25:22,654
+Jayson always said he wanted to be a pilot.
+
+498
+00:25:22,721 --> 00:25:26,291
+But life had other plans for him.
+
+499
+00:25:28,226 --> 00:25:29,327
+And then his dad.
+
+500
+00:25:31,530 --> 00:25:33,832
+I'm sorry for your loss, Veronica.
+
+501
+00:25:46,745 --> 00:25:48,413
+Everybody's staring.
+
+502
+00:25:48,480 --> 00:25:49,981
+That's because they like you.
+
+503
+00:25:50,048 --> 00:25:52,183
+No, I mean staring at us.
+
+504
+00:25:54,386 --> 00:25:56,521
+Aren't you used to this?
+
+505
+00:25:56,588 --> 00:25:58,123
+You've done this before, right?
+
+506
+00:25:59,925 --> 00:26:02,060
+I was thinking...
+
+507
+00:26:02,127 --> 00:26:05,764
+Do you mind coming back to spend the night with me?
+
+508
+00:26:05,830 --> 00:26:08,900
+Things get lonely in that big house by myself.
+
+509
+00:26:10,135 --> 00:26:11,603
+I'll pay extra.
+
+510
+00:26:13,204 --> 00:26:16,441
+Uh... Yeah, yeah, sure.
+
+511
+00:26:16,508 --> 00:26:18,276
+One sec.
+
+512
+00:26:18,343 --> 00:26:19,511
+I have a quick call to make.
+
+513
+00:26:19,578 --> 00:26:20,779
+Okay.
+
+514
+00:26:26,851 --> 00:26:28,186
+[phone chimes]
+
+515
+00:26:39,798 --> 00:26:42,334
+[dramatic music]
+
+516
+00:27:03,154 --> 00:27:04,189
+Wow.
+
+517
+00:27:38,890 --> 00:27:40,725
+[door creaks]
+
+518
+00:27:53,138 --> 00:27:56,041
+Welcome to your new room.
+
+519
+00:27:56,107 --> 00:27:58,276
+Let me draw you a bath. Do you like bubbles?
+
+520
+00:27:58,343 --> 00:27:59,944
+I don't need a bath.
+
+521
+00:28:00,011 --> 00:28:02,380
+It'll relax you. Help you sleep better.
+
+522
+00:28:02,447 --> 00:28:03,648
+I have basketball shorts
+
+523
+00:28:03,715 --> 00:28:05,183
+and a T-shirt for you to sleep in.
+
+524
+00:28:05,250 --> 00:28:07,018
+Unless you prefer something different.
+
+525
+00:28:07,085 --> 00:28:08,820
+Nah, it's fine. Listen, Veronica,
+
+526
+00:28:08,887 --> 00:28:11,022
+I just want to thank you again for everything.
+
+527
+00:28:11,089 --> 00:28:15,126
+It means a lot to me to have you around.
+
+528
+00:28:17,362 --> 00:28:18,363
+[slaps]
+
+529
+00:28:18,430 --> 00:28:19,964
+What the hell are you thinking, Jayson?
+
+530
+00:28:20,031 --> 00:28:22,233
+-It's Mike. -This is not what we agreed to.
+
+531
+00:28:22,300 --> 00:28:24,302
+-Is it what Beverly had you do? -My bad.
+
+532
+00:28:24,369 --> 00:28:26,237
+I thought that's why you wanted me to stay the night.
+
+533
+00:28:26,304 --> 00:28:27,872
+You thought wrong.
+
+534
+00:28:27,939 --> 00:28:30,008
+Don't ever disrespect me like that again.
+
+535
+00:28:30,075 --> 00:28:32,811
+[suspenseful music]
+
+536
+00:29:02,340 --> 00:29:04,209
+[eerie music]
+
+537
+00:29:10,648 --> 00:29:12,217
+[rattles]
+
+538
+00:29:13,785 --> 00:29:14,886
+Who's there?
+
+539
+00:29:14,953 --> 00:29:17,489
+[tense music]
+
+540
+00:29:21,760 --> 00:29:23,027
+Is anyone there?
+
+541
+00:29:25,363 --> 00:29:27,365
+[thuds]
+
+542
+00:29:27,432 --> 00:29:28,399
+Hello?
+
+543
+00:29:30,034 --> 00:29:32,904
+I'm warning you. I have a gun.
+
+544
+00:29:32,971 --> 00:29:35,507
+[tense music]
+
+545
+00:29:38,376 --> 00:29:40,912
+[screaming]
+
+546
+00:29:45,884 --> 00:29:47,986
+[exhales]
+
+547
+00:29:54,192 --> 00:29:55,393
+[sighs]
+
+548
+00:30:03,535 --> 00:30:06,070
+[music continues]
+
+549
+00:30:10,608 --> 00:30:12,277
+[rattles]
+
+550
+00:30:13,378 --> 00:30:14,512
+Uh.
+
+551
+00:30:16,781 --> 00:30:19,217
+[creaks]
+
+552
+00:30:20,285 --> 00:30:21,252
+Hello?
+
+553
+00:30:36,668 --> 00:30:38,469
+[creaks]
+
+554
+00:30:50,215 --> 00:30:51,983
+[thuds]
+
+555
+00:30:52,050 --> 00:30:54,586
+[music continues]
+
+556
+00:31:11,369 --> 00:31:13,271
+[creaks]
+
+557
+00:31:15,640 --> 00:31:17,275
+Shit, Veronica.
+
+558
+00:31:17,342 --> 00:31:19,077
+You scared me. What are you doing here?
+
+559
+00:31:19,143 --> 00:31:20,445
+I couldn't sleep.
+
+560
+00:31:20,511 --> 00:31:23,448
+I-I'm not used to having people in the house.
+
+561
+00:31:23,514 --> 00:31:25,884
+I wanted to apologize about earlier.
+
+562
+00:31:25,950 --> 00:31:27,352
+I didn't mean to snap at you.
+
+563
+00:31:27,418 --> 00:31:30,121
+I-- and I certainly had no business in hitting you.
+
+564
+00:31:30,188 --> 00:31:31,923
+I was just shocked.
+
+565
+00:31:31,990 --> 00:31:33,958
+Hey, it's cool.
+
+566
+00:31:34,025 --> 00:31:35,393
+I'm the one that should apologize
+
+567
+00:31:35,460 --> 00:31:36,928
+because I'm the one that crossed the line.
+
+568
+00:31:36,995 --> 00:31:38,930
+I'd never disrespect you.
+
+569
+00:31:38,997 --> 00:31:40,531
+I know.
+
+570
+00:31:40,598 --> 00:31:42,233
+And from here on out,
+
+571
+00:31:42,300 --> 00:31:44,602
+I swear I won't do anything that you don't want me to do.
+
+572
+00:31:46,237 --> 00:31:49,374
+I'm grateful for you, Mikey. Truly.
+
+573
+00:31:51,876 --> 00:31:53,344
+Let me tuck you in.
+
+574
+00:32:04,255 --> 00:32:05,556
+What bedtime story
+
+575
+00:32:05,623 --> 00:32:07,125
+would you like me to read you tonight?
+
+576
+00:32:08,092 --> 00:32:10,194
+I'm good. Thanks.
+
+577
+00:32:10,261 --> 00:32:12,997
+[music continues]
+
+578
+00:32:15,733 --> 00:32:17,201
+Good night.
+
+579
+00:32:21,873 --> 00:32:23,241
+[sighs]
+
+580
+00:32:42,327 --> 00:32:43,861
+Is everything okay?
+
+581
+00:32:43,928 --> 00:32:45,697
+Of course.
+
+582
+00:32:45,763 --> 00:32:47,065
+It just helps me to relax
+
+583
+00:32:47,131 --> 00:32:48,733
+to know that you're getting some sleep.
+
+584
+00:32:48,800 --> 00:32:51,336
+[music continues]
+
+585
+00:33:03,481 --> 00:33:06,417
+[birds chirping]
+
+586
+00:33:08,786 --> 00:33:10,722
+[sighs]
+
+587
+00:33:20,565 --> 00:33:22,100
+[exhales softly]
+
+588
+00:33:40,852 --> 00:33:43,755
+Good morning, sleepyhead. How'd you sleep?
+
+589
+00:33:43,821 --> 00:33:44,789
+Fine.
+
+590
+00:33:49,594 --> 00:33:52,363
+Mikey, this is my dear friend, Greg.
+
+591
+00:33:52,430 --> 00:33:54,198
+Greg, this is the young man I've been telling you about.
+
+592
+00:33:54,265 --> 00:33:56,134
+Veronica's been telling me
+
+593
+00:33:56,200 --> 00:33:58,202
+that you've been studying computer science?
+
+594
+00:33:58,269 --> 00:33:59,871
+Mikey wants to start his tech business
+
+595
+00:33:59,937 --> 00:34:01,105
+after graduation.
+
+596
+00:34:01,172 --> 00:34:02,640
+He created an app
+
+597
+00:34:02,707 --> 00:34:05,910
+that provides personalized health recommendations.
+
+598
+00:34:05,977 --> 00:34:07,311
+Mm. Sounds interesting.
+
+599
+00:34:07,378 --> 00:34:09,247
+Yeah. Yeah, yeah.
+
+600
+00:34:09,313 --> 00:34:11,549
+Uh, I didn't know what you'd like,
+
+601
+00:34:11,616 --> 00:34:15,353
+so I just made a little bit of everything.
+
+602
+00:34:15,420 --> 00:34:18,523
+Well, actually, I have that dairy allergy, remember?
+
+603
+00:34:21,292 --> 00:34:22,660
+Juice, then.
+
+604
+00:34:22,727 --> 00:34:24,429
+You know what, look, don't even worry about it.
+
+605
+00:34:24,495 --> 00:34:26,030
+I actually have to get going.
+
+606
+00:34:26,097 --> 00:34:28,199
+No, not until you eat everything.
+
+607
+00:34:29,834 --> 00:34:31,302
+I mean...
+
+608
+00:34:32,837 --> 00:34:34,772
+eat while I call you a car.
+
+609
+00:34:36,841 --> 00:34:37,809
+Okay.
+
+610
+00:34:40,912 --> 00:34:42,513
+Don't mind Roni.
+
+611
+00:34:42,580 --> 00:34:43,915
+It's not very often she has company.
+
+612
+00:34:43,981 --> 00:34:47,885
+I find it easier just to let her do her thing.
+
+613
+00:34:47,952 --> 00:34:49,220
+[scoffs]
+
+614
+00:34:49,287 --> 00:34:50,822
+How long have you known her?
+
+615
+00:34:50,888 --> 00:34:53,791
+About 20 years or so.
+
+616
+00:34:53,858 --> 00:34:56,027
+She invested in my online pharmaceutical company
+
+617
+00:34:56,094 --> 00:34:59,931
+back in the day when I was just a resident doctor with a dream.
+
+618
+00:34:59,997 --> 00:35:01,532
+Been friends ever since.
+
+619
+00:35:01,599 --> 00:35:04,068
+I like to think that I owe everything to Roni
+
+620
+00:35:04,135 --> 00:35:05,870
+for just believing in me.
+
+621
+00:35:05,937 --> 00:35:07,138
+Look, forgive me for asking,
+
+622
+00:35:07,205 --> 00:35:11,175
+but are you two, like-like, a thing?
+
+623
+00:35:11,242 --> 00:35:13,144
+It's complicated.
+
+624
+00:35:13,211 --> 00:35:14,378
+At the end of the day,
+
+625
+00:35:14,445 --> 00:35:16,414
+I like to think that we're best friends.
+
+626
+00:35:16,481 --> 00:35:20,151
+I see that you're not unfamiliar with complicated relationships.
+
+627
+00:35:20,218 --> 00:35:22,687
+What exactly is a sugar baby?
+
+628
+00:35:22,753 --> 00:35:26,557
+I get hired as a companion to do whatever they need me to do.
+
+629
+00:35:26,624 --> 00:35:30,194
+Well, oh, sort of like a male prostitute, basically.
+
+630
+00:35:30,261 --> 00:35:32,230
+Actually, it's a little bit more than that.
+
+631
+00:35:32,296 --> 00:35:34,232
+[chuckles]
+
+632
+00:35:34,298 --> 00:35:36,567
+Hey, no judgment.
+
+633
+00:35:36,634 --> 00:35:38,369
+I'm not here to interfere with whatever
+
+634
+00:35:38,436 --> 00:35:41,205
+you and Veronica got going on.
+
+635
+00:35:41,272 --> 00:35:42,773
+Just don't play with her emotions.
+
+636
+00:35:42,840 --> 00:35:44,575
+Understand?
+
+637
+00:35:44,642 --> 00:35:47,512
+Greg, you feel threatened by me or something?
+
+638
+00:35:47,578 --> 00:35:49,080
+Like I said, we're just friends.
+
+639
+00:35:49,147 --> 00:35:52,583
+And I care very much about her health and well-being.
+
+640
+00:35:52,650 --> 00:35:56,220
+And unlike you my care for her isn't tied to her bank account.
+
+641
+00:35:56,287 --> 00:35:58,322
+[groans]
+
+642
+00:35:58,389 --> 00:35:59,690
+You better take care of that.
+
+643
+00:35:59,757 --> 00:36:01,459
+What happened? Are you hurt?
+
+644
+00:36:01,526 --> 00:36:03,294
+It's all right. He just cut his finger.
+
+645
+00:36:03,361 --> 00:36:04,929
+Put some direct pressure on that.
+
+646
+00:36:04,996 --> 00:36:06,998
+I have an emergency kit in the guest bathroom.
+
+647
+00:36:07,064 --> 00:36:08,232
+Yo, go ahead.
+
+648
+00:36:08,299 --> 00:36:09,800
+I'm gonna stay here and clean up.
+
+649
+00:36:20,711 --> 00:36:23,414
+-There we go. All better. -Thanks.
+
+650
+00:36:23,481 --> 00:36:25,750
+My driver just had a few errands to run for me,
+
+651
+00:36:25,816 --> 00:36:27,552
+but he'll be back in a few minutes.
+
+652
+00:36:28,519 --> 00:36:30,388
+Thank you for staying.
+
+653
+00:36:30,454 --> 00:36:33,457
+You know you can come over whenever you want.
+
+654
+00:36:34,859 --> 00:36:36,727
+My home is your home.
+
+655
+00:36:36,794 --> 00:36:38,429
+Okay.
+
+656
+00:36:38,496 --> 00:36:40,865
+Veronica, it was just us here last night, right?
+
+657
+00:36:40,932 --> 00:36:42,800
+Yeah, why?
+
+658
+00:36:42,867 --> 00:36:44,335
+I don't know. Um...
+
+659
+00:36:44,402 --> 00:36:46,737
+I thought I heard something in the basement.
+
+660
+00:36:46,804 --> 00:36:48,172
+Oh...
+
+661
+00:36:48,239 --> 00:36:51,409
+Lord, I hope we don't have raccoons like the time before.
+
+662
+00:36:51,475 --> 00:36:53,277
+I'll have to get Greg to check it out.
+
+663
+00:36:53,344 --> 00:36:54,478
+Okay.
+
+664
+00:36:54,545 --> 00:36:56,013
+I'm all done cleaning up in there.
+
+665
+00:36:56,080 --> 00:36:57,081
+I gotta run.
+
+666
+00:36:57,148 --> 00:36:58,249
+I just got paged at the hospital.
+
+667
+00:36:58,316 --> 00:37:00,451
+Okay, I'll walk you out.
+
+668
+00:37:02,286 --> 00:37:03,454
+Nice meeting you, Mike.
+
+669
+00:37:08,659 --> 00:37:10,294
+[sighs]
+
+670
+00:37:21,138 --> 00:37:22,673
+Driver just pulled up.
+
+671
+00:37:26,978 --> 00:37:28,012
+Thank you.
+
+672
+00:37:32,950 --> 00:37:36,153
+Your extra, just like I promised.
+
+673
+00:37:36,220 --> 00:37:37,455
+Thank you.
+
+674
+00:37:41,659 --> 00:37:42,893
+I'll talk to you soon.
+
+675
+00:38:01,779 --> 00:38:03,381
+[door shuts]
+
+676
+00:38:07,018 --> 00:38:09,787
+Why didn't you come home last night, Mike?
+
+677
+00:38:09,854 --> 00:38:11,522
+I texted you to let you know what was going on.
+
+678
+00:38:11,589 --> 00:38:12,990
+I got your damn text.
+
+679
+00:38:13,057 --> 00:38:16,627
+What I don't understand is why didn't you come home?
+
+680
+00:38:16,694 --> 00:38:18,496
+Staying the night at Veronica's? Are you crazy?
+
+681
+00:38:18,562 --> 00:38:19,964
+That was not a part of the plan.
+
+682
+00:38:20,031 --> 00:38:21,465
+Babe, relax.
+
+683
+00:38:21,532 --> 00:38:23,234
+We didn't even sleep in the same room.
+
+684
+00:38:23,301 --> 00:38:25,569
+So nothing happened?
+
+685
+00:38:25,636 --> 00:38:27,738
+Just some weird stuff.
+
+686
+00:38:27,805 --> 00:38:29,340
+She kept trying to do everything for me
+
+687
+00:38:29,407 --> 00:38:30,508
+like I was a kid or something.
+
+688
+00:38:30,574 --> 00:38:31,942
+Doesn't she have a son?
+
+689
+00:38:32,009 --> 00:38:33,377
+Why is she treating you like hers?
+
+690
+00:38:33,444 --> 00:38:35,079
+I guess she misses him.
+
+691
+00:38:35,146 --> 00:38:37,081
+I don't know, babe.
+
+692
+00:38:37,148 --> 00:38:38,349
+That doesn't sound right.
+
+693
+00:38:38,416 --> 00:38:40,518
+Are you sure she doesn't have
+
+694
+00:38:40,584 --> 00:38:42,920
+some type of mental issues or something?
+
+695
+00:38:42,987 --> 00:38:44,322
+I don't know.
+
+696
+00:38:44,388 --> 00:38:47,191
+But, hey, if she gets off on pretending to be my mom,
+
+697
+00:38:47,258 --> 00:38:48,359
+I don't care.
+
+698
+00:38:48,426 --> 00:38:50,628
+Especially because she pays extra.
+
+699
+00:38:57,034 --> 00:38:59,437
+Now you know our relationship is strictly platonic.
+
+700
+00:39:03,207 --> 00:39:05,576
+But how much longer are you guys going to be doing this?
+
+701
+00:39:05,643 --> 00:39:07,111
+[female reporter] Breaking news.
+
+702
+00:39:07,178 --> 00:39:08,879
+Beverly Garrison's body was just discovered
+
+703
+00:39:08,946 --> 00:39:10,881
+in her lakeside home this morning.
+
+704
+00:39:10,948 --> 00:39:12,683
+The millionaire restauranteur
+
+705
+00:39:12,750 --> 00:39:15,486
+appears to have been the victim of a home invasion.
+
+706
+00:39:15,553 --> 00:39:16,954
+We're going to be live on location
+
+707
+00:39:17,021 --> 00:39:20,157
+to bring you updates as we receive them.
+
+708
+00:39:20,224 --> 00:39:21,459
+Next up...
+
+709
+00:39:23,461 --> 00:39:27,732
+He tried to kiss me. [sighs]
+
+710
+00:39:27,798 --> 00:39:32,570
+I don't know what came over him, but it felt so wrong.
+
+711
+00:39:32,636 --> 00:39:34,605
+Do you have feelings for this young man?
+
+712
+00:39:34,672 --> 00:39:36,941
+Obviously, he is physically attractive,
+
+713
+00:39:37,007 --> 00:39:40,678
+but I can't bring myself to see him in that way.
+
+714
+00:39:40,745 --> 00:39:42,646
+Those feelings are completely normal,
+
+715
+00:39:42,713 --> 00:39:45,883
+and I don't want you to let age be a deterrent.
+
+716
+00:39:45,950 --> 00:39:49,387
+I think it's okay to explore this possible relationship.
+
+717
+00:39:49,453 --> 00:39:51,722
+I do want a relationship with him,
+
+718
+00:39:51,789 --> 00:39:54,091
+just not an intimate one.
+
+719
+00:39:54,158 --> 00:39:56,394
+You think it would be cheating on Richie?
+
+720
+00:39:56,460 --> 00:39:59,563
+No, not Richie.
+
+721
+00:40:00,931 --> 00:40:02,066
+Jayson.
+
+722
+00:40:04,568 --> 00:40:05,736
+I understand.
+
+723
+00:40:07,505 --> 00:40:09,006
+Veronica,
+
+724
+00:40:09,073 --> 00:40:10,708
+I want you to consider this relationship with Mike
+
+725
+00:40:10,775 --> 00:40:13,210
+as an opportunity for you to find yourself
+
+726
+00:40:13,277 --> 00:40:16,347
+and to explore what makes Veronica happy.
+
+727
+00:40:16,414 --> 00:40:19,150
+Then you can make the best decisions for Jayson.
+
+728
+00:40:23,020 --> 00:40:25,856
+It's such a relief
+
+729
+00:40:25,923 --> 00:40:28,392
+to hear another mother understands.
+
+730
+00:40:28,459 --> 00:40:30,995
+[suspenseful music]
+
+731
+00:40:34,932 --> 00:40:37,168
+It doesn't seem weird to you?
+
+732
+00:40:37,234 --> 00:40:39,603
+I mean you just saw her the night before at the gala,
+
+733
+00:40:39,670 --> 00:40:40,938
+and now she's dead?
+
+734
+00:40:41,005 --> 00:40:42,540
+It was just a sad coincidence, babe.
+
+735
+00:40:42,606 --> 00:40:43,941
+That's a big coincidence.
+
+736
+00:40:44,008 --> 00:40:46,277
+I mean what other explanation can it be?
+
+737
+00:40:46,343 --> 00:40:47,778
+She was rich.
+
+738
+00:40:47,845 --> 00:40:49,513
+I'm sure she had run-ins with other idiots in the past
+
+739
+00:40:49,580 --> 00:40:51,182
+trying to rob her.
+
+740
+00:40:51,248 --> 00:40:53,884
+It just sucks she had to lose her life for it, you know?
+
+741
+00:40:53,951 --> 00:40:57,721
+Mikey, I was looking for you.
+
+742
+00:41:00,991 --> 00:41:06,263
+Veronica, hey, this is my friend, Gia.
+
+743
+00:41:06,330 --> 00:41:08,499
+I remember you from when I gave my speech.
+
+744
+00:41:08,566 --> 00:41:10,201
+You're in Mikey's class, too, right?
+
+745
+00:41:10,267 --> 00:41:12,436
+Yeah.
+
+746
+00:41:12,503 --> 00:41:13,838
+You want to grab some ice cream?
+
+747
+00:41:13,904 --> 00:41:15,873
+Oh, actually, he has a dairy allergy.
+
+748
+00:41:15,940 --> 00:41:17,942
+-Yeah. -Right, of course.
+
+749
+00:41:18,008 --> 00:41:19,143
+I remember that.
+
+750
+00:41:19,210 --> 00:41:21,011
+How about a smoothie?
+
+751
+00:41:21,078 --> 00:41:23,547
+You know I actually have to get to class.
+
+752
+00:41:23,614 --> 00:41:24,915
+Won't keep you long.
+
+753
+00:41:24,982 --> 00:41:26,684
+I just missed you and wanted to see you
+
+754
+00:41:26,750 --> 00:41:28,619
+before I headed to a meeting.
+
+755
+00:41:28,686 --> 00:41:31,021
+Okay. I'll see you later, Gia.
+
+756
+00:41:35,125 --> 00:41:36,126
+[sighs]
+
+757
+00:41:41,298 --> 00:41:43,300
+Good, huh?
+
+758
+00:41:43,367 --> 00:41:44,935
+Not really a fan of strawberry.
+
+759
+00:41:45,002 --> 00:41:47,071
+It was Jayson's favorite flavor.
+
+760
+00:41:50,174 --> 00:41:51,909
+Gia is pretty.
+
+761
+00:41:51,976 --> 00:41:54,645
+How long the two of you have known each other?
+
+762
+00:41:54,712 --> 00:41:56,780
+Not really long. Why?
+
+763
+00:41:56,847 --> 00:41:58,549
+You can't tell she likes you?
+
+764
+00:41:59,783 --> 00:42:01,685
+I haven't really noticed.
+
+765
+00:42:03,687 --> 00:42:04,722
+What's wrong?
+
+766
+00:42:04,788 --> 00:42:06,423
+You look down.
+
+767
+00:42:06,490 --> 00:42:08,526
+Did you hear about Beverly?
+
+768
+00:42:08,592 --> 00:42:09,793
+I did.
+
+769
+00:42:10,694 --> 00:42:11,896
+I'm sorry.
+
+770
+00:42:13,597 --> 00:42:17,001
+By the way, did Bernard Klein say anything else about my app?
+
+771
+00:42:17,067 --> 00:42:18,802
+He sure did.
+
+772
+00:42:18,869 --> 00:42:20,604
+-He loved it. -[chuckles]
+
+773
+00:42:20,671 --> 00:42:23,741
+He even mentioned calling you to come in
+
+774
+00:42:23,807 --> 00:42:25,476
+to intern for him in the fall.
+
+775
+00:42:25,543 --> 00:42:29,079
+I am so proud that he recognized how special you are.
+
+776
+00:42:29,146 --> 00:42:30,581
+Yes!
+
+777
+00:42:30,648 --> 00:42:31,749
+[laughs]
+
+778
+00:42:31,815 --> 00:42:34,251
+Are you serious?
+
+779
+00:42:34,318 --> 00:42:35,553
+I don't know what to say.
+
+780
+00:42:35,619 --> 00:42:37,488
+No, don't worry. I cleared it up.
+
+781
+00:42:37,555 --> 00:42:39,056
+I told him that you're not interested.
+
+782
+00:42:40,424 --> 00:42:42,126
+Why would you say that?
+
+783
+00:42:42,192 --> 00:42:43,794
+Because you'll be busy with school.
+
+784
+00:42:43,861 --> 00:42:46,030
+Besides, don't I pay you enough to mentor with me?
+
+785
+00:42:46,096 --> 00:42:47,665
+Why would you make a decision like that
+
+786
+00:42:47,731 --> 00:42:49,466
+without discussing it with me first, Veronica?
+
+787
+00:42:49,533 --> 00:42:50,601
+I was looking out for you.
+
+788
+00:42:50,668 --> 00:42:52,369
+How? By sabotaging my future?
+
+789
+00:42:52,436 --> 00:42:54,305
+I didn't know it meant that much to you.
+
+790
+00:42:54,371 --> 00:42:56,874
+-Why wouldn't it be? -It's a career opportunity.
+
+791
+00:42:56,941 --> 00:42:58,943
+Ain't that why you wanted me to come with you to that event?
+
+792
+00:42:59,009 --> 00:43:00,778
+-Please don't be mad. -No!
+
+793
+00:43:00,844 --> 00:43:02,146
+Back up, Veronica.
+
+794
+00:43:02,212 --> 00:43:03,247
+I'm out.
+
+795
+00:43:04,615 --> 00:43:06,183
+Mikey, I'm sorry.
+
+796
+00:43:06,250 --> 00:43:08,786
+[intense music]
+
+797
+00:43:14,725 --> 00:43:15,926
+I don't get it.
+
+798
+00:43:15,993 --> 00:43:17,561
+She tells me this arrangement we have
+
+799
+00:43:17,628 --> 00:43:19,263
+is an opportunity for me to network,
+
+800
+00:43:19,330 --> 00:43:21,932
+but then when I do, she gets in the way.
+
+801
+00:43:21,999 --> 00:43:24,134
+Maybe Veronica's not a good match.
+
+802
+00:43:24,201 --> 00:43:26,070
+I'm starting to get bad vibes from this.
+
+803
+00:43:26,136 --> 00:43:28,539
+I don't know. I wish I could just talk to Mr. Klein myself,
+
+804
+00:43:28,606 --> 00:43:30,240
+tell him it was a big misunderstanding.
+
+805
+00:43:30,307 --> 00:43:32,509
+Maybe you should just not mess with her altogether.
+
+806
+00:43:32,576 --> 00:43:33,978
+I mean just think about it.
+
+807
+00:43:34,044 --> 00:43:35,479
+She's being weird when you're staying the night,
+
+808
+00:43:35,546 --> 00:43:37,414
+and she's having you miss class to hang out with her,
+
+809
+00:43:37,481 --> 00:43:38,549
+and now this?
+
+810
+00:43:38,616 --> 00:43:40,217
+She's too controlling.
+
+811
+00:43:40,284 --> 00:43:41,719
+Babe.
+
+812
+00:43:42,987 --> 00:43:46,323
+I wasn't trying to end the arrangement, Gia.
+
+813
+00:43:46,390 --> 00:43:48,092
+Maybe we can find somebody else.
+
+814
+00:43:48,158 --> 00:43:51,829
+That pays as good as her? I doubt it.
+
+815
+00:43:51,895 --> 00:43:53,263
+Look, remember,
+
+816
+00:43:53,330 --> 00:43:54,999
+this is Veronica's first time doing this,
+
+817
+00:43:55,065 --> 00:43:56,800
+so I don't think she realizes how she's coming off.
+
+818
+00:43:56,867 --> 00:43:58,135
+So I'll just talk to her.
+
+819
+00:44:00,571 --> 00:44:01,972
+Don't worry about her, babe.
+
+820
+00:44:02,973 --> 00:44:06,010
+I'm not worried about her, okay?
+
+821
+00:44:06,076 --> 00:44:07,645
+I'm worried about you.
+
+822
+00:44:07,711 --> 00:44:10,681
+Well, don't be. I'm a big boy.
+
+823
+00:44:10,748 --> 00:44:12,282
+[chuckles]
+
+824
+00:44:12,349 --> 00:44:14,718
+Come here.
+
+825
+00:44:14,785 --> 00:44:21,258
+♪ I think you and I are high ♪
+
+826
+00:44:38,676 --> 00:44:40,444
+What's wrong?
+
+827
+00:44:40,511 --> 00:44:41,745
+Uh...
+
+828
+00:44:43,547 --> 00:44:46,450
+Nothing, nothing. Come here.
+
+829
+00:44:47,818 --> 00:44:50,721
+♪ I think [inaudible] ♪
+
+830
+00:45:00,731 --> 00:45:05,202
+-[phone chimes] -Babe. Your phone.
+
+831
+00:45:06,370 --> 00:45:07,805
+[sighs]
+
+832
+00:45:08,672 --> 00:45:10,140
+[phone chimes]
+
+833
+00:45:12,743 --> 00:45:15,279
+[phone rings]
+
+834
+00:45:20,951 --> 00:45:22,586
+What's up, Veronica?
+
+835
+00:45:22,653 --> 00:45:24,822
+[Veronica] I couldn't leave us on such a sour note.
+
+836
+00:45:24,888 --> 00:45:26,123
+Can we talk?
+
+837
+00:45:28,125 --> 00:45:30,094
+Maybe later. I got 11:00 a.m. class.
+
+838
+00:45:30,160 --> 00:45:32,162
+[Veronica] I have something for you here at the house.
+
+839
+00:45:32,229 --> 00:45:34,064
+Can I send a car to come get you?
+
+840
+00:45:34,131 --> 00:45:35,866
+And afterwards, if you never want to see me again,
+
+841
+00:45:35,933 --> 00:45:37,434
+I'll understand.
+
+842
+00:45:37,501 --> 00:45:40,270
+Just please, let me make it up to you.
+
+843
+00:45:43,640 --> 00:45:45,542
+[sighs]
+
+844
+00:45:47,244 --> 00:45:49,313
+All right. I'll be ready in 30 minutes.
+
+845
+00:45:58,288 --> 00:45:59,823
+We have an exam this morning.
+
+846
+00:45:59,890 --> 00:46:01,325
+It'll just be a minute, I promise.
+
+847
+00:46:01,391 --> 00:46:03,260
+Then I'll have Veronica drop me off on campus.
+
+848
+00:46:03,327 --> 00:46:06,230
+-Mike... -Gia, relax, all right?
+
+849
+00:46:06,296 --> 00:46:07,865
+I already got Veronica hounding me.
+
+850
+00:46:07,931 --> 00:46:09,733
+I don't need you to do it, too.
+
+851
+00:46:09,800 --> 00:46:12,336
+[suspenseful music]
+
+852
+00:46:29,920 --> 00:46:31,455
+Thank you for coming.
+
+853
+00:46:31,522 --> 00:46:33,423
+Listen, we gotta talk about everything that's been going on.
+
+854
+00:46:33,490 --> 00:46:34,992
+And we will, I promise.
+
+855
+00:46:35,058 --> 00:46:37,194
+Just let me show you this first.
+
+856
+00:46:47,137 --> 00:46:49,840
+-What is this? -Yours.
+
+857
+00:46:49,907 --> 00:46:52,843
+-For real? -Oh, what?
+
+858
+00:46:54,478 --> 00:46:56,079
+Oh, my gosh.
+
+859
+00:46:57,781 --> 00:47:00,150
+I thought you'd like that.
+
+860
+00:47:00,217 --> 00:47:01,852
+Something that reminds you of your dad.
+
+861
+00:47:01,919 --> 00:47:03,353
+Thank you, Veronica.
+
+862
+00:47:06,890 --> 00:47:08,292
+This means so much to me.
+
+863
+00:47:09,293 --> 00:47:10,594
+Wanna take it for a spin?
+
+864
+00:47:12,496 --> 00:47:15,332
+I don't know. My class starts soon.
+
+865
+00:47:15,399 --> 00:47:17,935
+[joyful music]
+
+866
+00:47:19,670 --> 00:47:22,072
+All right, just a little bit. [chuckles]
+
+867
+00:47:22,139 --> 00:47:24,074
+-See you later, okay? -See you later.
+
+868
+00:47:25,209 --> 00:47:26,243
+Gia?
+
+869
+00:47:27,477 --> 00:47:29,546
+Do I know you?
+
+870
+00:47:29,613 --> 00:47:32,983
+No, no, I'm-I'm-I'm Nora.
+
+871
+00:47:33,050 --> 00:47:35,385
+I follow Veronica King online.
+
+872
+00:47:36,553 --> 00:47:38,856
+I saw she posted a picture of a speech
+
+873
+00:47:38,922 --> 00:47:40,891
+she gave to your computer science class.
+
+874
+00:47:40,958 --> 00:47:42,860
+You were tagged in it.
+
+875
+00:47:42,926 --> 00:47:44,328
+Oh, okay.
+
+876
+00:47:47,397 --> 00:47:49,299
+Is there somewhere we can go and talk?
+
+877
+00:47:50,968 --> 00:47:52,035
+I think you might be in danger.
+
+878
+00:47:52,102 --> 00:47:54,638
+[tense music]
+
+879
+00:47:57,007 --> 00:47:59,243
+I've been following Veronica for years,
+
+880
+00:47:59,309 --> 00:48:02,279
+and I saw she was out with this guy Mike.
+
+881
+00:48:02,346 --> 00:48:05,816
+Then I saw you and Mike together, so...
+
+882
+00:48:05,883 --> 00:48:07,451
+So I knew I had to say something.
+
+883
+00:48:07,517 --> 00:48:09,253
+I couldn't let another woman end up like my sister.
+
+884
+00:48:09,319 --> 00:48:12,155
+Wait, why were you stalking Veronica?
+
+885
+00:48:12,222 --> 00:48:13,624
+And what do you mean end up like your sister?
+
+886
+00:48:13,690 --> 00:48:15,926
+I've been watching her for something
+
+887
+00:48:15,993 --> 00:48:17,628
+that I can use against her.
+
+888
+00:48:18,829 --> 00:48:20,163
+I can't prove it,
+
+889
+00:48:20,230 --> 00:48:21,431
+but I think Veronica had something to do
+
+890
+00:48:21,498 --> 00:48:23,834
+-with my sister's death. -What?
+
+891
+00:48:23,901 --> 00:48:25,335
+About ten years ago,
+
+892
+00:48:25,402 --> 00:48:28,939
+my sister Carla worked with Veronica's husband Richie.
+
+893
+00:48:29,006 --> 00:48:30,374
+She was his publicist.
+
+894
+00:48:32,209 --> 00:48:34,811
+One night they died in a car crash.
+
+895
+00:48:34,878 --> 00:48:37,981
+What made you think Veronica had something to do with it?
+
+896
+00:48:38,048 --> 00:48:40,951
+Carla told me that she and Richie...
+
+897
+00:48:41,018 --> 00:48:43,253
+had an affair.
+
+898
+00:48:43,320 --> 00:48:45,188
+Supposedly, it was a one-time thing,
+
+899
+00:48:45,255 --> 00:48:47,224
+but Carla had a crush on him,
+
+900
+00:48:47,291 --> 00:48:49,726
+and they spent a lot of time together.
+
+901
+00:48:49,793 --> 00:48:51,361
+And apparently,
+
+902
+00:48:51,428 --> 00:48:53,597
+it was something that Richie and Veronica argued about
+
+903
+00:48:53,664 --> 00:48:55,032
+all the time.
+
+904
+00:48:55,098 --> 00:48:58,001
+So you think Veronica found out something about them that day?
+
+905
+00:48:58,068 --> 00:49:00,304
+Like I said, I can't prove it.
+
+906
+00:49:00,370 --> 00:49:02,306
+And the police haven't been any help.
+
+907
+00:49:02,372 --> 00:49:03,974
+They just labeled it as a car crash.
+
+908
+00:49:05,008 --> 00:49:06,510
+But if I'm right,
+
+909
+00:49:06,576 --> 00:49:08,378
+and Veronica finds out that Mike is cheating with you,
+
+910
+00:49:08,445 --> 00:49:11,248
+-she may snap. -He's not cheating.
+
+911
+00:49:11,315 --> 00:49:12,282
+I know.
+
+912
+00:49:14,284 --> 00:49:17,154
+But, this is a lot to digest.
+
+913
+00:49:17,220 --> 00:49:21,358
+I tried to warn my sister to back off of Richie.
+
+914
+00:49:21,425 --> 00:49:23,193
+I couldn't protect Carla,
+
+915
+00:49:23,260 --> 00:49:25,762
+so the least I can do is just try to protect you.
+
+916
+00:49:25,829 --> 00:49:29,132
+There is no telling what Veronica is capable of.
+
+917
+00:49:29,199 --> 00:49:31,735
+[music continues]
+
+918
+00:49:41,912 --> 00:49:43,146
+Nora...
+
+919
+00:49:46,717 --> 00:49:47,718
+Hmm?
+
+920
+00:49:51,955 --> 00:49:53,357
+[screams]
+
+921
+00:49:55,492 --> 00:49:58,495
+[sighs] Come on, pick up.
+
+922
+00:49:58,562 --> 00:50:02,532
+[Mike] You've reached Mike. Drop a message or hit me later.
+
+923
+00:50:02,599 --> 00:50:04,101
+Babe.
+
+924
+00:50:04,167 --> 00:50:05,502
+Babe, where are you?
+
+925
+00:50:05,569 --> 00:50:08,372
+Call me back. Please, I'm worried.
+
+926
+00:50:16,046 --> 00:50:18,582
+[keys clicking]
+
+927
+00:51:25,048 --> 00:51:27,584
+[line ringing]
+
+928
+00:51:31,588 --> 00:51:33,190
+[screams]
+
+929
+00:51:34,191 --> 00:51:37,861
+-[thuds] -[sobs]
+
+930
+00:51:45,068 --> 00:51:47,404
+I'm impressed. This looks good.
+
+931
+00:51:47,471 --> 00:51:50,173
+If it tastes the same... I haven't made this in years,
+
+932
+00:51:50,240 --> 00:51:51,842
+so it might be a little rusty.
+
+933
+00:51:51,908 --> 00:51:53,176
+All right, let's see.
+
+934
+00:51:56,012 --> 00:51:58,682
+Mmm. All right, I see you.
+
+935
+00:51:58,748 --> 00:52:00,517
+[both laugh]
+
+936
+00:52:00,584 --> 00:52:02,085
+-Great news. -Yeah?
+
+937
+00:52:02,152 --> 00:52:03,553
+I have a business meeting
+
+938
+00:52:03,620 --> 00:52:05,856
+with the executive of Sugar Finders tomorrow.
+
+939
+00:52:05,922 --> 00:52:07,524
+So I want you to come with me,
+
+940
+00:52:07,591 --> 00:52:10,961
+since you've been instrumental in my decision to invest.
+
+941
+00:52:11,027 --> 00:52:12,429
+That's a smart move.
+
+942
+00:52:12,496 --> 00:52:14,197
+You're gonna make a lot of money with this app.
+
+943
+00:52:14,264 --> 00:52:16,199
+It's only at the beginning.
+
+944
+00:52:16,266 --> 00:52:19,836
+I see you as the future of my investments.
+
+945
+00:52:19,903 --> 00:52:23,540
+So I want to make sure we have a plan in place
+
+946
+00:52:23,607 --> 00:52:25,876
+for you to get the experience,
+
+947
+00:52:25,942 --> 00:52:29,179
+especially for your own app.
+
+948
+00:52:29,246 --> 00:52:31,781
+That's one of the reasons why
+
+949
+00:52:31,848 --> 00:52:36,319
+I reached back out to Bernard Klein.
+
+950
+00:52:36,386 --> 00:52:39,990
+I told him you were interested in the internship.
+
+951
+00:52:40,056 --> 00:52:41,491
+Yes!
+
+952
+00:52:41,558 --> 00:52:42,926
+Thank you, Veronica.
+
+953
+00:52:42,993 --> 00:52:44,594
+It's the least I could do,
+
+954
+00:52:44,661 --> 00:52:46,863
+especially since I messed everything up the first time.
+
+955
+00:52:46,930 --> 00:52:48,398
+[phone chimes]
+
+956
+00:52:54,137 --> 00:52:55,372
+Something wrong?
+
+957
+00:52:58,074 --> 00:52:59,376
+Listen, Veronica,
+
+958
+00:52:59,442 --> 00:53:02,179
+I gotta be completely honest with you.
+
+959
+00:53:02,245 --> 00:53:04,614
+The girl I was with the other day, Gia?
+
+960
+00:53:06,616 --> 00:53:08,552
+[sighs] She's my girlfriend.
+
+961
+00:53:10,854 --> 00:53:11,655
+You lied to me.
+
+962
+00:53:11,721 --> 00:53:13,290
+Look, I'm sorry, all right?
+
+963
+00:53:13,356 --> 00:53:15,625
+You're sorry? You think that makes it better?
+
+964
+00:53:15,692 --> 00:53:17,761
+Well, you said this wasn't a romantic thing anyway,
+
+965
+00:53:17,827 --> 00:53:19,162
+so why are you so upset?
+
+966
+00:53:19,229 --> 00:53:21,798
+It's not a romantic thing. I wanted all of your time.
+
+967
+00:53:21,865 --> 00:53:23,333
+Isn't that what I'm paying you for?
+
+968
+00:53:23,400 --> 00:53:25,702
+Okay. You're right.
+
+969
+00:53:25,769 --> 00:53:28,438
+I'm sorry. I shouldn't have done that.
+
+970
+00:53:28,505 --> 00:53:30,574
+But it's not like it matters anymore anyway.
+
+971
+00:53:32,175 --> 00:53:34,644
+She just broke up with me.
+
+972
+00:53:34,711 --> 00:53:36,313
+Apparently, she's been trying to reach me all day
+
+973
+00:53:36,379 --> 00:53:37,914
+and now she's pissed.
+
+974
+00:53:38,949 --> 00:53:40,417
+She kicked me out.
+
+975
+00:53:45,722 --> 00:53:47,924
+Move in with me.
+
+976
+00:53:47,991 --> 00:53:49,492
+I have plenty of rooms.
+
+977
+00:53:49,559 --> 00:53:53,463
+In fact, last surprise.
+
+978
+00:53:53,530 --> 00:53:55,532
+I promise. Close your eyes.
+
+979
+00:53:58,001 --> 00:53:59,469
+What is it this time?
+
+980
+00:54:02,339 --> 00:54:03,573
+Okay, open up.
+
+981
+00:54:04,507 --> 00:54:06,243
+Don't you just love it?
+
+982
+00:54:06,309 --> 00:54:07,544
+Uh...
+
+983
+00:54:11,214 --> 00:54:12,382
+Wow.
+
+984
+00:54:15,685 --> 00:54:16,820
+Yeah.
+
+985
+00:54:16,886 --> 00:54:19,422
+[suspenseful music]
+
+986
+00:54:31,167 --> 00:54:32,736
+With your investments,
+
+987
+00:54:32,802 --> 00:54:34,904
+we intend to expand our marketing efforts
+
+988
+00:54:34,971 --> 00:54:37,340
+and hire a few different developers
+
+989
+00:54:37,407 --> 00:54:39,943
+to increase the platform's functionality.
+
+990
+00:54:40,010 --> 00:54:41,544
+I love that.
+
+991
+00:54:41,611 --> 00:54:44,514
+I'm interested in contributing beyond just capital.
+
+992
+00:54:44,581 --> 00:54:48,685
+I see Sugar Finders as the pay-to-play relations app
+
+993
+00:54:48,752 --> 00:54:50,220
+that will dominate this market.
+
+994
+00:54:50,287 --> 00:54:51,821
+Yeah, I totally agree.
+
+995
+00:54:51,888 --> 00:54:53,790
+-Cheers. -Cheers.
+
+996
+00:54:58,361 --> 00:55:00,230
+[sighs]
+
+997
+00:55:00,297 --> 00:55:01,765
+Well, Mr. Sheppard,
+
+998
+00:55:01,831 --> 00:55:04,034
+looks like we have you to thank for onboarding Miss King
+
+999
+00:55:04,100 --> 00:55:05,635
+and showing her
+
+1000
+00:55:05,702 --> 00:55:07,837
+what a valuable asset she could be to our operation.
+
+1001
+00:55:07,904 --> 00:55:10,006
+Yes, sir. I'm just glad it worked out.
+
+1002
+00:55:11,474 --> 00:55:13,977
+I think that you will get a promising mogul
+
+1003
+00:55:14,044 --> 00:55:15,945
+-on your hands here. -[chuckles]
+
+1004
+00:55:16,012 --> 00:55:20,183
+I couldn't imagine doing it without him.
+
+1005
+00:55:20,250 --> 00:55:21,351
+If you two will excuse me.
+
+1006
+00:55:21,418 --> 00:55:23,953
+[suspenseful music]
+
+1007
+00:55:35,165 --> 00:55:37,701
+[line ringing]
+
+1008
+00:55:39,169 --> 00:55:42,505
+[Gia] Hey, it's Gia. Leave a message, or don't.
+
+1009
+00:55:42,572 --> 00:55:45,208
+Babe, please call me back.
+
+1010
+00:55:45,275 --> 00:55:47,610
+Look, I'm sorry I didn't realize you tried to reach me yesterday,
+
+1011
+00:55:47,677 --> 00:55:49,946
+but I should have communicated better.
+
+1012
+00:55:50,947 --> 00:55:53,116
+Look, I was wrong.
+
+1013
+00:55:53,183 --> 00:55:55,552
+Just hear me out. I promise to do better.
+
+1014
+00:55:55,618 --> 00:55:56,853
+I love you.
+
+1015
+00:56:03,059 --> 00:56:05,095
+I see you're still hanging around.
+
+1016
+00:56:05,161 --> 00:56:06,496
+Yo, what's your problem, Andrew?
+
+1017
+00:56:06,563 --> 00:56:08,798
+You. Stealing my spot with Veronica?
+
+1018
+00:56:08,865 --> 00:56:10,367
+Ever since you came around,
+
+1019
+00:56:10,433 --> 00:56:11,835
+she's just been pushing me to the side.
+
+1020
+00:56:11,901 --> 00:56:13,570
+Veronica and I have a business arrangement.
+
+1021
+00:56:13,636 --> 00:56:15,438
+That's it. I ain't coming for your spot.
+
+1022
+00:56:15,505 --> 00:56:16,506
+Bullshit.
+
+1023
+00:56:16,573 --> 00:56:18,007
+Until you came into the picture,
+
+1024
+00:56:18,074 --> 00:56:19,976
+all of Veronica's business was with me.
+
+1025
+00:56:20,043 --> 00:56:21,578
+All right, well, I can't help you with that.
+
+1026
+00:56:21,644 --> 00:56:22,946
+That's between you and her.
+
+1027
+00:56:24,848 --> 00:56:26,182
+[groans]
+
+1028
+00:56:29,152 --> 00:56:31,187
+Get off me!
+
+1029
+00:56:31,254 --> 00:56:33,423
+[both grunt]
+
+1030
+00:56:36,326 --> 00:56:38,695
+Oh, fucking leave him alone.
+
+1031
+00:56:40,497 --> 00:56:42,832
+All right, get up. Damn! Hey!
+
+1032
+00:57:00,216 --> 00:57:01,885
+How is he?
+
+1033
+00:57:01,951 --> 00:57:03,620
+He'll be fine.
+
+1034
+00:57:03,686 --> 00:57:05,522
+Tests came back normal.
+
+1035
+00:57:05,588 --> 00:57:06,923
+Why'd you have to draw blood?
+
+1036
+00:57:08,158 --> 00:57:10,126
+Standard procedure.
+
+1037
+00:57:10,193 --> 00:57:13,797
+We check for internal injuries, infection,
+
+1038
+00:57:13,863 --> 00:57:16,166
+and your blood alcohol level.
+
+1039
+00:57:16,232 --> 00:57:18,835
+In case Andrew tries to say that you initiated the attack
+
+1040
+00:57:18,902 --> 00:57:21,371
+because you were under the influence.
+
+1041
+00:57:21,438 --> 00:57:23,239
+I'm so glad you're okay.
+
+1042
+00:57:25,608 --> 00:57:27,010
+Sorry to bother you.
+
+1043
+00:57:27,076 --> 00:57:29,446
+-Your patient is awake. -Thank you, nurse.
+
+1044
+00:57:29,512 --> 00:57:31,548
+[gloomy music]
+
+1045
+00:57:33,183 --> 00:57:37,654
+Mike, there's something else I have to tell you.
+
+1046
+00:57:37,720 --> 00:57:40,690
+It's about Gia. She was attacked last night.
+
+1047
+00:57:53,069 --> 00:57:56,272
+-Gia? -Mike, thank God.
+
+1048
+00:57:56,339 --> 00:57:58,308
+-You okay? -I was worried.
+
+1049
+00:57:58,374 --> 00:58:01,511
+[sobs]
+
+1050
+00:58:02,512 --> 00:58:03,813
+What happened to you?
+
+1051
+00:58:05,048 --> 00:58:06,683
+[gasps]
+
+1052
+00:58:06,749 --> 00:58:09,152
+Someone attacked me on campus last night.
+
+1053
+00:58:11,821 --> 00:58:14,290
+Babe, I'm so sorry.
+
+1054
+00:58:14,357 --> 00:58:15,959
+I should have been there.
+
+1055
+00:58:16,025 --> 00:58:18,761
+I've been trying to call you ever since I got your text.
+
+1056
+00:58:22,999 --> 00:58:24,934
+What text?
+
+1057
+00:58:25,001 --> 00:58:26,569
+You said...
+
+1058
+00:58:26,636 --> 00:58:28,137
+Look, it doesn't matter.
+
+1059
+00:58:28,204 --> 00:58:30,640
+How you feeling? Can I get you anything?
+
+1060
+00:58:30,707 --> 00:58:32,208
+How long do you have to be here for?
+
+1061
+00:58:32,275 --> 00:58:33,676
+I'm okay.
+
+1062
+00:58:33,743 --> 00:58:35,378
+I'm just glad you're here.
+
+1063
+00:58:35,445 --> 00:58:38,181
+[machine beeping]
+
+1064
+00:58:38,248 --> 00:58:42,085
+-Please don't leave me again. -I won't. I promise.
+
+1065
+00:58:49,592 --> 00:58:52,662
+Sorry. I didn't mean to interrupt.
+
+1066
+00:58:52,729 --> 00:58:53,963
+It's okay.
+
+1067
+00:58:54,831 --> 00:58:56,399
+You remember Gia, right?
+
+1068
+00:58:56,466 --> 00:59:00,003
+Of course. My goodness.
+
+1069
+00:59:00,069 --> 00:59:02,639
+But what happened? Are you okay?
+
+1070
+00:59:02,705 --> 00:59:04,207
+I'm fine.
+
+1071
+00:59:04,274 --> 00:59:05,975
+She was attacked.
+
+1072
+00:59:06,042 --> 00:59:07,810
+-You think it was Andrew? -Probably.
+
+1073
+00:59:07,877 --> 00:59:09,712
+I didn't think he would come after people I care about.
+
+1074
+00:59:09,779 --> 00:59:12,682
+Wait a minute. Who was Andrew?
+
+1075
+00:59:12,749 --> 00:59:14,317
+And why would he attack me?
+
+1076
+00:59:14,384 --> 00:59:16,753
+He's my ex-assistant.
+
+1077
+00:59:16,819 --> 00:59:19,455
+Gia, I am sorry. This is all my fault.
+
+1078
+00:59:19,522 --> 00:59:23,626
+I'll make sure to cover all of your medical bills.
+
+1079
+00:59:23,693 --> 00:59:27,196
+Everything. You can stay with us to recover.
+
+1080
+00:59:28,231 --> 00:59:29,232
+Us?
+
+1081
+00:59:31,167 --> 00:59:33,236
+Veronica, can you give us a second?
+
+1082
+00:59:33,303 --> 00:59:35,838
+[suspenseful music]
+
+1083
+00:59:38,675 --> 00:59:41,244
+You have to get away from Veronica.
+
+1084
+00:59:41,311 --> 00:59:44,480
+Okay? She's dangerous.
+
+1085
+00:59:44,547 --> 00:59:46,015
+Dangerous?
+
+1086
+00:59:46,082 --> 00:59:47,917
+She said she would pay for your medical bills.
+
+1087
+00:59:47,984 --> 00:59:50,486
+Yesterday, a woman, Nora,
+
+1088
+00:59:50,553 --> 00:59:52,789
+she came on campus looking for me.
+
+1089
+00:59:52,855 --> 00:59:54,290
+She thinks Veronica has something to do
+
+1090
+00:59:54,357 --> 00:59:55,558
+with killing her sister.
+
+1091
+00:59:55,625 --> 00:59:57,527
+-What? -Babe, there was an accident.
+
+1092
+00:59:57,594 --> 00:59:59,295
+Okay? A car accident.
+
+1093
+00:59:59,362 --> 01:00:01,831
+Veronica's husband was killed, and Nora said that...
+
+1094
+01:00:01,898 --> 01:00:05,001
+The nurses' station said that visiting hours are over.
+
+1095
+01:00:05,068 --> 01:00:07,403
+Mikey, you have to come with me.
+
+1096
+01:00:07,470 --> 01:00:09,639
+Mike, don't go. Okay?
+
+1097
+01:00:09,706 --> 01:00:11,641
+Stay the night so that we can talk.
+
+1098
+01:00:11,708 --> 01:00:13,009
+I'll bring him back in the morning.
+
+1099
+01:00:13,076 --> 01:00:15,378
+-No. He has to stay. -Nurse!
+
+1100
+01:00:15,445 --> 01:00:17,113
+Don't go, she's not what you think she is.
+
+1101
+01:00:17,180 --> 01:00:18,781
+-No, babe, listen to me. -Relax, calm down.
+
+1102
+01:00:18,848 --> 01:00:20,550
+You're in danger now. Get your hands off me.
+
+1103
+01:00:20,617 --> 01:00:21,884
+Ma'am, I need you to calm down.
+
+1104
+01:00:21,951 --> 01:00:23,319
+-No, get off. Babe... -Sir,
+
+1105
+01:00:23,386 --> 01:00:24,954
+I'm gonna have to ask you to leave.
+
+1106
+01:00:25,021 --> 01:00:26,289
+Please don't leave, Mike. Mike, Mike, please.
+
+1107
+01:00:26,356 --> 01:00:28,224
+Mike, you're in danger. No, get your hands off.
+
+1108
+01:00:28,291 --> 01:00:30,093
+Mike, listen to me. You can't go.
+
+1109
+01:00:30,159 --> 01:00:33,296
+Mike, no. Please let go of me. Let go.
+
+1110
+01:00:33,363 --> 01:00:36,165
+[screams] Mikey! Mike!
+
+1111
+01:00:36,232 --> 01:00:37,767
+Please, no! No!
+
+1112
+01:00:37,834 --> 01:00:39,202
+Please, Mike!
+
+1113
+01:00:39,268 --> 01:00:41,237
+Mikey. No!
+
+1114
+01:00:55,051 --> 01:00:57,286
+She's gonna be okay.
+
+1115
+01:00:57,353 --> 01:00:59,689
+I just hated to leave her in that condition.
+
+1116
+01:00:59,756 --> 01:01:04,160
+I'll call Greg personally. Make sure he checks in on her.
+
+1117
+01:01:04,227 --> 01:01:07,030
+We can go right in the morning when you wake up, okay?
+
+1118
+01:01:07,096 --> 01:01:08,097
+Okay.
+
+1119
+01:01:14,070 --> 01:01:16,205
+Gia mentioned something about your husband Richie.
+
+1120
+01:01:18,041 --> 01:01:20,743
+If you don't mind me asking, how did he die?
+
+1121
+01:01:22,645 --> 01:01:25,114
+It was a traumatic accident.
+
+1122
+01:01:26,816 --> 01:01:28,885
+It still hurts to talk about.
+
+1123
+01:01:30,586 --> 01:01:32,622
+My poor Jayson.
+
+1124
+01:01:32,689 --> 01:01:34,957
+I don't think he ever got over it.
+
+1125
+01:01:35,024 --> 01:01:36,392
+I'm sorry to hear that.
+
+1126
+01:01:37,627 --> 01:01:38,995
+And that's a lot to deal with.
+
+1127
+01:01:39,062 --> 01:01:40,263
+When my mom left,
+
+1128
+01:01:40,329 --> 01:01:41,964
+I used to sneak and look at old pictures
+
+1129
+01:01:42,031 --> 01:01:44,767
+because I knew my dad wouldn't want to talk about her.
+
+1130
+01:01:44,834 --> 01:01:46,936
+Do you have any recent pictures of Jayson?
+
+1131
+01:01:56,012 --> 01:01:57,480
+I don't have any pictures,
+
+1132
+01:01:58,681 --> 01:02:00,850
+but I do have postcards.
+
+1133
+01:02:00,917 --> 01:02:03,486
+He sends them from his travels.
+
+1134
+01:02:03,553 --> 01:02:06,122
+I should be getting another one in a few days.
+
+1135
+01:02:07,256 --> 01:02:09,792
+[tense music]
+
+1136
+01:02:13,830 --> 01:02:15,331
+Wanna watch a movie?
+
+1137
+01:02:19,035 --> 01:02:20,770
+Yeah, sure. Why not?
+
+1138
+01:02:46,963 --> 01:02:49,499
+[phone vibrates]
+
+1139
+01:03:09,152 --> 01:03:10,520
+[woman] You have a collect call
+
+1140
+01:03:10,586 --> 01:03:12,755
+from Monroe Park Correctional Facility.
+
+1141
+01:03:12,822 --> 01:03:14,390
+Do you accept?
+
+1142
+01:03:14,457 --> 01:03:15,458
+Sure.
+
+1143
+01:03:15,525 --> 01:03:16,993
+Mike.
+
+1144
+01:03:17,059 --> 01:03:18,461
+[Mike] How the hell did you get my number?
+
+1145
+01:03:18,528 --> 01:03:20,596
+From Veronica's things. Listen, I don't have much time.
+
+1146
+01:03:20,663 --> 01:03:22,899
+-I need your help. -So you attack me and my girl
+
+1147
+01:03:22,965 --> 01:03:24,400
+and you think I'm gonna help you?
+
+1148
+01:03:24,467 --> 01:03:25,868
+[Andrew] No, no, no. You got it all wrong.
+
+1149
+01:03:25,935 --> 01:03:27,537
+I swear.
+
+1150
+01:03:27,603 --> 01:03:30,740
+Please tell Veronica to drop the assault charges.
+
+1151
+01:03:30,807 --> 01:03:32,308
+I was doing what she told me to,
+
+1152
+01:03:32,375 --> 01:03:34,544
+but she didn't say nothing about jail.
+
+1153
+01:03:34,610 --> 01:03:36,479
+What did she tell you to do?
+
+1154
+01:03:36,546 --> 01:03:37,613
+[Andrew] To fight you.
+
+1155
+01:03:39,148 --> 01:03:40,750
+Why would she tell you to do that?
+
+1156
+01:03:40,817 --> 01:03:42,852
+[Andrew] She needed me to rough you up a little.
+
+1157
+01:03:42,919 --> 01:03:43,953
+No big deal.
+
+1158
+01:03:44,020 --> 01:03:45,855
+Can you bail me out?
+
+1159
+01:03:45,922 --> 01:03:47,523
+Who are you talking to?
+
+1160
+01:03:47,590 --> 01:03:50,193
+[Andrew] Mike, Mike, Mike, are you still there?
+
+1161
+01:03:50,259 --> 01:03:53,996
+Andrew, this is your final warning.
+
+1162
+01:03:54,063 --> 01:03:57,767
+Do not ever call me or Mikey ever again.
+
+1163
+01:03:57,834 --> 01:03:59,435
+Do you hear me?
+
+1164
+01:03:59,502 --> 01:04:01,137
+[Veronica] I'm not going to allow you to terrorize us
+
+1165
+01:04:01,204 --> 01:04:03,506
+over your obsession.
+
+1166
+01:04:03,573 --> 01:04:04,574
+Goodbye.
+
+1167
+01:04:07,109 --> 01:04:09,612
+This is all my fault. I'm sorry.
+
+1168
+01:04:09,679 --> 01:04:13,716
+I never knew Andrew was capable of any of this.
+
+1169
+01:04:13,783 --> 01:04:15,718
+Did you put him up to fight me?
+
+1170
+01:04:15,785 --> 01:04:18,354
+Is that what he told you?
+
+1171
+01:04:18,421 --> 01:04:23,659
+You cannot trust Andrew. He spiraled out of control.
+
+1172
+01:04:23,726 --> 01:04:27,063
+I realized he was jealous when you came into the picture.
+
+1173
+01:04:28,231 --> 01:04:29,832
+He has always been loyal,
+
+1174
+01:04:29,899 --> 01:04:34,670
+but I did not know that he could ever harm you or Gia.
+
+1175
+01:04:34,737 --> 01:04:38,174
+If I'd known that, I never would've let it happen.
+
+1176
+01:04:38,241 --> 01:04:39,775
+Did he ask you to bail him out?
+
+1177
+01:04:39,842 --> 01:04:41,244
+And drop the charges.
+
+1178
+01:04:41,310 --> 01:04:45,481
+See, he will say anything to you right now.
+
+1179
+01:04:45,548 --> 01:04:48,985
+He is willing because he needs to get you to do what he wants.
+
+1180
+01:04:49,051 --> 01:04:52,955
+Ignore him if he calls you ever again, okay?
+
+1181
+01:04:53,856 --> 01:04:55,224
+Yeah, yeah, okay.
+
+1182
+01:04:57,026 --> 01:04:59,896
+Okay, it's late.
+
+1183
+01:04:59,962 --> 01:05:01,564
+Let's go to sleep.
+
+1184
+01:05:01,631 --> 01:05:03,499
+Actually, I think I'm gonna go back to my place tonight.
+
+1185
+01:05:03,566 --> 01:05:04,667
+Oh, Mikey.
+
+1186
+01:05:05,935 --> 01:05:07,637
+You can stay here.
+
+1187
+01:05:07,703 --> 01:05:11,374
+You can go straight from here to check on Gia in the morning.
+
+1188
+01:05:12,875 --> 01:05:13,876
+Okay.
+
+1189
+01:05:13,943 --> 01:05:16,545
+[tense music]
+
+1190
+01:05:19,181 --> 01:05:20,650
+I love you, sunshine.
+
+1191
+01:05:26,489 --> 01:05:27,490
+Good night.
+
+1192
+01:05:27,556 --> 01:05:30,092
+[tense music]
+
+1193
+01:05:41,938 --> 01:05:43,306
+[door shuts]
+
+1194
+01:05:47,944 --> 01:05:49,679
+[sighs]
+
+1195
+01:06:00,056 --> 01:06:02,591
+[machine beeping]
+
+1196
+01:06:11,834 --> 01:06:14,370
+[groans softly]
+
+1197
+01:06:20,209 --> 01:06:21,777
+Hey, sweetie.
+
+1198
+01:06:23,346 --> 01:06:25,147
+How are you feeling?
+
+1199
+01:06:25,214 --> 01:06:27,616
+What are you doing back here?
+
+1200
+01:06:27,683 --> 01:06:28,751
+Where's Mike?
+
+1201
+01:06:31,220 --> 01:06:33,222
+My son's right where he belongs.
+
+1202
+01:06:34,390 --> 01:06:35,391
+Son?
+
+1203
+01:06:36,625 --> 01:06:38,627
+He's not your damn son.
+
+1204
+01:06:38,694 --> 01:06:42,264
+-You're twisted. -Not twisted at all.
+
+1205
+01:06:42,331 --> 01:06:45,067
+Just a loving mother.
+
+1206
+01:06:45,134 --> 01:06:47,903
+What are you gonna do, huh?
+
+1207
+01:06:47,970 --> 01:06:49,038
+Brainwash him?
+
+1208
+01:06:49,105 --> 01:06:50,439
+He's never gonna--
+
+1209
+01:06:52,708 --> 01:06:53,709
+He's--
+
+1210
+01:06:53,776 --> 01:06:56,379
+He's not... gonna...
+
+1211
+01:06:58,414 --> 01:07:00,983
+pretend you're his moth-mother.
+
+1212
+01:07:01,050 --> 01:07:02,818
+Sure he will.
+
+1213
+01:07:02,885 --> 01:07:05,187
+[chuckles softly]
+
+1214
+01:07:05,254 --> 01:07:08,090
+But you won't be around to see it.
+
+1215
+01:07:08,157 --> 01:07:10,693
+[machine beeping rapidly]
+
+1216
+01:07:13,195 --> 01:07:16,332
+[gasping]
+
+1217
+01:07:50,132 --> 01:07:52,601
+-Veronica, what the hell? -I didn't mean to scare you.
+
+1218
+01:07:52,668 --> 01:07:54,570
+You hungry? I made breakfast.
+
+1219
+01:07:54,637 --> 01:07:56,605
+No, I have to go to the hospital to see Gia.
+
+1220
+01:07:56,672 --> 01:07:59,842
+-Just try it. No dairy. -No, I said chill.
+
+1221
+01:07:59,909 --> 01:08:01,677
+Look what you did.
+
+1222
+01:08:03,345 --> 01:08:04,380
+I'll clean it up.
+
+1223
+01:08:04,447 --> 01:08:07,183
+[suspenseful music]
+
+1224
+01:08:27,770 --> 01:08:28,804
+Veronica.
+
+1225
+01:08:31,173 --> 01:08:32,441
+Where is she?
+
+1226
+01:08:40,216 --> 01:08:42,218
+Veronica, open the door!
+
+1227
+01:08:42,284 --> 01:08:44,687
+It's not a game, Veronica.
+
+1228
+01:08:44,753 --> 01:08:45,821
+[banging on door]
+
+1229
+01:08:50,326 --> 01:08:51,660
+Veronica, where are you?
+
+1230
+01:08:52,795 --> 01:08:54,296
+[banging continues]
+
+1231
+01:08:54,363 --> 01:08:56,899
+[music continues]
+
+1232
+01:09:06,542 --> 01:09:07,810
+[bangs]
+
+1233
+01:09:18,254 --> 01:09:22,057
+Veronica! Open the door. Veronica!
+
+1234
+01:09:22,124 --> 01:09:24,160
+[banging continues]
+
+1235
+01:09:24,226 --> 01:09:26,495
+It's not a game.
+
+1236
+01:09:26,562 --> 01:09:28,731
+Veronica, where are you?
+
+1237
+01:09:28,797 --> 01:09:30,766
+Veronica.
+
+1238
+01:09:30,833 --> 01:09:32,635
+[volume increases]
+
+1239
+01:09:34,503 --> 01:09:39,141
+♪ I know that you'll be here For me ♪
+
+1240
+01:09:39,208 --> 01:09:41,744
+[inaudible]
+
+1241
+01:09:44,146 --> 01:09:46,649
+[inaudible]
+
+1242
+01:09:46,715 --> 01:09:49,818
+♪ I know that you'll be here For me ♪
+
+1243
+01:09:55,324 --> 01:09:57,860
+[crickets chirping]
+
+1244
+01:10:00,396 --> 01:10:02,231
+[Veronica] No, I didn't hug him.
+
+1245
+01:10:02,298 --> 01:10:04,200
+I... [inaudible].
+
+1246
+01:10:04,266 --> 01:10:05,968
+I don't know if it's a good idea.
+
+1247
+01:10:06,035 --> 01:10:07,570
+I'm not sure.
+
+1248
+01:10:09,705 --> 01:10:11,006
+[opens door]
+
+1249
+01:10:14,910 --> 01:10:16,212
+Hey, Mike.
+
+1250
+01:10:16,278 --> 01:10:17,780
+What the hell is wrong with you, Veronica?
+
+1251
+01:10:17,846 --> 01:10:20,115
+You know what? This is done. You hear me? We're done.
+
+1252
+01:10:20,182 --> 01:10:21,884
+Mike, will you let me speak just for a minute, please?
+
+1253
+01:10:21,951 --> 01:10:23,519
+Hell no. I'm trying to get to the hospital.
+
+1254
+01:10:23,586 --> 01:10:26,288
+-She knows that. -This is wrong, and I'm sorry.
+
+1255
+01:10:26,355 --> 01:10:27,823
+But Greg came to tell you something,
+
+1256
+01:10:27,890 --> 01:10:29,658
+and I think you should listen to what he has to say.
+
+1257
+01:10:29,725 --> 01:10:31,660
+I don't give a damn what he has to say.
+
+1258
+01:10:33,195 --> 01:10:34,363
+It's about Gia.
+
+1259
+01:10:35,297 --> 01:10:37,166
+What about Gia?
+
+1260
+01:10:37,233 --> 01:10:38,801
+I'm sorry, Mike.
+
+1261
+01:10:40,135 --> 01:10:42,571
+We called her parents already.
+
+1262
+01:10:42,638 --> 01:10:44,106
+I came to talk to you in person.
+
+1263
+01:10:44,173 --> 01:10:46,709
+[intense music]
+
+1264
+01:10:51,146 --> 01:10:53,515
+Gia succumbed to her injuries last night.
+
+1265
+01:10:54,516 --> 01:10:56,819
+She fought really hard.
+
+1266
+01:10:56,885 --> 01:10:59,121
+But in the end...
+
+1267
+01:10:59,188 --> 01:11:01,357
+she just didn't make it.
+
+1268
+01:11:01,423 --> 01:11:03,259
+Look, Mike, we're here for you, man.
+
+1269
+01:11:03,325 --> 01:11:05,394
+We're here with you, Mike.
+
+1270
+01:11:05,461 --> 01:11:07,896
+We're here with you. Mike.
+
+1271
+01:11:07,963 --> 01:11:09,365
+Mike.
+
+1272
+01:11:09,431 --> 01:11:10,833
+-Mike. -Fuck!
+
+1273
+01:11:10,899 --> 01:11:13,035
+-Mikey! -Stay the hell away from me!
+
+1274
+01:11:13,102 --> 01:11:15,204
+You should have let me go this morning!
+
+1275
+01:11:15,271 --> 01:11:17,006
+She tried to warn me about you!
+
+1276
+01:11:18,173 --> 01:11:20,609
+Let's get you home, son.
+
+1277
+01:11:20,676 --> 01:11:21,677
+Come on.
+
+1278
+01:11:23,512 --> 01:11:26,649
+[sniffles]
+
+1279
+01:11:37,826 --> 01:11:40,362
+[dramatic music]
+
+1280
+01:12:02,484 --> 01:12:05,020
+[keypad clicking]
+
+1281
+01:12:28,444 --> 01:12:30,979
+[tense music]
+
+1282
+01:12:52,568 --> 01:12:53,936
+[Mike] I need time to myself, Veronica.
+
+1283
+01:12:54,002 --> 01:12:55,537
+I'm not trying to see you right now.
+
+1284
+01:13:01,710 --> 01:13:04,813
+Roni, it's going to work out.
+
+1285
+01:13:04,880 --> 01:13:06,081
+I hope so.
+
+1286
+01:13:07,783 --> 01:13:10,052
+Look, I'm going to New York for a few days
+
+1287
+01:13:10,119 --> 01:13:11,553
+for a medical conference.
+
+1288
+01:13:11,620 --> 01:13:14,423
+-Why don't you come with me? -You know I can't.
+
+1289
+01:13:20,863 --> 01:13:24,500
+Hey, are you going to be okay until I get back?
+
+1290
+01:13:24,566 --> 01:13:26,835
+Yeah, I'll be fine.
+
+1291
+01:13:26,902 --> 01:13:29,138
+Hmm. Okay. You know what?
+
+1292
+01:13:29,204 --> 01:13:32,474
+You need to plan yourself a little getaway.
+
+1293
+01:13:32,541 --> 01:13:34,576
+I think the time will do you some good.
+
+1294
+01:13:35,511 --> 01:13:37,112
+Hmm.
+
+1295
+01:13:37,179 --> 01:13:39,715
+[dramatic music]
+
+1296
+01:13:46,288 --> 01:13:47,556
+[sighs]
+
+1297
+01:13:49,658 --> 01:13:51,827
+You know what? You're right.
+
+1298
+01:13:51,894 --> 01:13:54,229
+My son would absolutely love that.
+
+1299
+01:14:09,845 --> 01:14:12,581
+[baby crying in distance]
+
+1300
+01:14:23,192 --> 01:14:26,128
+-I'm surprised you came up here. -Cut the shit.
+
+1301
+01:14:26,195 --> 01:14:28,997
+I need you to be straight with me and tell me the truth.
+
+1302
+01:14:29,064 --> 01:14:31,700
+It's been Veronica this whole time.
+
+1303
+01:14:31,767 --> 01:14:33,702
+She paid me to attack you.
+
+1304
+01:14:33,769 --> 01:14:35,671
+Said you were being a nuisance,
+
+1305
+01:14:35,737 --> 01:14:37,172
+and she wanted me to rough you up
+
+1306
+01:14:37,239 --> 01:14:39,374
+so you back off some.
+
+1307
+01:14:39,441 --> 01:14:41,210
+What about Gia?
+
+1308
+01:14:41,276 --> 01:14:42,878
+Why would Veronica attack her?
+
+1309
+01:14:42,945 --> 01:14:45,447
+Because Gia probably found out the truth about Veronica.
+
+1310
+01:14:45,514 --> 01:14:48,150
+I've worked for Veronica for five years.
+
+1311
+01:14:48,217 --> 01:14:49,585
+And in that time,
+
+1312
+01:14:49,651 --> 01:14:51,854
+I've handled all of her personal information.
+
+1313
+01:14:51,920 --> 01:14:56,792
+Records, phone logs, emails, messages, you name it.
+
+1314
+01:14:56,859 --> 01:14:59,661
+I didn't think much of it at first.
+
+1315
+01:14:59,728 --> 01:15:01,563
+Then I started to find things.
+
+1316
+01:15:01,630 --> 01:15:03,599
+[phone vibrates]
+
+1317
+01:15:05,400 --> 01:15:07,503
+[Andrew] Veronica found out her husband was sleeping
+
+1318
+01:15:07,569 --> 01:15:08,770
+with his publicist Carla.
+
+1319
+01:15:08,837 --> 01:15:10,239
+She was pissed.
+
+1320
+01:15:15,344 --> 01:15:16,545
+What?
+
+1321
+01:15:18,347 --> 01:15:19,615
+It's my publicist.
+
+1322
+01:15:19,681 --> 01:15:21,250
+That's all you're gonna do is laugh?
+
+1323
+01:15:21,316 --> 01:15:23,352
+[Andrew] But he didn't even seem to care.
+
+1324
+01:15:23,418 --> 01:15:27,155
+Denied everything, even when she confronted him.
+
+1325
+01:15:29,124 --> 01:15:32,928
+What happened after that, I'm not entirely sure about.
+
+1326
+01:15:32,995 --> 01:15:35,230
+But one thing I do know,
+
+1327
+01:15:35,297 --> 01:15:38,333
+you don't want to cross Veronica.
+
+1328
+01:15:43,605 --> 01:15:44,806
+If your mother asks,
+
+1329
+01:15:44,873 --> 01:15:47,009
+just tell her I had a meeting, son.
+
+1330
+01:15:47,075 --> 01:15:48,744
+Your mom will be back in a couple hours.
+
+1331
+01:15:48,810 --> 01:15:50,646
+She just ran to the store.
+
+1332
+01:15:50,712 --> 01:15:52,281
+Look, just let him come, babe.
+
+1333
+01:15:52,347 --> 01:15:54,616
+You don't want him to suspect anything.
+
+1334
+01:15:54,683 --> 01:15:56,451
+Right.
+
+1335
+01:15:56,518 --> 01:15:58,220
+All right, come on, go get dressed.
+
+1336
+01:15:59,388 --> 01:16:00,756
+Come on.
+
+1337
+01:16:00,822 --> 01:16:02,858
+[both laugh]
+
+1338
+01:16:11,300 --> 01:16:13,835
+[tense music]
+
+1339
+01:16:23,378 --> 01:16:24,646
+-What the hell? -Baby?
+
+1340
+01:16:24,713 --> 01:16:26,014
+-Babe, what's wrong? -The brakes don't work!
+
+1341
+01:16:26,081 --> 01:16:27,983
+Babe, come on! Please, please!
+
+1342
+01:16:28,050 --> 01:16:29,851
+-What is wrong? -Oh, my God!
+
+1343
+01:16:29,918 --> 01:16:31,486
+Oh, my God! I can't slow down!
+
+1344
+01:16:31,553 --> 01:16:33,555
+Richie, please, please, please, please!
+
+1345
+01:16:33,622 --> 01:16:35,090
+I can't slow down!
+
+1346
+01:16:36,558 --> 01:16:38,193
+Please, baby, stop!
+
+1347
+01:16:38,260 --> 01:16:39,428
+[screams]
+
+1348
+01:16:39,494 --> 01:16:40,963
+Oh my God!
+
+1349
+01:16:41,029 --> 01:16:42,431
+-Oh, my God! Oh, my God! -No, baby, please!
+
+1350
+01:16:42,497 --> 01:16:43,665
+No!
+
+1351
+01:16:43,732 --> 01:16:45,701
+[crashes]
+
+1352
+01:16:51,540 --> 01:16:53,141
+[crickets chirping]
+
+1353
+01:16:54,576 --> 01:16:56,678
+[groans]
+
+1354
+01:17:06,388 --> 01:17:08,924
+[groaning continues]
+
+1355
+01:17:15,297 --> 01:17:17,199
+[screams]
+
+1356
+01:17:54,936 --> 01:17:57,506
+No! No! Baby?
+
+1357
+01:17:57,572 --> 01:18:00,108
+[sobbing]
+
+1358
+01:18:12,721 --> 01:18:15,190
+So, Jayson died too?
+
+1359
+01:18:15,257 --> 01:18:17,359
+I read articles about the crash, but nothing mentions it.
+
+1360
+01:18:17,426 --> 01:18:20,362
+There are no records of him online anywhere.
+
+1361
+01:18:20,429 --> 01:18:23,265
+It's as if he just doesn't exist anymore.
+
+1362
+01:18:25,000 --> 01:18:28,637
+I honestly think she just checked out from reality.
+
+1363
+01:18:28,704 --> 01:18:31,273
+All right, look, I'll drop the charges and bail you out.
+
+1364
+01:18:31,339 --> 01:18:33,508
+But for now I need you to go to the police.
+
+1365
+01:18:37,779 --> 01:18:39,314
+[sighs]
+
+1366
+01:18:44,152 --> 01:18:45,087
+[groans]
+
+1367
+01:18:45,153 --> 01:18:46,321
+You didn't think I'd give you a call
+
+1368
+01:18:46,388 --> 01:18:48,223
+and not be able to track you, did you?
+
+1369
+01:18:52,094 --> 01:18:56,465
+My son, I've missed you so much.
+
+1370
+01:18:59,668 --> 01:19:02,204
+[suspenseful music]
+
+1371
+01:19:11,880 --> 01:19:13,515
+[rattles]
+
+1372
+01:19:15,550 --> 01:19:17,285
+[groans]
+
+1373
+01:19:31,900 --> 01:19:33,168
+Help!
+
+1374
+01:19:37,906 --> 01:19:39,274
+Help!
+
+1375
+01:19:44,045 --> 01:19:47,516
+Well, I am happy to see you in a much better mood.
+
+1376
+01:19:47,582 --> 01:19:50,152
+Yes, very. My son's been traveling for a while,
+
+1377
+01:19:50,218 --> 01:19:54,790
+but he's finally home and I couldn't be happier.
+
+1378
+01:19:54,856 --> 01:19:55,991
+How wonderful.
+
+1379
+01:19:56,057 --> 01:19:57,425
+Well, when do I get to meet him?
+
+1380
+01:19:57,492 --> 01:19:58,860
+Hopefully soon.
+
+1381
+01:19:58,927 --> 01:20:00,929
+I've actually booked his vacation to Aruba.
+
+1382
+01:20:00,996 --> 01:20:02,964
+I am very proud of you, Veronica.
+
+1383
+01:20:03,031 --> 01:20:05,066
+[indistinct chatter]
+
+1384
+01:20:07,469 --> 01:20:08,537
+Hey!
+
+1385
+01:20:08,603 --> 01:20:10,138
+[indistinct chatter]
+
+1386
+01:20:10,205 --> 01:20:12,407
+I'm down here! Help!
+
+1387
+01:20:14,176 --> 01:20:15,544
+[knocks]
+
+1388
+01:20:24,085 --> 01:20:26,121
+Well, let me let you go.
+
+1389
+01:20:26,188 --> 01:20:28,557
+I just wanted to stop by and check in on you. [chuckles]
+
+1390
+01:20:43,872 --> 01:20:45,574
+[door creaks]
+
+1391
+01:20:58,420 --> 01:21:00,155
+You need to eat.
+
+1392
+01:21:00,222 --> 01:21:01,890
+Keep up your strength.
+
+1393
+01:21:01,957 --> 01:21:04,059
+Why are you doing this?
+
+1394
+01:21:04,125 --> 01:21:06,394
+Because you mean so much to me.
+
+1395
+01:21:07,762 --> 01:21:08,997
+More than you'll ever know.
+
+1396
+01:21:09,064 --> 01:21:11,066
+So that's your plan? Jayson dies
+
+1397
+01:21:11,132 --> 01:21:13,268
+and you think you can just replace him with me?
+
+1398
+01:21:13,335 --> 01:21:15,770
+-You're crazy. -No.
+
+1399
+01:21:15,837 --> 01:21:17,572
+I'm a mother.
+
+1400
+01:21:17,639 --> 01:21:21,042
+And a mother will do whatever she needs
+
+1401
+01:21:21,109 --> 01:21:22,377
+to be with her child.
+
+1402
+01:21:22,444 --> 01:21:23,945
+But I'm not your child, Veronica!
+
+1403
+01:21:24,012 --> 01:21:26,181
+I know.
+
+1404
+01:21:26,248 --> 01:21:27,682
+[sobs] But I need you.
+
+1405
+01:21:31,953 --> 01:21:34,289
+Okay, wait, wait. Veronica!
+
+1406
+01:21:34,356 --> 01:21:36,358
+Wait! Mom!
+
+1407
+01:21:41,963 --> 01:21:43,298
+What did you call me?
+
+1408
+01:21:45,200 --> 01:21:50,572
+I said, Mom, please, I love you.
+
+1409
+01:21:50,639 --> 01:21:53,041
+Don't-don't leave me down here by myself.
+
+1410
+01:21:53,108 --> 01:21:54,542
+You know I'm afraid of the dark.
+
+1411
+01:21:54,609 --> 01:21:56,011
+Oh, baby.
+
+1412
+01:21:56,077 --> 01:21:59,347
+I'm so glad to hear you say that.
+
+1413
+01:21:59,414 --> 01:22:03,051
+I'll put you in your room after you eat your dinner, okay?
+
+1414
+01:22:03,118 --> 01:22:04,920
+-Yes, ma'am. -I promise.
+
+1415
+01:22:04,986 --> 01:22:06,187
+Okay.
+
+1416
+01:22:10,659 --> 01:22:12,093
+Thanks, Mom.
+
+1417
+01:22:18,033 --> 01:22:19,267
+Eat up now.
+
+1418
+01:22:20,135 --> 01:22:21,469
+You need your strength.
+
+1419
+01:22:23,705 --> 01:22:25,974
+Hmm-hmm.
+
+1420
+01:22:52,133 --> 01:22:54,569
+I love you, my sunshine.
+
+1421
+01:22:54,636 --> 01:22:55,737
+Good night.
+
+1422
+01:22:57,305 --> 01:23:01,443
+I've prayed for this moment with you for so long.
+
+1423
+01:23:01,509 --> 01:23:03,845
+And now, I'm never gonna let you go.
+
+1424
+01:23:03,912 --> 01:23:05,780
+I love you.
+
+1425
+01:23:20,829 --> 01:23:23,365
+[birds chirping]
+
+1426
+01:23:31,072 --> 01:23:32,540
+I am being patient.
+
+1427
+01:23:32,607 --> 01:23:34,409
+[clatters]
+
+1428
+01:23:34,476 --> 01:23:36,945
+I just want it done already.
+
+1429
+01:23:37,012 --> 01:23:38,346
+We're traveling soon.
+
+1430
+01:23:39,948 --> 01:23:41,716
+Okay. I will.
+
+1431
+01:23:50,992 --> 01:23:53,728
+[door opens]
+
+1432
+01:24:04,839 --> 01:24:06,674
+Good morning, sunshine.
+
+1433
+01:24:06,741 --> 01:24:09,544
+Good morning, Mom. How'd you sleep?
+
+1434
+01:24:09,611 --> 01:24:10,645
+Wonderful.
+
+1435
+01:24:10,712 --> 01:24:13,715
+Best sleep that I've had in years.
+
+1436
+01:24:13,782 --> 01:24:16,818
+All because I finally have my Jayson back.
+
+1437
+01:24:30,098 --> 01:24:31,433
+Mom, can you feed me?
+
+1438
+01:24:32,567 --> 01:24:34,135
+Of course I can.
+
+1439
+01:24:44,112 --> 01:24:46,614
+Come here. I-- Oh!
+
+1440
+01:24:46,681 --> 01:24:49,217
+[tense music]
+
+1441
+01:25:13,374 --> 01:25:18,146
+Mikey, you are grounded when I find you. Do you hear me?
+
+1442
+01:25:31,860 --> 01:25:34,395
+[door creaks]
+
+1443
+01:25:38,133 --> 01:25:40,668
+[suspenseful music]
+
+1444
+01:26:15,870 --> 01:26:18,406
+[music continues]
+
+1445
+01:26:39,394 --> 01:26:41,996
+[indistinct chatter]
+
+1446
+01:26:43,865 --> 01:26:45,934
+Mikey!
+
+1447
+01:26:46,000 --> 01:26:47,902
+[indistinct chatter]
+
+1448
+01:26:58,980 --> 01:27:01,382
+[groans]
+
+1449
+01:27:01,449 --> 01:27:03,985
+[panting]
+
+1450
+01:27:20,201 --> 01:27:22,370
+Greg! Greg!
+
+1451
+01:27:23,204 --> 01:27:24,639
+-Greg! -Mike!
+
+1452
+01:27:26,107 --> 01:27:27,709
+It's Veronica. [panting]
+
+1453
+01:27:27,775 --> 01:27:29,644
+She's holding me hostage. I saw a kid...
+
+1454
+01:27:29,711 --> 01:27:30,878
+Wait, wait, wait. Hold on, son.
+
+1455
+01:27:30,945 --> 01:27:31,946
+What did Veronica do?
+
+1456
+01:27:32,013 --> 01:27:33,548
+We gotta go to the police, all right?
+
+1457
+01:27:33,615 --> 01:27:36,384
+She killed Richie. She killed Gia.
+
+1458
+01:27:36,451 --> 01:27:38,052
+And now she's trying to kidnap me.
+
+1459
+01:27:38,119 --> 01:27:39,988
+[panting continues]
+
+1460
+01:27:40,054 --> 01:27:41,656
+Oh, God.
+
+1461
+01:27:42,991 --> 01:27:45,793
+Come on, son. Let's get you home.
+
+1462
+01:27:45,860 --> 01:27:47,762
+Get your ass here.
+
+1463
+01:28:02,043 --> 01:28:04,045
+[groans softly]
+
+1464
+01:28:07,849 --> 01:28:10,985
+I'm sorry it had to come to this, Mikey.
+
+1465
+01:28:11,052 --> 01:28:12,487
+But we had no choice.
+
+1466
+01:28:13,588 --> 01:28:15,490
+You were the answer to my prayers.
+
+1467
+01:28:16,391 --> 01:28:18,159
+It'll all be over soon.
+
+1468
+01:28:18,226 --> 01:28:20,862
+I told you we needed each other.
+
+1469
+01:28:20,928 --> 01:28:24,732
+You needed Mom and I need my son,
+
+1470
+01:28:24,799 --> 01:28:26,034
+my Jayson.
+
+1471
+01:28:26,100 --> 01:28:28,736
+[panting]
+
+1472
+01:28:28,803 --> 01:28:31,472
+And because of your wonderful gift...
+
+1473
+01:28:34,509 --> 01:28:36,544
+I can have him.
+
+1474
+01:28:38,179 --> 01:28:39,914
+So Jayson died too?
+
+1475
+01:28:39,981 --> 01:28:41,916
+I read articles about the crash but nothing mentions him.
+
+1476
+01:28:41,983 --> 01:28:44,352
+[Andrew] There are no records of him online anywhere.
+
+1477
+01:28:44,419 --> 01:28:46,921
+It's as if he just doesn't exist anymore.
+
+1478
+01:28:46,988 --> 01:28:49,157
+Can you save him?
+
+1479
+01:28:49,223 --> 01:28:50,625
+He's gonna need a new heart.
+
+1480
+01:28:50,692 --> 01:28:52,093
+There was just too much damage.
+
+1481
+01:28:52,160 --> 01:28:55,763
+But he's O-negative, which is a very rare blood type.
+
+1482
+01:28:55,830 --> 01:28:57,598
+[Veronica] He showed me this app he's creating,
+
+1483
+01:28:57,665 --> 01:28:59,701
+and he put his blood type as O-negative.
+
+1484
+01:28:59,767 --> 01:29:01,436
+I'm gonna stay here and clean up.
+
+1485
+01:29:01,502 --> 01:29:03,071
+[dramatic music]
+
+1486
+01:29:05,406 --> 01:29:07,508
+[Greg] I confirmed Mike's blood type is O-negative.
+
+1487
+01:29:07,575 --> 01:29:08,876
+But I'll need to run a few more tests
+
+1488
+01:29:08,943 --> 01:29:11,045
+to make sure he's suitable.
+
+1489
+01:29:11,112 --> 01:29:13,081
+Can you find a way to get him to the hospital?
+
+1490
+01:29:15,817 --> 01:29:17,785
+I need you to do me a favor.
+
+1491
+01:29:22,523 --> 01:29:24,659
+[Greg] He's a perfect match.
+
+1492
+01:29:32,100 --> 01:29:34,602
+I'm sorry, Mike.
+
+1493
+01:29:34,669 --> 01:29:37,572
+But when I found out you could save my son's life,
+
+1494
+01:29:37,638 --> 01:29:40,241
+I did what I needed to do.
+
+1495
+01:29:40,308 --> 01:29:42,543
+I'm a mother,
+
+1496
+01:29:42,610 --> 01:29:44,078
+and I told you,
+
+1497
+01:29:44,145 --> 01:29:47,382
+a mother will do anything to be with her child.
+
+1498
+01:29:47,448 --> 01:29:49,751
+[sobs]
+
+1499
+01:29:52,787 --> 01:29:55,523
+[breathing heavily]
+
+1500
+01:30:00,027 --> 01:30:02,930
+Wait, wait, no, wait, please, wait!
+
+1501
+01:30:04,465 --> 01:30:07,001
+[muffled groaning]
+
+1502
+01:30:28,122 --> 01:30:29,757
+[Sharon] It's been a little minute.
+
+1503
+01:30:29,824 --> 01:30:33,494
+[Veronica] I know, but things have been going so well.
+
+1504
+01:30:33,561 --> 01:30:37,432
+And I can't thank you enough for your advice.
+
+1505
+01:30:37,498 --> 01:30:39,167
+You helped me realize
+
+1506
+01:30:39,233 --> 01:30:42,503
+what I needed to do to get back to myself.
+
+1507
+01:30:42,570 --> 01:30:44,939
+Well, you are an amazing woman, Veronica.
+
+1508
+01:30:45,006 --> 01:30:46,641
+People are lucky to know you.
+
+1509
+01:30:46,707 --> 01:30:49,043
+No, I'm the lucky one.
+
+1510
+01:30:55,016 --> 01:30:56,117
+Sorry, mama.
+
+1511
+01:30:56,184 --> 01:30:57,618
+Am I late?
+
+1512
+01:30:57,685 --> 01:30:59,854
+Not at all, my sunshine.
+
+1513
+01:31:02,690 --> 01:31:04,992
+Well, you must be Jayson.
+
+1514
+01:31:05,059 --> 01:31:07,428
+Your mother has spoken so highly of you,
+
+1515
+01:31:07,495 --> 01:31:09,397
+I feel like I already know you.
+
+1516
+01:31:09,464 --> 01:31:10,965
+It's nice to finally meet you.
+
+1517
+01:31:11,032 --> 01:31:12,133
+You, too.
+
+1518
+01:31:13,534 --> 01:31:14,735
+[Sharon] Well, I won't keep you.
+
+1519
+01:31:14,802 --> 01:31:16,237
+I know you have a plane to catch.
+
+1520
+01:31:16,304 --> 01:31:20,274
+So you two have fun and safe time in Aruba.
+
+1521
+01:31:20,341 --> 01:31:23,110
+Oh, and get a slice of Kesio for me, please.
+
+1522
+01:31:23,177 --> 01:31:25,179
+[Veronica] Oh, no, Jayson can't have that.
+
+1523
+01:31:25,246 --> 01:31:28,049
+Dairy products don't really agree with him,
+
+1524
+01:31:28,115 --> 01:31:31,686
+but we'll certainly enjoy the food, that's for sure.
+
+1525
+01:31:34,021 --> 01:31:36,757
+I've been praying for this moment with you.
+
+1526
+01:31:38,526 --> 01:31:41,028
+And now I'm never letting you go.
+
+1527
+01:31:47,335 --> 01:31:50,471
+♪ I'm screaming ♪
+
+1528
+01:31:50,538 --> 01:31:54,108
+♪ But no one's listening ♪
+
+1529
+01:31:54,175 --> 01:32:00,781
+♪ Can't believe what I've been witnessing ♪
+
+1530
+01:32:02,450 --> 01:32:07,221
+♪ It's a cruel world ♪
+
+1531
+01:32:09,657 --> 01:32:15,296
+♪ It's a cruel world ♪
+
+1532
+01:32:16,664 --> 01:32:19,667
+♪ But who deserves it? ♪
+
+1533
+01:32:19,734 --> 01:32:21,869
+♪ Do I deserve it? ♪
+
+1534
+01:32:23,371 --> 01:32:25,306
+♪ Do I deserve it? ♪
+
+1535
+01:32:26,974 --> 01:32:29,110
+♪ Do I deserve it? ♪
+
+1536
+01:32:30,645 --> 01:32:31,913
+♪ Do I deserve it? ♪
+
+1537
+01:32:31,979 --> 01:32:34,849
+♪ I'm screaming ♪
+
+1538
+01:32:34,916 --> 01:32:38,419
+♪ But no one's listening ♪
+
+1539
+01:32:38,486 --> 01:32:44,859
+♪ I Can't believe what I've been witnessing ♪
+
+1540
+01:32:46,160 --> 01:32:50,698
+♪ I'm so lost in this paradise ♪
+
+1541
+01:32:51,899 --> 01:32:55,870
+♪ It's my own little oasis ♪
+
+1542
+01:32:58,005 --> 01:33:02,777
+♪ I'm so lost in this paradise ♪
+
+1543
+01:33:02,843 --> 01:33:09,116
+♪ 'Cause I got it how I want it now ♪
+
+1544
+01:33:09,183 --> 01:33:12,853
+♪ I'm never gonna get away from love ♪
+
+1545
+01:33:15,456 --> 01:33:20,227
+♪ I feel so close to you like it's my time ♪
+
+1546
+01:33:22,096 --> 01:33:25,399
+♪ Kiss me away ♪
+
+1547
+01:33:25,466 --> 01:33:27,868
+♪ Kiss me away ♪
+
+1548
+01:33:27,935 --> 01:33:32,907
+♪ I wanna stay right there, baby ♪
+
+1549
+01:33:33,874 --> 01:33:36,844
+♪ Kiss me away ♪
+
+1550
+01:33:36,911 --> 01:33:39,847
+♪ Twist me away ♪
+
+1551
+01:33:39,914 --> 01:33:44,151
+♪ I'll know you'll stay right here for me ♪
+
