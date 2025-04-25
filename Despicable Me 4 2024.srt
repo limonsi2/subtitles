@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Error>
+	<Code>InvalidObjectState</Code>
+	<Message>The operation is not valid for the object storage class.</Message>
+	<Resource>/hitv/Despicable-Me-4-46712-453178-S1-E0-en.srt</Resource>
+	<RequestId>NjczMmUwZDZfM2RiN2YwMDlfMmJkNWFfMjNiMjQzNw==</RequestId>
+	<TraceId>OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODc0OWRkZjk0ZDM1NmI1M2E2MTRlY2MzZDhmNmI5MWI1OWVjYTU1YTQxYjIzY2EyNTc2ZmY2NzFlOWU4NzBkOTFlODIyYTgyNWY0YWQ4OTJjMzM3ZDVlNWRiM2VlOGQyY2I=</TraceId>
+</Error>
+
